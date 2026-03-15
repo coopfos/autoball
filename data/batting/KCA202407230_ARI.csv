@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,5.0,1.0,1.0,0.0,0.0,3.0,5.0,0.209,0.298,0.334,0.632,16.0,13.0,0.015,0.45,0.035,-0.02,0.01%,0.42,-0.4,2.0,0.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,3.0,3.0,2.0,2.0,1.0,1.0,4.0,0.294,0.364,0.521,0.885,14.0,8.0,0.155,0.74,0.173,-0.018,0.09%,0.68,2.9,6.0,3.0,HR
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Joc Pederson DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.273,0.376,0.492,0.867,14.0,7.0,0.049,0.7,0.072,-0.023,0.03%,0.65,0.2,0.0,0.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Christian Walker 1B,2.0,0.0,0.0,1.0,1.0,1.0,4.0,0.26,0.342,0.483,0.825,20.0,10.0,-0.029,0.7,0.01,-0.039,-0.02%,0.65,-0.7,7.0,1.0,SF
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.259,0.289,0.407,0.696,15.0,10.0,-0.046,0.86,0.012,-0.058,-0.03%,0.8,-0.5,0.0,0.0,SB
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Alek Thomas PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.22,0.258,0.441,0.699,,,0.0,,0.0,0.0,0%,,0.0,1.0,0.0,SB
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,4.0,0.0,1.0,2.0,0.0,1.0,4.0,0.249,0.338,0.367,0.705,17.0,12.0,0.118,0.69,0.144,-0.026,0.07%,0.65,0.9,5.0,0.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.212,0.295,0.363,0.657,20.0,15.0,-0.031,0.29,0.0,-0.031,-0.02%,0.27,-0.7,2.0,1.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Jake McCarthy CF-LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.274,0.361,0.388,0.749,21.0,16.0,-0.029,0.32,0.002,-0.032,-0.02%,0.29,0.1,3.0,0.0,3B
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.258,0.319,0.328,0.648,13.0,10.0,0.03,0.35,0.048,-0.018,0.02%,0.33,-0.3,1.0,4.0,2B
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Jordan Montgomery P,,,,,,,,,,,,,,,,,,,,,0.0,3.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Bryce Jarvis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Joe Mantiply P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Ryan Thompson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Kevin Ginkel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202407230,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407230.shtml,ArizonaDiamondbacksbatting,Team Totals,34.0,6.0,8.0,5.0,2.0,9.0,37.0,0.235,0.27,0.412,0.682,150.0,101.0,0.232,0.58,0.496,-0.265,0.13%,0.54,1.5,27.0,12.0,

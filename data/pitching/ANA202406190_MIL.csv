@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewerspitching,"Freddy Peralta, W (5-4)",6,3,0,0,2,8,0,4.06,23,101,60,32,17,11,7,6,1,0,72.0,,,0.391,1.47,0.27%,1.72,3.0
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewerspitching,"Bryan Hudson, H (11)",2,1,0,0,0,1,0,0.9,7,25,17,12,0,5,2,4,1,0,,0.0,0.0,0.195,1.6,0.14%,1.87,1.0
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewerspitching,"Trevor Megill, S (15)",1,0,0,0,0,1,0,2.01,3,7,6,3,2,1,0,2,0,0,,0.0,0.0,0.09,1.18,0.06%,1.38,0.5
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewerspitching,Team Totals,9,4,0,0,2,10,0,0.0,33,133,83,47,19,17,9,12,2,0,72.0,0.0,0.0,0.676,1.47,0.47%,1.72,4.4

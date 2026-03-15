@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Steven Kwan LF,3.0,1.0,2.0,0.0,0.0,0.0,3.0,0.367,0.424,0.5,0.924,11.0,7.0,0.038,0.82,0.06,-0.022,0.02%,0.79,0.2,0.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Johnathan Rodríguez PH-LF,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,9.0,6.0,-0.001,0.03,0.0,-0.001,-0.00%,0.03,-0.4,0.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,José Ramírez 3B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.348,0.429,0.957,1.385,9.0,4.0,0.096,1.21,0.112,-0.015,0.06%,1.17,0.8,0.0,2.0,IW
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Jhonkensy Noel RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.083,0.143,0.083,0.226,6.0,3.0,-0.002,0.07,0.0,-0.002,-0.00%,0.07,-0.2,1.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,3.0,2.0,2.0,2.0,1.0,0.0,4.0,0.29,0.343,0.452,0.794,17.0,8.0,0.144,0.93,0.145,-0.001,0.08%,0.9,2.0,7.0,1.0,HR
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.259,0.333,0.593,0.926,15.0,11.0,-0.144,1.45,0.003,-0.147,-0.08%,1.4,-0.8,0.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Nolan Jones RF-CF,4.0,0.0,0.0,1.0,0.0,3.0,4.0,0.143,0.217,0.238,0.455,16.0,13.0,-0.059,0.58,0.0,-0.059,-0.03%,0.56,-0.7,3.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Gabriel Arias 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.292,0.379,0.458,0.838,12.0,5.0,0.002,0.4,0.026,-0.024,0.00%,0.39,-0.4,1.0,2.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Daniel Schneemann CF-3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.083,0.267,0.333,0.6,14.0,8.0,-0.067,0.46,0.0,-0.067,-0.04%,0.44,-1.0,0.0,0.0,GDP
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Bo Naylor C,3.0,1.0,2.0,1.0,1.0,0.0,4.0,0.174,0.269,0.304,0.574,14.0,8.0,0.078,0.46,0.108,-0.03,0.04%,0.45,1.5,9.0,1.0,HR
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.208,0.269,0.25,0.519,12.0,9.0,-0.059,0.55,0.0,-0.059,-0.03%,0.53,-1.5,2.0,2.0,GDP
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Tanner Bibee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Triston McKenzie P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Joey Cantillo P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ANA202504050,CLE,https://www.baseball-reference.com/boxes/ANA/ANA202504050.shtml,ClevelandGuardiansbatting,Team Totals,33.0,4.0,7.0,4.0,4.0,7.0,37.0,0.212,0.297,0.394,0.691,135.0,82.0,0.026,0.69,0.454,-0.427,0.01%,0.67,-0.4,24.0,8.0,

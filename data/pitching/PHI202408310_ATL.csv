@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202408310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202408310.shtml,AtlantaBravespitching,"Max Fried, L (8-8)",7,5,3,3,4,4,2,3.52,28,103,63,38,10,15,11,9,4,0,55.0,,,0.005,0.71,0.00%,1.04,0.5
+PHI202408310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202408310.shtml,AtlantaBravespitching,Jesse Chavez,1,0,0,0,0,1,0,3.34,3,8,7,4,1,2,0,2,0,0,,0.0,0.0,0.006,0.08,0.01%,0.12,0.5
+PHI202408310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202408310.shtml,AtlantaBravespitching,Team Totals,8,5,3,3,4,5,2,3.38,31,111,70,42,11,17,11,11,4,0,55.0,0.0,0.0,0.011,0.65,0.01%,0.95,1.0

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202504040,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504040.shtml,LosAngelesDodgerspitching,"Yoshinobu Yamamoto, L (1-1)",6.0,3,1,0,3,5,0,1.69,22,97,58,32,11,15,10,4,3,0,66.0,,,0.183,0.81,0.12%,0.92,2.1
+PHI202504040,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504040.shtml,LosAngelesDodgerspitching,Kirby Yates,0.2,2,2,2,1,1,0,3.86,5,18,8,5,1,2,2,1,1,0,,0.0,0.0,-0.149,1.01,-0.10%,1.15,-1.8
+PHI202504040,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504040.shtml,LosAngelesDodgerspitching,Luis García,1.1,0,0,0,1,1,0,4.26,5,10,6,3,0,3,2,1,1,0,,1.0,0.0,0.017,0.26,0.01%,0.29,0.9
+PHI202504040,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504040.shtml,LosAngelesDodgerspitching,Team Totals,8.0,5,3,2,5,7,0,2.25,32,125,72,40,12,20,14,6,5,0,66.0,1.0,0.0,0.051,0.74,0.03%,0.84,1.2

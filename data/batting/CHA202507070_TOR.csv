@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Nathan Lukes CF-RF,3.0,1.0,1.0,2.0,1.0,0.0,5.0,0.271,0.371,0.392,0.763,15.0,7.0,0.113,0.41,0.136,-0.023,0.09%,0.52,0.6,6.0,0.0,"HR,SH"
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,George Springer DH,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.276,0.368,0.503,0.872,17.0,14.0,-0.058,0.44,0.0,-0.058,-0.04%,0.56,-1.1,0.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,2.0,1.0,0.0,0.0,3.0,0.0,5.0,0.277,0.384,0.44,0.824,22.0,7.0,0.08,0.64,0.09,-0.01,0.06%,0.81,0.6,6.0,1.0,SB
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Bo Bichette SS,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.272,0.311,0.429,0.74,18.0,12.0,0.113,0.64,0.139,-0.026,0.09%,0.82,0.6,1.0,1.0,2B
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Addison Barger RF-3B,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.269,0.328,0.515,0.843,12.0,10.0,0.026,0.9,0.091,-0.065,0.02%,1.14,0.6,1.0,0.0,HR
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.3,0.358,0.41,0.768,15.0,10.0,-0.041,0.59,0.01,-0.051,-0.03%,0.76,-0.2,6.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Will Wagner 3B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.195,0.295,0.247,0.542,5.0,3.0,-0.039,0.71,0.0,-0.039,-0.03%,0.9,-0.3,1.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Myles Straw PH-CF,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.252,0.29,0.321,0.611,12.0,5.0,0.014,0.21,0.014,0.0,0.01%,0.28,0.5,3.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Ernie Clement 2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.296,0.338,0.394,0.731,13.0,8.0,-0.04,0.69,0.018,-0.058,-0.03%,0.88,0.1,0.0,3.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Joey Loperfido LF,4.0,1.0,2.0,3.0,0.0,1.0,4.0,0.429,0.429,0.857,1.286,11.0,8.0,0.152,0.52,0.171,-0.019,0.12%,0.67,2.2,2.0,0.0,HR
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,José Berríos P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Robinson Piña P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Nick Sandlin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Chad Green P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202507070,TOR,https://www.baseball-reference.com/boxes/CHA/CHA202507070.shtml,TorontoBlueJaysbatting,Team Totals,34.0,8.0,8.0,8.0,5.0,4.0,40.0,0.235,0.333,0.529,0.863,140.0,84.0,0.32,0.58,0.669,-0.349,0.24%,0.74,3.5,27.0,5.0,

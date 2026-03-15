@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.329,0.39,0.453,0.843,15.0,11.0,-0.037,0.42,0.004,-0.04,-0.03%,0.49,-0.1,2.0,0.0,SB
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.263,0.344,0.513,0.857,14.0,9.0,-0.047,0.62,0.0,-0.047,-0.03%,0.72,-0.5,2.0,1.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Will Wilson PH-2B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.174,0.269,0.174,0.443,6.0,3.0,-0.009,0.37,0.0,-0.009,-0.01%,0.42,-0.8,1.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,José Ramírez 3B,2.0,2.0,1.0,0.0,2.0,0.0,4.0,0.289,0.356,0.472,0.828,21.0,12.0,0.112,0.69,0.122,-0.01,0.08%,0.79,1.6,0.0,1.0,"3·SB,IW"
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,2.0,1.0,0.0,1.0,2.0,1.0,4.0,0.223,0.323,0.331,0.654,18.0,8.0,-0.003,0.84,0.034,-0.037,-0.00%,0.96,0.6,5.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.218,0.315,0.476,0.791,22.0,15.0,-0.039,0.91,0.046,-0.085,-0.03%,1.03,-0.6,0.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Bo Naylor C,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.189,0.284,0.379,0.663,17.0,8.0,-0.009,0.91,0.026,-0.035,-0.01%,1.04,-0.5,8.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,4.0,0.0,2.0,3.0,0.0,2.0,4.0,0.271,0.324,0.426,0.75,14.0,10.0,0.246,1.12,0.274,-0.028,0.17%,1.28,2.4,3.0,3.0,2B
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Nolan Jones CF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.152,0.271,0.283,0.554,6.0,4.0,-0.041,0.78,0.0,-0.041,-0.03%,0.89,-0.5,5.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Angel Martínez PH-CF,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.3,0.319,0.411,0.73,15.0,9.0,0.009,0.12,0.01,-0.001,0.01%,0.14,0.6,0.0,0.0,SB
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Will Brennan RF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.0,3.0,-0.026,0.54,0.0,-0.026,-0.02%,0.61,-0.4,1.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Jhonkensy Noel PH-RF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.16,0.19,0.267,0.457,8.0,7.0,-0.004,0.09,0.0,-0.004,-0.00%,0.1,-0.6,0.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Ben Lively P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Jakob Junis P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Kolby Allard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202505120,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202505120.shtml,ClevelandGuardiansbatting,Team Totals,30.0,5.0,6.0,5.0,6.0,10.0,36.0,0.2,0.333,0.233,0.567,163.0,99.0,0.152,0.68,0.516,-0.363,0.10%,0.77,1.1,27.0,6.0,

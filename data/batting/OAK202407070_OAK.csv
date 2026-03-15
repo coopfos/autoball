@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,JJ Bleday CF,4.0,1.0,0.0,1.0,1.0,0.0,5.0,0.234,0.316,0.422,0.737,13.0,8.0,-0.033,0.86,0.021,-0.053,0%,0.01,0.0,4.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Miguel Andujar LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.296,0.325,0.408,0.733,12.0,9.0,-0.091,0.89,0.0,-0.091,-0.00%,0.01,-1.0,3.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Brent Rooker DH,3.0,1.0,1.0,0.0,0.0,1.0,4.0,0.278,0.353,0.537,0.891,11.0,6.0,-0.011,0.7,0.037,-0.048,0%,0.0,0.3,0.0,0.0,HBP
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Tyler Soderstrom 1B,3.0,0.0,2.0,1.0,1.0,0.0,4.0,0.22,0.311,0.411,0.722,19.0,10.0,0.151,0.91,0.167,-0.016,0.00%,0.01,1.8,7.0,0.0,2B
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Shea Langeliers C,3.0,0.0,0.0,1.0,0.0,3.0,4.0,0.205,0.254,0.44,0.695,17.0,12.0,-0.12,1.39,0.0,-0.12,-0.00%,0.01,-0.9,6.0,1.0,SF
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.203,0.265,0.359,0.625,22.0,12.0,-0.073,1.03,0.022,-0.096,0%,0.01,-0.5,1.0,1.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Lawrence Butler RF,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.19,0.265,0.307,0.572,14.0,10.0,0.008,1.05,0.066,-0.058,0%,0.01,-0.2,5.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Brett Harris 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.172,0.308,0.359,0.667,8.0,6.0,0.071,0.96,0.1,-0.029,0%,0.01,0.2,0.0,3.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Kyle McCann PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.287,0.386,0.46,0.846,5.0,3.0,-0.012,0.46,0.0,-0.012,0%,0.0,-0.1,0.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Max Schuemann SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.235,0.326,0.347,0.673,16.0,11.0,-0.097,0.99,0.01,-0.107,-0.00%,0.01,-0.9,1.0,2.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Mitch Spence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Scott Alexander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Lucas Erceg P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Osvaldo Bido P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202407070,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202407070.shtml,OaklandAthleticsbatting,Team Totals,33.0,3.0,7.0,3.0,2.0,13.0,37.0,0.212,0.27,0.242,0.513,137.0,87.0,-0.207,0.96,0.423,-0.63,-0.00%,0.01,-1.2,27.0,7.0,

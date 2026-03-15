@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Steven Kwan LF,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.32,0.381,0.442,0.823,16.0,9.0,-0.059,0.92,0.023,-0.082,-0.04%,1.01,-0.3,1.0,0.0,
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Nolan Jones CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.16,0.27,0.28,0.55,18.0,11.0,-0.076,0.76,0.0,-0.076,-0.05%,0.84,-0.8,1.0,0.0,
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,José Ramírez 3B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.294,0.36,0.523,0.883,11.0,10.0,0.027,0.71,0.086,-0.06,0.02%,0.79,0.3,0.0,2.0,HR
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.222,0.312,0.504,0.816,13.0,8.0,-0.053,0.81,0.021,-0.074,-0.03%,0.9,-0.2,0.0,0.0,2B
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.221,0.329,0.324,0.654,24.0,15.0,-0.03,1.28,0.077,-0.107,-0.02%,1.42,1.1,8.0,0.0,
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.264,0.343,0.484,0.827,17.0,10.0,0.012,1.18,0.079,-0.067,0.01%,1.3,0.3,1.0,2.0,
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,2.0,0.0,0.0,0.0,1.0,1.0,4.0,0.259,0.314,0.403,0.717,16.0,9.0,-0.087,1.51,0.03,-0.117,-0.06%,1.67,-0.4,0.0,2.0,SH
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Bo Naylor C,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.188,0.291,0.396,0.687,9.0,8.0,0.009,1.32,0.085,-0.077,0.01%,1.46,0.3,8.0,0.0,HR
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Will Brennan RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.111,0.0,0.111,10.0,6.0,-0.117,1.25,0.0,-0.117,-0.08%,1.38,-1.2,4.0,1.0,GDP
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Tanner Bibee P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Matt Festa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505160,CLE,https://www.baseball-reference.com/boxes/CIN/CIN202505160.shtml,ClevelandGuardiansbatting,Team Totals,30.0,4.0,5.0,4.0,3.0,5.0,34.0,0.167,0.242,0.4,0.642,134.0,86.0,-0.374,1.07,0.401,-0.777,-0.25%,1.18,-0.8,24.0,7.0,

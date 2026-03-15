@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+KCA202506100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202506100.shtml,NewYorkYankeespitching,"Max Fried, W (9-1)",7.0,6,2,2,0,4,1,1.84,27,91,61,43,9,9,13,10,4,0,61.0,,,0.138,0.63,0.11%,0.83,1.4
+KCA202506100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202506100.shtml,NewYorkYankeespitching,Yerry De los Santos,1.2,3,0,0,2,1,0,2.16,10,40,24,14,2,8,3,4,0,0,,0.0,0.0,0.002,0.03,0.00%,0.04,0.2
+KCA202506100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202506100.shtml,NewYorkYankeespitching,Tim Hill,0.1,0,0,0,0,0,0,2.86,1,6,3,3,0,0,0,1,0,0,,3.0,0.0,0.0,0.02,0.00%,0.03,0.8
+KCA202506100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202506100.shtml,NewYorkYankeespitching,Team Totals,9.0,9,2,2,2,5,1,2.0,38,137,88,60,11,17,16,15,4,0,61.0,3.0,0.0,0.14,0.45,0.11%,0.6,2.4

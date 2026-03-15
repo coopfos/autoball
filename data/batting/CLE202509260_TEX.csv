@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Joc Pederson DH,4.0,2.0,2.0,0.0,1.0,1.0,5.0,0.182,0.286,0.33,0.616,26.0,14.0,0.047,0.63,0.073,-0.026,0%,0.0,1.0,0.0,0.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Cody Freeman 2B,5.0,1.0,3.0,2.0,0.0,1.0,5.0,0.236,0.268,0.358,0.626,18.0,12.0,0.097,0.85,0.127,-0.03,0%,0.0,1.9,0.0,2.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Josh Jung 3B,5.0,0.0,1.0,0.0,0.0,3.0,5.0,0.249,0.291,0.386,0.677,22.0,16.0,-0.053,0.64,0.019,-0.072,0%,0.0,-1.4,0.0,2.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Rowdy Tellez 1B,2.0,1.0,1.0,1.0,0.0,1.0,2.0,0.227,0.275,0.434,0.709,10.0,6.0,0.115,1.43,0.137,-0.022,0%,0.0,1.2,5.0,0.0,2B
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Jake Burger PH-1B,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.236,0.268,0.422,0.689,6.0,5.0,0.01,0.37,0.029,-0.018,0%,0.0,0.4,4.0,0.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Ezequiel Duran SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.228,0.271,0.294,0.566,7.0,6.0,-0.105,0.68,0.0,-0.105,0%,0.0,-1.7,2.0,1.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Alejandro Osuna LF,4.0,1.0,1.0,3.0,0.0,0.0,4.0,0.211,0.314,0.272,0.586,13.0,9.0,0.178,0.71,0.207,-0.028,0%,0.0,1.9,1.0,0.0,HR
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Jonah Heim C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.215,0.274,0.336,0.61,16.0,11.0,-0.003,0.34,0.019,-0.022,0%,0.0,-0.2,10.0,1.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Billy McKinney RF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.235,0.278,0.294,0.572,21.0,13.0,-0.016,0.52,0.016,-0.032,0%,0.0,-0.3,2.0,0.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Michael Helman CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.239,0.293,0.467,0.76,12.0,8.0,-0.018,0.56,0.023,-0.04,0%,0.0,-0.3,3.0,0.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Jack Leiter P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Shawn Armstrong P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Phil Maton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509260,TEX,https://www.baseball-reference.com/boxes/CLE/CLE202509260.shtml,TexasRangersbatting,Team Totals,39.0,7.0,12.0,7.0,1.0,9.0,40.0,0.308,0.325,0.41,0.735,151.0,100.0,0.252,0.65,0.65,-0.395,0.00%,0.0,2.5,27.0,7.0,

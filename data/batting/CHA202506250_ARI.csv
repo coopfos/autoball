@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,5.0,1.0,1.0,0.0,0.0,3.0,5.0,0.259,0.353,0.407,0.759,28.0,17.0,0.028,0.88,0.1,-0.072,0.02%,0.79,-0.0,2.0,1.0,"SB,CS"
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.313,0.416,0.596,1.012,15.0,9.0,-0.103,1.1,0.0,-0.103,-0.06%,0.98,-1.0,2.0,5.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Pavin Smith DH,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.273,0.388,0.475,0.863,17.0,12.0,-0.022,0.92,0.048,-0.07,-0.01%,0.82,-0.0,0.0,0.0,2B
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Josh Naylor 1B,3.0,1.0,2.0,2.0,1.0,0.0,4.0,0.307,0.363,0.479,0.842,12.0,5.0,0.229,1.15,0.243,-0.014,0.12%,1.03,2.3,8.0,2.0,HR
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.257,0.303,0.42,0.723,9.0,9.0,-0.058,1.25,0.028,-0.086,-0.03%,1.11,-0.1,0.0,0.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Jake McCarthy RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.082,0.164,0.102,0.266,12.0,11.0,-0.072,1.21,0.044,-0.116,-0.04%,1.08,-0.7,2.0,0.0,GDP
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,James McCann C,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.333,0.5,0.333,0.833,17.0,10.0,-0.071,1.0,0.035,-0.106,-0.04%,0.89,-0.3,2.0,1.0,GDP
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.246,0.296,0.353,0.649,17.0,8.0,-0.047,0.98,0.028,-0.075,-0.03%,0.88,-0.5,5.0,0.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Tim Tawa 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.214,0.28,0.386,0.666,13.0,8.0,-0.085,0.79,0.0,-0.085,-0.05%,0.7,-1.0,0.0,3.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Zac Gallen P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Juan Morillo P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Kevin Ginkel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Tayler Scott P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+CHA202506250,ARI,https://www.baseball-reference.com/boxes/CHA/CHA202506250.shtml,ArizonaDiamondbacksbatting,Team Totals,34.0,3.0,9.0,3.0,3.0,9.0,37.0,0.265,0.324,0.382,0.707,140.0,89.0,-0.201,1.01,0.526,-0.727,-0.11%,0.9,-1.4,24.0,14.0,

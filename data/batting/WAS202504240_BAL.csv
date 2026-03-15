@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.295,0.433,0.59,1.023,21.0,14.0,0.08,1.09,0.151,-0.071,0.03%,0.78,0.3,4.0,0.0,SB
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.205,0.3,0.364,0.664,13.0,9.0,-0.097,0.9,0.0,-0.097,-0.04%,0.65,-0.9,6.0,0.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.203,0.247,0.377,0.623,14.0,7.0,-0.056,0.94,0.006,-0.062,-0.02%,0.68,-0.4,0.0,4.0,IW
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.23,0.278,0.324,0.603,23.0,15.0,-0.041,1.02,0.038,-0.079,-0.02%,0.73,-0.3,14.0,0.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.193,0.247,0.386,0.633,11.0,9.0,0.019,0.79,0.059,-0.04,0.01%,0.57,0.2,1.0,2.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Heston Kjerstad LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.228,0.274,0.421,0.695,19.0,11.0,-0.123,1.18,0.0,-0.123,-0.05%,0.85,-1.2,2.0,0.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Ramón Laureano RF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.207,0.233,0.552,0.785,11.0,8.0,-0.013,1.0,0.059,-0.072,-0.01%,0.72,-0.3,0.0,0.0,2B
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Ryan O'Hearn DH,3.0,1.0,1.0,1.0,0.0,2.0,3.0,0.283,0.358,0.483,0.842,14.0,10.0,0.089,1.35,0.145,-0.056,0.04%,0.97,0.5,0.0,0.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Jorge Mateo 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.053,0.053,0.105,0.158,9.0,7.0,-0.073,1.36,0.0,-0.073,-0.03%,0.97,-0.6,0.0,1.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Jackson Holliday PH-2B,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.234,0.31,0.375,0.685,1.0,0.0,0.052,1.11,0.052,0.0,0.02%,0.8,0.5,0.0,2.0,"SB,HBP"
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Cade Povich P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Félix Bautista P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolesbatting,Team Totals,31.0,2.0,4.0,2.0,2.0,13.0,34.0,0.129,0.206,0.161,0.367,136.0,90.0,-0.163,1.04,0.51,-0.673,-0.07%,0.75,-2.3,27.0,10.0,

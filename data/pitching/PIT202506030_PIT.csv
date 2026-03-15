@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202506030,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506030.shtml,PittsburghPiratespitching,"Paul Skenes, L (4-6)",8.0,3,1,1,1,8,1,2.05,27,99,68,36,19,13,9,9,2,0,79.0,,,0.266,0.99,0.01%,0.08,3.0
+PIT202506030,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506030.shtml,PittsburghPiratespitching,Dennis Santana,0.1,2,2,2,0,0,1,2.19,4,14,11,8,0,3,2,2,0,0,,0.0,0.0,-0.129,0.5,-0.01%,0.04,-2.0
+PIT202506030,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506030.shtml,PittsburghPiratespitching,Kyle Nicolas,0.2,0,0,0,0,0,0,9.72,2,2,2,2,0,0,0,2,1,0,,1.0,0.0,0.008,0.16,0.00%,0.01,0.5
+PIT202506030,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506030.shtml,PittsburghPiratespitching,Team Totals,9.0,5,3,3,1,8,2,3.0,33,115,81,46,19,16,11,13,3,0,79.0,1.0,0.0,0.145,0.88,0.01%,0.07,1.5

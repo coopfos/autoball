@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,1.0,2.0,0.0,1.0,0.0,5.0,0.241,0.316,0.352,0.668,23.0,13.0,0.057,0.45,0.058,-0.001,0.00%,0.03,0.8,11.0,0.0,HBP
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Keston Hiura 2B,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.375,0.375,0.375,0.75,13.0,10.0,0.098,0.87,0.158,-0.06,0.00%,0.06,-0.1,0.0,2.0,CS
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Taylor Ward LF,3.0,2.0,1.0,0.0,2.0,0.0,5.0,0.237,0.322,0.421,0.743,29.0,11.0,0.107,0.57,0.109,-0.002,0.01%,0.04,1.1,1.0,0.0,
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Willie Calhoun DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.273,0.339,0.388,0.727,23.0,16.0,0.027,0.73,0.093,-0.066,0.00%,0.05,1.3,0.0,0.0,
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,1.0,2.0,2.0,0.0,1.0,5.0,0.279,0.331,0.473,0.804,18.0,11.0,0.14,0.8,0.15,-0.01,0.01%,0.06,1.3,12.0,0.0,"2B,HBP,GDP"
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.193,0.243,0.302,0.545,13.0,12.0,-0.13,0.68,0.002,-0.132,-0.01%,0.05,-2.1,2.0,0.0,
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Zach Neto SS,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.243,0.292,0.419,0.711,17.0,9.0,0.03,0.41,0.056,-0.025,0.00%,0.03,0.4,0.0,2.0,2·SB
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Luis Guillorme 3B,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.253,0.321,0.337,0.658,17.0,9.0,-0.012,0.21,0.005,-0.017,-0.00%,0.02,-0.1,0.0,6.0,SB
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Jo Adell RF,4.0,2.0,1.0,1.0,1.0,1.0,5.0,0.185,0.25,0.395,0.645,29.0,16.0,0.004,0.19,0.027,-0.023,0%,0.01,-0.1,1.0,0.0,HR
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Ben Joyce P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202407060,LAA,https://www.baseball-reference.com/boxes/CHN/CHN202407060.shtml,LosAngelesAngelsbatting,Team Totals,37.0,7.0,12.0,5.0,6.0,3.0,45.0,0.324,0.444,0.432,0.877,182.0,107.0,0.321,0.56,0.658,-0.336,0.01%,0.04,2.6,27.0,10.0,

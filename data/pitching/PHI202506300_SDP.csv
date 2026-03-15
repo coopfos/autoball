@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadrespitching,"Matt Waldron, L (0-1)",4.2,6,4,4,6,3,1,7.71,25,104,57,35,6,16,8,8,4,0,33.0,,,-0.153,0.86,-0.11%,1.03,-1.6
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadrespitching,Wandy Peralta,1.1,0,0,0,0,2,0,3.68,4,11,9,3,2,4,1,1,0,0,,1.0,0.0,0.017,0.19,0.01%,0.24,0.8
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadrespitching,David Morgan,2.0,0,0,0,0,0,0,2.08,6,26,16,9,2,5,2,3,0,0,,0.0,0.0,0.01,0.11,0.01%,0.14,1.0
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadrespitching,Team Totals,8.0,6,4,4,6,5,1,4.5,35,141,82,47,10,25,11,12,4,0,33.0,1.0,0.0,-0.126,0.67,-0.09%,0.8,0.2

@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,0.0,2.0,0.0,1.0,1.0,5.0,0.266,0.321,0.462,0.783,18.0,10.0,0.017,0.32,0.045,-0.028,0.00%,0.08,0.4,0.0,1.0,2B
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.272,0.358,0.396,0.754,14.0,11.0,0.008,0.47,0.051,-0.043,0.00%,0.12,1.0,5.0,0.0,"HR,GDP"
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Mike Trout DH,2.0,1.0,0.0,0.0,2.0,1.0,4.0,0.238,0.362,0.461,0.823,21.0,10.0,0.008,0.65,0.042,-0.034,0.00%,0.17,0.3,0.0,0.0,
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Taylor Ward LF,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.234,0.312,0.485,0.797,22.0,13.0,0.015,1.0,0.07,-0.055,0.00%,0.27,0.5,2.0,0.0,
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Jo Adell RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.229,0.296,0.472,0.768,17.0,10.0,-0.113,0.94,0.0,-0.113,-0.02%,0.25,-2.2,3.0,0.0,GDP
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B,4.0,2.0,2.0,2.0,0.0,1.0,4.0,0.252,0.296,0.353,0.649,12.0,8.0,-0.036,0.57,0.018,-0.054,-0.01%,0.15,1.4,2.0,3.0,"HR,2B"
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.234,0.275,0.423,0.698,12.0,9.0,-0.025,0.56,0.025,-0.05,-0.00%,0.15,0.3,4.0,0.0,
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Christian Moore 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.178,0.299,0.342,0.641,18.0,11.0,-0.038,0.35,0.0,-0.038,-0.01%,0.09,-0.8,2.0,1.0,
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Bryce Teodosio CF,3.0,1.0,0.0,0.0,0.0,1.0,4.0,0.294,0.333,0.353,0.686,11.0,6.0,-0.026,0.34,0.006,-0.031,-0.00%,0.09,-0.4,6.0,0.0,HBP
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Jack Kochanowicz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Carson Fulmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508100,LAA,https://www.baseball-reference.com/boxes/DET/DET202508100.shtml,LosAngelesAngelsbatting,Team Totals,32.0,5.0,7.0,5.0,5.0,7.0,38.0,0.219,0.342,0.469,0.811,145.0,88.0,-0.19,0.57,0.257,-0.446,-0.03%,0.15,0.5,24.0,5.0,

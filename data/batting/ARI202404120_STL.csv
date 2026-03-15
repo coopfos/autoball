@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Brendan Donovan DH,4.0,2.0,3.0,1.0,0.0,1.0,5.0,0.298,0.414,0.553,0.967,22.0,12.0,0.174,0.61,0.178,-0.004,0.10%,0.56,1.2,0.0,0.0,"3B,SF"
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Paul Goldschmidt 1B,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.188,0.304,0.25,0.554,27.0,17.0,0.115,1.03,0.156,-0.041,0.06%,0.95,-0.2,8.0,1.0,GDP
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Nolan Gorman 2B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.212,0.293,0.423,0.716,15.0,12.0,-0.1,0.71,0.005,-0.105,-0.06%,0.66,-1.2,2.0,4.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,5.0,1.0,3.0,3.0,0.0,1.0,5.0,0.276,0.295,0.379,0.674,22.0,17.0,0.236,0.69,0.248,-0.012,0.13%,0.63,2.6,0.0,2.0,HR
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Willson Contreras C,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.233,0.395,0.467,0.861,18.0,13.0,-0.039,0.61,0.026,-0.065,-0.02%,0.56,-0.6,9.0,0.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Lars Nootbaar LF,4.0,1.0,1.0,2.0,1.0,1.0,5.0,0.25,0.4,1.0,1.4,21.0,12.0,0.002,0.75,0.077,-0.075,0.00%,0.69,1.2,3.0,0.0,HR
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Jordan Walker RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.171,0.239,0.268,0.507,13.0,9.0,0.002,0.58,0.044,-0.042,0.00%,0.53,-0.1,1.0,1.0,2B
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Michael Siani PR-RF,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.125,0.3,0.375,0.675,4.0,2.0,-0.011,0.42,0.0,-0.011,-0.01%,0.39,-0.8,0.0,0.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Masyn Winn SS,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.333,0.341,0.462,0.803,21.0,15.0,0.131,0.64,0.151,-0.019,0.07%,0.59,1.4,4.0,2.0,3B
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Victor Scott II CF,3.0,0.0,1.0,1.0,0.0,0.0,4.0,0.106,0.17,0.17,0.34,6.0,6.0,0.039,0.86,0.082,-0.043,0.02%,0.79,0.8,0.0,0.0,"2B,SF"
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Steven Matz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Giovanny Gallegos P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,JoJo Romero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Andrew Kittredge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Ryan Helsley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202404120,STL,https://www.baseball-reference.com/boxes/ARI/ARI202404120.shtml,StLouisCardinalsbatting,Team Totals,38.0,9.0,14.0,9.0,3.0,8.0,43.0,0.368,0.395,0.684,1.08,169.0,115.0,0.549,0.72,0.967,-0.417,0.30%,0.66,4.4,27.0,12.0,

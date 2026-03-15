@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.267,0.344,0.465,0.809,19.0,10.0,0.019,0.7,0.069,-0.05,0.04%,2.33,1.0,2.0,2.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Juan Soto RF,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.265,0.396,0.528,0.924,27.0,12.0,-0.054,0.62,0.004,-0.058,-0.11%,2.04,-0.1,1.0,0.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,2.0,2.0,2.0,1.0,2.0,5.0,0.273,0.348,0.526,0.873,25.0,13.0,0.229,0.69,0.249,-0.02,0.46%,2.27,1.7,13.0,1.0,"HR,2B"
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,0.0,1.0,0.0,1.0,3.0,5.0,0.262,0.325,0.437,0.762,25.0,13.0,0.012,0.7,0.061,-0.049,0.02%,2.32,0.3,5.0,0.0,SB
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Starling Marte DH,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.27,0.335,0.41,0.745,19.0,13.0,-0.121,0.65,0.0,-0.121,-0.24%,2.14,-2.4,0.0,0.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.246,0.338,0.415,0.753,13.0,11.0,0.019,0.84,0.088,-0.069,0.04%,2.8,0.1,0.0,5.0,2B
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Luisangel Acuña 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.234,0.293,0.274,0.567,,,,,,,,,,0.0,2.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Francisco Alvarez C,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.26,0.344,0.455,0.799,15.0,9.0,-0.024,0.48,0.015,-0.039,-0.05%,1.61,-0.1,5.0,0.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Ronny Mauricio 3B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.229,0.289,0.373,0.662,20.0,13.0,-0.025,0.47,0.014,-0.039,-0.05%,1.54,-0.4,0.0,1.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Tyrone Taylor CF,3.0,1.0,1.0,0.0,0.0,1.0,4.0,0.221,0.278,0.318,0.596,11.0,10.0,-0.025,0.39,0.009,-0.034,-0.05%,1.28,0.2,0.0,0.0,SH
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Brooks Raley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202509270,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202509270.shtml,NewYorkMetsbatting,Team Totals,34.0,5.0,8.0,4.0,6.0,15.0,41.0,0.235,0.35,0.382,0.732,174.0,104.0,0.03,0.63,0.509,-0.479,0.06%,2.1,0.3,27.0,14.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgerspitching,"Yoshinobu Yamamoto, W (3-1)",7,5,0,0,0,10,0,0.93,25,102,68,37,19,12,8,7,5,0,77.0,,,0.483,1.15,0.31%,1.22,3.2
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgerspitching,"Kirby Yates, H (5)",1,0,0,0,0,2,0,1.74,3,11,7,4,2,1,1,0,0,0,,0.0,0.0,0.133,1.81,0.08%,1.93,0.5
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgerspitching,"Tanner Scott, S (7)",1,2,0,0,0,0,0,2.45,4,17,13,11,0,2,2,2,2,0,,0.0,0.0,0.035,1.54,0.02%,1.64,0.5
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgerspitching,Team Totals,9,7,0,0,0,12,0,0.0,32,130,88,52,21,15,11,9,7,0,77.0,0.0,0.0,0.651,1.26,0.42%,1.34,4.1

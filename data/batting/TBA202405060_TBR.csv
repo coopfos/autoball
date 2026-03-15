@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Yandy Díaz 1B,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.234,0.297,0.298,0.595,20.0,12.0,-0.058,0.62,0.003,-0.061,-0.03%,0.45,-0.9,4.0,0.0,
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Randy Arozarena LF,3.0,0.0,1.0,0.0,2.0,1.0,5.0,0.147,0.247,0.287,0.533,23.0,13.0,0.059,0.56,0.102,-0.043,0.03%,0.4,0.9,4.0,0.0,"2B,SB"
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Josh Lowe RF,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.4,0.4,0.6,1.0,22.0,13.0,-0.042,0.49,0.027,-0.069,-0.02%,0.36,-1.0,1.0,0.0,2B
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Isaac Paredes 3B,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.285,0.373,0.488,0.861,22.0,12.0,-0.043,0.62,0.01,-0.053,-0.02%,0.45,-1.4,0.0,0.0,
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Amed Rosario 2B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.308,0.325,0.433,0.759,19.0,13.0,0.021,0.67,0.088,-0.067,0.01%,0.49,-0.1,3.0,2.0,3B
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Harold Ramírez DH,4.0,3.0,4.0,1.0,0.0,0.0,4.0,0.286,0.301,0.336,0.637,8.0,7.0,0.184,0.9,0.184,0.0,0.08%,0.65,2.4,0.0,0.0,"2B,SB"
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,José Caballero SS,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.265,0.323,0.389,0.712,11.0,7.0,0.057,0.82,0.083,-0.027,0.03%,0.6,1.1,1.0,4.0,SB
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Ben Rortvedt C,3.0,2.0,1.0,1.0,1.0,0.0,4.0,0.35,0.443,0.4,0.843,13.0,6.0,0.048,0.86,0.083,-0.035,0.02%,0.63,0.5,11.0,0.0,
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Jonny DeLuca CF,4.0,1.0,2.0,4.0,0.0,0.0,4.0,0.333,0.375,0.667,1.042,11.0,10.0,0.16,0.98,0.19,-0.03,0.07%,0.72,2.6,3.0,0.0,HR
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Tyler Alexander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Erasmo Ramírez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Edwin Uceta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202405060,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202405060.shtml,TampaBayRaysbatting,Team Totals,36.0,8.0,13.0,7.0,5.0,3.0,41.0,0.361,0.439,0.583,1.022,149.0,93.0,0.386,0.7,0.77,-0.385,0.17%,0.51,4.2,27.0,6.0,

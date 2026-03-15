@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202506030,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202506030.shtml,MilwaukeeBrewerspitching,"Freddy Peralta, L (5-4)",6.0,7,3,3,3,9,1,2.92,27,103,68,34,18,16,4,11,5,0,52.0,,,-0.083,1.31,-0.06%,1.49,-0.3
+CIN202506030,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202506030.shtml,MilwaukeeBrewerspitching,Rob Zastryzny,0.2,0,0,0,1,0,0,0.0,3,10,6,4,0,2,1,1,1,0,,2.0,1.0,0.026,1.81,0.02%,2.05,0.6
+CIN202506030,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202506030.shtml,MilwaukeeBrewerspitching,Grant Anderson,1.1,1,1,1,1,1,1,2.93,6,25,16,8,4,4,1,3,1,0,,2.0,0.0,-0.019,0.51,-0.01%,0.57,-0.0
+CIN202506030,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202506030.shtml,MilwaukeeBrewerspitching,Team Totals,8.0,8,4,4,5,10,2,4.5,36,138,90,46,22,22,6,15,7,0,52.0,4.0,1.0,-0.076,1.22,-0.05%,1.38,0.3

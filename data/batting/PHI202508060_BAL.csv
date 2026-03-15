@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.254,0.3,0.397,0.697,16.0,10.0,-0.022,0.56,0.04,-0.062,0%,0.03,-0.3,3.0,5.0,CS
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.272,0.319,0.476,0.795,14.0,9.0,-0.04,0.39,0.0,-0.04,-0.00%,0.02,-0.7,1.0,2.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.283,0.352,0.459,0.811,7.0,6.0,0.021,0.48,0.043,-0.021,0.00%,0.03,-0.1,2.0,4.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Adley Rutschman DH,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.238,0.322,0.39,0.712,14.0,9.0,0.094,0.73,0.101,-0.008,0.00%,0.04,0.7,0.0,0.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Jeremiah Jackson RF,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.278,0.316,0.333,0.649,7.0,5.0,0.102,1.37,0.149,-0.047,0.00%,0.08,0.9,1.0,0.0,2B
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Vidal Bruján CF,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.239,0.25,0.304,0.554,2.0,2.0,0.002,0.05,0.002,0.0,0%,0.0,0.1,0.0,0.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Coby Mayo 1B,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.221,0.296,0.377,0.673,11.0,8.0,0.094,0.76,0.128,-0.034,0.00%,0.04,1.2,7.0,0.0,HR
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Colton Cowser LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.213,0.279,0.401,0.68,12.0,8.0,-0.002,0.47,0.037,-0.04,0%,0.03,-0.7,1.0,0.0,"2B,GDP"
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Dylan Carlson CF-RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.192,0.237,0.301,0.539,12.0,7.0,-0.08,0.69,0.0,-0.08,-0.00%,0.04,-1.2,0.0,0.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Alex Jackson C,3.0,1.0,1.0,0.0,0.0,2.0,4.0,0.237,0.293,0.632,0.924,20.0,12.0,-0.003,0.37,0.024,-0.027,0%,0.02,0.2,12.0,0.0,"2B,HBP"
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Trevor Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Dietrich Enns P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Keegan Akin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202508060,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508060.shtml,BaltimoreOriolesbatting,Team Totals,35.0,5.0,10.0,5.0,0.0,4.0,36.0,0.286,0.306,0.457,0.763,115.0,76.0,0.166,0.61,0.524,-0.359,0.01%,0.03,0.2,27.0,11.0,

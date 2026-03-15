@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Taylor Ward LF,3.0,1.0,1.0,1.0,0.0,1.0,4.0,0.237,0.311,0.399,0.71,12.0,7.0,0.025,0.78,0.067,-0.042,0%,0.0,0.9,1.0,0.0,"HR,HBP"
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.256,0.322,0.453,0.775,15.0,11.0,-0.12,0.96,0.0,-0.12,0%,0.0,-1.0,1.0,2.0,GDP
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Kevin Pillar CF,4.0,0.0,0.0,0.0,0.0,4.0,4.0,0.259,0.312,0.42,0.732,18.0,14.0,-0.093,0.92,0.0,-0.093,0%,0.0,-0.7,3.0,1.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.227,0.313,0.273,0.586,19.0,10.0,-0.012,0.74,0.04,-0.052,0%,0.0,-0.2,0.0,1.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Matt Thaiss DH,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.259,0.377,0.389,0.766,10.0,5.0,-0.028,0.95,0.026,-0.054,0%,0.0,-0.1,0.0,0.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.251,0.309,0.42,0.73,15.0,11.0,-0.089,1.16,0.0,-0.089,0%,0.0,-0.7,12.0,0.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Jo Adell RF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.213,0.284,0.404,0.688,23.0,17.0,-0.034,1.0,0.021,-0.055,0%,0.0,-0.2,0.0,0.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.155,0.241,0.192,0.433,6.0,6.0,-0.078,1.04,0.0,-0.078,0%,0.0,-0.7,1.0,4.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Niko Kavadas 1B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.048,0.167,0.19,0.357,13.0,12.0,-0.068,0.9,0.0,-0.068,0%,0.0,-0.6,6.0,0.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Carson Fulmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Victor Mederos P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202408240,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408240.shtml,LosAngelesAngelsbatting,Team Totals,27.0,1.0,1.0,1.0,3.0,13.0,31.0,0.037,0.161,0.148,0.309,131.0,93.0,-0.497,0.93,0.154,-0.651,0.00%,0.0,-3.4,24.0,9.0,

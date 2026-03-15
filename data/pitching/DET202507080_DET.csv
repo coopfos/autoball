@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202507080,DET,https://www.baseball-reference.com/boxes/DET/DET202507080.shtml,DetroitTigerspitching,Jack Flaherty,6.1,7,2,2,1,8,1,4.7,26,93,65,34,15,16,5,12,6,0,58.0,,,0.065,1.0,0.03%,0.74,0.9
+DET202507080,DET,https://www.baseball-reference.com/boxes/DET/DET202507080.shtml,DetroitTigerspitching,"Tommy Kahnle, W (1-1)",0.2,0,0,0,0,0,0,2.84,2,10,6,4,0,2,1,1,0,0,,1.0,0.0,0.123,2.17,0.05%,1.59,0.7
+DET202507080,DET,https://www.baseball-reference.com/boxes/DET/DET202507080.shtml,DetroitTigerspitching,"Tyler Holton, H (10)",1.0,0,0,0,0,0,0,3.68,3,13,8,4,0,4,3,0,0,0,,0.0,0.0,0.075,0.99,0.03%,0.73,0.5
+DET202507080,DET,https://www.baseball-reference.com/boxes/DET/DET202507080.shtml,DetroitTigerspitching,"Will Vest, S (15)",1.0,1,0,0,0,3,0,2.14,4,13,10,5,2,3,1,0,0,0,,0.0,0.0,0.075,1.09,0.03%,0.8,0.5
+DET202507080,DET,https://www.baseball-reference.com/boxes/DET/DET202507080.shtml,DetroitTigerspitching,Team Totals,9.0,8,2,2,1,11,1,2.0,35,129,89,47,17,25,10,13,6,0,58.0,1.0,0.0,0.338,1.08,0.15%,0.79,2.6

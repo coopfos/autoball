@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202508040,SFG,https://www.baseball-reference.com/boxes/PIT/PIT202508040.shtml,SanFranciscoGiantspitching,Justin Verlander,5.0,3,1,0,1,4,0,4.29,20,100,60,32,11,17,8,7,3,0,62.0,,,0.189,1.16,0.06%,0.64,1.5
+PIT202508040,SFG,https://www.baseball-reference.com/boxes/PIT/PIT202508040.shtml,SanFranciscoGiantspitching,"Carson Seymour, H (1)",2.0,1,2,2,1,2,1,4.91,8,36,22,15,3,4,4,1,0,0,,0.0,0.0,-0.072,1.19,-0.02%,0.65,-1.0
+PIT202508040,SFG,https://www.baseball-reference.com/boxes/PIT/PIT202508040.shtml,SanFranciscoGiantspitching,"Spencer Bivens, H (3)",0.2,1,0,0,0,1,0,4.75,3,16,11,7,1,3,1,1,1,0,,0.0,0.0,0.074,2.56,0.02%,1.41,0.3
+PIT202508040,SFG,https://www.baseball-reference.com/boxes/PIT/PIT202508040.shtml,SanFranciscoGiantspitching,"Randy Rodríguez, BS (3), L (3-3)",0.2,1,2,2,1,1,0,1.54,5,32,20,11,2,7,1,1,1,0,,1.0,0.0,-0.728,4.64,-0.24%,2.56,-2.5
+PIT202508040,SFG,https://www.baseball-reference.com/boxes/PIT/PIT202508040.shtml,SanFranciscoGiantspitching,Team Totals,8.1,6,5,4,3,8,1,4.32,36,184,113,65,17,31,14,10,5,0,62.0,1.0,0.0,-0.537,1.9,-0.18%,1.05,-1.6

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202506290,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506290.shtml,BaltimoreOriolespitching,"Dean Kremer, W (7-7)",7,3,0,0,1,6,0,4.27,24,93,68,42,9,17,6,11,5,0,76.0,,,0.341,0.89,0.04%,0.16,3.3
+BAL202506290,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506290.shtml,BaltimoreOriolespitching,Keegan Akin,1,1,0,0,0,1,0,2.92,4,16,11,6,2,3,0,3,1,0,,0.0,0.0,0.011,0.21,0.00%,0.04,0.5
+BAL202506290,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506290.shtml,BaltimoreOriolespitching,Félix Bautista,1,1,1,1,1,3,1,2.83,5,24,13,4,5,4,0,1,0,0,,0.0,0.0,0.006,0.32,0.00%,0.06,-0.5
+BAL202506290,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506290.shtml,BaltimoreOriolespitching,Team Totals,9,5,1,1,2,10,1,1.0,33,133,92,52,16,24,6,15,6,0,76.0,0.0,0.0,0.358,0.73,0.04%,0.13,3.2

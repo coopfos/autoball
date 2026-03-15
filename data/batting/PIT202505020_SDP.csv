@@ -1,0 +1,22 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.345,0.419,0.602,1.02,10.0,5.0,0.049,0.67,0.049,0.0,0.03%,0.75,0.5,0.0,0.0,HBP
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Oscar González PR-RF,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.267,0.283,0.289,0.571,7.0,5.0,0.006,0.91,0.033,-0.027,0.00%,1.02,-0.1,0.0,1.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Brandon Lockridge LF,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.219,0.286,0.281,0.567,4.0,2.0,0.122,1.45,0.122,0.0,0.08%,1.63,1.1,1.0,0.0,SB
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Luis Arráez 1B,5.0,1.0,3.0,3.0,0.0,0.0,5.0,0.313,0.346,0.465,0.81,30.0,25.0,0.221,1.2,0.279,-0.058,0.15%,1.35,2.5,6.0,0.0,2B
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.278,0.339,0.417,0.756,13.0,8.0,0.036,1.06,0.137,-0.101,0.02%,1.19,0.5,1.0,2.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Gavin Sheets DH,5.0,1.0,3.0,2.0,0.0,2.0,5.0,0.281,0.343,0.461,0.804,22.0,13.0,0.155,0.77,0.184,-0.029,0.10%,0.86,1.0,0.0,0.0,HR
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Xander Bogaerts SS,4.0,2.0,1.0,0.0,1.0,1.0,5.0,0.243,0.333,0.346,0.679,18.0,12.0,0.011,0.9,0.077,-0.065,0.01%,1.01,0.2,4.0,2.0,SB
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Jose Iglesias 2B,4.0,0.0,0.0,0.0,0.0,0.0,5.0,0.263,0.325,0.316,0.641,18.0,13.0,-0.065,0.72,0.003,-0.068,-0.04%,0.81,-0.2,3.0,2.0,HBP
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Tyler Wade CF,4.0,1.0,2.0,1.0,0.0,1.0,5.0,0.31,0.42,0.381,0.801,21.0,15.0,0.025,0.78,0.094,-0.069,0.02%,0.87,-0.0,4.0,0.0,"CS,SH"
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Jason Heyward LF-RF,4.0,1.0,1.0,1.0,0.0,1.0,5.0,0.208,0.267,0.302,0.569,15.0,11.0,0.022,0.62,0.07,-0.049,0.01%,0.7,0.1,0.0,0.0,SF
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Martín Maldonado C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.217,0.234,0.304,0.538,7.0,5.0,-0.03,0.75,0.018,-0.048,-0.02%,0.84,-0.2,8.0,1.0,2B
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Elias Díaz PH-C,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.207,0.303,0.328,0.631,8.0,6.0,-0.071,0.99,0.0,-0.071,-0.05%,1.12,-1.1,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Dylan Cease P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Alek Jacob P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Yuki Matsui P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Ryan Bergert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202505020,SDP,https://www.baseball-reference.com/boxes/PIT/PIT202505020.shtml,SanDiegoPadresbatting,Team Totals,38.0,9.0,14.0,8.0,3.0,8.0,45.0,0.368,0.432,0.5,0.932,173.0,120.0,0.481,0.88,1.066,-0.585,0.33%,0.99,4.5,27.0,8.0,

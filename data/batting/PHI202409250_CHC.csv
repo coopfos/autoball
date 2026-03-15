@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.244,0.343,0.447,0.79,21.0,12.0,-0.024,0.71,0.042,-0.066,0%,0.0,-0.5,1.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.242,0.312,0.39,0.702,24.0,15.0,-0.038,0.65,0.025,-0.063,0%,0.0,0.6,0.0,0.0,2B
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Isaac Paredes 3B,5.0,1.0,4.0,0.0,0.0,0.0,5.0,0.239,0.348,0.396,0.744,23.0,14.0,0.117,0.75,0.13,-0.013,0%,0.0,0.9,0.0,3.0,SB
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Cody Bellinger 1B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.267,0.326,0.429,0.755,20.0,13.0,0.028,1.71,0.155,-0.127,0%,0.0,0.3,9.0,2.0,GDP
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Patrick Wisdom DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.174,0.241,0.4,0.641,14.0,10.0,-0.128,1.66,0.0,-0.128,0%,0.0,-1.3,0.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Mike Tauchman PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.249,0.356,0.367,0.723,7.0,4.0,-0.013,0.49,0.0,-0.013,0%,0.0,-0.2,0.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,2.0,2.0,4.0,0.0,0.0,4.0,0.274,0.337,0.374,0.711,19.0,14.0,0.264,0.77,0.271,-0.007,0%,0.0,3.5,3.0,2.0,2·HR
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.237,0.288,0.388,0.676,20.0,13.0,-0.065,0.73,0.0,-0.065,0%,0.0,-0.7,1.0,1.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Miguel Amaya C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.23,0.288,0.357,0.645,12.0,10.0,-0.064,0.6,0.0,-0.064,0%,0.0,-0.8,8.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Kevin Alcántara RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.25,0.5,7.0,7.0,-0.05,0.64,0.009,-0.059,0%,0.0,-0.3,0.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Javier Assad P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Keegan Thompson P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Ethan Roberts P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Nate Pearson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202409250,CHC,https://www.baseball-reference.com/boxes/PHI/PHI202409250.shtml,ChicagoCubsbatting,Team Totals,37.0,6.0,9.0,6.0,2.0,7.0,39.0,0.243,0.282,0.432,0.714,167.0,112.0,0.027,0.86,0.632,-0.605,0.00%,0.0,1.5,24.0,10.0,

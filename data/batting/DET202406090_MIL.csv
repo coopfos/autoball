@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B-SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.284,0.379,0.467,0.846,15.0,10.0,-0.051,0.51,0.0,-0.051,-0.04%,0.59,-0.8,1.0,3.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Rhys Hoskins DH,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.235,0.332,0.457,0.788,12.0,9.0,-0.025,0.36,0.001,-0.026,-0.02%,0.41,0.1,0.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Jake Bauers PH-DH-P,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.206,0.3,0.39,0.69,3.0,2.0,0.0,0.02,0.0,0.0,0%,0.02,-0.2,0.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Christian Yelich LF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.324,0.404,0.517,0.921,6.0,6.0,-0.036,0.72,0.0,-0.036,-0.03%,0.84,-0.3,1.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Sal Frelick PH-RF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.256,0.336,0.332,0.668,3.0,2.0,-0.002,0.04,0.0,-0.002,-0.00%,0.05,-0.9,0.0,0.0,GDP
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Willy Adames SS,1.0,0.0,1.0,0.0,1.0,0.0,2.0,0.243,0.325,0.418,0.743,8.0,4.0,0.068,0.81,0.068,0.0,0.05%,0.95,0.6,0.0,1.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Oliver Dunn PH-3B,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.231,0.286,0.33,0.615,6.0,3.0,0.0,0.01,0.0,0.0,0%,0.01,0.0,0.0,0.0,HBP
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Gary Sánchez C,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.216,0.293,0.424,0.717,18.0,12.0,0.009,0.74,0.045,-0.036,0.01%,0.86,0.2,5.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.255,0.329,0.388,0.717,13.0,9.0,-0.009,0.91,0.039,-0.048,-0.01%,1.06,-0.6,5.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Jackson Chourio RF-LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.217,0.257,0.344,0.601,14.0,11.0,-0.103,1.04,0.0,-0.104,-0.07%,1.21,-0.9,4.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Andruw Monasterio 1B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.147,0.256,0.265,0.521,12.0,6.0,-0.072,0.71,0.0,-0.072,-0.05%,0.82,0.1,7.0,0.0,2B
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.306,0.369,0.421,0.79,13.0,10.0,-0.043,0.44,0.001,-0.044,-0.03%,0.51,0.4,1.0,1.0,3B
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Bryse Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Hoby Milner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Elieser Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Kevin Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202406090,MIL,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,MilwaukeeBrewersbatting,Team Totals,33.0,2.0,7.0,2.0,2.0,11.0,36.0,0.212,0.278,0.303,0.581,123.0,84.0,-0.264,0.6,0.154,-0.419,-0.18%,0.7,-2.4,24.0,6.0,

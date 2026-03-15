@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.284,0.389,0.624,1.013,21.0,8.0,-0.019,0.39,0.014,-0.033,-0.02%,0.56,1.0,0.0,0.0,HR
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Mookie Betts SS-RF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.242,0.312,0.371,0.682,15.0,10.0,-0.01,0.56,0.028,-0.038,-0.01%,0.79,-0.1,2.0,2.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.303,0.376,0.487,0.863,10.0,6.0,-0.059,0.73,0.0,-0.059,-0.05%,1.04,-1.0,4.0,0.0,GDP
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Dalton Rushing 1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.187,0.257,0.253,0.51,1.0,1.0,-0.004,0.15,0.0,-0.004,-0.00%,0.21,-0.3,2.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Will Smith C,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.313,0.415,0.518,0.933,20.0,11.0,-0.008,0.35,0.017,-0.025,-0.01%,0.51,-0.1,8.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Max Muncy 3B,3.0,1.0,1.0,3.0,1.0,0.0,4.0,0.262,0.392,0.498,0.89,20.0,13.0,-0.02,0.52,0.03,-0.049,-0.02%,0.74,2.4,0.0,3.0,HR
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Andy Pages CF,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.278,0.32,0.462,0.782,13.0,10.0,-0.039,0.63,0.005,-0.045,-0.03%,0.9,-0.0,3.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Justin Dean CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Miguel Rojas PH-SS,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.239,0.298,0.392,0.69,3.0,3.0,-0.007,0.25,0.0,-0.007,-0.01%,0.36,-0.1,0.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.189,0.302,0.33,0.632,19.0,11.0,-0.038,0.55,0.011,-0.049,-0.03%,0.79,0.2,1.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Alex Freeland 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.2,0.333,0.2,0.533,20.0,12.0,-0.041,0.6,0.016,-0.056,-0.03%,0.85,-1.8,1.0,2.0,GDP
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Alex Call RF-CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.264,0.361,0.373,0.734,12.0,10.0,-0.05,0.46,0.0,-0.05,-0.04%,0.66,-0.7,3.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Yoshinobu Yamamoto P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Alexis Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Anthony Banda P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508110,LAD,https://www.baseball-reference.com/boxes/ANA/ANA202508110.shtml,LosAngelesDodgersbatting,Team Totals,32.0,4.0,7.0,4.0,4.0,10.0,36.0,0.219,0.306,0.406,0.712,154.0,95.0,-0.295,0.51,0.121,-0.415,-0.25%,0.72,-0.5,24.0,8.0,

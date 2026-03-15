@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202509020,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509020.shtml,MiamiMarlinspitching,"Adam Mazur, L (0-2)",6,10,5,4,0,5,1,5.74,29,90,66,40,13,13,10,14,6,0,39.0,,,-0.288,0.75,-0.01%,0.03,-2.1
+WAS202509020,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509020.shtml,MiamiMarlinspitching,Freddy Tarnok,2,0,0,0,1,4,0,2.45,8,35,22,11,5,6,1,2,1,0,,0.0,0.0,0.018,0.17,0.00%,0.01,1.0
+WAS202509020,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509020.shtml,MiamiMarlinspitching,Team Totals,8,10,5,4,1,9,1,4.5,37,125,88,51,18,19,11,16,7,0,39.0,0.0,0.0,-0.27,0.63,-0.01%,0.02,-1.1

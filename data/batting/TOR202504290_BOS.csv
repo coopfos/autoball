@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Jarren Duran LF,5.0,1.0,1.0,2.0,0.0,0.0,5.0,0.273,0.326,0.424,0.751,14.0,10.0,0.082,0.32,0.102,-0.02,0.06%,0.39,0.6,1.0,0.0,HR
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Rafael Devers DH,4.0,1.0,1.0,1.0,1.0,1.0,5.0,0.217,0.352,0.417,0.77,27.0,13.0,0.043,0.31,0.067,-0.024,0.03%,0.38,0.3,0.0,0.0,HR
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Alex Bregman 3B,5.0,3.0,3.0,1.0,0.0,1.0,5.0,0.331,0.401,0.57,0.972,18.0,13.0,0.101,0.25,0.109,-0.008,0.07%,0.3,1.4,1.0,4.0,HR
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Trevor Story SS,4.0,1.0,1.0,0.0,0.0,0.0,5.0,0.271,0.317,0.415,0.733,20.0,11.0,0.006,0.27,0.023,-0.017,0.00%,0.32,-0.0,0.0,3.0,HBP
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Wilyer Abreu RF,4.0,2.0,3.0,3.0,1.0,0.0,5.0,0.293,0.409,0.554,0.963,27.0,15.0,0.064,0.25,0.072,-0.008,0.05%,0.3,2.8,4.0,0.0,HR
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Kristian Campbell 2B,4.0,1.0,2.0,2.0,1.0,0.0,5.0,0.313,0.42,0.515,0.935,19.0,9.0,0.082,0.26,0.09,-0.008,0.06%,0.31,2.2,2.0,2.0,"HR,2B"
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Triston Casas 1B,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.185,0.279,0.315,0.594,15.0,8.0,0.003,0.22,0.023,-0.02,0.00%,0.26,-0.3,9.0,0.0,GDP
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,5.0,1.0,0.0,0.0,0.0,1.0,5.0,0.22,0.28,0.33,0.61,16.0,12.0,-0.027,0.23,0.0,-0.027,-0.02%,0.28,-1.4,2.0,0.0,
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Carlos Narváez C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.216,0.275,0.351,0.626,18.0,15.0,-0.02,0.29,0.005,-0.025,-0.01%,0.35,-0.0,8.0,1.0,
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Garrett Crochet P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Luis Guerrero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Brennan Bernardino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202504290,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202504290.shtml,BostonRedSoxbatting,Team Totals,40.0,10.0,14.0,10.0,3.0,5.0,44.0,0.35,0.409,0.75,1.159,174.0,106.0,0.334,0.27,0.491,-0.157,0.24%,0.32,5.5,27.0,10.0,

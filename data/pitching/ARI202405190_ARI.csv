@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ARI202405190,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,ArizonaDiamondbackspitching,Jordan Montgomery,6,5,4,4,2,3,1,4.98,24,92,59,37,7,15,9,10,3,0,47.0,,,-0.009,1.03,-0.00%,0.7,-0.3
+ARI202405190,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,ArizonaDiamondbackspitching,"Ryan Thompson, BS (2), W (2-1)",2,3,0,0,0,3,0,0.9,8,30,22,12,5,5,4,1,0,0,,1.0,1.0,0.042,2.54,0.02%,1.72,0.4
+ARI202405190,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,ArizonaDiamondbackspitching,"Paul Sewald, S (3)",1,0,0,0,0,1,0,1.8,3,10,9,3,2,4,0,2,0,0,,0.0,0.0,0.075,0.98,0.03%,0.67,0.5
+ARI202405190,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,ArizonaDiamondbackspitching,Team Totals,9,8,4,4,2,7,1,4.0,35,132,90,52,14,24,13,13,3,0,47.0,1.0,1.0,0.108,1.39,0.04%,0.94,0.6

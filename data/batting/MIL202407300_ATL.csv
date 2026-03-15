@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Jarred Kelenic CF,3.0,2.0,2.0,1.0,2.0,0.0,5.0,0.239,0.293,0.411,0.704,22.0,11.0,0.126,0.57,0.148,-0.022,0.10%,0.73,2.0,1.0,0.0,"HR,2B"
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Austin Riley 3B,5.0,1.0,4.0,1.0,0.0,0.0,5.0,0.259,0.326,0.452,0.777,13.0,11.0,0.111,0.57,0.114,-0.003,0.08%,0.73,1.7,1.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Marcell Ozuna DH,5.0,1.0,1.0,1.0,0.0,3.0,5.0,0.305,0.382,0.591,0.973,23.0,16.0,0.012,0.78,0.064,-0.053,0.01%,1.0,-1.1,0.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Matt Olson 1B,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.223,0.302,0.395,0.697,27.0,15.0,0.018,0.57,0.05,-0.032,0.01%,0.73,0.0,8.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Sean Murphy C,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.217,0.299,0.38,0.678,13.0,12.0,-0.082,0.64,0.005,-0.087,-0.06%,0.83,-0.7,9.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Eddie Rosario LF,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.182,0.221,0.332,0.553,12.0,8.0,0.104,0.81,0.13,-0.026,0.08%,1.04,1.0,1.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Adam Duvall PH-LF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.188,0.25,0.335,0.585,4.0,4.0,-0.002,0.09,0.0,-0.002,-0.00%,0.12,-0.4,1.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Orlando Arcia SS,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.224,0.263,0.354,0.617,18.0,13.0,-0.023,0.32,0.014,-0.037,-0.02%,0.41,-0.3,1.0,4.0,"2B,GDP"
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Ramón Laureano RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.185,0.261,0.323,0.583,14.0,10.0,-0.025,0.47,0.014,-0.039,-0.02%,0.6,-0.7,3.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Nacho Alvarez Jr. 2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.1,0.156,0.1,0.256,21.0,15.0,-0.012,0.41,0.028,-0.04,-0.01%,0.53,-1.1,2.0,2.0,GDP
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Bryce Elder P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,A.J. Minter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Joe Jiménez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Raisel Iglesias P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407300,ATL,https://www.baseball-reference.com/boxes/MIL/MIL202407300.shtml,AtlantaBravesbatting,Team Totals,39.0,5.0,14.0,5.0,4.0,9.0,43.0,0.359,0.419,0.487,0.906,167.0,115.0,0.227,0.56,0.567,-0.341,0.17%,0.72,0.4,27.0,7.0,

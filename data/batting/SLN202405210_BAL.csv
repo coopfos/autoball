@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.265,0.345,0.597,0.941,12.0,8.0,-0.128,1.22,0.0,-0.128,-0.09%,1.42,-1.0,0.0,3.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.297,0.335,0.481,0.816,17.0,12.0,-0.105,1.0,0.0,-0.105,-0.07%,1.16,-0.9,9.0,0.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Ryan O'Hearn DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.277,0.352,0.482,0.834,8.0,6.0,-0.102,1.01,0.0,-0.102,-0.07%,1.17,-0.7,0.0,0.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.288,0.343,0.509,0.852,19.0,11.0,-0.011,0.84,0.05,-0.061,-0.01%,0.98,-0.2,0.0,1.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Colton Cowser LF,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.266,0.363,0.5,0.863,12.0,9.0,-0.107,1.15,0.026,-0.133,-0.07%,1.34,-0.6,3.0,0.0,"HBP,GDP"
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.256,0.295,0.445,0.741,16.0,12.0,-0.022,1.14,0.04,-0.062,-0.01%,1.33,-0.3,9.0,2.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.186,0.237,0.336,0.573,8.0,6.0,-0.09,1.18,0.0,-0.09,-0.06%,1.38,-0.7,1.0,0.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Kyle Stowers RF,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.25,0.25,0.375,0.625,11.0,9.0,0.068,0.92,0.101,-0.033,0.05%,1.07,0.6,0.0,0.0,2B
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Jorge Mateo 2B,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.253,0.29,0.448,0.739,14.0,10.0,0.056,1.52,0.142,-0.086,0.04%,1.76,0.3,0.0,4.0,2B
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Kyle Bradish P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Jacob Webb P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Keegan Akin P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SLN202405210,BAL,https://www.baseball-reference.com/boxes/SLN/SLN202405210.shtml,BaltimoreOriolesbatting,Team Totals,30.0,1.0,3.0,1.0,1.0,8.0,32.0,0.1,0.156,0.167,0.323,117.0,83.0,-0.441,1.1,0.359,-0.8,-0.31%,1.28,-3.6,24.0,11.0,

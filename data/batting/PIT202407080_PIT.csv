@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.225,0.328,0.386,0.714,20.0,13.0,-0.006,0.75,0.042,-0.049,-0.00%,0.41,-0.3,0.0,0.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Bryan Reynolds LF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.278,0.343,0.479,0.823,15.0,8.0,-0.039,0.77,0.018,-0.057,-0.01%,0.42,-0.6,2.0,0.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Oneil Cruz SS,3.0,2.0,2.0,2.0,0.0,0.0,3.0,0.247,0.303,0.444,0.747,13.0,8.0,0.238,1.03,0.249,-0.011,0.08%,0.57,1.9,0.0,1.0,HR
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes PH-3B,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.233,0.292,0.302,0.594,1.0,1.0,0.001,0.02,0.001,0.0,0%,0.01,0.4,0.0,1.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Rowdy Tellez 1B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.244,0.298,0.378,0.676,18.0,14.0,0.122,1.03,0.158,-0.036,0.04%,0.57,0.2,12.0,1.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.274,0.311,0.421,0.732,11.0,6.0,0.187,0.63,0.212,-0.025,0.06%,0.35,3.1,2.0,8.0,2B
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Joshua Palacios RF,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.3,0.533,0.6,1.133,12.0,10.0,0.001,0.29,0.027,-0.026,0%,0.16,0.7,0.0,0.0,HR
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Jack Suwinski CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.181,0.261,0.324,0.585,14.0,10.0,-0.038,0.37,0.0,-0.038,-0.01%,0.21,-0.7,3.0,0.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Joey Bart C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.24,0.333,0.44,0.773,13.0,9.0,-0.027,0.36,0.0,-0.027,-0.01%,0.2,-0.5,6.0,0.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Jared Triolo 3B-SS,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.205,0.279,0.279,0.559,13.0,9.0,-0.044,0.61,0.002,-0.046,-0.01%,0.34,-0.1,1.0,2.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Mitch Keller P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Brent Honeywell Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202407080,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,PittsburghPiratesbatting,Team Totals,32.0,8.0,8.0,6.0,2.0,5.0,34.0,0.25,0.294,0.469,0.763,130.0,88.0,0.395,0.63,0.709,-0.315,0.13%,0.35,3.9,27.0,14.0,

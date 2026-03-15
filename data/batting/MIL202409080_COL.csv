@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Charlie Blackmon DH,5.0,0.0,3.0,0.0,0.0,0.0,5.0,0.252,0.322,0.393,0.715,15.0,11.0,-0.003,1.11,0.093,-0.095,0%,0.0,0.0,0.0,0.0,2B
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,1.0,0.0,0.0,0.0,5.0,0.268,0.293,0.465,0.758,12.0,8.0,0.064,0.86,0.121,-0.057,0%,0.0,0.1,0.0,2.0,"2B,HBP"
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.246,0.334,0.403,0.737,15.0,10.0,-0.225,1.09,0.0,-0.225,0%,0.0,-2.2,1.0,3.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Michael Toglia 1B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.221,0.311,0.478,0.788,19.0,13.0,-0.072,0.81,0.019,-0.091,0%,0.0,-0.7,10.0,0.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,5.0,1.0,3.0,0.0,0.0,0.0,5.0,0.274,0.316,0.417,0.733,15.0,10.0,0.085,0.69,0.114,-0.029,0%,0.0,0.5,0.0,1.0,2B
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Sam Hilliard CF,4.0,1.0,1.0,3.0,0.0,2.0,4.0,0.25,0.306,0.52,0.826,16.0,13.0,0.271,1.23,0.315,-0.044,0%,0.0,2.0,2.0,0.0,HR
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Jake Cave LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.259,0.296,0.402,0.698,18.0,12.0,-0.096,0.66,0.0,-0.096,0%,0.0,-1.0,5.0,0.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Hunter Goodman C,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.18,0.223,0.378,0.601,11.0,5.0,0.11,0.83,0.127,-0.017,0%,0.0,0.7,8.0,0.0,HR
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Jordan Beck RF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.203,0.26,0.283,0.543,14.0,8.0,-0.003,0.89,0.031,-0.034,0%,0.0,-0.0,1.0,0.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Kyle Freeland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Seth Halvorsen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Angel Chivilli P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202409080,COL,https://www.baseball-reference.com/boxes/MIL/MIL202409080.shtml,ColoradoRockiesbatting,Team Totals,38.0,4.0,12.0,4.0,2.0,6.0,41.0,0.316,0.366,0.553,0.918,135.0,90.0,0.131,0.91,0.82,-0.688,0.00%,0.0,-0.6,27.0,6.0,

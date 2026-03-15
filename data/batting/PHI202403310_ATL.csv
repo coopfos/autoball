@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,3.0,1.0,0.0,0.0,1.0,3.0,4.0,0.333,0.429,0.333,0.762,20.0,11.0,-0.06,1.12,0.036,-0.096,-0.04%,1.18,-0.4,1.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Ozzie Albies 2B,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.385,0.429,0.846,1.275,15.0,9.0,0.212,1.01,0.241,-0.028,0.13%,1.07,2.3,3.0,1.0,HR
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.231,0.286,0.385,0.67,14.0,11.0,0.097,1.02,0.126,-0.029,0.06%,1.08,0.6,1.0,2.0,2B
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.286,0.286,0.714,1.0,20.0,14.0,-0.201,1.77,0.0,-0.201,-0.13%,1.86,-1.3,4.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.143,0.143,0.357,0.5,13.0,10.0,-0.09,1.29,0.026,-0.117,-0.06%,1.36,-0.4,0.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Adam Duvall LF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.333,0.429,0.5,0.929,20.0,12.0,-0.02,1.36,0.084,-0.105,-0.01%,1.44,-0.0,5.0,1.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.462,0.5,0.769,1.269,15.0,12.0,-0.095,0.91,0.0,-0.095,-0.06%,0.95,-0.7,0.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Orlando Arcia SS,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.5,0.538,0.75,1.288,16.0,10.0,-0.059,0.78,0.0,-0.059,-0.04%,0.83,-0.5,1.0,4.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Chadwick Tromp C,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,8.0,5.0,-0.031,0.6,0.0,-0.031,-0.02%,0.64,-0.3,8.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Jarred Kelenic PH,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.714,0.75,0.857,1.607,8.0,6.0,0.061,0.97,0.061,0.0,0.04%,1.02,0.4,0.0,0.0,2B
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Travis d'Arnaud C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.167,0.286,0.333,0.619,,,,,,,,,,1.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Chris Sale P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Joe Jiménez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Aaron Bummer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,A.J. Minter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202403310,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202403310.shtml,AtlantaBravesbatting,Team Totals,33.0,4.0,7.0,4.0,1.0,14.0,34.0,0.212,0.235,0.364,0.599,149.0,100.0,-0.186,1.13,0.574,-0.761,-0.12%,1.19,-0.5,24.0,8.0,

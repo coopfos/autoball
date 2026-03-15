@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Steven Kwan LF,5.0,3.0,3.0,0.0,0.0,0.0,5.0,0.353,0.371,0.471,0.842,14.0,12.0,0.093,0.37,0.094,-0.001,0.06%,0.37,1.0,3.0,0.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,3.0,2.0,2.0,1.0,0.0,0.0,4.0,0.346,0.438,0.577,1.014,9.0,6.0,0.12,0.65,0.12,0.0,0.07%,0.66,2.2,1.0,1.0,"2B,HBP"
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,David Fry PH-3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.538,0.625,1.163,2.0,1.0,0.0,0.01,0.0,0.0,0%,0.01,-0.3,0.0,0.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,José Ramírez DH,4.0,2.0,2.0,2.0,1.0,0.0,5.0,0.273,0.294,0.485,0.779,22.0,12.0,0.141,0.6,0.162,-0.02,0.09%,0.61,2.4,0.0,0.0,2·2B
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,3.0,0.0,0.0,3.0,0.0,0.0,5.0,0.318,0.37,0.545,0.916,10.0,8.0,0.021,0.44,0.021,0.0,0.01%,0.44,-0.6,10.0,0.0,2·SF
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Will Brennan RF,5.0,0.0,2.0,2.0,0.0,0.0,5.0,0.286,0.348,0.286,0.634,15.0,11.0,0.052,0.4,0.063,-0.011,0.03%,0.41,0.7,4.0,0.0,"SB,GDP"
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Bo Naylor C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.235,0.35,0.412,0.762,14.0,10.0,0.022,0.24,0.029,-0.006,0.01%,0.25,0.2,8.0,0.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Gabriel Arias 3B-2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.154,0.154,0.154,0.308,13.0,10.0,-0.044,0.33,0.0,-0.044,-0.03%,0.33,-1.2,0.0,4.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Estevan Florial CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.182,0.308,0.364,0.671,12.0,10.0,-0.031,0.29,0.0,-0.031,-0.02%,0.29,-0.3,0.0,0.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.304,0.36,0.478,0.838,10.0,9.0,0.015,0.17,0.02,-0.005,0.01%,0.18,-0.1,1.0,4.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Logan Allen P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Nick Sandlin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404030,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202404030.shtml,ClevelandGuardiansbatting,Team Totals,37.0,8.0,11.0,8.0,1.0,4.0,41.0,0.297,0.317,0.378,0.695,121.0,89.0,0.389,0.39,0.509,-0.118,0.24%,0.39,4.0,27.0,11.0,

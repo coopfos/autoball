@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202504220,DET,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,DetroitTigerspitching,"Jack Flaherty, L (1-2)",6.0,5,2,2,0,9,1,2.63,24,96,66,29,17,20,7,8,3,0,63.0,,,0.044,0.72,0.03%,0.86,1.0
+DET202504220,DET,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,DetroitTigerspitching,Bailey Horn,1.1,1,0,0,0,2,0,0.0,5,16,13,5,4,4,1,2,1,0,,0.0,0.0,0.035,0.53,0.03%,0.63,0.5
+DET202504220,DET,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,DetroitTigerspitching,Chase Lee,1.2,0,0,0,2,1,0,0.0,7,26,14,8,3,3,1,2,1,0,,1.0,0.0,0.048,0.53,0.03%,0.63,1.0
+DET202504220,DET,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,DetroitTigerspitching,Team Totals,9.0,6,2,2,2,12,1,2.0,36,138,93,42,24,27,9,12,5,0,63.0,1.0,0.0,0.127,0.66,0.09%,0.79,2.6

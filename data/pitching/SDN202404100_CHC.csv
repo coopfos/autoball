@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202404100,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202404100.shtml,ChicagoCubspitching,"Kyle Hendricks, L (0-2)",5,9,7,7,0,2,2,12.08,23,83,60,45,2,13,12,9,6,0,23.0,,,-0.368,0.82,-0.23%,0.85,-4.5
+SDN202404100,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202404100.shtml,ChicagoCubspitching,Daniel Palencia,2,2,2,2,3,3,0,5.4,11,48,29,18,3,8,3,2,0,0,,0.0,0.0,-0.005,0.07,-0.00%,0.07,-1.0
+SDN202404100,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202404100.shtml,ChicagoCubspitching,José Cuas,1,1,1,1,1,2,0,12.0,6,25,16,9,5,2,0,2,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,-0.5
+SDN202404100,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202404100.shtml,ChicagoCubspitching,Team Totals,8,12,10,10,4,7,2,11.25,40,156,105,72,10,23,15,13,7,0,23.0,0.0,0.0,-0.373,0.5,-0.23%,0.53,-6.0

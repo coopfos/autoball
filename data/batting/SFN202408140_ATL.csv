@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Jorge Soler LF,2.0,1.0,0.0,0.0,0.0,0.0,3.0,0.244,0.339,0.438,0.776,14.0,9.0,0.024,0.45,0.036,-0.012,0.02%,0.67,0.1,0.0,0.0,HBP
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Jarred Kelenic LF,3.0,0.0,1.0,2.0,0.0,0.0,3.0,0.235,0.288,0.405,0.693,13.0,8.0,0.016,0.09,0.017,0.0,0.01%,0.13,0.4,2.0,0.0,"2B,GDP"
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,2.0,1.0,1.0,0.0,0.0,5.0,0.263,0.328,0.474,0.803,21.0,14.0,0.071,0.39,0.079,-0.008,0.06%,0.58,1.0,0.0,1.0,"HR,HBP"
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,1.0,0.0,0.0,1.0,3.0,5.0,0.299,0.371,0.582,0.952,26.0,13.0,-0.061,0.45,0.0,-0.061,-0.05%,0.66,-0.7,0.0,0.0,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,3.0,2.0,1.0,1.0,1.0,5.0,0.232,0.311,0.431,0.742,21.0,12.0,0.104,0.48,0.106,-0.002,0.09%,0.71,2.0,9.0,3.0,HR
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Orlando Arcia SS,3.0,1.0,1.0,1.0,2.0,0.0,5.0,0.23,0.276,0.358,0.634,16.0,8.0,0.083,0.59,0.091,-0.007,0.07%,0.87,1.6,2.0,1.0,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Michael Harris II CF,5.0,1.0,1.0,5.0,0.0,2.0,5.0,0.249,0.293,0.366,0.659,25.0,15.0,0.187,0.51,0.193,-0.007,0.17%,0.75,2.2,1.0,0.0,HR
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Ramón Laureano RF,4.0,2.0,2.0,1.0,1.0,1.0,5.0,0.216,0.282,0.372,0.654,16.0,9.0,-0.006,0.08,0.003,-0.008,-0.01%,0.12,0.9,5.0,0.0,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Sean Murphy C,4.0,1.0,1.0,2.0,1.0,0.0,5.0,0.226,0.31,0.4,0.71,19.0,10.0,-0.002,0.09,0.006,-0.008,-0.00%,0.13,0.8,6.0,1.0,HR
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Whit Merrifield 2B,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.208,0.304,0.299,0.603,19.0,9.0,-0.009,0.09,0.002,-0.011,-0.01%,0.13,0.5,0.0,2.0,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Grant Holmes P,,,,,,,,,,,,,,,,,,,,,2.0,1.0,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Luke Jackson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408140,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408140.shtml,AtlantaBravesbatting,Team Totals,37.0,13.0,11.0,13.0,7.0,7.0,46.0,0.297,0.435,0.649,1.083,190.0,107.0,0.407,0.33,0.533,-0.124,0.36%,0.48,8.8,27.0,9.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Colton Cowser CF,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.24,0.323,0.449,0.773,13.0,8.0,0.14,1.22,0.195,-0.055,0.11%,1.57,1.5,6.0,0.0,HR
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.263,0.331,0.425,0.756,21.0,14.0,-0.135,1.35,0.0,-0.135,-0.10%,1.74,-1.0,9.0,0.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Anthony Santander RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.243,0.309,0.524,0.834,18.0,11.0,-0.027,0.67,0.024,-0.051,-0.02%,0.86,-0.2,3.0,0.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Ryan Mountcastle DH,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.276,0.316,0.448,0.764,12.0,6.0,-0.001,0.81,0.062,-0.063,-0.00%,1.04,-0.1,0.0,0.0,GDP
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Ryan O'Hearn 1B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.276,0.348,0.464,0.812,11.0,8.0,0.026,1.0,0.1,-0.073,0.02%,1.29,0.3,4.0,1.0,2B
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Jordan Westburg SS,3.0,2.0,2.0,2.0,1.0,0.0,4.0,0.273,0.32,0.505,0.826,15.0,6.0,0.132,0.93,0.195,-0.063,0.10%,1.2,1.5,3.0,2.0,"HR,GDP"
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Heston Kjerstad LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.261,0.37,0.42,0.791,16.0,12.0,-0.108,1.16,0.0,-0.108,-0.08%,1.49,-1.1,0.0,0.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Ramón Urías 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.232,0.306,0.357,0.664,16.0,12.0,0.006,0.78,0.051,-0.045,0.01%,1.0,-0.3,1.0,1.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Connor Norby 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.188,0.188,0.406,0.594,11.0,9.0,-0.052,0.9,0.021,-0.073,-0.04%,1.15,-0.6,0.0,1.0,2B
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Cade Povich P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Jacob Webb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Cole Irvin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202407292,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202407292.shtml,BaltimoreOriolesbatting,Team Totals,34.0,4.0,9.0,4.0,2.0,7.0,36.0,0.265,0.306,0.5,0.806,133.0,86.0,-0.019,0.98,0.648,-0.666,-0.01%,1.26,-0.1,27.0,5.0,

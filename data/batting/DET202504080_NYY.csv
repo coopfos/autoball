@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,4.0,0.0,3.0,0.0,0.0,0.0,4.0,0.381,0.435,0.5,0.935,22.0,15.0,0.032,0.48,0.05,-0.018,0.02%,0.51,0.6,7.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Ben Rice DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.323,0.447,0.645,1.093,11.0,9.0,0.025,0.65,0.054,-0.03,0.02%,0.69,-0.0,0.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Aaron Judge RF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.341,0.431,0.818,1.25,18.0,12.0,-0.064,0.87,0.017,-0.081,-0.04%,0.93,-0.2,1.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.196,0.26,0.5,0.76,17.0,9.0,-0.073,0.94,0.0,-0.073,-0.05%,1.01,-1.1,0.0,3.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Anthony Volpe SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.25,0.327,0.591,0.917,16.0,9.0,-0.073,0.76,0.007,-0.08,-0.05%,0.8,-0.7,2.0,2.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.189,0.279,0.432,0.712,12.0,9.0,-0.06,0.56,0.0,-0.06,-0.04%,0.6,-1.6,9.0,0.0,GDP
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Jasson Domínguez LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.222,0.317,0.389,0.706,8.0,6.0,-0.03,0.39,0.0,-0.03,-0.02%,0.42,-0.4,1.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Trent Grisham CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.379,0.455,0.724,1.179,15.0,10.0,-0.024,0.31,0.0,-0.024,-0.02%,0.33,-0.5,2.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Oswald Peraza 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.286,0.286,0.643,0.929,8.0,5.0,-0.041,0.53,0.0,-0.041,-0.03%,0.57,-0.6,2.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Carlos Carrasco P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Ryan Yarbrough P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Ian Hamilton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202504080,NYY,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,NewYorkYankeesbatting,Team Totals,32.0,0.0,6.0,0.0,1.0,9.0,33.0,0.188,0.212,0.188,0.4,127.0,84.0,-0.308,0.63,0.128,-0.437,-0.20%,0.67,-4.6,24.0,6.0,

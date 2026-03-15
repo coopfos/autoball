@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Ben Rice DH,2.0,0.0,1.0,0.0,2.0,0.0,4.0,0.333,0.471,0.704,1.174,18.0,8.0,0.026,0.88,0.128,-0.102,0.02%,0.95,0.1,0.0,0.0,3B
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Aaron Judge RF,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.325,0.426,0.85,1.276,16.0,9.0,0.061,0.92,0.097,-0.037,0.04%,0.98,0.6,1.0,0.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Cody Bellinger LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.233,0.278,0.333,0.611,15.0,11.0,-0.104,1.05,0.003,-0.107,-0.07%,1.14,-0.8,0.0,0.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.342,0.405,0.474,0.878,16.0,11.0,-0.013,0.61,0.025,-0.038,-0.01%,0.66,-0.1,9.0,1.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.214,0.283,0.548,0.83,11.0,9.0,-0.041,0.74,0.025,-0.066,-0.03%,0.8,0.4,1.0,4.0,SB
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.268,0.333,0.634,0.967,10.0,7.0,-0.065,0.59,0.0,-0.065,-0.04%,0.64,-1.0,2.0,2.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.212,0.308,0.485,0.793,16.0,11.0,-0.021,0.61,0.027,-0.047,-0.01%,0.66,-0.2,10.0,0.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Trent Grisham CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.423,0.5,0.808,1.308,13.0,8.0,-0.014,0.57,0.026,-0.04,-0.01%,0.61,-0.4,1.0,0.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.261,0.32,0.261,0.581,19.0,14.0,-0.077,0.73,0.0,-0.077,-0.05%,0.79,-1.0,0.0,1.0,GDP
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,3.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Adam Ottavino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+DET202504070,NYY,https://www.baseball-reference.com/boxes/DET/DET202504070.shtml,NewYorkYankeesbatting,Team Totals,33.0,2.0,7.0,1.0,3.0,8.0,36.0,0.212,0.278,0.273,0.551,134.0,88.0,-0.248,0.75,0.331,-0.579,-0.16%,0.81,-2.4,24.0,13.0,

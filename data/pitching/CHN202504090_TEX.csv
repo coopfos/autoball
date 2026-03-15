@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202504090,TEX,https://www.baseball-reference.com/boxes/CHN/CHN202504090.shtml,TexasRangerspitching,"Tyler Mahle, W (2-0)",7.0,2,1,1,1,4,0,1.32,24,94,66,39,8,19,5,14,5,0,72.0,,,0.159,0.75,0.10%,0.78,2.2
+CHN202504090,TEX,https://www.baseball-reference.com/boxes/CHN/CHN202504090.shtml,TexasRangerspitching,Robert Garcia,1.1,1,1,1,0,1,0,2.84,5,20,15,9,1,5,2,2,1,0,,0.0,0.0,0.011,0.25,0.01%,0.26,0.0
+CHN202504090,TEX,https://www.baseball-reference.com/boxes/CHN/CHN202504090.shtml,TexasRangerspitching,Luke Jackson,0.2,1,0,0,0,0,0,4.5,3,7,4,3,1,0,0,3,1,0,,1.0,1.0,0.008,0.34,0.01%,0.35,-0.1
+CHN202504090,TEX,https://www.baseball-reference.com/boxes/CHN/CHN202504090.shtml,TexasRangerspitching,Team Totals,9.0,4,2,2,1,5,0,2.0,32,121,85,51,10,24,7,19,7,0,72.0,1.0,1.0,0.178,0.61,0.11%,0.64,2.1

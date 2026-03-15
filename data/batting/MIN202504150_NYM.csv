@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Francisco Lindor SS,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.234,0.288,0.344,0.631,22.0,15.0,-0.085,1.26,0.053,-0.139,-0.06%,1.45,-1.0,3.0,4.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Juan Soto RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.25,0.392,0.467,0.859,12.0,8.0,0.038,1.19,0.125,-0.087,0.03%,1.37,0.2,0.0,0.0,HR
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.356,0.466,0.729,1.195,9.0,7.0,0.069,0.92,0.136,-0.067,0.05%,1.05,0.9,10.0,0.0,"HR,2B"
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Starling Marte DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.167,0.278,0.3,0.578,12.0,11.0,-0.091,0.84,0.0,-0.091,-0.06%,0.97,-0.8,0.0,0.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Brandon Nimmo LF-CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.2,0.254,0.431,0.684,11.0,8.0,-0.081,0.77,0.0,-0.081,-0.06%,0.88,-0.9,2.0,0.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.145,0.254,0.21,0.463,14.0,11.0,0.018,0.8,0.065,-0.047,0.01%,0.92,0.2,1.0,2.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Luis Torrens C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.289,0.325,0.5,0.825,17.0,11.0,0.021,1.01,0.089,-0.068,0.01%,1.16,0.3,5.0,1.0,2B
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Tyrone Taylor CF,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.154,0.195,0.205,0.4,5.0,3.0,-0.004,0.72,0.018,-0.022,-0.00%,0.82,-0.1,1.0,1.0,HBP
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Jesse Winker PH-LF,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.167,0.235,0.333,0.569,10.0,8.0,-0.066,1.51,0.0,-0.066,-0.05%,1.74,-0.4,0.0,0.0,SF
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Luisangel Acuña 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.265,0.359,0.353,0.712,8.0,4.0,0.002,0.98,0.051,-0.048,0.00%,1.13,0.1,1.0,5.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Tylor Megill P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Max Kranick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Danny Young P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202504150,NYM,https://www.baseball-reference.com/boxes/MIN/MIN202504150.shtml,NewYorkMetsbatting,Team Totals,34.0,3.0,7.0,3.0,1.0,7.0,37.0,0.206,0.243,0.441,0.684,120.0,86.0,-0.179,1.0,0.537,-0.716,-0.12%,1.14,-1.5,24.0,13.0,

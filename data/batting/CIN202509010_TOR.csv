@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,George Springer DH,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.3,0.391,0.533,0.925,19.0,10.0,0.085,1.04,0.119,-0.034,0.07%,1.37,0.6,0.0,0.0,SB
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Addison Barger RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.249,0.3,0.461,0.761,21.0,14.0,-0.269,1.41,0.0,-0.269,-0.21%,1.86,-2.0,2.0,0.0,GDP
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Ty France 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.328,0.368,0.695,,,,,,,,,,0.0,0.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.287,0.383,0.476,0.859,18.0,9.0,0.049,1.37,0.115,-0.066,0.04%,1.81,-0.2,5.0,2.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Myles Straw PR-LF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.272,0.322,0.377,0.698,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Bo Bichette SS,4.0,2.0,4.0,2.0,0.0,0.0,4.0,0.31,0.354,0.478,0.832,14.0,8.0,0.671,1.73,0.671,0.0,0.53%,2.29,2.8,2.0,2.0,"HR,2·2B"
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Daulton Varsho CF,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.228,0.285,0.581,0.866,20.0,11.0,0.091,1.18,0.134,-0.043,0.07%,1.56,0.8,2.0,0.0,HR
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.295,0.36,0.42,0.779,12.0,9.0,0.031,1.49,0.129,-0.098,0.03%,1.97,-0.1,9.0,0.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Nathan Lukes LF-RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.256,0.33,0.406,0.736,9.0,8.0,-0.139,1.52,0.0,-0.139,-0.11%,2.02,-1.2,2.0,1.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Ernie Clement 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.273,0.308,0.392,0.7,19.0,10.0,-0.141,1.27,0.0,-0.141,-0.11%,1.69,-1.0,0.0,1.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Andrés Giménez 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.214,0.295,0.323,0.619,13.0,8.0,-0.108,1.37,0.0,-0.108,-0.09%,1.82,-0.7,2.0,1.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Chris Bassitt P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Yariel Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Tommy Nance P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Brendon Little P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJaysbatting,Team Totals,33.0,4.0,8.0,4.0,2.0,7.0,35.0,0.242,0.286,0.485,0.771,145.0,87.0,0.27,1.36,1.168,-0.898,0.21%,1.81,-1.0,25.0,7.0,

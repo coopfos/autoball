@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202405200,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MiamiMarlinspitching,Ryan Weathers,7.0,2,2,1,3,8,1,3.49,27,94,56,26,12,18,9,6,1,0,72.0,,,0.105,0.87,0.01%,0.1,1.8
+MIA202405200,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MiamiMarlinspitching,Declan Cronin,1.2,2,0,0,1,2,0,1.52,8,27,17,9,4,4,2,3,2,0,,0.0,0.0,0.053,0.68,0.00%,0.08,0.5
+MIA202405200,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MiamiMarlinspitching,Andrew Nardi,0.1,0,0,0,1,0,0,5.68,2,8,3,2,0,1,0,1,0,0,,2.0,0.0,0.046,1.83,0.00%,0.21,0.6
+MIA202405200,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MiamiMarlinspitching,"Tanner Scott, W (4-4)",1.0,0,0,0,1,1,0,1.8,4,16,9,7,2,0,1,1,1,0,,0.0,0.0,0.317,5.52,0.02%,0.65,1.2
+MIA202405200,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MiamiMarlinspitching,Team Totals,10.0,4,2,1,6,11,1,0.9,41,145,85,44,18,23,12,11,4,0,72.0,2.0,0.0,0.521,1.31,0.04%,0.15,4.0

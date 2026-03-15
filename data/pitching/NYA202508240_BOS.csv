@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202508240,BOS,https://www.baseball-reference.com/boxes/NYA/NYA202508240.shtml,BostonRedSoxpitching,"Dustin May, L (7-10)",4.1,5,5,5,3,3,3,4.79,21,70,45,26,5,14,5,9,3,0,33.0,,,-0.234,0.68,-0.17%,0.84,-3.0
+NYA202508240,BOS,https://www.baseball-reference.com/boxes/NYA/NYA202508240.shtml,BostonRedSoxpitching,Brennan Bernardino,1.1,0,0,0,0,2,0,2.93,4,18,12,7,0,5,1,1,0,0,,1.0,0.0,0.02,0.2,0.01%,0.25,0.9
+NYA202508240,BOS,https://www.baseball-reference.com/boxes/NYA/NYA202508240.shtml,BostonRedSoxpitching,Walker Buehler,2.1,2,2,2,1,2,1,5.45,10,35,18,10,4,4,4,3,1,0,,0.0,0.0,-0.004,0.14,-0.00%,0.17,-0.9
+NYA202508240,BOS,https://www.baseball-reference.com/boxes/NYA/NYA202508240.shtml,BostonRedSoxpitching,Team Totals,8.0,7,7,7,4,7,4,7.88,35,123,75,43,9,23,10,13,4,0,33.0,1.0,0.0,-0.218,0.47,-0.16%,0.58,-3.0

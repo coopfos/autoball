@@ -1,0 +1,8 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202504260,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504260.shtml,NewYorkMetspitching,"Clay Holmes, W (3-1)",5.0,4,0,0,0,2,0,2.64,18,70,44,24,5,15,12,4,2,0,61.0,,,0.283,0.88,0.22%,1.15,2.5
+WAS202504260,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504260.shtml,NewYorkMetspitching,"Danny Young, H (4)",1.0,1,0,0,0,3,0,4.32,4,19,13,5,2,6,0,1,1,0,,0.0,0.0,0.073,1.7,0.06%,2.23,0.5
+WAS202504260,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504260.shtml,NewYorkMetspitching,"Reed Garrett, H (9)",1.0,2,0,0,0,0,0,0.0,5,16,10,6,0,4,2,3,2,0,,0.0,0.0,0.081,2.57,0.06%,3.37,0.5
+WAS202504260,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504260.shtml,NewYorkMetspitching,"A.J. Minter, H (7)",0.1,0,0,0,1,1,0,1.64,2,10,4,1,0,3,0,0,0,0,,0.0,0.0,-0.01,1.42,-0.01%,1.86,-0.0
+WAS202504260,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504260.shtml,NewYorkMetspitching,"Max Kranick, H (2)",0.2,0,0,0,0,1,0,2.7,2,14,10,9,1,0,0,1,0,0,,1.0,0.0,0.097,1.91,0.08%,2.5,0.5
+WAS202504260,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504260.shtml,NewYorkMetspitching,"Edwin Díaz, S (7)",1.0,0,0,0,1,3,0,4.5,4,22,10,2,5,3,0,0,0,0,,0.0,0.0,0.09,1.78,0.07%,2.33,0.5
+WAS202504260,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504260.shtml,NewYorkMetspitching,Team Totals,9.0,7,0,0,2,10,0,0.0,35,151,91,47,13,31,14,9,5,0,61.0,1.0,0.0,0.614,1.41,0.48%,1.84,4.4

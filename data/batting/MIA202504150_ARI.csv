@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,5.0,2.0,2.0,5.0,0.0,0.0,5.0,0.338,0.423,0.735,1.158,22.0,16.0,0.11,0.67,0.138,-0.028,0.06%,0.63,3.3,3.0,0.0,"HR,2B"
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,5.0,1.0,1.0,3.0,0.0,2.0,5.0,0.321,0.431,0.518,0.948,26.0,17.0,0.183,0.56,0.209,-0.025,0.10%,0.52,1.6,0.0,2.0,HR
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Pavin Smith DH,4.0,0.0,2.0,0.0,1.0,2.0,5.0,0.375,0.457,0.6,1.057,19.0,12.0,0.0,0.18,0.012,-0.012,0%,0.16,0.2,0.0,0.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Josh Naylor 1B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.328,0.397,0.516,0.913,13.0,11.0,0.084,0.31,0.09,-0.005,0.05%,0.29,0.6,8.0,0.0,HR
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.15,0.185,0.283,0.468,17.0,13.0,-0.048,0.48,0.011,-0.059,-0.03%,0.45,-0.9,1.0,0.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.153,0.275,0.441,0.716,16.0,13.0,-0.016,0.42,0.016,-0.032,-0.01%,0.4,0.0,1.0,0.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.225,0.311,0.225,0.536,7.0,5.0,0.002,0.35,0.025,-0.023,0.00%,0.33,0.6,10.0,1.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.333,0.375,0.5,0.875,19.0,14.0,0.007,0.39,0.027,-0.02,0.00%,0.37,-0.8,4.0,0.0,SB
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Garrett Hampson 2B,3.0,2.0,1.0,0.0,1.0,1.0,4.0,0.176,0.417,0.176,0.593,17.0,8.0,0.016,0.51,0.024,-0.008,0.01%,0.47,0.5,0.0,2.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Merrill Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Joe Mantiply P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Bryce Jarvis P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202504150,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202504150.shtml,ArizonaDiamondbacksbatting,Team Totals,39.0,10.0,12.0,10.0,2.0,10.0,41.0,0.308,0.341,0.564,0.906,156.0,109.0,0.338,0.43,0.552,-0.212,0.19%,0.4,5.1,27.0,7.0,

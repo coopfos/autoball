@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202405150,MIA,https://www.baseball-reference.com/boxes/DET/DET202405150.shtml,MiamiMarlinspitching,"Trevor Rogers, W (1-6)",5.0,3,0,0,2,6,0,5.79,21,83,55,31,10,14,5,7,3,0,65.0,,,0.283,1.33,0.01%,0.1,2.4
+DET202405150,MIA,https://www.baseball-reference.com/boxes/DET/DET202405150.shtml,MiamiMarlinspitching,"Declan Cronin, H (1)",1.2,1,0,0,0,1,0,1.33,6,22,14,10,1,3,3,2,0,0,,0.0,0.0,0.115,1.01,0.01%,0.07,0.8
+DET202405150,MIA,https://www.baseball-reference.com/boxes/DET/DET202405150.shtml,MiamiMarlinspitching,"Andrew Nardi, H (5)",0.1,0,0,0,0,0,0,6.23,1,3,2,1,1,0,0,1,0,0,,1.0,0.0,0.038,1.35,0.00%,0.1,0.2
+DET202405150,MIA,https://www.baseball-reference.com/boxes/DET/DET202405150.shtml,MiamiMarlinspitching,"Calvin Faucher, H (3)",1.0,1,0,0,0,0,0,2.3,4,20,11,6,0,5,1,3,3,0,,0.0,0.0,0.087,1.23,0.00%,0.09,0.5
+DET202405150,MIA,https://www.baseball-reference.com/boxes/DET/DET202405150.shtml,MiamiMarlinspitching,"Tanner Scott, S (5)",1.0,2,0,0,0,1,0,2.0,5,20,17,13,2,2,1,3,2,0,,0.0,0.0,0.089,1.7,0.00%,0.13,0.5
+DET202405150,MIA,https://www.baseball-reference.com/boxes/DET/DET202405150.shtml,MiamiMarlinspitching,Team Totals,9.0,7,0,0,2,8,0,0.0,37,148,99,61,14,24,10,16,8,0,65.0,1.0,0.0,0.612,1.32,0.03%,0.1,4.4

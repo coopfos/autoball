@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202506160,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202506160.shtml,SanDiegoPadrespitching,"Dylan Cease, L (2-6)",5,8,6,6,1,9,0,4.69,25,101,63,37,15,11,4,10,7,0,35.0,,,-0.436,0.94,-0.37%,1.33,-3.6
+LAN202506160,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202506160.shtml,SanDiegoPadrespitching,Wandy Peralta,1,1,0,0,0,1,0,3.94,5,19,13,6,3,4,3,1,1,0,,0.0,0.0,0.009,0.27,0.01%,0.38,0.1
+LAN202506160,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202506160.shtml,SanDiegoPadrespitching,David Morgan,2,1,0,0,1,2,0,2.53,8,30,20,13,4,3,3,2,1,0,,1.0,0.0,0.025,0.21,0.02%,0.3,1.4
+LAN202506160,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202506160.shtml,SanDiegoPadrespitching,Team Totals,8,10,6,6,2,12,0,6.75,38,150,96,56,22,18,10,13,9,0,35.0,1.0,0.0,-0.402,0.71,-0.34%,1.0,-2.1

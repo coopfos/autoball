@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Byron Buxton CF,5.0,0.0,1.0,1.0,0.0,3.0,5.0,0.273,0.331,0.513,0.844,13.0,12.0,0.091,0.9,0.147,-0.056,0.11%,1.9,0.2,1.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Trevor Larnach LF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.252,0.332,0.432,0.764,14.0,8.0,0.067,0.88,0.109,-0.042,0.08%,1.86,0.8,2.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.307,0.382,0.508,0.89,13.0,9.0,-0.075,0.72,0.0,-0.075,-0.10%,1.53,-1.1,1.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Matt Wallner RF,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.26,0.373,0.525,0.898,14.0,8.0,-0.018,0.8,0.039,-0.057,-0.02%,1.69,0.2,5.0,0.0,HBP
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Royce Lewis DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.249,0.31,0.487,0.797,10.0,8.0,-0.072,0.79,0.003,-0.075,-0.09%,1.67,-0.3,0.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Willi Castro 3B,3.0,0.0,0.0,1.0,1.0,0.0,4.0,0.249,0.336,0.39,0.725,17.0,11.0,-0.07,0.83,0.008,-0.078,-0.09%,1.77,0.3,1.0,1.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.235,0.32,0.416,0.737,13.0,8.0,-0.061,0.56,0.0,-0.061,-0.08%,1.2,-1.4,4.0,1.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Kyle Farmer 2B,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.229,0.308,0.378,0.686,16.0,12.0,-0.012,0.42,0.017,-0.029,-0.02%,0.9,-0.5,1.0,1.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Christian Vázquez C,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.228,0.253,0.337,0.59,16.0,13.0,0.052,0.47,0.054,-0.002,0.07%,1.0,0.2,8.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Zebby Matthews P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Cole Irvin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Michael Tonkin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202409222,MIN,https://www.baseball-reference.com/boxes/BOS/BOS202409222.shtml,MinnesotaTwinsbatting,Team Totals,35.0,3.0,8.0,3.0,1.0,8.0,37.0,0.229,0.27,0.229,0.499,126.0,89.0,-0.098,0.71,0.377,-0.475,-0.12%,1.51,-1.7,24.0,4.0,

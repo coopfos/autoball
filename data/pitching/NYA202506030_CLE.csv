@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202506030,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506030.shtml,ClevelandGuardianspitching,"Tanner Bibee, L (4-6)",6.1,4,3,3,2,6,2,3.89,26,107,63,37,9,17,7,11,4,0,57.0,,,-0.14,0.96,-0.10%,1.12,0.1
+NYA202506030,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506030.shtml,ClevelandGuardianspitching,Kolby Allard,1.2,1,0,0,1,0,0,1.9,6,19,9,5,0,4,1,4,2,0,,0.0,0.0,0.026,0.22,0.02%,0.26,0.7
+NYA202506030,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506030.shtml,ClevelandGuardianspitching,Team Totals,8.0,5,3,3,3,6,2,3.38,32,126,72,42,9,21,8,15,6,0,57.0,0.0,0.0,-0.114,0.81,-0.08%,0.94,0.9

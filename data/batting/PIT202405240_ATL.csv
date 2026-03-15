@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.247,0.352,0.36,0.712,13.0,8.0,-0.004,0.38,0.023,-0.026,-0.00%,0.42,2.3,2.0,0.0,HR
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Ozzie Albies 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.264,0.328,0.38,0.708,13.0,6.0,-0.06,0.41,0.001,-0.061,-0.04%,0.45,-0.9,0.0,2.0,GDP
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.318,0.399,0.631,1.03,19.0,14.0,-0.003,0.16,0.01,-0.012,-0.00%,0.17,-0.3,0.0,0.0,2B
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Matt Olson 1B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.219,0.317,0.399,0.716,18.0,10.0,-0.038,0.36,0.001,-0.038,-0.03%,0.4,-0.6,6.0,0.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Travis d'Arnaud C,4.0,0.0,2.0,2.0,0.0,1.0,4.0,0.263,0.338,0.483,0.821,13.0,10.0,0.008,0.29,0.024,-0.016,0.01%,0.32,1.9,9.0,0.0,2B
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Orlando Arcia SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.242,0.266,0.404,0.67,12.0,9.0,-0.032,0.33,0.0,-0.032,-0.02%,0.36,-0.9,1.0,1.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.255,0.292,0.38,0.672,7.0,7.0,-0.005,0.41,0.022,-0.027,-0.00%,0.46,0.3,3.0,0.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Adam Duvall LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.197,0.303,0.342,0.645,14.0,9.0,-0.044,0.46,0.0,-0.044,-0.03%,0.51,-1.2,2.0,0.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Zack Short 3B,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.146,0.293,0.188,0.481,14.0,9.0,-0.031,0.3,0.0,-0.032,-0.02%,0.33,-0.3,1.0,0.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Ray Kerr P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Darius Vines P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Jesse Chavez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202405240,ATL,https://www.baseball-reference.com/boxes/PIT/PIT202405240.shtml,AtlantaBravesbatting,Team Totals,33.0,5.0,7.0,5.0,3.0,5.0,36.0,0.212,0.278,0.364,0.641,123.0,82.0,-0.209,0.34,0.081,-0.288,-0.14%,0.38,0.4,24.0,5.0,

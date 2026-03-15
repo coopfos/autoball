@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Brett Wisely SS,6.0,0.0,0.0,0.0,0.0,1.0,6.0,0.288,0.303,0.438,0.741,26.0,19.0,-0.172,1.32,0.0,-0.172,-0.08%,1.08,-1.8,3.0,6.0,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Heliot Ramos CF,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.328,0.404,0.577,0.98,18.0,10.0,0.108,1.09,0.211,-0.103,0.05%,0.89,0.1,0.0,0.0,HR
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.286,0.36,0.435,0.795,23.0,13.0,0.051,1.06,0.127,-0.076,0.03%,0.87,1.0,7.0,0.0,HR
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,5.0,1.0,0.0,0.0,0.0,2.0,5.0,0.23,0.309,0.385,0.694,23.0,14.0,-0.173,1.37,0.0,-0.173,-0.08%,1.12,-1.4,0.0,0.0,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.235,0.296,0.417,0.713,21.0,11.0,0.023,1.18,0.096,-0.073,0.01%,0.97,0.2,4.0,1.0,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Jorge Soler DH,2.0,2.0,1.0,0.0,2.0,0.0,5.0,0.227,0.316,0.389,0.705,23.0,10.0,0.168,1.33,0.184,-0.016,0.08%,1.09,1.1,0.0,0.0,2B
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,4.0,1.0,2.0,1.0,1.0,2.0,5.0,0.222,0.301,0.411,0.712,20.0,10.0,0.119,1.96,0.277,-0.158,0.06%,1.6,0.9,4.0,1.0,3B
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Thairo Estrada 2B,3.0,1.0,2.0,4.0,1.0,0.0,5.0,0.243,0.277,0.401,0.677,12.0,3.0,0.876,2.64,0.915,-0.039,0.43%,2.16,3.8,2.0,2.0,"HR,HBP"
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Trenton Brooks 1B,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.143,0.25,0.143,0.393,24.0,14.0,-0.116,1.78,0.073,-0.189,-0.06%,1.46,-1.2,7.0,0.0,SB
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Jordan Hicks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Randy Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Erik Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202406170,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202406170.shtml,SanFranciscoGiantsbatting,Team Totals,36.0,7.0,9.0,7.0,8.0,11.0,46.0,0.25,0.4,0.583,0.983,190.0,104.0,0.884,1.53,1.883,-0.999,0.43%,1.25,2.6,27.0,10.0,

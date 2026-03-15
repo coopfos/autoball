@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Andy Ibáñez 2B,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.292,0.331,0.445,0.776,15.0,9.0,0.154,0.55,0.195,-0.041,0.04%,0.22,2.5,3.0,2.0,2B
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Justyn-Henry Malloy DH,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.214,0.316,0.408,0.724,16.0,8.0,-0.038,0.69,0.019,-0.057,-0.01%,0.28,0.3,0.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Colt Keith PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.249,0.304,0.387,0.692,5.0,3.0,-0.002,0.06,0.0,-0.002,0%,0.02,-0.2,0.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Matt Vierling CF,5.0,1.0,2.0,0.0,0.0,2.0,5.0,0.251,0.288,0.44,0.727,18.0,13.0,0.047,0.68,0.08,-0.033,0.01%,0.28,-0.4,3.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Mark Canha 1B,4.0,1.0,1.0,0.0,1.0,2.0,5.0,0.229,0.337,0.35,0.687,27.0,17.0,0.014,0.66,0.045,-0.031,0.00%,0.27,-0.3,8.0,1.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Wenceel Pérez RF,3.0,1.0,0.0,0.0,0.0,0.0,4.0,0.261,0.316,0.404,0.719,14.0,9.0,0.005,1.11,0.07,-0.066,0.00%,0.46,0.0,1.0,0.0,HBP
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Jake Rogers C,4.0,1.0,1.0,4.0,0.0,1.0,4.0,0.204,0.251,0.36,0.611,13.0,10.0,0.088,0.86,0.128,-0.04,0.02%,0.35,1.7,7.0,1.0,HR
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Javier Báez SS,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.18,0.216,0.244,0.459,17.0,12.0,-0.043,0.52,0.006,-0.049,-0.01%,0.21,-0.1,2.0,1.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Gio Urshela 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.256,0.292,0.343,0.635,13.0,10.0,-0.027,0.41,0.008,-0.035,-0.01%,0.17,0.1,1.0,4.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Ryan Vilade LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.296,0.345,0.407,0.752,13.0,9.0,-0.019,0.47,0.017,-0.035,-0.01%,0.2,-0.8,2.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Reese Olson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Alex Faedo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Kenta Maeda P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202407200,DET,https://www.baseball-reference.com/boxes/TOR/TOR202407200.shtml,DetroitTigersbatting,Team Totals,36.0,7.0,9.0,6.0,3.0,11.0,40.0,0.25,0.325,0.361,0.686,151.0,100.0,0.179,0.64,0.568,-0.389,0.04%,0.26,2.6,27.0,10.0,

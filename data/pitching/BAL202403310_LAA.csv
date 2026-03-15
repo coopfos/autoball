@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202403310,LAA,https://www.baseball-reference.com/boxes/BAL/BAL202403310.shtml,LosAngelesAngelspitching,"Reid Detmers, W (1-0)",5,2,1,1,3,7,0,1.8,21,88,52,24,15,13,6,4,1,0,63.0,,,0.161,0.99,0.08%,0.85,1.3
+BAL202403310,LAA,https://www.baseball-reference.com/boxes/BAL/BAL202403310.shtml,LosAngelesAngelspitching,"José Soriano, H (1)",3,1,0,0,2,2,0,0.0,12,34,22,15,4,3,4,4,2,0,,0.0,0.0,0.143,1.11,0.07%,0.95,1.4
+BAL202403310,LAA,https://www.baseball-reference.com/boxes/BAL/BAL202403310.shtml,LosAngelesAngelspitching,"Carlos Estévez, S (1)",1,0,0,0,0,0,0,0.0,3,12,9,5,0,4,0,3,1,0,,0.0,0.0,0.036,0.47,0.02%,0.4,0.5
+BAL202403310,LAA,https://www.baseball-reference.com/boxes/BAL/BAL202403310.shtml,LosAngelesAngelspitching,Team Totals,9,3,1,1,5,9,0,1.0,36,134,83,44,19,20,10,11,4,0,63.0,0.0,0.0,0.34,0.98,0.17%,0.84,3.1

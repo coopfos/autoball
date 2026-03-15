@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Josh Smith 1B,5.0,1.0,2.0,0.0,0.0,2.0,5.0,0.269,0.336,0.399,0.735,24.0,18.0,-0.05,1.06,0.067,-0.117,-0.02%,0.64,-0.5,5.0,0.0,2B
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Sam Haggerty RF,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.261,0.311,0.391,0.702,18.0,13.0,-0.009,1.15,0.092,-0.101,-0.00%,0.69,-0.4,1.0,0.0,SB
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Corey Seager SS,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.239,0.297,0.403,0.7,21.0,13.0,-0.035,1.04,0.037,-0.072,-0.01%,0.63,-0.7,2.0,3.0,GDP
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Marcus Semien 2B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.218,0.304,0.316,0.619,17.0,9.0,0.063,1.48,0.089,-0.026,0.02%,0.89,0.4,4.0,3.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Josh Jung 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.256,0.303,0.401,0.704,20.0,16.0,-0.17,1.4,0.0,-0.17,-0.06%,0.85,-1.7,0.0,1.0,GDP
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Evan Carter CF,4.0,1.0,3.0,2.0,0.0,1.0,4.0,0.217,0.28,0.37,0.65,17.0,11.0,0.234,0.89,0.256,-0.022,0.08%,0.54,2.3,3.0,0.0,"HR,2B"
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Jake Burger DH,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.223,0.255,0.42,0.675,11.0,9.0,0.188,0.91,0.215,-0.027,0.07%,0.55,1.7,0.0,0.0,"HR,2B"
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Alejandro Osuna LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.154,0.313,0.154,0.466,12.0,8.0,-0.112,1.02,0.0,-0.112,-0.04%,0.62,-1.4,1.0,0.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Jonah Heim C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.228,0.268,0.371,0.639,14.0,8.0,-0.004,1.14,0.061,-0.065,-0.00%,0.69,-0.0,11.0,1.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Jacob Latz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Jacob Webb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Hoby Milner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Shawn Armstrong P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506080,TEX,https://www.baseball-reference.com/boxes/WAS/WAS202506080.shtml,TexasRangersbatting,Team Totals,37.0,4.0,11.0,4.0,2.0,7.0,39.0,0.297,0.333,0.541,0.874,154.0,105.0,0.105,1.12,0.817,-0.712,0.04%,0.68,-0.4,27.0,8.0,

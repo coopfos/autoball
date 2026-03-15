@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,2.0,3.0,3.0,0.0,1.0,5.0,0.261,0.327,0.454,0.781,23.0,12.0,0.32,1.04,0.327,-0.007,0.30%,1.62,4.3,1.0,0.0,HBP
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,3.0,4.0,1.0,1.0,5.0,0.251,0.317,0.433,0.751,27.0,19.0,0.188,1.22,0.213,-0.025,0.18%,1.89,3.9,1.0,3.0,2B
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Juan Soto RF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.247,0.381,0.482,0.863,18.0,13.0,-0.118,1.0,0.028,-0.145,-0.11%,1.55,-2.0,1.0,0.0,GDP
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,2.0,2.0,3.0,1.0,0.0,5.0,0.262,0.354,0.507,0.861,19.0,11.0,0.224,0.92,0.258,-0.034,0.21%,1.43,3.0,10.0,0.0,"HR,2B"
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Jeff McNeil DH,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.248,0.351,0.444,0.796,16.0,13.0,-0.056,0.67,0.013,-0.069,-0.05%,1.04,-0.7,0.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Ronny Mauricio 3B,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.236,0.307,0.425,0.732,17.0,10.0,-0.067,0.61,0.005,-0.072,-0.06%,0.95,-0.7,0.0,2.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Cedric Mullins CF,4.0,2.0,1.0,0.0,0.0,1.0,5.0,0.229,0.306,0.429,0.735,16.0,10.0,0.047,0.71,0.079,-0.032,0.04%,1.11,0.4,3.0,0.0,"SB,HBP"
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.243,0.333,0.372,0.705,17.0,9.0,-0.048,0.91,0.022,-0.07,-0.04%,1.41,-0.8,9.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Brett Baty 2B,2.0,3.0,1.0,0.0,2.0,0.0,4.0,0.228,0.29,0.403,0.693,16.0,8.0,0.052,0.9,0.063,-0.011,0.05%,1.39,0.8,2.0,3.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Kodai Senga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Brooks Raley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Rico Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508020,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202508020.shtml,NewYorkMetsbatting,Team Totals,36.0,12.0,13.0,11.0,5.0,6.0,43.0,0.361,0.465,0.5,0.965,169.0,105.0,0.542,0.89,1.008,-0.465,0.51%,1.37,8.2,27.0,8.0,

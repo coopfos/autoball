@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.233,0.293,0.275,0.568,15.0,10.0,-0.094,0.76,0.0,-0.094,-0.01%,0.08,-1.6,2.0,0.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Luis Rengifo DH,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.314,0.357,0.439,0.796,13.0,9.0,0.044,0.54,0.084,-0.04,0.00%,0.06,0.9,0.0,0.0,CS
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.228,0.311,0.394,0.705,8.0,7.0,-0.029,0.29,0.0,-0.029,-0.00%,0.03,-0.5,2.0,0.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.276,0.332,0.464,0.796,17.0,12.0,0.02,0.58,0.048,-0.028,0.00%,0.06,-0.1,5.0,1.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.243,0.328,0.359,0.687,11.0,7.0,0.057,0.7,0.075,-0.018,0.00%,0.07,0.7,9.0,1.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,4.0,1.0,0.0,0.0,0.0,1.0,4.0,0.164,0.247,0.206,0.453,20.0,13.0,0.078,0.81,0.097,-0.018,0.01%,0.09,-0.2,2.0,6.0,GDP
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.207,0.255,0.335,0.589,10.0,5.0,0.08,0.82,0.105,-0.025,0.01%,0.08,1.1,5.0,0.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Zach Neto SS,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.257,0.311,0.442,0.753,10.0,4.0,0.093,0.96,0.11,-0.017,0.01%,0.1,1.7,1.0,3.0,"HBP,SH"
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Jo Adell RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.197,0.268,0.394,0.662,12.0,8.0,-0.042,0.47,0.0,-0.042,-0.00%,0.05,-1.1,0.0,0.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,José Soriano P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Ben Joyce P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Roansy Contreras P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407230,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407230.shtml,LosAngelesAngelsbatting,Team Totals,30.0,5.0,4.0,4.0,2.0,10.0,34.0,0.133,0.212,0.133,0.345,116.0,75.0,0.207,0.66,0.519,-0.311,0.01%,0.07,1.0,27.0,11.0,

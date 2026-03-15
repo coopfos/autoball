@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJayspitching,"Kevin Gausman, L (12-11)",6,6,3,3,3,5,0,4.09,26,109,66,31,15,20,8,10,3,0,50.0,,,-0.063,0.84,0.00%,0.01,0.1
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJayspitching,Tommy Nance,1,0,0,0,0,1,0,3.07,3,8,7,3,3,1,1,1,0,0,,0.0,0.0,0.024,0.32,0.00%,0.0,0.5
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJayspitching,Erik Swanson,1,1,0,0,0,2,0,6.3,4,16,12,8,2,2,0,2,1,0,,0.0,0.0,0.015,0.29,0.00%,0.0,0.5
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJayspitching,Team Totals,8,7,3,3,3,8,0,3.38,33,133,85,42,20,23,9,13,4,0,50.0,0.0,0.0,-0.024,0.73,0.00%,0.01,1.1

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,5.0,1.0,2.0,2.0,0.0,2.0,5.0,0.254,0.311,0.299,0.609,29.0,21.0,0.066,1.94,0.144,-0.078,0.04%,1.86,-0.0,0.0,4.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Mike Trout CF,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.282,0.363,0.69,1.053,18.0,12.0,0.047,1.39,0.114,-0.066,0.03%,1.34,0.5,1.0,0.0,"HR,IW"
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Taylor Ward DH,5.0,0.0,3.0,1.0,0.0,1.0,5.0,0.312,0.325,0.571,0.896,14.0,13.0,0.391,1.41,0.432,-0.042,0.22%,1.36,1.5,0.0,0.0,SB
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.34,0.417,0.528,0.945,16.0,12.0,-0.071,1.04,0.037,-0.108,-0.04%,1.0,-0.9,9.0,0.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Aaron Hicks LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.159,0.229,0.227,0.456,14.0,11.0,-0.106,1.2,0.0,-0.106,-0.06%,1.15,-1.1,1.0,0.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Mickey Moniak RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.184,0.262,0.289,0.551,15.0,11.0,-0.105,1.03,0.0,-0.105,-0.06%,0.99,-1.0,4.0,0.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Luis Rengifo 2B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.244,0.261,0.311,0.572,24.0,14.0,0.045,1.15,0.143,-0.099,0.03%,1.1,0.7,3.0,1.0,"2B,SB"
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,1.0,3.0,0.0,0.0,1.0,4.0,0.149,0.293,0.213,0.506,15.0,11.0,0.111,1.18,0.14,-0.029,0.06%,1.13,0.4,6.0,1.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Jo Adell PR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.231,0.25,0.423,0.673,,,0.096,6.12,0.096,0.0,0.06%,5.88,0.3,0.0,0.0,SB
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Miguel Sanó 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.27,0.372,0.324,0.696,,,,,,,,,,1.0,0.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Zach Neto SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.186,0.273,0.237,0.51,16.0,8.0,0.156,2.71,0.201,-0.045,0.09%,2.6,0.4,2.0,2.0,SB
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Reid Detmers P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Adam Cimber P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Hunter Strickland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202404170,LAA,https://www.baseball-reference.com/boxes/TBA/TBA202404170.shtml,LosAngelesAngelsbatting,Team Totals,38.0,5.0,12.0,5.0,2.0,9.0,40.0,0.316,0.35,0.421,0.771,161.0,113.0,0.63,1.59,1.307,-0.678,0.36%,1.53,0.7,27.0,9.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 3B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.189,0.274,0.284,0.558,16.0,12.0,-0.016,0.28,0.011,-0.028,-0.00%,0.08,0.0,0.0,0.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Gage Workman 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.214,0.267,0.286,0.552,,,,,,,,,,0.0,0.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,3.0,1.0,1.0,1.0,2.0,5.0,0.148,0.269,0.273,0.542,27.0,16.0,0.117,0.24,0.119,-0.002,0.02%,0.07,1.5,2.0,0.0,"HR,SB"
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Joshua Palacios RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.188,0.297,0.188,0.485,,,,,,,,,,1.0,0.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Edgar Quero C,3.0,2.0,2.0,1.0,2.0,0.0,5.0,0.357,0.471,0.429,0.899,24.0,11.0,0.073,0.33,0.078,-0.005,0.01%,0.1,2.1,7.0,0.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn DH,3.0,1.0,0.0,1.0,1.0,1.0,5.0,0.155,0.202,0.278,0.48,15.0,9.0,-0.018,0.38,0.011,-0.029,-0.00%,0.11,-0.1,0.0,0.0,SF
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,5.0,1.0,1.0,1.0,0.0,0.0,5.0,0.272,0.295,0.38,0.675,14.0,12.0,0.093,0.24,0.105,-0.012,0.02%,0.07,-0.4,3.0,5.0,2B
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Michael A. Taylor RF-CF,5.0,2.0,3.0,3.0,0.0,2.0,5.0,0.196,0.237,0.357,0.594,21.0,15.0,0.098,0.29,0.102,-0.005,0.02%,0.09,3.2,3.0,0.0,"3·2B,SB"
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Brooks Baldwin LF,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.26,0.286,0.438,0.724,16.0,11.0,0.054,0.24,0.066,-0.012,0.01%,0.07,-0.6,2.0,0.0,2B
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Bobby Dalbec 1B,4.0,0.0,1.0,1.0,1.0,1.0,5.0,0.25,0.4,0.333,0.733,23.0,15.0,-0.015,0.2,0.004,-0.019,-0.00%,0.06,0.6,8.0,1.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Jacob Amaya SS,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.082,0.111,0.102,0.213,18.0,13.0,-0.009,0.23,0.006,-0.015,-0.00%,0.07,-0.9,1.0,2.0,SF
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Tyler Gilbert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Jonathan Cannon P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Penn Murfee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504260,CHW,https://www.baseball-reference.com/boxes/ATH/ATH202504260.shtml,ChicagoWhiteSoxbatting,Team Totals,37.0,10.0,11.0,10.0,5.0,8.0,44.0,0.297,0.364,0.514,0.877,174.0,114.0,0.377,0.27,0.502,-0.127,0.07%,0.08,5.4,27.0,9.0,

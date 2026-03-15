@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202409100,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409100.shtml,NewYorkYankeespitching,"Marcus Stroman, L (10-8)",5.1,7,3,3,2,4,0,4.07,24,89,56,30,9,16,11,6,3,0,44.0,,,-0.101,1.01,-0.08%,1.4,-0.6
+NYA202409100,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409100.shtml,NewYorkYankeespitching,Mark Leiter Jr.,1.2,2,1,1,0,2,1,4.67,7,24,15,9,5,1,1,4,2,0,,1.0,0.0,-0.01,0.44,-0.01%,0.61,0.0
+NYA202409100,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409100.shtml,NewYorkYankeespitching,Tim Mayza,2.0,2,1,1,0,2,0,7.46,7,33,20,13,4,3,1,4,2,0,,0.0,0.0,-0.013,0.1,-0.01%,0.14,-0.0
+NYA202409100,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409100.shtml,NewYorkYankeespitching,Team Totals,9.0,11,5,5,2,8,1,5.0,38,146,91,52,18,20,13,14,7,0,44.0,1.0,0.0,-0.124,0.7,-0.10%,0.98,-0.6

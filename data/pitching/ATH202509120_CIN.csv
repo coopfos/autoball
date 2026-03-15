@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATH202509120,CIN,https://www.baseball-reference.com/boxes/ATH/ATH202509120.shtml,CincinnatiRedspitching,"Brady Singer, L (13-10)",6,3,2,2,1,4,2,3.94,22,90,53,31,7,15,10,7,1,0,61.0,,,0.022,0.56,0.01%,0.58,1.0
+ATH202509120,CIN,https://www.baseball-reference.com/boxes/ATH/ATH202509120.shtml,CincinnatiRedspitching,Chase Burns,2,3,1,1,0,1,1,5.2,9,36,24,16,5,3,3,5,2,0,,0.0,0.0,-0.003,0.21,-0.00%,0.22,0.0
+ATH202509120,CIN,https://www.baseball-reference.com/boxes/ATH/ATH202509120.shtml,CincinnatiRedspitching,Team Totals,8,6,3,3,1,5,3,3.38,31,126,77,47,12,18,13,12,3,0,61.0,0.0,0.0,0.019,0.46,0.01%,0.48,1.0

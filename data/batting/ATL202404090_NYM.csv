@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Brandon Nimmo LF,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.211,0.375,0.395,0.77,23.0,17.0,-0.112,1.08,0.013,-0.126,-0.07%,1.08,-0.2,0.0,0.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Starling Marte RF,5.0,0.0,1.0,1.0,0.0,2.0,5.0,0.256,0.319,0.349,0.668,21.0,13.0,-0.097,0.96,0.019,-0.116,-0.06%,0.96,-0.4,2.0,0.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Francisco Lindor SS,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.089,0.208,0.178,0.385,15.0,11.0,-0.03,0.73,0.043,-0.073,-0.02%,0.73,-1.5,1.0,4.0,GDP
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,2.0,3.0,1.0,1.0,5.0,0.196,0.26,0.413,0.673,24.0,13.0,0.026,0.92,0.11,-0.084,0.02%,0.92,3.0,10.0,1.0,"HR,2B"
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Brett Baty 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.325,0.372,0.4,0.772,12.0,10.0,-0.046,0.68,0.021,-0.067,-0.03%,0.68,-0.2,0.0,3.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,DJ Stewart DH,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.071,0.409,0.286,0.695,9.0,3.0,-0.022,0.94,0.016,-0.037,-0.01%,0.94,-0.2,0.0,0.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Tyrone Taylor PH-DH,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.276,0.344,0.345,0.689,13.0,9.0,0.005,0.51,0.023,-0.018,0.00%,0.51,-0.6,0.0,0.0,GDP
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.156,0.27,0.25,0.52,19.0,12.0,-0.104,1.0,0.002,-0.106,-0.06%,1.0,-1.1,2.0,2.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Harrison Bader CF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.233,0.258,0.233,0.491,13.0,11.0,-0.004,0.6,0.038,-0.042,-0.00%,0.6,-0.3,3.0,0.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Omar Narváez C,3.0,2.0,2.0,1.0,1.0,1.0,4.0,0.385,0.429,0.462,0.89,15.0,8.0,0.121,0.56,0.129,-0.008,0.07%,0.56,1.9,6.0,0.0,2B
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Adrian Houser P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Dedniel Núñez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Cole Sulser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202404090,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404090.shtml,NewYorkMetsbatting,Team Totals,37.0,5.0,12.0,5.0,3.0,8.0,40.0,0.324,0.375,0.459,0.834,164.0,107.0,-0.263,0.81,0.414,-0.677,-0.16%,0.81,0.4,24.0,11.0,

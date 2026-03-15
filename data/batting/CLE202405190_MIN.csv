@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Edouard Julien 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.21,0.315,0.399,0.714,18.0,12.0,-0.115,1.15,0.0,-0.115,-0.08%,1.34,-0.8,0.0,3.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.273,0.329,0.416,0.745,10.0,8.0,-0.079,0.79,0.0,-0.079,-0.06%,0.91,-0.5,0.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.267,0.364,0.396,0.76,17.0,11.0,-0.052,1.26,0.047,-0.099,-0.04%,1.47,-0.1,1.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Max Kepler RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.303,0.352,0.505,0.857,10.0,7.0,0.0,1.66,0.119,-0.118,0%,1.93,-0.1,3.0,0.0,2B
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.268,0.35,0.572,0.922,15.0,9.0,-0.12,1.49,0.042,-0.162,-0.08%,1.73,-1.0,7.0,0.0,"HBP,GDP"
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Byron Buxton PR-CF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.25,0.298,0.385,0.683,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Willi Castro CF-LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.259,0.318,0.418,0.736,14.0,11.0,0.093,1.72,0.161,-0.068,0.07%,1.99,0.6,6.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Alex Kirilloff LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.2,0.269,0.375,0.644,14.0,8.0,0.275,2.59,0.358,-0.083,0.19%,3.0,0.5,0.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Christian Vázquez C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.163,0.187,0.198,0.384,,,,,,,,,,0.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.199,0.265,0.365,0.63,16.0,9.0,-0.271,2.62,0.0,-0.271,-0.19%,3.04,-1.4,8.0,1.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,José Miranda 3B,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.276,0.317,0.439,0.756,11.0,8.0,0.001,1.49,0.101,-0.1,0%,1.72,0.5,0.0,4.0,HR
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Chris Paddack P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Jhoan Duran P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202405190,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202405190.shtml,MinnesotaTwinsbatting,Team Totals,33.0,2.0,4.0,1.0,1.0,9.0,35.0,0.121,0.171,0.242,0.414,125.0,83.0,-0.268,1.65,0.828,-1.095,-0.19%,1.91,-2.4,26.0,8.0,

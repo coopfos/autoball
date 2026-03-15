@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202504302,STL,https://www.baseball-reference.com/boxes/CIN/CIN202504302.shtml,StLouisCardinalspitching,Steven Matz,4,5,0,0,0,6,0,1.5,17,73,55,31,10,14,4,7,5,0,58.0,,,0.103,0.67,0.05%,0.52,2.2
+CIN202504302,STL,https://www.baseball-reference.com/boxes/CIN/CIN202504302.shtml,StLouisCardinalspitching,"Gordon Graceffo, W (1-0)",5,2,1,1,0,5,0,7.88,17,70,49,29,8,12,5,7,4,0,,0.0,0.0,0.013,0.05,0.01%,0.04,1.8
+CIN202504302,STL,https://www.baseball-reference.com/boxes/CIN/CIN202504302.shtml,StLouisCardinalspitching,Team Totals,9,7,1,1,0,11,0,1.0,34,143,104,60,18,26,9,14,9,0,58.0,0.0,0.0,0.116,0.36,0.05%,0.28,4.0

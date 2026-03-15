@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeespitching,"Carlos Rodón, W (6-2)",6,3,0,0,3,2,0,2.95,23,93,55,35,4,16,7,11,1,0,65.0,,,0.141,0.5,0.09%,0.54,2.0
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeespitching,Dennis Santana,2,0,0,0,0,1,0,4.57,5,24,16,9,5,2,2,2,1,0,,2.0,0.0,0.029,0.2,0.02%,0.22,2.0
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeespitching,Yoendrys Gómez,1,0,0,0,0,3,0,0.0,3,13,9,0,4,5,0,0,0,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.5
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeespitching,Team Totals,9,3,0,0,3,6,0,0.0,31,130,80,44,13,23,9,13,2,0,65.0,2.0,0.0,0.171,0.41,0.11%,0.43,4.6

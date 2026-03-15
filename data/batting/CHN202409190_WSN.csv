@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,CJ Abrams SS,5.0,2.0,4.0,0.0,0.0,1.0,5.0,0.247,0.315,0.435,0.75,17.0,8.0,0.264,1.22,0.305,-0.041,0%,0.0,1.7,0.0,2.0,"2·2B,2·SB"
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Dylan Crews RF-CF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.218,0.266,0.368,0.634,22.0,14.0,-0.211,1.75,0.0,-0.211,0%,0.0,-1.4,2.0,0.0,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,James Wood LF,2.0,1.0,1.0,1.0,3.0,1.0,5.0,0.266,0.36,0.417,0.777,33.0,16.0,0.196,2.21,0.243,-0.047,0%,0.0,1.5,1.0,0.0,"2B,SB,CS"
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Andrés Chaparro DH,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.217,0.28,0.417,0.697,17.0,11.0,-0.241,2.43,0.067,-0.308,0%,0.0,-0.9,0.0,0.0,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,José Tena 3B,4.0,0.0,2.0,1.0,0.0,2.0,4.0,0.292,0.324,0.4,0.724,15.0,10.0,0.085,1.24,0.154,-0.069,0%,0.0,0.6,1.0,2.0,SB
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.227,0.261,0.367,0.628,16.0,8.0,-0.223,1.68,0.0,-0.223,0%,0.0,-1.8,6.0,1.0,GDP
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Juan Yepez 1B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.276,0.332,0.442,0.774,21.0,14.0,-0.072,1.01,0.017,-0.089,0%,0.0,-0.5,9.0,0.0,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Darren Baker 2B,4.0,1.0,3.0,0.0,0.0,1.0,4.0,0.556,0.556,0.778,1.333,13.0,11.0,0.083,0.88,0.109,-0.026,0%,0.0,0.8,1.0,2.0,2B
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Jacob Young CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.254,0.314,0.33,0.645,2.0,2.0,-0.053,1.03,0.0,-0.053,0%,0.0,-0.5,2.0,0.0,CS
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Joey Gallo RF,3.0,1.0,1.0,3.0,0.0,0.0,3.0,0.155,0.277,0.32,0.597,12.0,10.0,0.296,2.37,0.391,-0.094,0%,0.0,2.1,2.0,0.0,HR
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Patrick Corbin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Derek Law P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202409190,WSN,https://www.baseball-reference.com/boxes/CHN/CHN202409190.shtml,WashingtonNationalsbatting,Team Totals,37.0,6.0,13.0,6.0,3.0,8.0,40.0,0.351,0.4,0.541,0.941,168.0,104.0,0.124,1.64,1.286,-1.161,0.00%,0.0,1.6,24.0,9.0,

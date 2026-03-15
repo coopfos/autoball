@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubspitching,"Shota Imanaga, W (6-3)",7,2,1,1,1,6,1,2.65,22,91,55,32,8,15,4,11,1,0,74.0,,,0.301,0.93,0.25%,1.28,2.5
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubspitching,"Drew Pomeranz, H (6)",1,0,0,0,0,1,0,0.7,3,13,8,6,1,1,1,1,0,0,,0.0,0.0,0.051,0.67,0.04%,0.92,0.5
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubspitching,"Daniel Palencia, S (12)",1,0,0,0,0,1,0,1.57,3,14,10,6,2,2,1,1,0,0,,0.0,0.0,0.041,0.53,0.03%,0.73,0.5
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubspitching,Team Totals,9,2,1,1,1,8,1,1.0,28,118,73,44,11,18,6,13,1,0,74.0,0.0,0.0,0.393,0.86,0.32%,1.18,3.5

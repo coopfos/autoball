@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,CJ Abrams SS,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.276,0.349,0.465,0.814,17.0,9.0,-0.146,2.04,0.129,-0.275,-0.01%,0.16,0.5,0.0,2.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,James Wood LF,5.0,2.0,2.0,4.0,0.0,0.0,5.0,0.284,0.38,0.564,0.944,14.0,9.0,0.795,2.67,1.032,-0.237,0.04%,0.2,1.6,2.0,0.0,2·HR
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,3.0,0.0,0.0,0.0,4.0,0.267,0.31,0.415,0.725,15.0,9.0,0.104,0.86,0.114,-0.01,0.01%,0.07,0.9,4.0,3.0,2B
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Nathaniel Lowe 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.227,0.294,0.376,0.669,18.0,12.0,-0.156,1.47,0.0,-0.156,-0.01%,0.11,-1.2,8.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Brady House 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.267,0.353,0.267,0.62,12.0,8.0,-0.14,1.31,0.0,-0.14,-0.01%,0.1,-1.0,1.0,3.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Josh Bell DH,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.186,0.274,0.335,0.609,10.0,6.0,-0.062,0.8,0.0,-0.062,-0.00%,0.06,-0.6,0.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Alex Call PH-DH-DH,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.274,0.377,0.39,0.768,1.0,1.0,0.018,2.61,0.018,0.0,0.00%,0.2,-0.2,0.0,0.0,SH
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Daylen Lile RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.152,0.2,0.326,0.526,9.0,6.0,-0.075,0.99,0.0,-0.075,-0.00%,0.08,-0.6,1.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Amed Rosario PH-RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.263,0.298,0.404,0.701,1.0,1.0,-0.2,4.77,0.0,-0.2,-0.01%,0.37,-0.6,1.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.244,0.277,0.311,0.588,13.0,9.0,-0.209,2.0,0.0,-0.209,-0.01%,0.15,-0.9,13.0,1.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Riley Adams PR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.091,0.107,0.218,0.325,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.244,0.313,0.298,0.61,19.0,14.0,-0.091,1.54,0.014,-0.104,-0.00%,0.12,-0.5,3.0,0.0,"CS,SH"
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Trevor Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Cole Henry P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Kyle Finnegan P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Zach Brzykcy P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Ryan Loutos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506190,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202506190.shtml,WashingtonNationalsbatting,Team Totals,36.0,4.0,8.0,4.0,0.0,5.0,38.0,0.222,0.222,0.417,0.639,129.0,84.0,-0.162,1.71,1.307,-1.468,-0.01%,0.13,-2.5,33.0,10.0,

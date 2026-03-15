@@ -1,0 +1,8 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202509240,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509240.shtml,PittsburghPiratespitching,Paul Skenes,6.0,4,0,0,0,7,0,1.97,22,85,57,31,16,10,6,9,3,0,71.0,,,0.384,1.15,0.00%,0.0,3.3
+CIN202509240,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509240.shtml,PittsburghPiratespitching,"Justin Lawrence, H (5)",1.0,1,0,0,0,2,0,0.54,4,24,13,9,1,3,1,1,0,0,,0.0,0.0,0.088,1.19,0.00%,0.0,0.6
+CIN202509240,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509240.shtml,PittsburghPiratespitching,"Isaac Mattson, H (11)",0.2,1,1,1,1,0,1,2.31,4,16,9,6,1,2,1,2,1,0,,0.0,0.0,-0.067,1.25,0.00%,0.0,-0.7
+CIN202509240,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509240.shtml,PittsburghPiratespitching,"Dennis Santana, BS (3)",1.1,2,1,1,0,2,1,2.24,7,21,14,6,5,3,2,2,1,0,,1.0,0.0,-0.211,2.97,0.00%,0.0,-0.2
+CIN202509240,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509240.shtml,PittsburghPiratespitching,"Dauri Moreta, BS (1)",0.2,2,1,0,0,1,0,3.24,4,18,12,8,3,1,0,3,2,0,,0.0,0.0,-0.156,3.48,0.00%,0.0,-0.3
+CIN202509240,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509240.shtml,PittsburghPiratespitching,"Yohan Ramírez, W (2-3)",1.1,0,0,0,2,2,0,5.34,6,37,22,14,6,2,1,1,0,0,,2.0,0.0,0.579,6.42,0.00%,0.0,1.7
+CIN202509240,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509240.shtml,PittsburghPiratespitching,Team Totals,11.0,10,3,2,3,14,2,1.64,47,201,127,74,32,21,11,18,7,0,71.0,3.0,0.0,0.617,2.31,0.00%,0.0,4.3

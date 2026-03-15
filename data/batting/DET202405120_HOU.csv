@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Kyle Tucker RF,3.0,1.0,1.0,2.0,2.0,2.0,5.0,0.271,0.397,0.59,0.987,30.0,13.0,0.216,0.88,0.27,-0.054,0.05%,0.33,2.1,1.0,0.0,HR
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Jeremy Peña SS,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.34,0.384,0.471,0.855,17.0,11.0,-0.03,0.56,0.025,-0.055,-0.01%,0.21,-1.7,3.0,0.0,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Yordan Alvarez DH,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.256,0.33,0.449,0.778,12.0,10.0,0.009,0.45,0.045,-0.037,0.00%,0.17,-0.0,0.0,0.0,2B
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Alex Bregman 3B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.201,0.27,0.264,0.534,20.0,13.0,-0.068,0.61,0.023,-0.091,-0.01%,0.23,-1.0,2.0,2.0,GDP
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Grae Kessinger 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Jon Singleton 1B,4.0,2.0,2.0,0.0,1.0,1.0,5.0,0.232,0.326,0.402,0.729,22.0,10.0,-0.012,0.65,0.039,-0.051,-0.00%,0.25,0.3,5.0,0.0,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Yainer Diaz C,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.278,0.312,0.403,0.714,12.0,11.0,-0.108,0.69,0.01,-0.117,-0.02%,0.26,-0.1,10.0,1.0,GDP
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Joey Loperfido CF-LF,5.0,2.0,2.0,1.0,0.0,1.0,5.0,0.321,0.367,0.357,0.724,19.0,13.0,-0.004,0.34,0.022,-0.025,-0.00%,0.13,1.1,0.0,0.0,2B
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Trey Cabbage LF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.2,0.2,0.3,0.5,8.0,5.0,-0.059,1.17,0.0,-0.059,-0.01%,0.43,-0.5,3.0,0.0,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Jake Meyers PH-CF,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.267,0.321,0.48,0.801,9.0,6.0,0.082,0.4,0.082,0.0,0.02%,0.15,3.1,2.0,0.0,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Mauricio Dubón 2B,5.0,1.0,4.0,1.0,0.0,0.0,5.0,0.303,0.33,0.416,0.746,20.0,16.0,0.089,0.61,0.115,-0.026,0.02%,0.23,1.4,1.0,0.0,CS
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Justin Verlander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Seth Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202405120,HOU,https://www.baseball-reference.com/boxes/DET/DET202405120.shtml,HoustonAstrosbatting,Team Totals,42.0,9.0,18.0,8.0,3.0,7.0,45.0,0.429,0.467,0.548,1.014,169.0,108.0,0.115,0.59,0.631,-0.515,0.03%,0.22,4.6,27.0,3.0,

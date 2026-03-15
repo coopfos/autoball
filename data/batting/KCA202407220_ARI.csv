@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,5.0,1.0,2.0,2.0,0.0,2.0,5.0,0.291,0.361,0.512,0.873,24.0,14.0,0.06,0.64,0.113,-0.053,0.04%,0.63,0.7,1.0,1.0,HR
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,3.0,0.0,0.0,0.0,1.0,1.0,5.0,0.249,0.339,0.369,0.709,23.0,12.0,-0.041,0.38,0.004,-0.045,-0.02%,0.37,-0.1,4.0,0.0,HBP
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.259,0.289,0.409,0.698,20.0,14.0,-0.004,0.28,0.019,-0.023,-0.00%,0.28,-0.7,3.0,0.0,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Christian Walker 1B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.261,0.342,0.486,0.828,19.0,13.0,0.003,0.43,0.032,-0.029,0.00%,0.42,0.5,8.0,0.0,2B
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Randal Grichuk DH,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.28,0.339,0.433,0.772,16.0,9.0,-0.035,0.72,0.016,-0.05,-0.02%,0.71,-0.0,0.0,0.0,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Joc Pederson PH-DH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.274,0.378,0.496,0.873,5.0,1.0,0.008,0.24,0.008,0.0,0.01%,0.24,0.4,0.0,0.0,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,3.0,0.0,1.0,1.0,0.0,2.0,4.0,0.215,0.298,0.367,0.665,17.0,13.0,-0.042,0.62,0.013,-0.055,-0.03%,0.61,-1.1,1.0,2.0,SF
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.209,0.299,0.336,0.635,15.0,7.0,-0.056,0.63,0.007,-0.062,-0.03%,0.61,-0.4,4.0,0.0,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Kevin Newman SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.271,0.299,0.379,0.678,10.0,7.0,0.031,0.6,0.07,-0.039,0.02%,0.59,-0.8,0.0,3.0,"2B,GDP"
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.22,0.258,0.441,0.699,16.0,8.0,0.158,0.71,0.162,-0.005,0.09%,0.7,1.0,3.0,0.0,2B
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Yilber Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Miguel Castro P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Humberto Castellanos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202407220,ARI,https://www.baseball-reference.com/boxes/KCA/KCA202407220.shtml,ArizonaDiamondbacksbatting,Team Totals,33.0,4.0,8.0,4.0,5.0,7.0,40.0,0.242,0.35,0.424,0.774,165.0,98.0,0.082,0.54,0.444,-0.361,0.05%,0.53,-0.5,24.0,7.0,

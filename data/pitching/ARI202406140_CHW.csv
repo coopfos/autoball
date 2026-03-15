@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ARI202406140,CHW,https://www.baseball-reference.com/boxes/ARI/ARI202406140.shtml,ChicagoWhiteSoxpitching,"Chris Flexen, L (2-6)",3.1,9,6,4,2,2,1,5.35,20,75,46,26,5,15,3,13,6,0,22.0,,,-0.319,1.0,0.00%,0.0,-3.9
+ARI202406140,CHW,https://www.baseball-reference.com/boxes/ARI/ARI202406140.shtml,ChicagoWhiteSoxpitching,Michael Soroka,3.2,1,1,1,1,4,1,5.85,13,50,31,23,4,4,4,4,0,0,,2.0,1.0,-0.006,0.15,0.00%,0.0,0.5
+ARI202406140,CHW,https://www.baseball-reference.com/boxes/ARI/ARI202406140.shtml,ChicagoWhiteSoxpitching,Jared Shuster,1.0,0,0,0,0,0,0,3.62,3,13,7,3,1,3,2,1,1,0,,0.0,0.0,0.001,0.01,0.00%,0.0,0.5
+ARI202406140,CHW,https://www.baseball-reference.com/boxes/ARI/ARI202406140.shtml,ChicagoWhiteSoxpitching,Team Totals,8.0,10,7,5,3,6,2,5.62,36,138,84,52,10,22,9,18,7,0,22.0,2.0,1.0,-0.324,0.61,0.00%,0.0,-2.9

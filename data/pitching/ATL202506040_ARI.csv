@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202506040,ARI,https://www.baseball-reference.com/boxes/ATL/ATL202506040.shtml,ArizonaDiamondbackspitching,"Merrill Kelly, W (6-2)",7.0,1,0,0,1,8,0,3.43,23,98,64,37,11,16,4,10,5,0,82.0,,,0.495,1.07,0.19%,0.69,3.5
+ATL202506040,ARI,https://www.baseball-reference.com/boxes/ATL/ATL202506040.shtml,ArizonaDiamondbackspitching,"Ryan Thompson, H (6)",0.1,2,0,0,0,1,0,5.79,3,10,7,5,0,2,0,2,2,0,,0.0,0.0,-0.245,3.38,-0.09%,2.16,-0.9
+ATL202506040,ARI,https://www.baseball-reference.com/boxes/ATL/ATL202506040.shtml,ArizonaDiamondbackspitching,"Justin Martinez, S (5)",1.2,0,1,1,4,4,0,3.68,10,37,17,5,5,7,1,0,0,0,,2.0,0.0,0.478,4.99,0.18%,3.2,0.9
+ATL202506040,ARI,https://www.baseball-reference.com/boxes/ATL/ATL202506040.shtml,ArizonaDiamondbackspitching,Team Totals,9.0,3,1,1,5,13,0,1.0,36,145,88,47,16,25,5,12,7,0,82.0,2.0,0.0,0.728,2.45,0.28%,1.57,3.5

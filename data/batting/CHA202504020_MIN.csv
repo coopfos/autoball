@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Matt Wallner RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.118,0.318,0.235,0.553,14.0,9.0,-0.046,0.46,0.0,-0.046,-0.02%,0.4,-0.8,1.0,0.0,
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.095,0.136,0.143,0.279,11.0,7.0,0.01,0.32,0.026,-0.016,0.01%,0.28,0.2,2.0,3.0,2B
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,2.0,2.0,2.0,0.0,1.0,4.0,0.19,0.227,0.381,0.608,18.0,10.0,0.117,0.41,0.14,-0.023,0.06%,0.35,1.7,5.0,0.0,"HR,2B"
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.235,0.316,0.235,0.551,19.0,12.0,-0.041,0.4,0.0,-0.041,-0.02%,0.34,-0.9,0.0,0.0,
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Ty France 1B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.227,0.292,0.273,0.564,25.0,17.0,0.028,0.45,0.05,-0.022,0.01%,0.38,0.9,7.0,0.0,2B
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Willi Castro 3B,3.0,1.0,0.0,0.0,0.0,0.0,4.0,0.25,0.348,0.55,0.898,10.0,6.0,0.015,0.5,0.035,-0.02,0.01%,0.42,-0.2,0.0,1.0,HBP
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Edouard Julien 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.2,0.2,0.2,0.4,10.0,8.0,-0.035,0.61,0.011,-0.047,-0.02%,0.52,-0.8,0.0,2.0,
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Harrison Bader LF,4.0,1.0,1.0,3.0,0.0,0.0,4.0,0.25,0.25,0.875,1.125,11.0,7.0,0.225,0.63,0.248,-0.023,0.12%,0.54,2.1,3.0,0.0,HR
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Christian Vázquez C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,9.0,7.0,-0.027,0.27,0.005,-0.032,-0.01%,0.23,-0.5,9.0,0.0,CS
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Pablo López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Jhoan Duran P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Danny Coulombe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202504020,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202504020.shtml,MinnesotaTwinsbatting,Team Totals,35.0,6.0,8.0,6.0,0.0,4.0,36.0,0.229,0.25,0.486,0.736,127.0,83.0,0.246,0.45,0.515,-0.27,0.13%,0.38,1.6,27.0,6.0,

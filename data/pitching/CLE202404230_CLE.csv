@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202404230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,ClevelandGuardianspitching,Ben Lively,6.1,5,1,1,0,7,1,2.38,23,89,61,36,9,16,6,10,4,0,66.0,,,0.151,0.98,0.11%,1.19,1.9
+CLE202404230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,ClevelandGuardianspitching,"Scott Barlow, W (1-2)",0.2,0,0,0,0,1,0,4.09,1,6,5,2,3,0,0,0,0,0,,1.0,0.0,0.056,0.88,0.04%,1.06,0.5
+CLE202404230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,ClevelandGuardianspitching,"Hunter Gaddis, H (6)",1.0,1,0,0,0,1,0,0.0,4,14,10,5,3,2,0,2,1,0,,0.0,0.0,0.119,2.33,0.09%,2.82,0.5
+CLE202404230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,ClevelandGuardianspitching,"Emmanuel Clase, S (7)",1.0,0,0,0,0,3,0,0.75,3,13,11,4,6,1,0,0,0,0,,0.0,0.0,0.032,0.42,0.02%,0.5,0.5
+CLE202404230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,ClevelandGuardianspitching,Team Totals,9.0,6,1,1,0,12,1,1.0,31,122,87,47,21,19,6,12,5,0,66.0,1.0,0.0,0.358,1.13,0.26%,1.37,3.4

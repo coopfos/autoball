@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Luis Arráez 2B,5.0,1.0,2.0,0.0,1.0,0.0,6.0,0.309,0.356,0.372,0.729,30.0,19.0,0.034,0.51,0.058,-0.023,0.02%,0.45,1.0,1.0,3.0,SB
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,5.0,1.0,1.0,2.0,0.0,2.0,5.0,0.255,0.346,0.435,0.781,21.0,13.0,0.055,0.53,0.084,-0.029,0.03%,0.47,1.0,1.0,0.0,2B
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Donovan Solano 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.462,0.563,0.538,1.101,,,,,,,,,,0.0,1.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Jurickson Profar LF,4.0,2.0,3.0,1.0,1.0,1.0,5.0,0.335,0.422,0.522,0.944,16.0,9.0,-0.019,0.31,0.028,-0.047,-0.01%,0.28,0.6,1.0,0.0,2B
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,José Azocar PR-LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.286,0.34,0.306,0.646,,,,,,,,,,1.0,0.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Jake Cronenworth 1B,4.0,1.0,1.0,2.0,1.0,1.0,5.0,0.275,0.344,0.485,0.829,25.0,16.0,0.182,0.47,0.191,-0.009,0.10%,0.41,0.8,10.0,0.0,HR
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.224,0.279,0.341,0.62,15.0,9.0,-0.025,0.56,0.018,-0.043,-0.01%,0.49,0.2,0.0,2.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Tyler Wade PH-3B-RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.246,0.333,0.275,0.609,5.0,3.0,0.0,0.01,0.0,0.0,0%,0.01,-0.2,0.0,1.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Xander Bogaerts DH,4.0,0.0,1.0,1.0,0.0,1.0,5.0,0.22,0.266,0.317,0.584,24.0,15.0,0.005,0.3,0.02,-0.014,0.00%,0.27,-0.5,0.0,0.0,SF
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Jackson Merrill CF,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.291,0.338,0.392,0.729,22.0,17.0,0.065,0.36,0.079,-0.014,0.03%,0.32,-0.1,2.0,0.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Luis Campusano C,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.264,0.309,0.421,0.73,20.0,14.0,-0.024,0.27,0.009,-0.034,-0.01%,0.24,-0.0,10.0,1.0,HR
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,4.0,2.0,2.0,1.0,1.0,1.0,5.0,0.212,0.325,0.37,0.694,21.0,11.0,0.058,0.32,0.059,-0.001,0.03%,0.29,1.6,1.0,3.0,"HR,SB"
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Yu Darvish P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Stephen Kolek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202405190,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405190.shtml,SanDiegoPadresbatting,Team Totals,41.0,9.0,14.0,9.0,4.0,9.0,46.0,0.341,0.391,0.61,1.001,199.0,126.0,0.331,0.4,0.546,-0.214,0.17%,0.35,4.4,27.0,12.0,

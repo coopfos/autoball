@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202504090,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202504090.shtml,TorontoBlueJayspitching,Kevin Gausman,8,4,1,0,0,10,0,2.33,27,93,68,41,14,13,5,12,4,0,82.0,,,0.448,1.18,0.31%,1.35,3.0
+BOS202504090,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202504090.shtml,TorontoBlueJayspitching,"Jeff Hoffman, W (1-0)",2,0,0,0,1,3,0,1.23,7,20,16,9,5,2,2,1,0,0,,0.0,0.0,0.448,3.37,0.31%,3.89,1.6
+BOS202504090,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202504090.shtml,TorontoBlueJayspitching,"Nick Sandlin, S (1)",1,0,0,0,0,1,0,1.8,3,9,7,3,3,1,1,1,0,0,,0.0,0.0,0.444,4.76,0.31%,5.49,1.1
+BOS202504090,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202504090.shtml,TorontoBlueJayspitching,Team Totals,11,4,1,0,1,14,0,0.0,37,122,91,53,22,16,8,14,4,0,82.0,0.0,0.0,1.34,1.9,0.93%,2.19,5.8

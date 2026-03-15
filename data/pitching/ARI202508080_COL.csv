@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiespitching,"Austin Gomber, L (0-6)",6,5,6,6,3,3,2,6.52,26,92,63,38,2,23,7,13,5,0,38.0,,,-0.268,0.7,0.00%,0.0,-2.9
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiespitching,Nick Anderson,1,1,0,0,0,1,0,9.64,4,17,13,9,3,1,1,2,1,0,,0.0,0.0,0.004,0.06,0.00%,0.0,0.5
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiespitching,Juan Mejia,1,0,0,0,0,2,0,3.95,4,17,12,5,4,3,0,1,0,0,,0.0,0.0,0.001,0.02,0.00%,0.0,0.5
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiespitching,Team Totals,8,6,6,6,3,6,2,6.75,34,126,88,52,9,27,8,16,6,0,38.0,0.0,0.0,-0.263,0.53,0.00%,0.0,-1.8

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202404160,DET,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,DetroitTigerspitching,Casey Mize,6.0,5,2,2,0,6,0,4.11,23,95,60,34,7,19,10,7,2,0,60.0,,,0.034,1.13,0.02%,1.15,0.9
+DET202404160,DET,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,DetroitTigerspitching,Alex Lange,1.0,0,0,0,0,1,0,1.69,3,9,7,3,1,3,0,2,0,0,,0.0,0.0,0.087,1.15,0.05%,1.17,0.5
+DET202404160,DET,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,DetroitTigerspitching,"Andrew Chafin, W (1-0)",1.1,0,0,0,0,3,0,1.42,4,19,12,5,2,5,0,1,0,0,,0.0,0.0,0.143,1.42,0.09%,1.44,0.7
+DET202404160,DET,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,DetroitTigerspitching,"Jason Foley, S (5)",0.2,1,0,0,1,0,0,0.0,4,14,8,5,0,3,0,3,2,0,,0.0,0.0,0.035,2.43,0.02%,2.47,0.3
+DET202404160,DET,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,DetroitTigerspitching,Team Totals,9.0,6,2,2,1,10,0,2.0,34,137,87,47,10,30,10,13,4,0,60.0,0.0,0.0,0.299,1.31,0.18%,1.33,2.4

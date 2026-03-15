@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,0.0,1.0,0.0,2.0,4.0,0.241,0.344,0.463,0.807,17.0,12.0,-0.026,0.92,0.016,-0.041,-0.01%,0.32,-0.5,3.0,0.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.228,0.301,0.366,0.667,9.0,7.0,0.059,0.94,0.115,-0.056,0.01%,0.33,0.3,2.0,2.0,2B
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Seiya Suzuki DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.274,0.346,0.485,0.831,13.0,8.0,-0.037,0.59,0.02,-0.057,-0.01%,0.21,-0.2,0.0,0.0,SB
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Cody Bellinger RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.265,0.325,0.422,0.747,15.0,10.0,-0.076,0.76,0.0,-0.076,-0.02%,0.27,-0.8,0.0,0.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Isaac Paredes 3B,2.0,1.0,1.0,0.0,1.0,0.0,4.0,0.229,0.341,0.407,0.748,19.0,10.0,0.078,0.88,0.095,-0.017,0.02%,0.31,0.8,1.0,0.0,HBP
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Michael Busch 1B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.254,0.339,0.436,0.775,25.0,17.0,0.01,1.16,0.077,-0.067,0.00%,0.41,-0.2,7.0,1.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,2.0,2.0,0.0,0.0,1.0,4.0,0.258,0.328,0.35,0.678,22.0,15.0,0.117,1.33,0.162,-0.046,0.02%,0.46,0.8,1.0,4.0,SB
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.23,0.282,0.387,0.668,13.0,10.0,-0.126,1.53,0.0,-0.126,-0.03%,0.54,-1.2,3.0,1.0,SF
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Christian Bethancourt C,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.221,0.261,0.416,0.676,9.0,9.0,0.259,1.27,0.281,-0.022,0.05%,0.45,1.7,9.0,1.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Javier Assad P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Tyson Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Jorge López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Porter Hodge P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+WAS202408310,CHC,https://www.baseball-reference.com/boxes/WAS/WAS202408310.shtml,ChicagoCubsbatting,Team Totals,32.0,5.0,7.0,3.0,2.0,7.0,36.0,0.219,0.278,0.25,0.528,142.0,98.0,0.258,1.03,0.766,-0.508,0.05%,0.36,0.6,27.0,10.0,

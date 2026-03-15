@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202506110,CHW,https://www.baseball-reference.com/boxes/HOU/HOU202506110.shtml,ChicagoWhiteSoxpitching,"Sean Burke, L (3-7)",3.2,8,7,7,1,4,1,4.71,20,73,50,32,8,10,2,13,6,0,20.0,,,-0.328,0.45,-0.01%,0.02,-5.4
+HOU202506110,CHW,https://www.baseball-reference.com/boxes/HOU/HOU202506110.shtml,ChicagoWhiteSoxpitching,Owen White,4.1,7,3,3,2,5,0,6.23,20,71,44,28,7,9,5,8,5,0,,1.0,0.0,-0.008,0.06,0.00%,0.0,-0.8
+HOU202506110,CHW,https://www.baseball-reference.com/boxes/HOU/HOU202506110.shtml,ChicagoWhiteSoxpitching,Team Totals,8.0,15,10,10,3,9,1,11.25,40,144,94,60,15,19,7,21,11,0,20.0,1.0,0.0,-0.336,0.25,-0.01%,0.01,-6.2

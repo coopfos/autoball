@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Byron Buxton CF,5.0,1.0,2.0,5.0,0.0,0.0,6.0,0.27,0.314,0.511,0.826,19.0,14.0,0.233,0.75,0.265,-0.032,0.15%,0.78,2.7,0.0,0.0,"2B,SB,SF"
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,5.0,1.0,1.0,1.0,1.0,2.0,6.0,0.256,0.322,0.411,0.733,28.0,16.0,0.011,0.45,0.051,-0.039,0.01%,0.47,-0.1,0.0,0.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Brooks Lee 3B,5.0,0.0,2.0,2.0,0.0,1.0,5.0,0.242,0.28,0.35,0.63,22.0,13.0,0.015,0.49,0.059,-0.044,0.01%,0.51,1.0,0.0,1.0,2B
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Matt Wallner RF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.265,0.383,0.485,0.868,15.0,10.0,-0.044,0.36,0.002,-0.046,-0.03%,0.38,-0.6,1.0,0.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Harrison Bader PR-LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.271,0.358,0.429,0.787,,,,,,,,,,0.0,0.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Carlos Correa SS,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.246,0.287,0.388,0.675,19.0,14.0,0.014,0.36,0.043,-0.029,0.01%,0.37,-0.7,4.0,3.0,2B
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Willi Castro LF-RF,4.0,2.0,2.0,0.0,1.0,0.0,5.0,0.254,0.338,0.41,0.748,21.0,12.0,0.038,0.4,0.054,-0.016,0.02%,0.42,0.7,0.0,0.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Kody Clemens 2B,3.0,2.0,1.0,0.0,1.0,0.0,5.0,0.247,0.356,0.532,0.888,17.0,10.0,0.044,0.5,0.047,-0.003,0.03%,0.52,0.3,0.0,4.0,HBP
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Ty France 1B,5.0,2.0,3.0,2.0,0.0,0.0,5.0,0.269,0.332,0.37,0.702,23.0,14.0,0.16,0.79,0.176,-0.016,0.10%,0.83,1.7,12.0,1.0,2B
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Christian Vázquez C,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.213,0.283,0.303,0.586,17.0,7.0,-0.035,0.58,0.02,-0.055,-0.02%,0.61,0.6,10.0,0.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Joe Ryan P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Brock Stewart P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Louis Varland P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Justin Topa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Kody Funderburk P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202506020,MIN,https://www.baseball-reference.com/boxes/ATH/ATH202506020.shtml,MinnesotaTwinsbatting,Team Totals,40.0,10.0,14.0,10.0,5.0,5.0,47.0,0.35,0.426,0.45,0.876,181.0,110.0,0.436,0.53,0.717,-0.28,0.28%,0.55,5.5,27.0,12.0,

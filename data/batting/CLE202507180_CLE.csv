@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Angel Martínez CF,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.239,0.262,0.393,0.656,19.0,16.0,0.056,0.43,0.082,-0.026,0.02%,0.26,0.0,2.0,0.0,2B
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,David Fry DH,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.155,0.221,0.338,0.559,10.0,8.0,0.1,0.41,0.121,-0.02,0.04%,0.25,0.9,0.0,0.0,HR
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,2.0,2.0,0.0,1.0,0.0,4.0,0.298,0.367,0.516,0.883,16.0,9.0,0.019,0.31,0.044,-0.025,0.01%,0.19,1.0,0.0,3.0,"3B,2B,CS"
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.229,0.324,0.357,0.681,13.0,7.0,-0.017,0.4,0.011,-0.028,-0.01%,0.24,-0.7,13.0,0.0,SF
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Nolan Jones LF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.229,0.318,0.329,0.647,16.0,11.0,-0.011,0.26,0.009,-0.02,-0.00%,0.16,0.6,4.0,0.0,
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Johnathan Rodríguez RF,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.151,0.211,0.283,0.494,19.0,11.0,0.106,0.17,0.112,-0.006,0.04%,0.1,0.8,1.0,0.0,HR
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Will Wilson 2B,3.0,1.0,0.0,0.0,1.0,3.0,4.0,0.152,0.243,0.197,0.44,19.0,11.0,-0.008,0.15,0.005,-0.012,-0.00%,0.1,-0.5,2.0,5.0,
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Bo Naylor C,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.168,0.271,0.346,0.617,21.0,10.0,-0.015,0.27,0.007,-0.022,-0.01%,0.17,0.3,4.0,0.0,
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,4.0,1.0,2.0,2.0,0.0,2.0,4.0,0.2,0.259,0.3,0.559,15.0,9.0,0.066,0.26,0.068,-0.002,0.02%,0.15,1.5,1.0,5.0,2·2B
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Slade Cecconi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardiansbatting,Team Totals,32.0,8.0,9.0,8.0,4.0,12.0,37.0,0.281,0.351,0.656,1.008,148.0,92.0,0.296,0.3,0.459,-0.161,0.11%,0.18,3.9,27.0,13.0,

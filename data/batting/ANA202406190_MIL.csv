@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.274,0.381,0.458,0.838,17.0,9.0,-0.026,0.83,0.036,-0.061,-0.02%,0.97,-0.2,2.0,3.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,William Contreras DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.304,0.364,0.461,0.825,15.0,10.0,0.011,0.8,0.055,-0.044,0.01%,0.94,0.2,0.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Christian Yelich LF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.324,0.402,0.508,0.91,12.0,5.0,0.018,0.92,0.047,-0.029,0.01%,1.08,0.1,1.0,0.0,"2B,SB"
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Willy Adames SS,2.0,0.0,1.0,1.0,2.0,0.0,4.0,0.24,0.333,0.43,0.763,15.0,6.0,0.12,1.17,0.138,-0.018,0.08%,1.37,1.0,0.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,3.0,0.0,1.0,1.0,0.0,1.0,4.0,0.22,0.313,0.414,0.727,9.0,9.0,-0.043,1.28,0.015,-0.058,-0.03%,1.5,-0.4,5.0,0.0,SF
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Andruw Monasterio PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.139,0.262,0.25,0.512,,,,,,,,,,0.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Jake Bauers 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.205,0.291,0.391,0.682,,,,,,,,,,1.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Sal Frelick CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.258,0.335,0.329,0.664,12.0,9.0,-0.113,1.09,0.0,-0.113,-0.08%,1.27,-1.4,4.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Gary Sánchez C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.22,0.297,0.411,0.709,15.0,8.0,0.0,0.62,0.037,-0.037,0%,0.73,0.2,10.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Jackson Chourio RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.224,0.275,0.356,0.631,19.0,13.0,-0.064,0.7,0.023,-0.086,-0.04%,0.82,-1.1,4.0,0.0,"CS,GDP"
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.28,0.347,0.391,0.738,16.0,10.0,-0.08,0.78,0.0,-0.08,-0.06%,0.91,-0.9,0.0,2.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Freddy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Bryan Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Trevor Megill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406190,MIL,https://www.baseball-reference.com/boxes/ANA/ANA202406190.shtml,MilwaukeeBrewersbatting,Team Totals,30.0,2.0,6.0,2.0,5.0,6.0,36.0,0.2,0.306,0.233,0.539,130.0,79.0,-0.177,0.91,0.351,-0.526,-0.12%,1.06,-2.4,27.0,5.0,

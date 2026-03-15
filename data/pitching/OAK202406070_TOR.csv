@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+OAK202406070,TOR,https://www.baseball-reference.com/boxes/OAK/OAK202406070.shtml,TorontoBlueJayspitching,Chris Bassitt,8,4,1,1,2,7,0,3.8,29,102,71,41,15,15,6,14,5,0,75.0,,,0.327,1.19,0.10%,0.64,2.7
+OAK202406070,TOR,https://www.baseball-reference.com/boxes/OAK/OAK202406070.shtml,TorontoBlueJayspitching,"Chad Green, L (1-1)",0,1,1,1,0,0,1,2.25,1,1,1,1,0,0,0,1,0,0,,0.0,0.0,-0.37,2.22,-0.12%,1.18,-1.0
+OAK202406070,TOR,https://www.baseball-reference.com/boxes/OAK/OAK202406070.shtml,TorontoBlueJayspitching,Team Totals,8,5,2,2,2,7,1,2.25,30,103,72,42,15,15,6,15,5,0,75.0,0.0,0.0,-0.043,1.23,-0.01%,0.65,1.7

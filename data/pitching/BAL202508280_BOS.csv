@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202508280,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202508280.shtml,BostonRedSoxpitching,Garrett Crochet,6,6,2,2,0,7,1,2.4,25,98,67,41,11,15,5,11,4,0,59.0,,,0.081,1.49,0.06%,1.75,0.9
+BAL202508280,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202508280.shtml,BostonRedSoxpitching,"Jordan Hicks, W (2-7)",1,1,0,0,1,0,0,6.3,4,15,9,5,0,4,2,1,1,0,,0.0,0.0,0.086,1.73,0.06%,2.03,0.5
+BAL202508280,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202508280.shtml,BostonRedSoxpitching,"Garrett Whitlock, H (21)",1,1,0,0,1,1,0,2.63,5,20,14,8,3,3,0,3,1,0,,0.0,0.0,0.139,2.54,0.10%,2.98,0.5
+BAL202508280,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202508280.shtml,BostonRedSoxpitching,"Steven Matz, S (2)",1,1,0,0,0,0,0,2.98,4,12,7,6,0,1,2,2,1,0,,0.0,0.0,0.195,3.96,0.14%,4.65,0.5
+BAL202508280,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202508280.shtml,BostonRedSoxpitching,Team Totals,9,9,2,2,2,8,1,2.0,38,145,97,60,14,23,9,17,7,0,59.0,0.0,0.0,0.501,1.9,0.35%,2.23,2.4

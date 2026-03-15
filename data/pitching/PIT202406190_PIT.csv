@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202406190,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202406190.shtml,PittsburghPiratespitching,Mitch Keller,7,2,0,0,2,7,0,3.11,25,83,59,31,9,19,5,11,4,0,78.0,,,0.379,1.06,0.18%,0.82,3.2
+PIT202406190,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202406190.shtml,PittsburghPiratespitching,"Colin Holderman, W (3-0)",1,0,0,0,0,1,0,0.7,3,13,9,5,2,2,1,1,0,0,,1.0,0.0,0.176,2.65,0.08%,2.04,0.9
+PIT202406190,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202406190.shtml,PittsburghPiratespitching,"David Bednar, S (16)",1,0,0,0,0,0,0,5.17,3,11,8,8,0,0,0,3,0,0,,0.0,0.0,0.165,2.15,0.08%,1.66,0.5
+PIT202406190,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202406190.shtml,PittsburghPiratespitching,Team Totals,9,2,0,0,2,8,0,0.0,31,107,76,44,11,21,6,15,4,0,78.0,1.0,0.0,0.72,1.35,0.33%,1.04,4.6

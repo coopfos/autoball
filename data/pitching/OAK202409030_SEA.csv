@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+OAK202409030,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409030.shtml,SeattleMarinerspitching,Luis Castillo,7.0,4,2,2,1,5,2,3.6,25,99,70,51,12,7,5,14,2,0,65.0,,,0.197,1.05,0.06%,0.55,1.3
+OAK202409030,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409030.shtml,SeattleMarinerspitching,Troy Taylor,1.0,0,0,0,0,2,0,0.96,3,12,9,4,3,2,0,1,0,0,,0.0,0.0,0.102,1.38,0.03%,0.72,0.5
+OAK202409030,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409030.shtml,SeattleMarinerspitching,"Trent Thornton, L (3-3)",0.1,2,1,1,1,1,0,4.19,4,21,13,7,2,4,2,0,0,0,,0.0,0.0,-0.37,2.79,-0.12%,1.45,-1.4
+OAK202409030,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409030.shtml,SeattleMarinerspitching,Team Totals,8.1,6,3,3,2,8,2,3.24,32,132,92,62,17,13,7,15,2,0,65.0,0.0,0.0,-0.071,1.3,-0.02%,0.68,0.3

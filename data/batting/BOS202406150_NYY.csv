@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Anthony Volpe SS,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.267,0.324,0.407,0.731,23.0,18.0,-0.177,1.34,0.0,-0.177,-0.08%,1.03,-1.5,0.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Juan Soto LF,3.0,1.0,1.0,1.0,2.0,1.0,5.0,0.319,0.435,0.599,1.035,28.0,16.0,0.094,0.67,0.125,-0.031,0.04%,0.52,1.2,3.0,0.0,HR
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Aaron Judge CF,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.3,0.427,0.681,1.108,18.0,9.0,0.042,0.92,0.089,-0.047,0.02%,0.7,0.2,2.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Alex Verdugo RF,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.261,0.314,0.429,0.743,17.0,11.0,-0.148,1.1,0.0,-0.148,-0.07%,0.85,-1.5,2.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.238,0.293,0.488,0.781,18.0,10.0,-0.031,1.42,0.072,-0.103,-0.01%,1.09,-0.3,0.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Anthony Rizzo 1B,2.0,2.0,0.0,0.0,2.0,1.0,4.0,0.226,0.292,0.345,0.636,21.0,13.0,0.022,1.1,0.081,-0.059,0.01%,0.84,0.3,4.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.226,0.302,0.338,0.64,14.0,9.0,-0.008,1.22,0.046,-0.055,-0.00%,0.94,-0.2,2.0,1.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.208,0.295,0.317,0.612,21.0,15.0,-0.017,1.24,0.082,-0.099,-0.01%,0.95,-0.5,10.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Jahmai Jones PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.4,0.5,0.9,,,,,,,,,,0.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Jose Trevino C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.271,0.319,0.434,0.753,,,,,,,,,,1.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,DJ LeMahieu 3B,4.0,0.0,1.0,3.0,0.0,1.0,4.0,0.196,0.302,0.196,0.498,16.0,13.0,0.087,1.89,0.176,-0.089,0.04%,1.45,1.7,0.0,2.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Oswaldo Cabrera PR-3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.233,0.271,0.347,0.618,,,,,,,,,,0.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Ron Marinaccio P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Victor González P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202406150,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202406150.shtml,NewYorkYankeesbatting,Team Totals,34.0,4.0,6.0,4.0,6.0,10.0,40.0,0.176,0.3,0.265,0.565,176.0,114.0,-0.136,1.19,0.671,-0.808,-0.06%,0.91,-0.7,24.0,5.0,

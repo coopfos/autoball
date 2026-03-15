@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202405040,BAL,https://www.baseball-reference.com/boxes/CIN/CIN202405040.shtml,BaltimoreOriolespitching,"John Means, W (1-0)",7.0,3,0,0,0,8,0,0.0,23,85,58,29,15,14,4,11,4,0,79.0,,,0.458,0.9,0.33%,1.08,3.8
+CIN202405040,BAL,https://www.baseball-reference.com/boxes/CIN/CIN202405040.shtml,BaltimoreOriolespitching,"Cionel Pérez, H (2)",1.0,1,0,0,0,0,0,6.0,3,9,5,4,0,1,1,2,2,0,,0.0,0.0,0.095,1.83,0.07%,2.2,0.5
+CIN202405040,BAL,https://www.baseball-reference.com/boxes/CIN/CIN202405040.shtml,BaltimoreOriolespitching,"Craig Kimbrel, H (1)",0.1,2,1,1,1,1,0,3.55,4,18,9,4,2,3,0,2,2,0,,0.0,0.0,-0.369,3.86,-0.27%,4.62,-1.7
+CIN202405040,BAL,https://www.baseball-reference.com/boxes/CIN/CIN202405040.shtml,BaltimoreOriolespitching,"Yennier Cano, S (1)",0.2,0,0,0,1,1,0,2.08,3,14,9,6,1,2,0,1,0,0,,2.0,0.0,0.468,8.13,0.34%,9.74,1.2
+CIN202405040,BAL,https://www.baseball-reference.com/boxes/CIN/CIN202405040.shtml,BaltimoreOriolespitching,Team Totals,9.0,6,1,1,2,10,0,1.0,33,126,81,43,18,20,5,16,8,0,79.0,2.0,0.0,0.652,2.18,0.47%,2.61,3.8

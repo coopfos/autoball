@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Brandon Nimmo LF,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.258,0.318,0.473,0.79,19.0,16.0,0.023,1.46,0.162,-0.14,0.02%,1.99,0.6,2.0,0.0,2B
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Francisco Lindor SS,5.0,2.0,1.0,2.0,0.0,1.0,5.0,0.26,0.331,0.457,0.788,20.0,14.0,-0.118,1.53,0.075,-0.193,-0.10%,2.08,0.5,3.0,2.0,HR
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Juan Soto RF,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.269,0.399,0.509,0.908,15.0,9.0,0.238,1.59,0.28,-0.043,0.19%,2.16,1.0,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.29,0.383,0.551,0.934,15.0,10.0,0.299,1.7,0.388,-0.089,0.24%,2.31,1.6,12.0,1.0,"HR,GDP,IW"
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Jesse Winker DH,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.232,0.313,0.406,0.718,6.0,5.0,-0.048,0.96,0.0,-0.048,-0.04%,1.31,-0.4,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Mark Vientos PH-DH-DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.21,0.272,0.341,0.613,10.0,6.0,-0.101,1.92,0.0,-0.101,-0.08%,2.62,-0.7,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Travis Jankowski PH-DH-DH,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.244,0.286,0.289,0.575,2.0,2.0,0.005,2.66,0.005,0.0,0.00%,3.62,-0.1,0.0,0.0,SH
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Jeff McNeil CF-2B,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.254,0.344,0.47,0.814,10.0,7.0,-0.086,1.61,0.005,-0.091,-0.07%,2.19,-0.5,1.0,2.0,IW
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Luis Torrens C,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.21,0.285,0.315,0.6,22.0,13.0,-0.146,1.42,0.027,-0.173,-0.12%,1.94,-1.0,8.0,2.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Ronny Mauricio 3B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.244,0.311,0.427,0.738,22.0,13.0,-0.04,1.91,0.165,-0.204,-0.03%,2.6,-0.4,3.0,5.0,HR
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Brett Baty 2B,3.0,1.0,2.0,0.0,1.0,1.0,4.0,0.233,0.285,0.419,0.704,12.0,6.0,0.147,1.07,0.167,-0.02,0.12%,1.46,0.8,1.0,2.0,2B
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Tyrone Taylor PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.208,0.265,0.305,0.57,,,0.058,3.03,0.058,0.0,0.05%,4.13,0.2,0.0,0.0,SB
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Richard Lovelady P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Alex Carrillo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Huascar Brazobán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507080,NYM,https://www.baseball-reference.com/boxes/BAL/BAL202507080.shtml,NewYorkMetsbatting,Team Totals,39.0,7.0,11.0,7.0,4.0,13.0,44.0,0.282,0.349,0.564,0.913,153.0,101.0,0.231,1.6,1.332,-1.102,0.19%,2.17,1.5,30.0,16.0,

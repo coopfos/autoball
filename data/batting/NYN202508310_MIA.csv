@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Xavier Edwards 2B,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.285,0.342,0.358,0.7,13.0,11.0,-0.008,0.4,0.032,-0.04,0%,0.02,0.6,2.0,4.0,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Jakob Marsee CF,3.0,2.0,2.0,0.0,2.0,0.0,5.0,0.352,0.43,0.629,1.058,21.0,10.0,0.042,0.28,0.051,-0.009,0.00%,0.01,0.7,1.0,0.0,2B
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Agustín Ramírez C,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.233,0.29,0.43,0.72,19.0,9.0,0.233,0.58,0.246,-0.013,0.01%,0.04,1.6,10.0,0.0,"HR,GDP"
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Otto Lopez SS,2.0,0.0,0.0,1.0,1.0,1.0,4.0,0.244,0.312,0.365,0.676,16.0,7.0,0.002,0.64,0.012,-0.011,0%,0.04,-0.3,3.0,2.0,SF
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Liam Hicks 1B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.261,0.354,0.367,0.721,11.0,8.0,-0.001,0.45,0.035,-0.035,0%,0.03,-0.5,7.0,0.0,2B
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Heriberto Hernández LF,4.0,0.0,2.0,1.0,0.0,2.0,4.0,0.273,0.332,0.437,0.769,17.0,10.0,0.022,0.43,0.046,-0.024,0.00%,0.03,0.7,1.0,0.0,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Víctor Mesa Jr. LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.143,0.333,0.143,0.476,,,,,,,,,,0.0,0.0,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Troy Johnston DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.286,0.318,0.397,0.715,15.0,13.0,-0.05,0.36,0.0,-0.05,-0.00%,0.02,-1.4,0.0,0.0,GDP
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Joey Wiemer RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.217,0.208,0.261,0.469,10.0,9.0,-0.021,0.2,0.0,-0.021,-0.00%,0.01,-0.6,2.0,0.0,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Javier Sanoja 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.245,0.288,0.393,0.681,11.0,7.0,-0.006,0.34,0.022,-0.027,0%,0.02,-0.1,1.0,2.0,2B
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Sandy Alcantara P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Freddy Tarnok P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508310,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508310.shtml,MiamiMarlinsbatting,Team Totals,34.0,5.0,10.0,4.0,4.0,10.0,39.0,0.294,0.359,0.471,0.83,133.0,84.0,0.213,0.41,0.444,-0.23,0.01%,0.02,0.6,27.0,8.0,

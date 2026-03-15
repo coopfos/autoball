@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Mookie Betts SS,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.335,0.44,0.534,0.974,14.0,9.0,-0.088,0.66,0.0,-0.088,-0.07%,0.92,-1.6,2.0,3.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.352,0.423,0.667,1.09,17.0,9.0,0.004,0.91,0.056,-0.052,0.00%,1.27,-0.3,0.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Enrique Hernández PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.208,0.271,0.26,0.53,5.0,3.0,0.0,0.02,0.0,0.0,0%,0.03,-0.1,0.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,1.0,2.0,1.0,1.0,0.0,4.0,0.309,0.418,0.483,0.901,11.0,7.0,0.165,0.82,0.196,-0.031,0.14%,1.14,1.8,8.0,0.0,"HR,2B,IW"
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Will Smith C,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.315,0.38,0.485,0.865,18.0,10.0,-0.052,0.82,0.009,-0.061,-0.04%,1.15,-1.2,6.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Max Muncy 3B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.242,0.349,0.524,0.873,16.0,8.0,-0.072,1.13,0.013,-0.085,-0.06%,1.57,-0.9,1.0,2.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,4.0,1.0,1.0,4.0,0.0,2.0,4.0,0.258,0.324,0.51,0.833,14.0,11.0,0.208,1.28,0.264,-0.055,0.17%,1.78,2.6,2.0,0.0,HR
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Andy Pages RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.298,0.333,0.5,0.833,15.0,11.0,-0.034,0.3,0.002,-0.036,-0.03%,0.41,-0.2,3.0,0.0,SB
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.188,0.257,0.24,0.497,23.0,12.0,0.043,0.63,0.064,-0.02,0.04%,0.88,0.5,3.0,2.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,James Outman CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.153,0.252,0.276,0.528,19.0,9.0,-0.047,0.46,0.006,-0.054,-0.04%,0.64,-0.2,2.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,James Paxton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Gus Varland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Ryan Yarbrough P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,J.P. Feyereisen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405110,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405110.shtml,LosAngelesDodgersbatting,Team Totals,32.0,5.0,5.0,5.0,6.0,10.0,38.0,0.156,0.289,0.375,0.664,152.0,89.0,0.127,0.75,0.61,-0.482,0.11%,1.05,0.4,27.0,7.0,

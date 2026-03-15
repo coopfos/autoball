@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202409140,SDP,https://www.baseball-reference.com/boxes/SFN/SFN202409140.shtml,SanDiegoPadrespitching,"Joe Musgrove, W (6-5)",6,3,0,0,0,8,0,4.23,22,91,60,31,11,18,7,6,2,0,74.0,,,0.306,1.0,0.24%,1.29,2.8
+SFN202409140,SDP,https://www.baseball-reference.com/boxes/SFN/SFN202409140.shtml,SanDiegoPadrespitching,Adrián Morejón,1,0,0,0,0,1,0,3.05,3,9,8,4,3,1,2,0,0,0,,0.0,0.0,0.018,0.23,0.01%,0.3,0.5
+SFN202409140,SDP,https://www.baseball-reference.com/boxes/SFN/SFN202409140.shtml,SanDiegoPadrespitching,Alek Jacob,2,2,0,0,0,1,0,2.45,8,32,21,10,2,9,1,6,5,0,,0.0,0.0,0.002,0.02,0.00%,0.03,0.9
+SFN202409140,SDP,https://www.baseball-reference.com/boxes/SFN/SFN202409140.shtml,SanDiegoPadrespitching,Team Totals,9,5,0,0,0,10,0,0.0,33,132,89,45,16,28,10,12,7,0,74.0,0.0,0.0,0.326,0.7,0.25%,0.9,4.2

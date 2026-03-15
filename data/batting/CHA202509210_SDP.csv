@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.267,0.367,0.438,0.805,16.0,11.0,0.018,0.74,0.091,-0.073,0.00%,0.12,0.2,1.0,0.0,HR
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Luis Arráez 2B-1B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.287,0.321,0.383,0.705,13.0,6.0,-0.006,0.51,0.027,-0.033,-0.00%,0.08,-0.1,3.0,4.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.275,0.334,0.459,0.793,12.0,9.0,-0.088,0.65,0.0,-0.088,-0.01%,0.11,-1.3,0.0,4.0,GDP
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.263,0.316,0.453,0.769,15.0,10.0,0.058,0.84,0.092,-0.034,0.01%,0.14,0.4,1.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Ramón Laureano LF,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.282,0.342,0.516,0.858,11.0,10.0,-0.068,0.71,0.0,-0.068,-0.01%,0.12,-0.9,1.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Gavin Sheets DH,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.258,0.323,0.443,0.767,19.0,13.0,0.037,0.62,0.067,-0.031,0.00%,0.1,0.2,0.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Ryan O'Hearn 1B,4.0,0.0,3.0,0.0,0.0,1.0,4.0,0.274,0.36,0.429,0.79,22.0,14.0,0.005,0.56,0.037,-0.032,0.00%,0.09,0.4,7.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Mason McCoy PR-SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.176,0.263,0.235,0.498,,,0.038,1.32,0.038,0.0,0.00%,0.22,0.5,0.0,0.0,SB
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Jake Cronenworth SS-2B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.25,0.371,0.386,0.757,12.0,10.0,0.088,0.74,0.114,-0.026,0.01%,0.12,0.7,2.0,2.0,SB
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Elias Díaz C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.203,0.27,0.327,0.597,9.0,7.0,-0.041,0.52,0.0,-0.041,-0.00%,0.09,-0.8,9.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Will Wagner PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.222,0.319,0.278,0.597,4.0,1.0,-0.057,1.11,0.0,-0.057,-0.01%,0.18,-0.8,0.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Freddy Fermin C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.262,0.307,0.354,0.662,,,,,,,,,,2.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Michael King P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Kyle Hart P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Robert Suarez P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHA202509210,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509210.shtml,SanDiegoPadresbatting,Team Totals,36.0,3.0,10.0,2.0,1.0,11.0,37.0,0.278,0.297,0.361,0.658,133.0,91.0,-0.016,0.69,0.466,-0.483,-0.00%,0.11,-1.5,27.0,10.0,

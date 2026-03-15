@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,5.0,2.0,2.0,0.0,0.0,0.0,5.0,0.29,0.387,0.615,1.002,20.0,14.0,0.05,0.27,0.052,-0.002,0.03%,0.29,0.0,3.0,0.0,
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,1.0,2.0,2.0,0.0,0.0,5.0,0.3,0.351,0.479,0.83,18.0,13.0,-0.046,0.43,0.002,-0.048,-0.03%,0.46,0.5,9.0,1.0,"HR,SF"
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Ryan O'Hearn DH,4.0,2.0,1.0,0.0,1.0,0.0,5.0,0.283,0.342,0.466,0.807,13.0,7.0,0.066,0.35,0.067,-0.001,0.04%,0.37,0.4,0.0,0.0,
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.276,0.32,0.466,0.786,11.0,8.0,-0.025,0.73,0.013,-0.038,-0.02%,0.78,-0.7,8.0,0.0,SF
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Heston Kjerstad RF,3.0,2.0,2.0,3.0,1.0,0.0,4.0,0.24,0.345,0.4,0.745,15.0,8.0,0.167,0.52,0.168,-0.001,0.11%,0.55,2.9,2.0,0.0,HR
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,0.0,1.0,2.0,0.0,1.0,4.0,0.286,0.338,0.516,0.853,15.0,8.0,0.14,0.41,0.142,-0.002,0.09%,0.43,1.1,2.0,4.0,2B
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Colton Cowser LF,4.0,2.0,2.0,1.0,0.0,0.0,4.0,0.231,0.32,0.448,0.768,10.0,7.0,0.0,0.15,0.011,-0.011,0%,0.16,1.2,2.0,0.0,"HR,2B"
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,4.0,2.0,3.0,2.0,0.0,0.0,4.0,0.223,0.265,0.399,0.664,15.0,11.0,0.014,0.12,0.021,-0.008,0.01%,0.12,2.0,1.0,0.0,"HR,2B"
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Jorge Mateo 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.24,0.281,0.448,0.729,16.0,12.0,-0.007,0.07,0.0,-0.007,-0.00%,0.07,-0.1,0.0,4.0,
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Corbin Burnes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Bryan Baker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Nick Vespi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202406270,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,BaltimoreOriolesbatting,Team Totals,35.0,11.0,14.0,11.0,2.0,3.0,39.0,0.4,0.41,0.829,1.239,133.0,88.0,0.359,0.34,0.476,-0.118,0.23%,0.36,7.4,27.0,9.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202406030,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406030.shtml,SanDiegoPadrespitching,Matt Waldron,6.1,2,1,1,0,4,0,3.98,21,95,55,35,4,16,7,10,2,0,69.0,,,0.266,1.06,0.16%,1.04,2.2
+ANA202406030,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406030.shtml,SanDiegoPadrespitching,"Adrián Morejón, L (1-1)",1.0,2,1,1,0,0,0,2.22,5,15,10,6,4,0,1,4,2,0,,0.0,0.0,-0.085,1.7,-0.05%,1.67,-0.2
+ANA202406030,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406030.shtml,SanDiegoPadrespitching,Jeremiah Estrada,0.2,0,0,0,0,0,0,0.48,2,4,3,2,1,0,1,1,0,0,,1.0,1.0,-0.099,1.88,-0.06%,1.84,-0.1
+ANA202406030,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406030.shtml,SanDiegoPadrespitching,Team Totals,8.0,4,2,2,0,4,0,2.25,28,114,68,43,9,16,9,15,4,0,69.0,1.0,1.0,0.082,1.23,0.05%,1.21,2.0

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202408120,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202408120.shtml,TorontoBlueJayspitching,"Bowden Francis, W (5-3)",7.0,1,1,1,0,8,1,4.92,22,81,57,32,9,16,6,8,0,0,79.0,,,0.286,0.66,0.00%,0.01,2.5
+ANA202408120,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202408120.shtml,TorontoBlueJayspitching,"Zach Pop, H (10)",0.2,0,0,0,1,0,0,6.19,3,10,5,3,1,1,2,0,0,0,,0.0,0.0,0.029,0.66,0.00%,0.01,0.3
+ANA202408120,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202408120.shtml,TorontoBlueJayspitching,"Génesis Cabrera, H (8)",0.1,0,0,0,0,0,0,3.4,1,6,3,2,1,0,1,0,0,0,,1.0,0.0,0.021,0.73,0.00%,0.01,0.2
+ANA202408120,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202408120.shtml,TorontoBlueJayspitching,"Chad Green, S (13)",1.0,1,1,1,0,0,1,1.82,4,15,11,7,2,2,2,2,2,0,,0.0,0.0,0.04,1.11,0.00%,0.02,-0.5
+ANA202408120,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202408120.shtml,TorontoBlueJayspitching,Team Totals,9.0,2,2,2,1,8,2,2.0,30,112,76,44,13,19,11,10,2,0,79.0,1.0,0.0,0.376,0.72,0.00%,0.01,2.5

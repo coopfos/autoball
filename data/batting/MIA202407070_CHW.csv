@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Tommy Pham LF,5.0,0.0,1.0,0.0,0.0,3.0,5.0,0.268,0.339,0.366,0.705,27.0,17.0,-0.086,0.97,0.029,-0.115,0%,0.0,-0.9,4.0,0.0,SB
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn 1B,2.0,0.0,1.0,1.0,2.0,0.0,5.0,0.242,0.299,0.396,0.695,23.0,11.0,0.056,0.91,0.072,-0.016,0%,0.0,0.7,9.0,1.0,SF
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.227,0.301,0.496,0.798,23.0,16.0,-0.06,0.97,0.04,-0.1,0%,0.0,-1.0,2.0,0.0,2B
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Gavin Sheets RF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.23,0.323,0.387,0.71,28.0,19.0,-0.088,1.08,0.037,-0.124,0%,0.0,-1.1,1.0,0.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Corey Julks RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.238,0.313,0.386,0.699,,,,,,,,,,0.0,0.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Eloy Jiménez DH,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.23,0.289,0.354,0.643,15.0,12.0,-0.109,0.86,0.0,-0.109,0%,0.0,-1.2,0.0,0.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Paul DeJong SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.233,0.284,0.445,0.73,23.0,12.0,-0.042,0.68,0.014,-0.056,0%,0.0,-0.5,2.0,3.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.258,0.29,0.387,0.677,19.0,11.0,0.003,0.84,0.055,-0.051,0%,0.0,0.0,2.0,2.0,SB
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Danny Mendick 3B,3.0,2.0,2.0,2.0,1.0,0.0,4.0,0.2,0.248,0.328,0.576,18.0,10.0,0.237,1.18,0.289,-0.052,0%,0.0,2.0,1.0,0.0,"HR,SB"
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Korey Lee C,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.23,0.268,0.378,0.645,15.0,10.0,0.108,1.04,0.164,-0.057,0%,0.0,1.1,4.0,1.0,2B
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Jonathan Cannon P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Tanner Banks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,John Brebbia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIA202407070,CHW,https://www.baseball-reference.com/boxes/MIA/MIA202407070.shtml,ChicagoWhiteSoxbatting,Team Totals,36.0,4.0,9.0,4.0,4.0,9.0,41.0,0.25,0.317,0.389,0.706,191.0,118.0,0.019,0.95,0.7,-0.68,0.00%,0.0,-0.9,26.0,9.0,

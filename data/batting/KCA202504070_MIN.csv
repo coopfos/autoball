@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Matt Wallner RF,3.0,0.0,2.0,0.0,1.0,1.0,4.0,0.303,0.41,0.485,0.895,19.0,11.0,0.046,0.87,0.108,-0.062,0.03%,0.8,0.3,3.0,0.0,2B
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.111,0.179,0.139,0.318,24.0,16.0,-0.13,1.32,0.0,-0.13,-0.07%,1.21,-1.2,1.0,3.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.189,0.231,0.324,0.555,17.0,8.0,-0.08,0.79,0.0,-0.08,-0.04%,0.73,-0.7,3.0,0.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.226,0.306,0.258,0.564,12.0,9.0,-0.089,0.85,0.0,-0.089,-0.05%,0.79,-0.9,0.0,0.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Ty France 1B,3.0,2.0,1.0,0.0,0.0,0.0,4.0,0.2,0.263,0.257,0.52,10.0,7.0,0.031,0.7,0.071,-0.04,0.02%,0.64,0.5,2.0,0.0,"2B,HBP"
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,José Miranda 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.172,0.172,0.276,0.448,17.0,9.0,-0.037,0.98,0.042,-0.08,-0.02%,0.9,-0.4,1.0,0.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Willi Castro 2B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.235,0.333,0.441,0.775,15.0,8.0,0.083,0.99,0.122,-0.039,0.04%,0.91,0.8,4.0,1.0,2B
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Harrison Bader LF,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.296,0.321,0.667,0.988,19.0,13.0,-0.006,1.22,0.058,-0.064,-0.00%,1.11,0.6,2.0,0.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Christian Vázquez C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.063,0.118,0.125,0.243,12.0,7.0,-0.097,1.18,0.0,-0.097,-0.05%,1.09,-1.0,8.0,1.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Edouard Julien PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.167,0.211,0.222,0.433,5.0,2.0,-0.073,2.85,0.0,-0.073,-0.04%,2.61,-0.4,0.0,0.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Simeon Woods Richardson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Scott Blewett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202504070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202504070.shtml,MinnesotaTwinsbatting,Team Totals,33.0,2.0,7.0,2.0,2.0,5.0,36.0,0.212,0.278,0.303,0.581,150.0,90.0,-0.352,1.01,0.401,-0.754,-0.20%,0.93,-2.5,24.0,5.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Alex Call RF,3.0,1.0,0.0,0.0,2.0,1.0,5.0,0.385,0.514,0.538,1.052,23.0,13.0,-0.031,1.3,0.073,-0.104,-0.02%,1.19,0.2,2.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,James Wood LF,4.0,2.0,1.0,0.0,1.0,1.0,5.0,0.269,0.367,0.615,0.982,23.0,14.0,-0.03,1.24,0.095,-0.126,-0.02%,1.14,-0.2,4.0,0.0,GDP
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,2.0,3.0,1.0,0.0,0.0,4.0,0.37,0.442,0.543,0.986,14.0,8.0,0.243,1.45,0.254,-0.01,0.13%,1.33,2.4,4.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Nathaniel Lowe DH,2.0,0.0,0.0,2.0,2.0,0.0,4.0,0.25,0.333,0.521,0.854,18.0,8.0,0.128,2.08,0.175,-0.048,0.07%,1.91,1.4,0.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Josh Bell 1B,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.182,0.321,0.364,0.684,11.0,7.0,0.003,1.92,0.13,-0.127,0.00%,1.76,0.2,9.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.182,0.196,0.295,0.491,12.0,9.0,-0.176,1.75,0.0,-0.176,-0.10%,1.61,-1.4,2.0,1.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Amed Rosario 3B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.308,0.308,0.5,0.808,7.0,7.0,-0.024,1.67,0.077,-0.1,-0.01%,1.53,0.2,0.0,2.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Paul DeJong SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.182,0.217,0.273,0.49,15.0,12.0,-0.177,1.61,0.0,-0.177,-0.10%,1.48,-1.3,0.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.2,0.355,0.24,0.595,17.0,11.0,-0.075,1.37,0.042,-0.117,-0.04%,1.25,-0.2,3.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Trevor Williams P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Colin Poche P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Eduardo Salazar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Jorge López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Jackson Rutledge P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+MIA202504120,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202504120.shtml,WashingtonNationalsbatting,Team Totals,33.0,6.0,7.0,6.0,5.0,4.0,38.0,0.212,0.316,0.212,0.528,140.0,89.0,-0.139,1.58,0.846,-0.985,-0.08%,1.45,1.3,24.0,6.0,

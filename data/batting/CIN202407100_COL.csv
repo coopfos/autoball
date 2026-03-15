@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.265,0.293,0.438,0.731,14.0,10.0,0.042,0.46,0.08,-0.038,0%,0.0,0.4,1.0,5.0,2B
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.272,0.313,0.388,0.701,16.0,11.0,-0.077,0.43,0.0,-0.077,0%,0.0,-1.6,3.0,3.0,GDP
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.274,0.349,0.452,0.801,16.0,11.0,-0.055,0.52,0.011,-0.065,0%,0.0,-0.4,2.0,2.0,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Elias Díaz C,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.296,0.34,0.417,0.756,16.0,9.0,0.054,0.73,0.09,-0.036,0%,0.0,1.0,10.0,1.0,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Brenton Doyle DH,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.28,0.347,0.465,0.813,12.0,7.0,0.005,0.51,0.037,-0.032,0%,0.0,0.9,0.0,0.0,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Jake Cave RF,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.262,0.309,0.354,0.663,10.0,7.0,0.041,0.5,0.075,-0.034,0%,0.0,-0.1,2.0,1.0,"2B,GDP"
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Michael Toglia 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.182,0.249,0.421,0.67,11.0,9.0,-0.055,0.51,0.0,-0.055,0%,0.0,-1.1,8.0,0.0,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Nolan Jones LF,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.199,0.305,0.311,0.615,13.0,7.0,0.019,0.51,0.052,-0.034,0%,0.0,0.3,1.0,0.0,CS
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Sam Hilliard CF,4.0,2.0,2.0,3.0,0.0,1.0,4.0,0.267,0.353,0.667,1.02,18.0,10.0,0.244,0.66,0.253,-0.009,0%,0.0,2.0,0.0,0.0,2·HR
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Kyle Freeland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407100,COL,https://www.baseball-reference.com/boxes/CIN/CIN202407100.shtml,ColoradoRockiesbatting,Team Totals,36.0,6.0,12.0,6.0,2.0,8.0,38.0,0.333,0.368,0.556,0.924,126.0,81.0,0.218,0.53,0.598,-0.38,0.00%,0.0,1.2,27.0,12.0,

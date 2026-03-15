@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202505040,ATH,https://www.baseball-reference.com/boxes/MIA/MIA202505040.shtml,Athleticspitching,JP Sears,6.1,4,2,2,0,2,0,2.93,23,80,60,37,5,18,14,7,5,0,59.0,,,0.157,1.02,0.10%,1.08,1.4
+MIA202505040,ATH,https://www.baseball-reference.com/boxes/MIA/MIA202505040.shtml,Athleticspitching,"Mitch Spence, W (1-0)",1.2,1,0,0,0,1,0,3.74,6,24,16,12,0,4,5,0,0,0,,0.0,0.0,0.16,1.29,0.10%,1.36,0.8
+MIA202505040,ATH,https://www.baseball-reference.com/boxes/MIA/MIA202505040.shtml,Athleticspitching,"Tyler Ferguson, S (1)",1.0,0,0,0,0,1,0,0.55,3,11,7,5,2,0,1,1,0,0,,0.0,0.0,0.208,2.7,0.13%,2.86,0.5
+MIA202505040,ATH,https://www.baseball-reference.com/boxes/MIA/MIA202505040.shtml,Athleticspitching,Team Totals,9.0,5,2,2,0,4,0,2.0,32,115,83,54,7,22,20,8,5,0,59.0,0.0,0.0,0.525,1.22,0.33%,1.29,2.7

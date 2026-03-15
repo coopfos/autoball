@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202509020,NYM,https://www.baseball-reference.com/boxes/DET/DET202509020.shtml,NewYorkMetspitching,"Nolan McLean, W (4-0)",6.0,3,2,2,3,7,0,1.37,22,90,56,26,8,22,8,4,2,0,62.0,,,0.047,0.73,0.03%,0.82,1.0
+DET202509020,NYM,https://www.baseball-reference.com/boxes/DET/DET202509020.shtml,NewYorkMetspitching,Kevin Herget,2.1,4,3,3,2,1,0,3.48,12,45,27,17,3,7,4,5,3,0,,0.0,0.0,0.0,0.01,0.00%,0.01,-2.0
+DET202509020,NYM,https://www.baseball-reference.com/boxes/DET/DET202509020.shtml,NewYorkMetspitching,Ryne Stanek,0.2,1,0,0,0,0,0,5.17,3,4,3,3,0,0,0,3,1,0,,1.0,0.0,0.001,0.04,0.00%,0.04,0.5
+DET202509020,NYM,https://www.baseball-reference.com/boxes/DET/DET202509020.shtml,NewYorkMetspitching,Team Totals,9.0,8,5,5,5,8,0,5.0,37,139,86,46,11,29,12,12,6,0,62.0,1.0,0.0,0.048,0.44,0.03%,0.49,-0.5

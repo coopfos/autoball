@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202508280,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202508280.shtml,PhiladelphiaPhilliespitching,"Aaron Nola, W (3-7)",6,4,4,4,3,4,1,6.47,23,95,55,34,6,15,5,11,5,0,49.0,,,-0.069,0.86,-0.05%,1.12,-0.8
+PHI202508280,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202508280.shtml,PhiladelphiaPhilliespitching,Daniel Robert,2,2,0,0,0,1,0,4.38,8,34,25,15,3,7,2,5,2,0,,0.0,0.0,0.001,0.01,0.00%,0.01,1.1
+PHI202508280,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202508280.shtml,PhiladelphiaPhilliespitching,Lou Trivino,1,0,0,0,0,1,0,4.2,3,11,8,7,1,0,0,2,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+PHI202508280,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202508280.shtml,PhiladelphiaPhilliespitching,Team Totals,9,6,4,4,3,6,1,4.0,34,140,88,56,10,22,7,18,7,0,49.0,0.0,0.0,-0.068,0.59,-0.05%,0.77,0.8

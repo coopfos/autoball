@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Will Benson CF-RF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.212,0.291,0.444,0.735,8.0,7.0,0.02,0.59,0.081,-0.061,0.01%,0.59,0.2,4.0,0.0,2·2B
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.28,0.39,0.59,0.98,10.0,8.0,0.039,0.58,0.1,-0.061,0.02%,0.58,-0.1,1.0,3.0,HR
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Spencer Steer LF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.252,0.371,0.427,0.798,21.0,12.0,0.056,0.48,0.08,-0.024,0.03%,0.47,0.6,1.0,0.0,2B
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Jake Fraley RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.293,0.359,0.414,0.773,16.0,10.0,-0.045,0.42,0.0,-0.045,-0.03%,0.42,-0.9,0.0,0.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Bubba Thompson CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.111,0.111,0.167,0.278,,,,,,,,,,0.0,0.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Jonathan India 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.227,0.349,0.307,0.656,19.0,10.0,-0.049,0.52,0.004,-0.052,-0.03%,0.52,-0.5,0.0,2.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Nick Martini DH,3.0,2.0,1.0,0.0,0.0,0.0,4.0,0.206,0.23,0.382,0.612,20.0,14.0,0.036,0.39,0.046,-0.01,0.02%,0.38,0.2,0.0,0.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Jeimer Candelario 1B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.174,0.273,0.337,0.61,16.0,9.0,0.149,0.75,0.167,-0.018,0.09%,0.74,1.4,8.0,0.0,2B
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Santiago Espinal 3B,3.0,0.0,1.0,2.0,0.0,0.0,4.0,0.197,0.254,0.262,0.516,15.0,10.0,-0.003,0.7,0.024,-0.027,-0.00%,0.69,0.6,0.0,1.0,SF
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Luke Maile C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.167,0.268,0.278,0.546,15.0,8.0,-0.038,0.35,0.0,-0.038,-0.02%,0.34,-1.1,13.0,1.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Nick Lodolo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Alexis Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404290,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404290.shtml,CincinnatiRedsbatting,Team Totals,33.0,5.0,8.0,4.0,1.0,6.0,36.0,0.242,0.257,0.455,0.712,140.0,88.0,0.165,0.54,0.502,-0.336,0.10%,0.53,0.5,27.0,7.0,

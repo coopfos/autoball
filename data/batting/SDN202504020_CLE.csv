@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.348,0.4,0.522,0.922,13.0,10.0,-0.033,0.69,0.024,-0.057,-0.02%,0.62,-0.3,3.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,José Ramírez 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.294,0.35,0.588,0.938,13.0,8.0,0.071,0.62,0.093,-0.022,0.04%,0.56,1.1,0.0,1.0,2B
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Kyle Manzardo 1B,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.25,0.333,0.7,1.033,13.0,9.0,-0.097,0.93,0.0,-0.097,-0.05%,0.83,-1.0,6.0,1.0,SF
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Carlos Santana DH,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.261,0.308,0.348,0.656,16.0,11.0,0.089,0.75,0.1,-0.011,0.05%,0.68,0.9,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Nolan Jones RF,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.2,0.294,0.333,0.627,17.0,12.0,-0.058,1.31,0.092,-0.15,-0.03%,1.18,-0.3,4.0,0.0,"2B,GDP"
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Lane Thomas CF,4.0,0.0,0.0,1.0,0.0,0.0,4.0,0.143,0.182,0.143,0.325,11.0,7.0,-0.108,1.02,0.0,-0.108,-0.06%,0.92,-1.1,3.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Bo Naylor C,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.118,0.167,0.118,0.284,13.0,7.0,-0.034,0.66,0.0,-0.034,-0.02%,0.59,-0.4,4.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Jhonkensy Noel PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.111,0.182,0.111,0.293,1.0,1.0,-0.035,1.25,0.0,-0.035,-0.02%,1.13,-0.4,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.188,0.278,0.188,0.465,4.0,4.0,-0.011,0.41,0.0,-0.011,-0.01%,0.37,-0.2,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Gabriel Arias SS-2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.316,0.333,0.526,0.86,13.0,8.0,-0.004,0.48,0.021,-0.026,-0.00%,0.43,-0.2,1.0,2.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.125,0.364,0.5,0.864,9.0,5.0,-0.032,0.61,0.0,-0.032,-0.02%,0.56,-0.3,1.0,2.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Johnathan Rodríguez PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,-0.048,1.71,0.0,-0.048,-0.03%,1.54,-0.5,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Austin Hedges C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.333,0.5,1.333,1.833,,,,,,,,,,1.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Ben Lively P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Jakob Junis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504020,CLE,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,ClevelandGuardiansbatting,Team Totals,33.0,2.0,8.0,2.0,1.0,9.0,35.0,0.242,0.257,0.303,0.56,126.0,85.0,-0.3,0.83,0.33,-0.631,-0.16%,0.75,-2.6,24.0,6.0,

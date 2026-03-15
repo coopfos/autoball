@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.266,0.368,0.435,0.803,15.0,10.0,-0.084,1.29,0.022,-0.106,-0.01%,0.29,-0.6,2.0,0.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Luis Arráez 2B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.287,0.321,0.385,0.706,12.0,7.0,0.012,1.34,0.101,-0.089,0.00%,0.3,0.5,0.0,1.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.277,0.337,0.465,0.801,11.0,10.0,-0.111,1.09,0.0,-0.111,-0.01%,0.25,-0.8,2.0,3.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.26,0.313,0.445,0.759,15.0,12.0,-0.003,1.08,0.077,-0.081,0%,0.24,0.1,3.0,0.0,2B
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Ramón Laureano LF,4.0,2.0,1.0,0.0,0.0,1.0,4.0,0.285,0.346,0.523,0.869,13.0,10.0,-0.06,1.54,0.082,-0.142,-0.01%,0.35,-0.2,0.0,1.0,"2B,SB"
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Gavin Sheets DH,3.0,0.0,0.0,1.0,1.0,0.0,4.0,0.258,0.322,0.446,0.768,15.0,8.0,-0.028,1.45,0.034,-0.062,-0.00%,0.33,0.1,0.0,0.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Ryan O'Hearn 1B,4.0,0.0,1.0,1.0,0.0,3.0,4.0,0.266,0.354,0.421,0.775,13.0,12.0,0.08,1.4,0.158,-0.078,0.01%,0.32,0.8,9.0,1.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Jake Cronenworth SS,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.252,0.373,0.39,0.763,12.0,8.0,-0.097,1.56,0.028,-0.125,-0.01%,0.35,-0.7,0.0,1.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Freddy Fermin C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.258,0.305,0.352,0.657,6.0,5.0,-0.042,1.58,0.049,-0.091,-0.01%,0.36,-0.5,6.0,1.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Bryce Johnson PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.371,0.409,0.484,0.893,,,-0.045,2.31,0.0,-0.045,-0.01%,0.52,-0.2,0.0,0.0,CS
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Elias Díaz C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.206,0.273,0.331,0.604,,,,,,,,,,1.0,0.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Dylan Cease P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHA202509190,SDP,https://www.baseball-reference.com/boxes/CHA/CHA202509190.shtml,SanDiegoPadresbatting,Team Totals,33.0,3.0,7.0,3.0,1.0,8.0,34.0,0.212,0.235,0.273,0.508,112.0,82.0,-0.378,1.36,0.551,-0.93,-0.05%,0.31,-1.4,24.0,9.0,

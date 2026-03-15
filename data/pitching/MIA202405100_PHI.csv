@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202405100,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202405100.shtml,PhiladelphiaPhilliespitching,"Ranger Suárez, W (7-0)",7,3,0,0,2,9,0,1.5,25,97,63,28,9,26,8,6,4,0,78.0,,,0.239,0.55,0.17%,0.63,3.8
+MIA202405100,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202405100.shtml,PhiladelphiaPhilliespitching,Gregory Soto,1,2,2,2,1,1,0,7.15,6,21,10,7,2,1,0,4,2,0,,0.0,0.0,0.0,0.09,0.00%,0.1,-1.5
+MIA202405100,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202405100.shtml,PhiladelphiaPhilliespitching,José Alvarado,1,0,0,0,0,1,0,4.02,3,16,12,9,2,1,1,1,1,0,,0.0,0.0,0.004,0.05,0.00%,0.05,0.5
+MIA202405100,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202405100.shtml,PhiladelphiaPhilliespitching,Team Totals,9,5,2,2,3,11,0,2.0,34,134,85,44,13,28,9,11,7,0,78.0,0.0,0.0,0.243,0.42,0.17%,0.48,2.9

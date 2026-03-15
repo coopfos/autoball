@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202405130,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202405130.shtml,TorontoBlueJayspitching,José Berríos,7,3,2,2,1,4,2,2.82,25,94,59,35,4,20,10,10,1,0,66.0,,,0.004,0.68,0.00%,0.47,1.2
+BAL202405130,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202405130.shtml,TorontoBlueJayspitching,Yimi García,1,0,0,0,0,3,0,0.59,3,14,10,2,4,4,0,0,0,0,,0.0,0.0,0.101,1.38,0.04%,0.96,0.5
+BAL202405130,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202405130.shtml,TorontoBlueJayspitching,"Jordan Romano, W (1-0)",2,0,0,0,1,1,0,3.38,7,21,12,8,2,2,2,3,1,0,,0.0,0.0,0.556,4.06,0.23%,2.82,1.5
+BAL202405130,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202405130.shtml,TorontoBlueJayspitching,Team Totals,10,3,2,2,2,8,2,1.8,35,129,81,45,10,26,12,13,2,0,66.0,0.0,0.0,0.661,1.42,0.28%,0.98,3.2

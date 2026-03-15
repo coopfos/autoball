@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Nathan Lukes CF-RF,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.258,0.344,0.4,0.744,17.0,9.0,-0.158,1.25,0.0,-0.158,-0.11%,1.44,-1.4,3.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Davis Schneider DH,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.217,0.363,0.413,0.776,10.0,8.0,0.066,0.75,0.104,-0.037,0.04%,0.86,1.0,0.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Tyler Heineman C,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.323,0.384,0.505,0.889,3.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,1.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.295,0.399,0.466,0.865,15.0,8.0,-0.012,0.63,0.03,-0.042,-0.01%,0.72,-0.4,1.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Myles Straw CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.245,0.292,0.314,0.606,3.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,1.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Bo Bichette SS,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.295,0.335,0.459,0.795,16.0,10.0,0.048,0.75,0.075,-0.027,0.03%,0.86,-0.1,0.0,0.0,GDP
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Leo Jimenez 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.071,0.133,0.179,0.312,,,,,,,,,,0.0,1.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Addison Barger RF-3B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.264,0.315,0.507,0.822,17.0,11.0,0.064,1.25,0.157,-0.093,0.04%,1.43,0.7,1.0,0.0,HR
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Ernie Clement 2B-SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.275,0.31,0.376,0.687,11.0,9.0,-0.081,0.81,0.0,-0.081,-0.06%,0.92,-0.8,2.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Joey Loperfido LF,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.375,0.423,0.583,1.006,15.0,10.0,0.001,0.9,0.074,-0.073,0.00%,1.04,0.9,6.0,0.0,"HR,CS"
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Will Wagner 3B-1B,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.248,0.344,0.312,0.656,16.0,9.0,0.118,1.11,0.143,-0.024,0.08%,1.27,0.9,1.0,1.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Ali Sánchez C-P,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.2,0.2,0.333,0.533,12.0,11.0,-0.115,1.58,0.044,-0.159,-0.08%,1.82,-1.0,8.0,0.0,2B
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Easton Lucas P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Lazaro Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Chad Green P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507291,TOR,https://www.baseball-reference.com/boxes/BAL/BAL202507291.shtml,TorontoBlueJaysbatting,Team Totals,36.0,4.0,11.0,4.0,3.0,3.0,39.0,0.306,0.359,0.5,0.859,135.0,90.0,-0.069,0.96,0.627,-0.694,-0.05%,1.1,-0.3,24.0,3.0,

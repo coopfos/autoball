@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Lars Nootbaar RF,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.235,0.327,0.386,0.713,21.0,14.0,0.057,1.37,0.135,-0.078,0.01%,0.36,0.6,1.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Iván Herrera DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.287,0.366,0.441,0.806,18.0,12.0,0.053,1.07,0.098,-0.044,0.01%,0.28,0.2,0.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Alec Burleson LF,4.0,0.0,3.0,2.0,1.0,0.0,5.0,0.288,0.341,0.455,0.796,12.0,7.0,0.329,1.55,0.341,-0.012,0.05%,0.41,2.4,1.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Garrett Hampson PR-LF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.147,0.256,0.173,0.429,,,0.021,0.67,0.021,0.0,0.00%,0.18,0.5,0.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Willson Contreras 1B,4.0,1.0,2.0,1.0,0.0,1.0,5.0,0.258,0.345,0.443,0.788,16.0,12.0,-0.023,1.54,0.05,-0.073,-0.00%,0.41,0.0,12.0,0.0,SF
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Masyn Winn SS,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.26,0.314,0.382,0.697,20.0,15.0,-0.17,1.36,0.0,-0.17,-0.03%,0.36,-1.9,1.0,2.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Nolan Gorman 3B,4.0,2.0,1.0,2.0,1.0,2.0,5.0,0.225,0.32,0.421,0.741,23.0,13.0,-0.005,0.71,0.059,-0.064,-0.00%,0.19,1.4,0.0,5.0,HR
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Thomas Saggese 2B,4.0,0.0,0.0,0.0,0.0,1.0,5.0,0.245,0.278,0.329,0.607,10.0,8.0,-0.079,0.8,0.0,-0.079,-0.01%,0.21,-1.0,1.0,3.0,SH
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Pedro Pagés C,3.0,1.0,1.0,1.0,2.0,1.0,5.0,0.227,0.276,0.367,0.643,26.0,14.0,0.21,0.92,0.223,-0.013,0.03%,0.24,1.8,8.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Nathan Church CF,4.0,1.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,18.0,13.0,-0.053,1.24,0.048,-0.102,-0.01%,0.33,-0.6,3.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Matthew Liberatore P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Matt Svanson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,JoJo Romero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Jorge Alcala P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508180,STL,https://www.baseball-reference.com/boxes/MIA/MIA202508180.shtml,StLouisCardinalsbatting,Team Totals,37.0,8.0,10.0,7.0,5.0,9.0,44.0,0.27,0.349,0.351,0.7,164.0,108.0,0.34,1.15,0.975,-0.635,0.05%,0.3,3.3,27.0,10.0,

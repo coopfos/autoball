@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Colton Cowser LF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.246,0.322,0.446,0.768,16.0,10.0,-0.083,0.94,0.027,-0.109,-0.07%,1.27,-0.6,3.0,0.0,2B
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Adley Rutschman DH,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.262,0.326,0.416,0.742,18.0,13.0,-0.039,1.0,0.059,-0.099,-0.03%,1.36,-0.7,0.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.28,0.366,0.538,0.904,22.0,16.0,-0.099,1.05,0.0,-0.099,-0.08%,1.43,-0.8,1.0,3.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Anthony Santander RF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.234,0.303,0.514,0.818,17.0,10.0,-0.032,0.93,0.034,-0.066,-0.03%,1.25,-0.1,1.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Ryan O'Hearn 1B,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.269,0.343,0.44,0.783,8.0,6.0,0.148,0.85,0.169,-0.021,0.12%,1.16,1.2,6.0,2.0,2B
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Eloy Jiménez PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.252,0.299,0.348,0.647,4.0,3.0,-0.032,1.14,0.0,-0.032,-0.03%,1.54,-0.2,0.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Emmanuel Rivera 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.213,0.302,0.267,0.569,,,,,,,,,,1.0,1.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,4.0,1.0,0.0,0.0,0.0,1.0,4.0,0.22,0.282,0.387,0.669,18.0,12.0,-0.076,1.26,0.023,-0.099,-0.06%,1.71,-0.5,3.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Ramón Urías 3B,3.0,1.0,2.0,2.0,0.0,1.0,4.0,0.253,0.326,0.435,0.76,14.0,8.0,0.266,1.35,0.289,-0.023,0.22%,1.82,2.4,0.0,1.0,"2B,HBP"
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.169,0.226,0.323,0.548,14.0,9.0,-0.124,1.4,0.01,-0.134,-0.10%,1.89,-1.1,1.0,3.0,SB
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,James McCann C,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.222,0.271,0.33,0.6,15.0,11.0,-0.016,1.39,0.092,-0.109,-0.01%,1.89,0.1,6.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Corbin Burnes P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Keegan Akin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202408280,BAL,https://www.baseball-reference.com/boxes/LAN/LAN202408280.shtml,BaltimoreOriolesbatting,Team Totals,36.0,4.0,7.0,4.0,1.0,10.0,38.0,0.194,0.237,0.278,0.515,146.0,98.0,-0.087,1.13,0.703,-0.791,-0.07%,1.53,-0.3,24.0,10.0,

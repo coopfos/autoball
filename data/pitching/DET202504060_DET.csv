@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202504060,DET,https://www.baseball-reference.com/boxes/DET/DET202504060.shtml,DetroitTigerspitching,Jackson Jobe,5,4,3,2,3,4,0,5.0,21,86,50,32,5,13,7,7,2,0,50.0,,,-0.091,1.05,-0.06%,1.06,-0.5
+DET202504060,DET,https://www.baseball-reference.com/boxes/DET/DET202504060.shtml,DetroitTigerspitching,Brenan Hanifee,2,0,0,0,0,0,0,3.6,6,17,12,8,0,4,5,1,1,0,,0.0,0.0,0.073,0.48,0.04%,0.48,1.0
+DET202504060,DET,https://www.baseball-reference.com/boxes/DET/DET202504060.shtml,DetroitTigerspitching,Tommy Kahnle,1,0,0,0,0,0,0,0.0,3,12,9,7,0,2,3,0,0,0,,0.0,0.0,0.029,0.38,0.02%,0.38,0.5
+DET202504060,DET,https://www.baseball-reference.com/boxes/DET/DET202504060.shtml,DetroitTigerspitching,"John Brebbia, W (1-0)",1,0,0,0,0,0,0,0.0,4,12,5,4,0,1,2,1,0,0,,0.0,0.0,0.018,0.24,0.01%,0.24,0.5
+DET202504060,DET,https://www.baseball-reference.com/boxes/DET/DET202504060.shtml,DetroitTigerspitching,Team Totals,9,4,3,2,3,4,0,2.0,34,127,76,51,5,20,17,9,3,0,50.0,0.0,0.0,0.029,0.8,0.02%,0.81,1.6

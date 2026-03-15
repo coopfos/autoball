@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,4.0,0.0,2.0,0.0,1.0,1.0,5.0,0.252,0.331,0.306,0.637,18.0,10.0,0.245,1.36,0.288,-0.043,0.20%,1.86,1.4,3.0,0.0,2B
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,William Contreras C,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.336,0.408,0.516,0.924,19.0,13.0,-0.024,1.74,0.118,-0.142,-0.02%,2.37,-0.1,9.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Tyler Black DH,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.2,0.25,0.333,0.583,18.0,14.0,-0.257,2.08,0.0,-0.257,-0.21%,2.84,-1.4,0.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Willy Adames SS,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.266,0.357,0.468,0.824,24.0,18.0,-0.253,1.94,0.0,-0.253,-0.21%,2.64,-1.4,1.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.308,0.371,0.423,0.794,20.0,14.0,-0.015,0.86,0.045,-0.06,-0.01%,1.17,0.2,0.0,3.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.231,0.333,0.444,0.778,15.0,10.0,-0.005,0.99,0.055,-0.06,-0.00%,1.35,0.3,5.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Oliver Dunn 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.232,0.274,0.348,0.622,12.0,9.0,-0.032,1.08,0.057,-0.089,-0.03%,1.47,0.7,1.0,2.0,3B
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,3.0,2.0,1.0,2.0,1.0,1.0,4.0,0.267,0.371,0.444,0.816,20.0,12.0,0.091,1.21,0.151,-0.06,0.07%,1.65,0.8,1.0,0.0,HR
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Jackson Chourio LF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.223,0.27,0.359,0.629,11.0,9.0,-0.01,1.39,0.078,-0.088,-0.01%,1.9,0.1,4.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Tobias Myers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Hoby Milner P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Thyago Vieira P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Bryan Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202405040,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405040.shtml,MilwaukeeBrewersbatting,Team Totals,36.0,5.0,8.0,4.0,4.0,11.0,40.0,0.222,0.3,0.389,0.689,157.0,109.0,-0.26,1.45,0.792,-1.052,-0.21%,1.97,0.6,24.0,6.0,

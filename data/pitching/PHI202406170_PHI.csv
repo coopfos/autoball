@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202406170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,PhiladelphiaPhilliespitching,"Cristopher Sánchez, W (4-3)",7,6,2,1,1,5,0,2.91,25,94,66,39,8,19,11,8,5,0,63.0,,,0.207,0.74,0.09%,0.56,1.5
+PHI202406170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,PhiladelphiaPhilliespitching,José Alvarado,1,0,0,0,0,1,0,3.19,3,12,7,6,0,1,1,1,0,0,,0.0,0.0,0.003,0.04,0.00%,0.03,0.5
+PHI202406170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,PhiladelphiaPhilliespitching,José Ruiz,1,1,0,0,0,0,0,3.86,3,5,5,5,0,0,3,0,0,0,,0.0,0.0,0.001,0.02,0.00%,0.02,0.5
+PHI202406170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,PhiladelphiaPhilliespitching,Team Totals,9,7,2,1,1,6,0,1.0,31,111,78,50,8,20,15,9,5,0,63.0,0.0,0.0,0.211,0.6,0.10%,0.46,2.5

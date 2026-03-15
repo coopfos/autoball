@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202405160,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405160.shtml,LosAngelesDodgerspitching,"Tyler Glasnow, L (6-2)",5.0,6,4,4,1,8,1,2.9,23,92,65,38,12,15,5,9,5,0,46.0,,,-0.192,0.72,-0.13%,0.83,-1.6
+LAN202405160,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405160.shtml,LosAngelesDodgerspitching,Alex Vesia,1.2,0,0,0,0,2,0,1.33,5,27,19,13,2,4,0,3,0,0,,0.0,0.0,0.022,0.17,0.01%,0.2,0.9
+LAN202405160,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405160.shtml,LosAngelesDodgerspitching,Nick Ramirez,2.1,5,3,3,2,1,0,3.86,12,45,25,15,6,4,4,5,3,0,,0.0,0.0,-0.003,0.06,-0.00%,0.07,-1.9
+LAN202405160,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405160.shtml,LosAngelesDodgerspitching,Team Totals,9.0,11,7,7,3,11,1,7.0,40,164,109,66,20,23,9,17,8,0,46.0,0.0,0.0,-0.173,0.47,-0.12%,0.54,-2.7

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,CJ Abrams SS,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.251,0.323,0.449,0.772,20.0,14.0,-0.022,0.35,0.008,-0.03,0%,0.01,0.0,1.0,0.0,HBP
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Juan Yepez DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.294,0.349,0.449,0.797,20.0,14.0,-0.037,0.41,0.0,-0.037,-0.00%,0.01,-0.6,0.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,James Wood LF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.274,0.358,0.432,0.789,13.0,11.0,-0.026,0.26,0.0,-0.026,-0.00%,0.01,-0.2,4.0,1.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Andrés Chaparro 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.4,0.5,0.7,1.2,13.0,8.0,-0.027,0.27,0.001,-0.027,-0.00%,0.01,-0.5,3.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.29,0.326,0.459,0.785,11.0,7.0,0.023,0.17,0.029,-0.005,0%,0.0,-0.5,2.0,1.0,2B
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,2.0,2.0,2.0,0.0,0.0,4.0,0.227,0.26,0.363,0.623,18.0,12.0,-0.016,0.24,0.009,-0.025,0%,0.01,1.4,9.0,0.0,2·HR
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Alex Call RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.392,0.471,0.541,1.011,21.0,13.0,-0.017,0.23,0.006,-0.023,0%,0.01,-0.4,2.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,José Tena 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.231,0.231,0.231,0.462,17.0,12.0,-0.024,0.23,0.0,-0.024,0%,0.01,-0.5,1.0,2.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.251,0.313,0.322,0.634,12.0,8.0,-0.011,0.17,0.004,-0.015,0%,0.0,-0.2,2.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Mitchell Parker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Eduardo Salazar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Orlando Ribalta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408150,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202408150.shtml,WashingtonNationalsbatting,Team Totals,35.0,3.0,8.0,3.0,0.0,7.0,36.0,0.229,0.25,0.429,0.679,145.0,99.0,-0.157,0.26,0.057,-0.212,-0.00%,0.01,-1.5,24.0,4.0,

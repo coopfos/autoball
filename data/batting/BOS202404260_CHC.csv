@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Nico Hoerner 2B,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.295,0.376,0.389,0.766,10.0,10.0,-0.017,0.54,0.035,-0.052,-0.01%,0.61,-0.6,3.0,1.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Mike Tauchman RF,4.0,2.0,1.0,0.0,1.0,1.0,5.0,0.295,0.434,0.475,0.91,19.0,13.0,0.016,0.61,0.068,-0.052,0.01%,0.69,0.6,3.0,0.0,SB
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Ian Happ LF,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.236,0.352,0.348,0.701,21.0,15.0,0.01,0.65,0.068,-0.059,0.01%,0.73,-0.2,0.0,0.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Christopher Morel 3B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.215,0.295,0.366,0.661,16.0,12.0,-0.023,0.56,0.043,-0.066,-0.02%,0.63,-0.3,0.0,1.0,2B
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Nick Madrigal 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.233,0.281,0.3,0.581,,,,,,,,,,0.0,0.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Michael Busch 1B,4.0,2.0,3.0,1.0,0.0,1.0,5.0,0.289,0.347,0.554,0.902,18.0,13.0,0.067,0.72,0.094,-0.027,0.04%,0.82,0.9,6.0,0.0,"2B,SF"
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Dansby Swanson SS,5.0,2.0,2.0,0.0,0.0,1.0,5.0,0.245,0.314,0.394,0.708,17.0,13.0,0.064,0.62,0.095,-0.03,0.04%,0.7,0.1,1.0,3.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Matt Mervis DH,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.111,0.111,0.111,0.222,6.0,5.0,0.019,1.07,0.056,-0.038,0.01%,1.21,0.0,0.0,0.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Patrick Wisdom PH-DH,1.0,0.0,1.0,2.0,0.0,0.0,1.0,0.222,0.3,0.556,0.856,3.0,3.0,0.044,0.41,0.044,0.0,0.03%,0.46,1.9,0.0,0.0,2B
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Miguel Amaya C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.231,0.293,0.365,0.658,15.0,8.0,-0.058,0.76,0.051,-0.109,-0.04%,0.85,-1.0,9.0,1.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,2.0,2.0,0.0,0.0,4.0,0.429,0.429,0.857,1.286,16.0,13.0,0.116,0.7,0.117,-0.001,0.08%,0.79,0.9,4.0,0.0,SH
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Shota Imanaga P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Keegan Thompson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202404260,CHC,https://www.baseball-reference.com/boxes/BOS/BOS202404260.shtml,ChicagoCubsbatting,Team Totals,39.0,7.0,14.0,7.0,1.0,6.0,42.0,0.359,0.366,0.436,0.802,141.0,105.0,0.238,0.66,0.671,-0.434,0.16%,0.75,2.3,27.0,7.0,

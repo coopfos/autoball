@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Tyler Freeman RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.302,0.386,0.402,0.788,16.0,12.0,-0.064,1.06,0.026,-0.09,0%,0.0,-0.6,2.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Mickey Moniak CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.273,0.323,0.542,0.864,16.0,12.0,-0.039,0.97,0.041,-0.08,0%,0.0,-0.4,2.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.263,0.307,0.449,0.756,19.0,14.0,-0.051,0.85,0.012,-0.063,0%,0.0,-0.4,4.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Jordan Beck LF,2.0,0.0,0.0,0.0,2.0,2.0,4.0,0.272,0.326,0.452,0.778,19.0,7.0,-0.009,0.91,0.057,-0.066,0%,0.0,-0.1,1.0,0.0,CS
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Thairo Estrada 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.276,0.301,0.402,0.703,15.0,11.0,-0.106,1.05,0.0,-0.106,0%,0.0,-1.2,1.0,2.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Yanquiel Fernández DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.213,0.229,0.255,0.484,13.0,9.0,-0.056,0.82,0.017,-0.073,0%,0.0,-0.4,0.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Warming Bernabel 1B,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.333,0.429,0.833,1.262,16.0,12.0,0.098,0.71,0.137,-0.039,0%,0.0,0.7,7.0,2.0,HR
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Austin Nola C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.207,0.233,0.207,0.44,13.0,8.0,0.006,0.69,0.044,-0.039,0%,0.0,-0.1,5.0,1.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Orlando Arcia 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.17,0.206,0.244,0.45,13.0,10.0,-0.053,0.79,0.012,-0.065,0%,0.0,-0.8,1.0,1.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Austin Gomber P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Juan Mejia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Jaden Hill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202507270,COL,https://www.baseball-reference.com/boxes/BAL/BAL202507270.shtml,ColoradoRockiesbatting,Team Totals,32.0,1.0,6.0,1.0,4.0,12.0,36.0,0.188,0.278,0.281,0.559,140.0,95.0,-0.274,0.87,0.346,-0.621,0.00%,0.0,-3.3,24.0,6.0,

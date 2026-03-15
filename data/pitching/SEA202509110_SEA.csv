@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,Bryce Miller,5.2,6,4,4,0,11,2,5.59,23,99,66,36,18,12,5,7,2,0,52.0,,,-0.131,0.97,-0.13%,1.63,-1.6
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,Eduard Bazardo,1.1,0,0,0,0,2,0,2.45,4,14,10,5,3,2,2,0,0,0,,1.0,0.0,0.136,1.32,0.14%,2.21,0.8
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,Matt Brash,1.0,2,0,0,0,1,0,1.69,4,23,14,7,3,4,2,1,1,0,,0.0,0.0,0.101,2.97,0.10%,4.96,0.5
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,Carlos Vargas,1.0,0,0,0,0,1,0,3.49,3,8,6,3,2,1,1,1,0,0,,0.0,0.0,0.128,1.74,0.13%,2.91,0.5
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,Andrés Muñoz,1.0,0,0,0,0,2,0,1.6,3,11,7,3,2,2,1,0,0,0,,0.0,0.0,0.303,4.95,0.30%,8.28,1.1
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,Luke Jackson,1.0,2,1,0,1,0,0,3.94,6,17,13,11,0,2,3,2,1,0,,0.0,0.0,-0.073,4.18,-0.07%,7.0,0.1
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,"José Castillo, W (2-2)",1.0,2,1,0,1,0,0,4.38,5,14,8,5,2,1,4,0,0,0,,0.0,0.0,-0.073,3.31,-0.07%,5.53,0.1
+SEA202509110,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509110.shtml,SeattleMarinerspitching,Team Totals,12.0,12,6,4,2,17,2,3.0,48,186,124,70,30,24,18,11,4,0,52.0,1.0,0.0,0.391,2.11,0.39%,3.53,1.3

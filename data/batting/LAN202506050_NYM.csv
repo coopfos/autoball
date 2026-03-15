@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,1.0,1.0,1.0,1.0,1.0,5.0,0.233,0.298,0.423,0.722,21.0,15.0,0.063,1.0,0.146,-0.083,0.05%,1.3,0.6,1.0,0.0,"HR,SB"
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Starling Marte DH,4.0,2.0,3.0,1.0,1.0,0.0,5.0,0.24,0.35,0.394,0.744,20.0,10.0,0.14,1.1,0.218,-0.078,0.11%,1.43,1.6,0.0,0.0,"HR,2B"
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Juan Soto RF,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.229,0.367,0.43,0.797,15.0,7.0,0.008,1.13,0.065,-0.058,0.01%,1.48,0.1,5.0,0.0,IW
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,2.0,3.0,2.0,0.0,1.0,5.0,0.298,0.394,0.579,0.972,17.0,11.0,0.21,1.35,0.283,-0.074,0.16%,1.75,1.9,4.0,0.0,"HR,HBP"
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.237,0.342,0.441,0.783,26.0,18.0,-0.184,1.4,0.02,-0.204,-0.14%,1.82,-1.9,4.0,4.0,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Tyrone Taylor CF,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.238,0.301,0.333,0.634,22.0,12.0,-0.047,1.25,0.072,-0.119,-0.04%,1.62,0.4,2.0,0.0,SB
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Brett Baty 3B,3.0,0.0,1.0,1.0,1.0,1.0,5.0,0.237,0.279,0.435,0.714,15.0,10.0,-0.019,1.21,0.05,-0.068,-0.01%,1.57,0.0,0.0,2.0,SF
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Francisco Alvarez C,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.237,0.324,0.301,0.625,21.0,14.0,-0.057,1.12,0.042,-0.099,-0.04%,1.45,-1.2,7.0,0.0,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Jared Young PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.167,0.25,0.389,0.639,,,,,,,,,,0.0,0.0,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Luisangel Acuña SS,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.244,0.295,0.289,0.583,20.0,13.0,-0.14,1.39,0.021,-0.161,-0.11%,1.8,-0.9,1.0,2.0,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,David Peterson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Brandon Waddell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202506050,NYM,https://www.baseball-reference.com/boxes/LAN/LAN202506050.shtml,NewYorkMetsbatting,Team Totals,36.0,5.0,11.0,5.0,7.0,7.0,45.0,0.306,0.422,0.583,1.006,177.0,110.0,-0.026,1.2,0.917,-0.944,-0.02%,1.56,0.7,24.0,8.0,

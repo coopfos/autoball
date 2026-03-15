@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedspitching,"Brady Singer, L (4-2)",6,7,4,4,2,2,1,3.66,27,102,60,42,2,16,10,13,5,0,42.0,,,-0.184,0.53,-0.11%,0.52,-0.9
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedspitching,Scott Barlow,1,0,0,0,1,0,0,3.0,4,22,12,8,1,3,1,2,0,0,,0.0,0.0,0.007,0.15,0.00%,0.15,0.5
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedspitching,Luis Mey,1,0,0,0,0,2,0,3.0,3,11,9,3,3,3,1,0,0,0,,0.0,0.0,0.003,0.04,0.00%,0.04,0.5
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedspitching,Team Totals,8,7,4,4,3,4,1,4.5,34,135,81,53,6,22,12,15,5,0,42.0,0.0,0.0,-0.174,0.43,-0.10%,0.43,0.1

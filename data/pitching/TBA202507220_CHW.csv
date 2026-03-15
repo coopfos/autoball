@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TBA202507220,CHW,https://www.baseball-reference.com/boxes/TBA/TBA202507220.shtml,ChicagoWhiteSoxpitching,"Davis Martin, L (2-8)",5,3,4,3,4,3,0,3.89,20,76,46,31,5,10,8,5,4,0,46.0,,,-0.176,0.82,0.00%,0.0,-1.5
+TBA202507220,CHW,https://www.baseball-reference.com/boxes/TBA/TBA202507220.shtml,ChicagoWhiteSoxpitching,Tyler Alexander,2,2,0,0,0,4,0,4.52,8,32,22,11,7,4,0,4,3,0,,0.0,0.0,0.054,0.54,0.00%,0.0,0.6
+TBA202507220,CHW,https://www.baseball-reference.com/boxes/TBA/TBA202507220.shtml,ChicagoWhiteSoxpitching,Mike Vasil,1,0,0,0,1,2,0,2.53,4,11,8,4,2,2,1,0,0,0,,1.0,0.0,0.051,0.99,0.00%,0.0,0.9
+TBA202507220,CHW,https://www.baseball-reference.com/boxes/TBA/TBA202507220.shtml,ChicagoWhiteSoxpitching,Team Totals,8,5,4,3,5,9,0,3.38,32,119,76,46,14,16,9,9,7,0,46.0,1.0,0.0,-0.071,0.78,0.00%,0.0,0.1

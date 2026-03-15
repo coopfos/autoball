@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Lawrence Butler RF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.251,0.322,0.488,0.81,25.0,18.0,-0.105,0.82,0.0,-0.105,-0.00%,0.0,-1.0,5.0,0.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Miguel Andujar LF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.297,0.324,0.41,0.735,16.0,9.0,-0.009,0.6,0.027,-0.036,0%,0.0,-0.1,1.0,0.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,JJ Bleday CF,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.233,0.314,0.43,0.743,18.0,9.0,-0.043,0.67,0.017,-0.06,0%,0.01,-0.4,4.0,1.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Brent Rooker DH,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.288,0.365,0.583,0.948,9.0,7.0,0.196,0.91,0.261,-0.066,0.00%,0.01,1.2,0.0,0.0,HR
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Shea Langeliers C,2.0,2.0,1.0,0.0,2.0,1.0,4.0,0.213,0.273,0.445,0.718,19.0,10.0,0.019,0.73,0.078,-0.059,0%,0.0,0.2,5.0,0.0,"2B,CS"
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Abraham Toro 3B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.256,0.299,0.375,0.674,17.0,9.0,-0.032,0.91,0.013,-0.044,0%,0.01,-0.4,0.0,0.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Seth Brown 1B,4.0,1.0,3.0,3.0,0.0,0.0,4.0,0.222,0.285,0.384,0.669,11.0,8.0,0.332,1.22,0.348,-0.016,0.00%,0.01,3.1,5.0,0.0,HR
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.191,0.254,0.359,0.614,16.0,11.0,-0.121,1.2,0.0,-0.121,0%,0.01,-1.1,5.0,3.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Max Schuemann SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.263,0.352,0.374,0.727,9.0,6.0,-0.104,0.95,0.009,-0.113,-0.00%,0.01,-0.9,2.0,2.0,GDP
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Paul Blackburn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Joey Estes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,T.J. McFarland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Lucas Erceg P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407260,OAK,https://www.baseball-reference.com/boxes/ANA/ANA202407260.shtml,OaklandAthleticsbatting,Team Totals,32.0,5.0,7.0,5.0,5.0,6.0,37.0,0.219,0.324,0.438,0.762,140.0,87.0,0.133,0.88,0.753,-0.62,0.00%,0.01,0.6,27.0,6.0,

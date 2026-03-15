@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202405110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405110.shtml,BostonRedSoxpitching,Cooper Criswell,5.0,3,2,2,1,9,2,2.1,19,79,52,27,11,14,3,6,2,0,61.0,,,0.019,0.85,0.01%,0.68,0.6
+BOS202405110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405110.shtml,BostonRedSoxpitching,Brennan Bernardino,1.1,1,0,0,0,1,0,0.53,4,14,9,4,0,5,2,1,1,0,,0.0,0.0,0.116,1.42,0.06%,1.14,0.8
+BOS202405110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405110.shtml,BostonRedSoxpitching,Justin Slaten,0.2,0,0,0,1,0,0,1.74,3,11,4,2,0,2,1,1,1,0,,0.0,0.0,0.05,1.14,0.02%,0.92,0.3
+BOS202405110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405110.shtml,BostonRedSoxpitching,"Chris Martin, W (2-1)",1.0,0,0,0,0,0,0,4.4,3,13,9,7,1,1,1,1,1,0,,0.0,0.0,0.109,1.77,0.05%,1.43,0.5
+BOS202405110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405110.shtml,BostonRedSoxpitching,"Kenley Jansen, S (6)",1.0,0,0,0,0,2,0,2.84,3,16,12,6,1,5,1,0,0,0,,0.0,0.0,0.077,0.99,0.04%,0.79,0.5
+BOS202405110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405110.shtml,BostonRedSoxpitching,Team Totals,9.0,4,2,2,2,12,2,2.0,32,133,86,46,13,27,8,9,5,0,61.0,0.0,0.0,0.371,1.07,0.18%,0.86,2.7

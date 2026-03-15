@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Masyn Winn SS,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.279,0.326,0.408,0.734,20.0,13.0,-0.094,0.74,0.0,-0.094,-0.06%,0.72,-1.0,2.0,1.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Alec Burleson 1B,4.0,2.0,1.0,1.0,1.0,0.0,5.0,0.278,0.314,0.468,0.782,20.0,10.0,0.065,0.7,0.127,-0.062,0.04%,0.69,0.6,4.0,1.0,HR
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Willson Contreras C,3.0,1.0,1.0,0.0,0.0,0.0,4.0,0.258,0.377,0.483,0.86,12.0,6.0,0.036,0.79,0.072,-0.036,0.02%,0.77,0.3,8.0,0.0,HBP
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Paul Goldschmidt DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.234,0.294,0.393,0.687,19.0,14.0,-0.104,1.11,0.0,-0.104,-0.06%,1.09,-1.0,0.0,0.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Brendan Donovan LF,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.267,0.333,0.392,0.725,6.0,5.0,0.121,1.03,0.145,-0.024,0.07%,1.01,1.4,3.0,0.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,4.0,0.0,2.0,2.0,0.0,0.0,4.0,0.266,0.32,0.385,0.705,14.0,8.0,0.244,1.63,0.303,-0.059,0.14%,1.6,1.2,1.0,0.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Nolan Gorman 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.199,0.272,0.408,0.679,15.0,10.0,-0.141,1.26,0.0,-0.141,-0.08%,1.23,-1.2,2.0,1.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Tommy Pham RF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.278,0.34,0.41,0.749,19.0,12.0,0.303,1.15,0.34,-0.037,0.18%,1.13,1.2,4.0,0.0,"3B,2B"
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Michael Siani CF,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.256,0.297,0.325,0.622,12.0,9.0,-0.062,0.72,0.0,-0.062,-0.04%,0.71,-0.7,1.0,0.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Lars Nootbaar CF,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.232,0.324,0.389,0.712,3.0,3.0,0.039,2.39,0.039,0.0,0.02%,2.34,-0.2,1.0,0.0,SF
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Kyle Gibson P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,JoJo Romero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Ryan Helsley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202408030,STL,https://www.baseball-reference.com/boxes/CHN/CHN202408030.shtml,StLouisCardinalsbatting,Team Totals,35.0,5.0,9.0,4.0,1.0,6.0,38.0,0.257,0.289,0.429,0.718,140.0,90.0,0.407,1.04,1.026,-0.619,0.24%,1.02,0.6,27.0,5.0,

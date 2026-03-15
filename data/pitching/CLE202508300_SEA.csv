@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202508300,SEA,https://www.baseball-reference.com/boxes/CLE/CLE202508300.shtml,SeattleMarinerspitching,"Logan Gilbert, L (4-6)",6,3,3,3,2,6,1,3.73,23,93,60,31,12,17,5,10,5,0,58.0,,,-0.032,0.9,-0.03%,1.48,0.0
+CLE202508300,SEA,https://www.baseball-reference.com/boxes/CLE/CLE202508300.shtml,SeattleMarinerspitching,Caleb Ferguson,1,2,1,1,1,1,0,3.9,6,25,13,6,2,5,4,0,0,0,,0.0,0.0,-0.041,0.45,-0.04%,0.74,-0.5
+CLE202508300,SEA,https://www.baseball-reference.com/boxes/CLE/CLE202508300.shtml,SeattleMarinerspitching,Gabe Speier,1,0,0,0,0,1,0,2.12,3,15,11,6,2,3,1,1,0,0,,0.0,0.0,0.031,0.41,0.03%,0.66,0.5
+CLE202508300,SEA,https://www.baseball-reference.com/boxes/CLE/CLE202508300.shtml,SeattleMarinerspitching,Team Totals,8,5,4,4,3,8,1,4.5,32,133,84,43,16,25,10,11,5,0,58.0,0.0,0.0,-0.042,0.77,-0.04%,1.26,0.0

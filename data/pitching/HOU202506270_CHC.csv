@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202506270,CHC,https://www.baseball-reference.com/boxes/HOU/HOU202506270.shtml,ChicagoCubspitching,"Cade Horton, L (3-2)",4,8,7,7,4,2,2,4.8,24,80,52,31,8,13,6,11,4,0,16.0,,,-0.293,1.05,-0.24%,1.45,-5.0
+HOU202506270,CHC,https://www.baseball-reference.com/boxes/HOU/HOU202506270.shtml,ChicagoCubspitching,Chris Flexen,4,2,0,0,1,1,0,0.64,15,50,29,22,3,4,4,9,6,0,,0.0,0.0,0.016,0.06,0.01%,0.08,2.0
+HOU202506270,CHC,https://www.baseball-reference.com/boxes/HOU/HOU202506270.shtml,ChicagoCubspitching,Team Totals,8,10,7,7,5,3,2,7.88,39,130,81,53,11,17,10,20,10,0,16.0,0.0,0.0,-0.277,0.67,-0.23%,0.93,-3.1

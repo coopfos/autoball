@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202508050,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202508050.shtml,TexasRangerspitching,"Nathan Eovaldi, W (10-3)",8,1,0,0,0,6,0,1.38,25,98,66,40,12,14,10,9,2,0,86.0,,,0.523,0.91,0.46%,1.32,3.6
+TEX202508050,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202508050.shtml,TexasRangerspitching,"Phil Maton, S (3)",1,1,0,0,0,1,0,2.18,3,9,6,4,0,2,2,0,0,0,,0.0,0.0,0.065,1.53,0.06%,2.22,0.4
+TEX202508050,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202508050.shtml,TexasRangerspitching,Team Totals,9,2,0,0,0,7,0,0.0,28,107,72,44,12,16,12,9,2,0,86.0,0.0,0.0,0.588,0.97,0.51%,1.41,4.0

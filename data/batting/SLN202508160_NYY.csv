@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Trent Grisham CF,5.0,4.0,4.0,0.0,1.0,1.0,6.0,0.249,0.353,0.454,0.808,23.0,13.0,0.196,0.83,0.196,-0.001,0.15%,1.05,2.1,1.0,0.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Ben Rice 1B,5.0,2.0,3.0,7.0,1.0,1.0,6.0,0.24,0.332,0.472,0.805,25.0,12.0,0.433,1.17,0.454,-0.022,0.33%,1.47,4.9,7.0,1.0,"HR,2B"
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Aaron Judge DH,3.0,1.0,2.0,2.0,2.0,1.0,5.0,0.333,0.445,0.689,1.135,18.0,8.0,0.216,0.83,0.232,-0.016,0.16%,1.04,3.4,0.0,0.0,"HR,2B"
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 2B,3.0,0.0,0.0,1.0,1.0,2.0,5.0,0.238,0.332,0.473,0.805,18.0,12.0,-0.008,0.82,0.063,-0.071,-0.01%,1.03,-0.9,1.0,2.0,"SB,SF"
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Jasson Domínguez LF,5.0,0.0,2.0,1.0,0.0,2.0,5.0,0.255,0.33,0.387,0.717,22.0,12.0,0.01,1.08,0.108,-0.099,0.01%,1.36,-0.4,3.0,0.0,"SB,CS"
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Anthony Volpe SS,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.215,0.283,0.413,0.696,17.0,14.0,-0.137,0.96,0.0,-0.137,-0.10%,1.21,-2.1,1.0,2.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Ryan McMahon 3B,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.222,0.323,0.398,0.72,26.0,17.0,-0.013,0.76,0.078,-0.09,-0.01%,0.95,-0.2,0.0,2.0,HR
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Austin Wells C,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.206,0.263,0.405,0.669,15.0,12.0,-0.02,0.64,0.038,-0.057,-0.01%,0.81,-0.4,13.0,0.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,José Caballero RF,4.0,3.0,2.0,0.0,1.0,0.0,5.0,0.233,0.333,0.317,0.651,18.0,12.0,0.101,0.59,0.116,-0.015,0.08%,0.74,1.2,0.0,0.0,2·SB
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Max Fried P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Devin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Yerry De los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,David Bednar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202508160,NYY,https://www.baseball-reference.com/boxes/SLN/SLN202508160.shtml,NewYorkYankeesbatting,Team Totals,40.0,12.0,15.0,12.0,6.0,13.0,47.0,0.375,0.447,0.65,1.097,182.0,112.0,0.778,0.84,1.285,-0.508,0.59%,1.06,7.5,27.0,8.0,

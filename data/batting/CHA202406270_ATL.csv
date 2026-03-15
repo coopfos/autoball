@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Jarred Kelenic CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.278,0.32,0.453,0.773,17.0,9.0,0.015,1.42,0.085,-0.07,0.01%,1.48,-0.2,1.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Ozzie Albies 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.251,0.309,0.397,0.706,14.0,7.0,-0.069,1.88,0.078,-0.147,-0.04%,1.95,-0.2,1.0,3.0,2B
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Marcell Ozuna DH,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.303,0.382,0.571,0.954,19.0,9.0,-0.067,1.71,0.055,-0.121,-0.04%,1.77,-0.0,0.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.241,0.319,0.434,0.753,18.0,14.0,-0.207,1.98,0.0,-0.207,-0.13%,2.05,-1.2,5.0,1.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Austin Riley 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.252,0.324,0.417,0.741,15.0,8.0,-0.099,1.72,0.04,-0.139,-0.06%,1.78,-0.4,0.0,1.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Sean Murphy C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.203,0.289,0.351,0.641,14.0,8.0,-0.069,1.49,0.066,-0.135,-0.04%,1.54,-0.9,12.0,0.0,GDP
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Luke Williams PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.167,0.0,0.167,,,,,,,,,,0.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Forrest Wall LF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.294,0.368,0.294,0.663,11.0,7.0,-0.003,1.1,0.053,-0.056,-0.00%,1.14,0.1,2.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Travis d'Arnaud PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.234,0.299,0.449,0.749,3.0,1.0,-0.077,2.76,0.0,-0.077,-0.05%,2.87,-0.2,0.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Adam Duvall RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.163,0.239,0.287,0.525,11.0,8.0,-0.129,1.77,0.0,-0.129,-0.08%,1.84,-0.8,2.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Orlando Arcia SS,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.213,0.244,0.343,0.587,11.0,8.0,-0.03,1.33,0.061,-0.091,-0.02%,1.38,-0.4,1.0,2.0,GDP
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Zack Short PR-SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.138,0.306,0.172,0.478,,,,,,,,,,0.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Chris Sale P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Daysbel Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravesbatting,Team Totals,29.0,0.0,3.0,0.0,5.0,7.0,34.0,0.103,0.235,0.138,0.373,133.0,79.0,-0.735,1.65,0.438,-1.172,-0.46%,1.71,-4.3,24.0,8.0,

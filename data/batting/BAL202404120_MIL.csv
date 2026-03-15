@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Jackson Chourio RF,6.0,0.0,0.0,0.0,0.0,3.0,6.0,0.244,0.286,0.4,0.686,28.0,19.0,-0.064,0.33,0.0,-0.064,-0.04%,0.36,-1.8,2.0,0.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,2.0,1.0,2.0,1.0,0.0,5.0,0.354,0.429,0.625,1.054,13.0,7.0,-0.005,0.39,0.032,-0.037,-0.00%,0.43,1.5,14.0,0.0,HR
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Christian Yelich LF,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.333,0.422,0.744,1.166,3.0,1.0,0.012,0.39,0.012,0.0,0.01%,0.43,0.1,0.0,0.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.389,0.476,0.556,1.032,14.0,9.0,0.013,0.3,0.025,-0.012,0.01%,0.33,0.4,1.0,0.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Willy Adames SS,5.0,3.0,3.0,3.0,0.0,1.0,5.0,0.265,0.333,0.51,0.844,25.0,13.0,0.077,0.34,0.099,-0.022,0.05%,0.37,2.2,0.0,3.0,"HR,2B"
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Sal Frelick CF-LF,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.31,0.396,0.333,0.729,23.0,10.0,-0.033,0.36,0.007,-0.039,-0.02%,0.39,1.2,0.0,0.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.237,0.333,0.447,0.781,19.0,11.0,0.094,0.36,0.102,-0.008,0.06%,0.39,-0.1,6.0,0.0,"2B,GDP"
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Gary Sánchez DH,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.118,0.118,0.294,0.412,15.0,13.0,0.169,0.34,0.178,-0.009,0.11%,0.38,1.8,0.0,0.0,HR
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Andruw Monasterio 2B,4.0,1.0,0.0,0.0,1.0,0.0,5.0,0.0,0.222,0.0,0.222,18.0,11.0,0.006,0.19,0.018,-0.012,0.00%,0.2,-0.8,1.0,1.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,5.0,1.0,3.0,2.0,0.0,1.0,5.0,0.36,0.448,0.48,0.928,29.0,20.0,0.109,0.24,0.115,-0.006,0.07%,0.26,2.5,3.0,1.0,3B
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Freddy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,JB Bukauskas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Thyago Vieira P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewersbatting,Team Totals,42.0,11.0,15.0,11.0,4.0,6.0,46.0,0.357,0.413,0.667,1.08,187.0,114.0,0.378,0.32,0.588,-0.209,0.25%,0.35,6.9,27.0,5.0,

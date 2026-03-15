@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Ian Happ LF,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.245,0.343,0.458,0.801,16.0,14.0,0.017,0.32,0.036,-0.019,0.00%,0.04,-0.4,4.0,0.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Dansby Swanson SS,5.0,2.0,1.0,0.0,0.0,1.0,5.0,0.238,0.308,0.383,0.692,19.0,12.0,-0.049,0.42,0.005,-0.054,-0.00%,0.05,-0.2,3.0,3.0,SB
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Seiya Suzuki DH,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.27,0.347,0.471,0.818,16.0,12.0,-0.017,0.35,0.016,-0.033,-0.00%,0.04,0.1,0.0,0.0,SB
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Cody Bellinger RF,4.0,2.0,2.0,3.0,1.0,1.0,5.0,0.265,0.327,0.427,0.754,23.0,14.0,0.189,0.38,0.22,-0.031,0.01%,0.04,2.5,1.0,0.0,"HR,GDP"
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Isaac Paredes 3B,4.0,1.0,2.0,1.0,0.0,1.0,5.0,0.228,0.339,0.398,0.737,27.0,18.0,0.065,0.41,0.083,-0.018,0.01%,0.05,0.8,0.0,1.0,"2B,SF"
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Michael Busch 1B,5.0,3.0,4.0,3.0,0.0,0.0,5.0,0.252,0.337,0.434,0.771,16.0,12.0,0.203,0.48,0.203,0.0,0.01%,0.06,3.0,7.0,0.0,"HR,2B"
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.26,0.327,0.351,0.678,13.0,8.0,-0.06,0.41,0.022,-0.082,-0.00%,0.05,-1.1,1.0,3.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,1.0,2.0,1.0,0.0,0.0,4.0,0.239,0.287,0.395,0.682,11.0,7.0,0.036,0.47,0.047,-0.01,0.00%,0.06,0.5,4.0,0.0,SF
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Miguel Amaya C,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.23,0.285,0.351,0.635,11.0,8.0,0.023,0.55,0.078,-0.055,0.00%,0.07,0.4,7.0,0.0,GDP
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Kyle Hendricks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Keegan Thompson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Drew Smyly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Shawn Armstrong P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Tyson Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Ethan Roberts P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202409090,CHC,https://www.baseball-reference.com/boxes/LAN/LAN202409090.shtml,ChicagoCubsbatting,Team Totals,39.0,10.0,16.0,10.0,1.0,7.0,42.0,0.41,0.405,0.615,1.02,152.0,105.0,0.407,0.41,0.71,-0.302,0.03%,0.05,5.7,27.0,7.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202508120,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,NewYorkYankeespitching,"Carlos Rodón, W (12-7)",7,1,1,1,2,5,0,3.25,25,96,61,33,9,19,7,10,1,0,74.0,,,0.189,0.84,0.15%,1.11,2.5
+NYA202508120,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,NewYorkYankeespitching,Tim Hill,1,0,0,0,0,1,0,3.04,3,9,8,2,2,4,2,0,0,0,,0.0,0.0,0.003,0.04,0.00%,0.05,0.5
+NYA202508120,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,NewYorkYankeespitching,Yerry De los Santos,1,0,0,0,0,2,0,1.57,3,11,7,2,1,4,0,1,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+NYA202508120,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,NewYorkYankeespitching,Team Totals,9,1,1,1,2,8,0,1.0,31,116,76,37,12,27,9,11,1,0,74.0,0.0,0.0,0.192,0.69,0.15%,0.91,3.4

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202409180,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202409180.shtml,NewYorkMetspitching,"Jose Quintana, W (10-9)",7,2,0,0,2,4,0,3.74,24,90,53,29,5,19,14,4,1,0,75.0,,,0.216,0.63,0.16%,0.79,3.4
+NYN202409180,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202409180.shtml,NewYorkMetspitching,Phil Maton,1,1,0,0,1,1,0,3.66,5,25,15,8,2,5,2,1,0,0,,0.0,0.0,0.001,0.01,0.00%,0.02,0.5
+NYN202409180,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202409180.shtml,NewYorkMetspitching,Huascar Brazobán,1,0,0,0,0,1,0,3.38,3,17,10,6,3,1,1,1,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+NYN202409180,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202409180.shtml,NewYorkMetspitching,Team Totals,9,3,0,0,3,6,0,0.0,32,132,78,43,10,25,17,6,2,0,75.0,0.0,0.0,0.217,0.48,0.16%,0.6,4.3

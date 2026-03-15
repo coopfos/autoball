@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.222,0.265,0.533,0.799,13.0,8.0,-0.121,1.19,0.0,-0.121,-0.06%,0.91,-0.8,2.0,3.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Alex Call RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.304,0.407,0.391,0.798,18.0,9.0,-0.085,0.95,0.022,-0.107,-0.04%,0.73,-0.4,2.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,James Wood LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.247,0.352,0.559,0.911,21.0,13.0,-0.116,1.36,0.022,-0.138,-0.05%,1.05,-0.4,0.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.321,0.367,0.44,0.807,14.0,10.0,0.024,1.31,0.095,-0.071,0.01%,1.01,-0.4,13.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Nasim Nuñez PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.143,0.226,0.179,0.404,,,0.072,4.61,0.072,0.0,0.03%,3.54,0.2,0.0,0.0,SB
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Nathaniel Lowe 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.278,0.35,0.467,0.817,14.0,9.0,-0.202,2.07,0.0,-0.202,-0.09%,1.59,-0.9,6.0,1.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Amed Rosario 3B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.244,0.261,0.378,0.639,14.0,9.0,-0.158,2.07,0.044,-0.202,-0.07%,1.59,-0.2,0.0,2.0,2B
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Josh Bell DH,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.148,0.258,0.321,0.579,13.0,9.0,0.086,1.2,0.12,-0.034,0.04%,0.92,0.7,0.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Dylan Crews CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.188,0.217,0.313,0.529,6.0,6.0,-0.099,1.28,0.0,-0.099,-0.05%,0.99,-0.7,3.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.221,0.271,0.299,0.569,7.0,5.0,-0.063,1.27,0.019,-0.082,-0.03%,0.97,-0.3,0.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,MacKenzie Gore P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Cole Henry P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504240,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,WashingtonNationalsbatting,Team Totals,32.0,1.0,5.0,1.0,1.0,6.0,33.0,0.156,0.182,0.188,0.369,120.0,78.0,-0.662,1.5,0.394,-1.056,-0.30%,1.15,-3.3,27.0,7.0,

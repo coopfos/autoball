@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Nathan Lukes CF-RF,4.0,1.0,0.0,0.0,1.0,0.0,5.0,0.265,0.354,0.4,0.754,18.0,10.0,-0.116,1.02,0.0,-0.116,-0.08%,1.18,-1.0,1.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,George Springer DH,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.293,0.383,0.51,0.893,12.0,10.0,-0.07,0.7,0.014,-0.084,-0.05%,0.82,0.2,0.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.292,0.396,0.459,0.855,23.0,10.0,-0.059,0.62,0.012,-0.071,-0.04%,0.73,-0.2,2.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Bo Bichette SS,5.0,0.0,5.0,2.0,0.0,0.0,5.0,0.289,0.329,0.456,0.785,35.0,25.0,0.118,0.57,0.118,0.0,0.08%,0.66,2.9,1.0,1.0,2B
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Addison Barger 3B,5.0,0.0,1.0,1.0,0.0,2.0,5.0,0.268,0.32,0.507,0.827,12.0,10.0,-0.138,1.11,0.001,-0.139,-0.10%,1.29,-0.3,1.0,0.0,2B
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Ernie Clement 2B,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.278,0.314,0.382,0.696,17.0,11.0,-0.095,0.72,0.0,-0.095,-0.07%,0.84,-1.7,0.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Joey Loperfido LF,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.341,0.4,0.512,0.912,8.0,6.0,-0.037,0.69,0.0,-0.037,-0.03%,0.81,-0.4,3.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Myles Straw PH-CF,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.242,0.29,0.312,0.602,11.0,6.0,-0.023,0.31,0.0,-0.023,-0.02%,0.36,0.4,0.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Tyler Heineman C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.326,0.389,0.495,0.884,14.0,11.0,0.004,0.48,0.038,-0.034,0.00%,0.56,-0.1,13.0,0.0,2B
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Alan Roden RF,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.204,0.283,0.306,0.589,11.0,4.0,0.001,0.8,0.026,-0.025,0.00%,0.93,0.0,3.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Davis Schneider PH-LF,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0.207,0.361,0.414,0.775,12.0,7.0,0.034,0.62,0.034,0.0,0.02%,0.73,-0.3,0.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Max Scherzer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Chad Green P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Justin Bruihl P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202507270,TOR,https://www.baseball-reference.com/boxes/DET/DET202507270.shtml,TorontoBlueJaysbatting,Team Totals,37.0,4.0,10.0,4.0,5.0,9.0,42.0,0.27,0.357,0.351,0.708,173.0,110.0,-0.381,0.71,0.243,-0.624,-0.27%,0.83,-0.5,24.0,1.0,

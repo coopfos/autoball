@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202405120,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405120.shtml,SeattleMarinerspitching,"Luis Castillo, W (4-5)",6,7,2,2,0,8,2,3.31,24,100,64,36,12,16,5,11,5,0,58.0,,,0.132,0.57,0.09%,0.66,0.7
+SEA202405120,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405120.shtml,SeattleMarinerspitching,Austin Voth,1,0,0,0,0,0,0,2.65,3,14,9,6,0,3,0,3,2,0,,0.0,0.0,0.007,0.1,0.01%,0.12,0.4
+SEA202405120,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405120.shtml,SeattleMarinerspitching,Cody Bolton,1,1,2,2,1,1,1,4.05,5,17,9,4,3,2,1,2,1,0,,0.0,0.0,-0.004,0.1,-0.00%,0.11,-1.6
+SEA202405120,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405120.shtml,SeattleMarinerspitching,Andrés Muñoz,1,1,0,0,0,0,0,1.76,3,9,5,3,0,2,2,1,1,0,,0.0,0.0,0.012,0.28,0.01%,0.33,0.4
+SEA202405120,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405120.shtml,SeattleMarinerspitching,Team Totals,9,9,4,4,1,9,3,4.0,35,140,87,49,15,23,8,17,9,0,58.0,0.0,0.0,0.147,0.44,0.10%,0.51,0.0

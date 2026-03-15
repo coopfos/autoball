@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202409260,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409260.shtml,NewYorkYankeespitching,"Gerrit Cole, W (8-5)",6.2,2,0,0,1,5,0,3.41,23,101,64,44,7,13,8,9,4,0,74.0,,,0.37,0.92,0.08%,0.32,3.4
+NYA202409260,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409260.shtml,NewYorkYankeespitching,Tommy Kahnle,0.2,1,0,0,0,1,0,1.71,3,17,12,8,3,1,1,1,1,0,,0.0,0.0,0.001,0.02,0.00%,0.01,0.1
+NYA202409260,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409260.shtml,NewYorkYankeespitching,Clay Holmes,0.2,1,0,0,0,1,0,3.25,3,15,10,6,2,2,2,0,0,0,,1.0,0.0,0.001,0.02,0.00%,0.01,0.5
+NYA202409260,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409260.shtml,NewYorkYankeespitching,Tim Hill,1.0,3,1,1,0,0,0,3.41,6,16,13,10,1,2,5,1,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,-0.5
+NYA202409260,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202409260.shtml,NewYorkYankeespitching,Team Totals,9.0,7,1,1,1,7,0,1.0,35,149,99,68,13,18,16,11,5,0,74.0,1.0,0.0,0.372,0.61,0.08%,0.21,3.4

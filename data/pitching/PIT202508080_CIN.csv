@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202508080,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202508080.shtml,CincinnatiRedspitching,Chase Burns,6,3,1,1,1,10,0,5.24,22,97,62,33,14,15,5,6,2,0,71.0,,,0.242,1.01,0.12%,0.83,2.0
+PIT202508080,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202508080.shtml,CincinnatiRedspitching,"Graham Ashcraft, H (14)",1,0,0,0,0,0,0,4.01,3,11,8,4,0,4,2,1,1,0,,0.0,0.0,0.108,1.42,0.05%,1.16,0.5
+PIT202508080,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202508080.shtml,CincinnatiRedspitching,"Tony Santillan, BS (3), L (1-4)",1,2,2,2,1,2,0,2.85,6,20,14,6,1,7,3,0,0,0,,0.0,0.0,-0.532,2.7,-0.26%,2.2,-1.5
+PIT202508080,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202508080.shtml,CincinnatiRedspitching,Team Totals,8,5,3,3,2,12,0,3.38,31,128,84,43,15,26,10,7,3,0,71.0,0.0,0.0,-0.182,1.37,-0.09%,1.11,1.0

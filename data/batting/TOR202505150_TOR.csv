@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Bo Bichette SS,4.0,0.0,3.0,0.0,0.0,1.0,4.0,0.29,0.338,0.415,0.754,11.0,8.0,0.095,0.76,0.113,-0.018,0.06%,0.78,1.0,1.0,1.0,2B
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,2.0,1.0,1.0,1.0,2.0,0.0,4.0,0.294,0.395,0.438,0.832,18.0,6.0,0.182,1.19,0.213,-0.031,0.11%,1.23,1.5,8.0,0.0,HR
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Anthony Santander RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.187,0.266,0.316,0.582,12.0,10.0,-0.127,1.57,0.0,-0.127,-0.08%,1.61,-1.2,1.0,0.0,GDP
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,George Springer DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.279,0.39,0.488,0.878,13.0,7.0,-0.229,1.47,0.0,-0.229,-0.14%,1.51,-2.3,0.0,0.0,GDP
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.283,0.308,0.386,0.694,14.0,11.0,-0.057,0.57,0.0,-0.057,-0.03%,0.59,-0.8,11.0,0.0,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Addison Barger 3B,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.231,0.286,0.415,0.701,18.0,13.0,0.081,0.35,0.095,-0.015,0.05%,0.36,0.9,1.0,1.0,HR
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Ernie Clement 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.267,0.293,0.353,0.646,10.0,8.0,-0.057,0.55,0.0,-0.057,-0.03%,0.56,-0.7,1.0,4.0,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Myles Straw CF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.292,0.32,0.389,0.709,7.0,5.0,0.003,0.57,0.029,-0.026,0.00%,0.58,-0.1,1.0,0.0,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Nathan Lukes LF,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.273,0.372,0.439,0.811,11.0,8.0,-0.053,0.92,0.03,-0.083,-0.03%,0.94,0.2,2.0,1.0,"HR,GDP"
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Kevin Gausman P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Mason Fluharty P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Braydon Fisher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,José Ureña P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505150,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202505150.shtml,TorontoBlueJaysbatting,Team Totals,32.0,3.0,8.0,3.0,2.0,3.0,34.0,0.25,0.294,0.563,0.857,114.0,76.0,-0.162,0.89,0.48,-0.643,-0.10%,0.92,-1.5,27.0,7.0,

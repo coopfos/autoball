@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202408140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408140.shtml,SanDiegoPadrespitching,"Martín Pérez, W (3-5)",5.1,5,1,1,1,8,1,4.62,24,93,60,28,11,21,6,8,5,0,61.0,,,0.132,0.55,0.10%,0.69,1.5
+SDN202408140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408140.shtml,SanDiegoPadrespitching,Bryan Hoeing,1.2,0,0,0,0,1,0,2.08,5,15,11,7,1,3,4,0,0,0,,1.0,0.0,0.013,0.1,0.01%,0.13,1.0
+SDN202408140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408140.shtml,SanDiegoPadrespitching,Sean Reynolds,1.0,0,0,0,0,2,0,2.45,3,16,9,3,2,4,1,0,0,0,,0.0,0.0,0.003,0.04,0.00%,0.05,0.5
+SDN202408140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408140.shtml,SanDiegoPadrespitching,Adrián Morejón,1.0,3,1,1,1,3,0,2.92,7,33,24,14,5,5,1,2,2,0,,0.0,0.0,0.001,0.22,0.00%,0.28,-0.5
+SDN202408140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408140.shtml,SanDiegoPadrespitching,Team Totals,9.0,8,2,2,2,14,1,2.0,39,157,104,52,19,33,12,10,7,0,61.0,1.0,0.0,0.149,0.39,0.11%,0.5,2.6

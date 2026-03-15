@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202506010,TBR,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,TampaBayRayspitching,"Taj Bradley, L (4-5)",7,3,1,0,2,10,0,3.95,27,104,70,42,16,12,9,6,1,0,77.0,,,0.207,0.95,0.13%,0.99,2.4
+HOU202506010,TBR,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,TampaBayRayspitching,Edwin Uceta,1,1,0,0,1,1,0,4.88,5,15,7,5,2,0,2,1,0,0,,0.0,0.0,0.03,0.81,0.02%,0.85,0.5
+HOU202506010,TBR,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,TampaBayRayspitching,Team Totals,8,4,1,0,3,11,0,0.0,32,119,77,47,18,12,11,7,1,0,77.0,0.0,0.0,0.237,0.93,0.15%,0.97,2.9

@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202506150,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202506150.shtml,MinnesotaTwinspitching,Simeon Woods Richardson,5.0,1,0,0,1,4,0,5.13,17,53,38,22,7,9,6,6,3,0,68.0,,,0.296,1.09,0.19%,1.15,2.4
+HOU202506150,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202506150.shtml,MinnesotaTwinspitching,"Brock Stewart, H (8)",1.0,0,0,0,0,2,0,2.45,3,10,7,2,3,2,1,0,0,0,,0.0,0.0,0.087,1.16,0.06%,1.22,0.5
+HOU202506150,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202506150.shtml,MinnesotaTwinspitching,"Louis Varland, H (12)",2.0,1,0,0,0,0,0,2.23,7,22,15,10,0,5,5,1,1,0,,0.0,0.0,0.246,2.86,0.15%,3.0,1.0
+HOU202506150,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202506150.shtml,MinnesotaTwinspitching,"Jhoan Duran, BS (2)",1.0,1,1,1,1,1,0,1.64,5,21,12,7,3,2,1,2,0,0,,0.0,0.0,-0.305,4.92,-0.19%,5.16,-0.5
+HOU202506150,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202506150.shtml,MinnesotaTwinspitching,"Cole Sands, L (3-3)",0.2,1,1,0,0,1,0,3.94,3,12,9,4,3,2,1,1,0,0,,0.0,0.0,-0.192,3.19,-0.12%,3.35,-0.1
+HOU202506150,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202506150.shtml,MinnesotaTwinspitching,Team Totals,9.2,4,2,1,2,8,0,0.93,35,118,81,45,16,20,14,10,4,0,68.0,0.0,0.0,0.132,2.25,0.08%,2.37,3.3

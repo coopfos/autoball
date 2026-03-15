@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Josh Rojas 3B-2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.343,0.405,0.505,0.91,19.0,11.0,-0.055,0.61,0.006,-0.062,-0.04%,0.69,-0.6,2.0,2.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Julio Rodríguez CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.255,0.309,0.321,0.63,17.0,9.0,-0.001,0.39,0.023,-0.024,-0.00%,0.44,-0.3,2.0,0.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Jorge Polanco 2B,2.0,1.0,1.0,0.0,1.0,1.0,3.0,0.192,0.298,0.308,0.606,12.0,8.0,0.057,0.52,0.066,-0.01,0.04%,0.59,1.1,1.0,1.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Luis Urías 3B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.172,0.304,0.379,0.684,6.0,3.0,-0.002,0.06,0.0,-0.002,-0.00%,0.07,-0.1,0.0,2.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Cal Raleigh C,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.224,0.31,0.48,0.79,9.0,6.0,0.085,0.59,0.097,-0.012,0.06%,0.67,0.7,10.0,1.0,2B
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Mitch Haniger RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.197,0.258,0.338,0.596,17.0,11.0,-0.077,0.63,0.0,-0.077,-0.05%,0.72,-1.4,1.0,0.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Luke Raley LF,4.0,2.0,3.0,3.0,0.0,1.0,4.0,0.266,0.31,0.392,0.702,18.0,14.0,0.23,0.53,0.233,-0.003,0.16%,0.6,2.8,3.0,0.0,"HR,SB"
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Mitch Garver DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.174,0.287,0.347,0.634,20.0,14.0,-0.032,0.34,0.0,-0.032,-0.02%,0.39,-0.9,0.0,0.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Ty France 1B,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.243,0.297,0.353,0.65,25.0,16.0,0.037,0.31,0.053,-0.016,0.03%,0.35,1.3,5.0,0.0,HR
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Dylan Moore SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.223,0.318,0.415,0.733,14.0,9.0,0.015,0.22,0.024,-0.009,0.01%,0.25,-0.1,3.0,2.0,2B
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,George Kirby P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Ryne Stanek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202405130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405130.shtml,SeattleMarinersbatting,Team Totals,35.0,6.0,11.0,6.0,1.0,10.0,36.0,0.314,0.333,0.543,0.876,157.0,101.0,0.257,0.45,0.502,-0.247,0.17%,0.51,2.4,27.0,8.0,

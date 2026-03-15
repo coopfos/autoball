@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Riley Greene DH,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.266,0.391,0.548,0.939,15.0,10.0,-0.134,1.71,0.1,-0.234,-0.09%,1.88,-0.4,0.0,0.0,"HR,GDP"
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Mark Canha LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.248,0.367,0.444,0.811,21.0,12.0,-0.102,1.21,0.028,-0.13,-0.07%,1.33,-0.8,3.0,0.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Matt Vierling 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.276,0.301,0.439,0.74,16.0,10.0,-0.167,1.62,0.0,-0.167,-0.11%,1.78,-1.2,2.0,1.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Kerry Carpenter RF,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.26,0.324,0.45,0.774,17.0,12.0,0.119,1.04,0.154,-0.035,0.08%,1.15,0.5,1.0,1.0,2B
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Spencer Torkelson 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.217,0.282,0.302,0.584,10.0,7.0,-0.055,1.8,0.045,-0.1,-0.04%,1.99,-0.6,3.0,1.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Colt Keith 2B,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.158,0.232,0.178,0.41,3.0,3.0,0.007,0.71,0.026,-0.019,0.01%,0.79,0.1,0.0,2.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Andy Ibáñez PH-2B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.276,0.258,0.276,0.534,7.0,6.0,-0.132,3.23,0.0,-0.132,-0.09%,3.56,-0.7,0.0,0.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Parker Meadows CF,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.096,0.224,0.219,0.443,9.0,4.0,0.025,0.87,0.038,-0.013,0.02%,0.96,0.3,0.0,0.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Wenceel Pérez PH-CF,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0.296,0.387,0.556,0.943,7.0,3.0,-0.092,2.83,0.029,-0.121,-0.06%,3.12,-0.3,1.0,0.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Javier Báez SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.18,0.222,0.25,0.472,12.0,7.0,-0.136,2.16,0.048,-0.183,-0.09%,2.38,-0.8,3.0,1.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Carson Kelly C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.185,0.254,0.259,0.513,19.0,11.0,0.046,1.88,0.142,-0.096,0.03%,2.07,0.4,10.0,1.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Jack Flaherty P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Joey Wentz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202405060,DET,https://www.baseball-reference.com/boxes/CLE/CLE202405060.shtml,DetroitTigersbatting,Team Totals,32.0,1.0,6.0,1.0,4.0,9.0,37.0,0.188,0.278,0.313,0.59,136.0,85.0,-0.621,1.69,0.61,-1.23,-0.41%,1.87,-3.4,24.0,7.0,

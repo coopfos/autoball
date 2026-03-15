@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202504170,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202504170.shtml,TexasRangerspitching,"Kumar Rocker, W (1-2)",7,5,3,3,0,8,0,6.38,27,78,58,29,15,14,9,10,3,0,63.0,,,0.111,1.1,0.08%,1.37,0.2
+TEX202504170,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202504170.shtml,TexasRangerspitching,"Chris Martin, H (6)",1,0,0,0,0,2,0,1.93,3,16,11,6,2,3,0,1,1,0,,0.0,0.0,0.068,0.92,0.05%,1.15,0.5
+TEX202504170,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202504170.shtml,TexasRangerspitching,"Robert Garcia, S (1)",1,0,0,0,0,1,0,2.0,3,5,5,2,1,2,2,0,0,0,,0.0,0.0,0.066,0.89,0.05%,1.11,0.5
+TEX202504170,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202504170.shtml,TexasRangerspitching,Team Totals,9,5,3,3,0,11,0,3.0,33,99,74,37,18,19,11,11,4,0,63.0,0.0,0.0,0.245,1.06,0.18%,1.32,1.1

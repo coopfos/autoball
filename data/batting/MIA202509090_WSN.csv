@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,2.0,2.0,0.0,1.0,0.0,5.0,0.268,0.331,0.451,0.782,22.0,13.0,0.09,0.51,0.109,-0.019,0%,0.0,1.8,1.0,5.0,"2B,SB"
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,James Wood LF,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.26,0.357,0.473,0.83,26.0,17.0,0.085,0.68,0.093,-0.008,0%,0.0,0.6,1.0,0.0,2B
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Josh Bell 1B,4.0,1.0,1.0,4.0,0.0,0.0,5.0,0.232,0.324,0.409,0.733,13.0,9.0,0.102,0.72,0.147,-0.045,0%,0.0,0.7,11.0,0.0,"HR,SF"
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Daylen Lile DH,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.282,0.327,0.45,0.778,15.0,12.0,0.052,0.32,0.068,-0.016,0%,0.0,0.8,0.0,0.0,HR
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.26,0.299,0.414,0.713,20.0,15.0,-0.065,0.45,0.0,-0.065,0%,0.0,-1.4,4.0,4.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Riley Adams C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.204,0.265,0.345,0.61,2.0,2.0,-0.007,0.27,0.0,-0.007,0%,0.0,-0.1,0.0,0.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Jorge Alfaro C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.333,0.333,0.417,0.75,17.0,14.0,0.032,0.23,0.033,-0.002,0%,0.0,0.4,4.0,0.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Brady House 3B,3.0,1.0,2.0,0.0,1.0,1.0,4.0,0.245,0.26,0.333,0.593,23.0,13.0,0.036,0.49,0.05,-0.014,0%,0.0,0.9,0.0,2.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Dylan Crews RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.205,0.282,0.355,0.637,16.0,8.0,0.03,0.56,0.051,-0.022,0%,0.0,-0.0,3.0,0.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.231,0.296,0.281,0.578,16.0,12.0,-0.033,0.52,0.0,-0.033,0%,0.0,-1.2,3.0,0.0,SF
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Mitchell Parker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,PJ Poulin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Cole Henry P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509090,WSN,https://www.baseball-reference.com/boxes/MIA/MIA202509090.shtml,WashingtonNationalsbatting,Team Totals,36.0,7.0,10.0,7.0,4.0,4.0,42.0,0.278,0.333,0.5,0.833,170.0,115.0,0.322,0.5,0.551,-0.231,0.00%,0.0,2.3,27.0,11.0,

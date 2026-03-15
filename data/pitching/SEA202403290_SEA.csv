@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202403290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,SeattleMarinerspitching,"George Kirby, W (1-0)",6.2,2,0,0,2,8,0,0.0,24,99,67,33,16,18,5,9,2,0,76.0,,,0.386,1.02,0.22%,0.96,2.9
+SEA202403290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,SeattleMarinerspitching,"Gabe Speier, H (1)",0.1,1,0,0,0,1,0,0.0,2,5,4,2,1,1,1,0,0,0,,1.0,0.0,0.044,2.48,0.03%,2.31,0.2
+SEA202403290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,SeattleMarinerspitching,"Ryne Stanek, H (1)",0.2,1,0,0,1,1,0,0.0,4,17,7,3,3,1,1,1,0,0,,0.0,0.0,-0.005,2.66,-0.00%,2.48,-0.0
+SEA202403290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,SeattleMarinerspitching,"Andrés Muñoz, S (1)",1.1,0,0,0,0,3,0,0.0,4,20,12,4,4,4,1,0,0,0,,2.0,0.0,0.268,2.64,0.15%,2.46,0.9
+SEA202403290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,SeattleMarinerspitching,Team Totals,9.0,4,0,0,3,13,0,0.0,34,141,90,42,24,24,8,10,2,0,76.0,3.0,0.0,0.693,1.47,0.39%,1.37,4.0

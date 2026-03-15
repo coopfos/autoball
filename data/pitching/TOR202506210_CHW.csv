@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202506210,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202506210.shtml,ChicagoWhiteSoxpitching,"Aaron Civale, L (1-4)",7,9,5,5,1,2,2,5.03,31,96,64,43,5,16,11,17,8,0,40.0,,,-0.224,0.44,-0.00%,0.0,-1.5
+TOR202506210,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202506210.shtml,ChicagoWhiteSoxpitching,Jake Palisch,1,3,2,2,0,0,0,18.0,6,24,18,12,2,4,3,3,3,0,,0.0,0.0,-0.009,0.06,0.00%,0.0,-1.5
+TOR202506210,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202506210.shtml,ChicagoWhiteSoxpitching,Team Totals,8,12,7,7,1,2,2,7.88,37,120,82,55,7,20,14,20,11,0,40.0,0.0,0.0,-0.233,0.38,-0.00%,0.0,-3.0

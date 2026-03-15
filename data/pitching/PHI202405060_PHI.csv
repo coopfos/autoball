@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202405060,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202405060.shtml,PhiladelphiaPhilliespitching,"Zack Wheeler, W (4-3)",7,4,1,0,1,11,0,1.64,26,102,66,26,18,22,3,11,6,0,77.0,,,0.31,0.83,0.22%,0.99,2.5
+PHI202405060,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202405060.shtml,PhiladelphiaPhilliespitching,Matt Strahm,1,1,0,0,0,2,0,1.29,4,17,12,6,4,2,0,2,2,0,,0.0,0.0,0.023,0.42,0.02%,0.5,0.5
+PHI202405060,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202405060.shtml,PhiladelphiaPhilliespitching,Orion Kerkering,1,0,0,0,0,0,0,1.04,3,14,8,3,1,4,1,2,0,0,,0.0,0.0,0.006,0.08,0.00%,0.1,0.5
+PHI202405060,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202405060.shtml,PhiladelphiaPhilliespitching,Team Totals,9,5,1,0,1,13,0,0.0,33,133,86,35,23,28,4,15,8,0,77.0,0.0,0.0,0.339,0.72,0.24%,0.85,3.5

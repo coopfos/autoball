@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.304,0.398,0.655,1.053,18.0,12.0,-0.115,1.21,0.0,-0.115,-0.09%,1.64,-1.0,0.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.267,0.35,0.439,0.788,11.0,7.0,0.03,0.92,0.066,-0.036,0.03%,1.24,0.2,1.0,2.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.368,0.427,0.66,1.087,14.0,7.0,-0.078,1.17,0.017,-0.094,-0.06%,1.58,-0.7,6.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,3.0,1.0,1.0,3.0,0.0,1.0,3.0,0.307,0.329,0.599,0.927,12.0,9.0,0.405,1.68,0.458,-0.054,0.33%,2.27,2.2,2.0,0.0,HR
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Andy Pages LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.269,0.321,0.474,0.794,7.0,6.0,-0.056,0.75,0.0,-0.056,-0.05%,1.02,-0.5,1.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Max Muncy 3B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.205,0.328,0.331,0.659,14.0,8.0,0.018,0.59,0.038,-0.02,0.01%,0.8,-0.1,1.0,2.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Tommy Edman CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.242,0.281,0.492,0.773,12.0,10.0,-0.075,1.03,0.0,-0.075,-0.06%,1.4,-0.7,1.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Dalton Rushing C,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.308,0.357,0.385,0.742,13.0,9.0,-0.057,0.73,0.0,-0.057,-0.05%,0.98,-0.5,12.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Miguel Rojas 2B,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.257,0.276,0.338,0.614,8.0,5.0,0.047,0.75,0.064,-0.017,0.04%,1.02,0.1,3.0,3.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Dustin May P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Lou Trivino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505210,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505210.shtml,LosAngelesDodgersbatting,Team Totals,29.0,3.0,5.0,3.0,1.0,9.0,30.0,0.172,0.2,0.276,0.476,109.0,73.0,0.119,0.99,0.643,-0.524,0.10%,1.34,-0.8,27.0,7.0,

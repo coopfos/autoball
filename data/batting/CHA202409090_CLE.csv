@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Steven Kwan LF,3.0,2.0,1.0,0.0,2.0,1.0,5.0,0.288,0.359,0.419,0.778,24.0,14.0,0.05,0.64,0.073,-0.023,0.04%,0.94,1.1,1.0,0.0,SB
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,David Fry DH,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.26,0.358,0.448,0.806,12.0,8.0,0.05,0.67,0.105,-0.055,0.04%,0.98,-0.5,0.0,0.0,"HR,GDP"
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Kyle Manzardo PH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.225,0.266,0.402,0.668,4.0,3.0,-0.008,0.28,0.0,-0.008,-0.01%,0.41,-0.6,0.0,0.0,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,José Ramírez 3B,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.271,0.33,0.514,0.844,24.0,13.0,-0.011,0.53,0.041,-0.053,-0.01%,0.78,0.4,1.0,2.0,SB
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.244,0.323,0.465,0.788,17.0,12.0,0.085,0.47,0.107,-0.022,0.07%,0.69,-0.0,8.0,0.0,2B
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Lane Thomas CF,5.0,0.0,1.0,1.0,0.0,3.0,5.0,0.239,0.315,0.383,0.698,32.0,23.0,0.04,0.56,0.108,-0.067,0.04%,0.83,-0.7,0.0,0.0,2B
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Jhonkensy Noel RF,3.0,0.0,0.0,1.0,2.0,1.0,5.0,0.241,0.319,0.552,0.871,22.0,12.0,-0.004,0.6,0.038,-0.042,-0.00%,0.89,0.5,3.0,0.0,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.252,0.303,0.341,0.644,21.0,13.0,-0.059,0.46,0.0,-0.059,-0.05%,0.68,-1.8,0.0,2.0,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Bo Naylor C,3.0,1.0,2.0,1.0,1.0,1.0,4.0,0.209,0.273,0.37,0.643,17.0,9.0,0.071,0.24,0.083,-0.012,0.06%,0.35,1.8,14.0,0.0,"HR,2·SB"
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.214,0.304,0.328,0.633,22.0,8.0,-0.004,0.2,0.009,-0.012,-0.00%,0.29,0.7,0.0,1.0,SB
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Joey Cantillo P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Nick Sandlin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409090,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202409090.shtml,ClevelandGuardiansbatting,Team Totals,35.0,5.0,8.0,5.0,8.0,10.0,43.0,0.229,0.372,0.457,0.829,195.0,115.0,0.21,0.46,0.564,-0.353,0.19%,0.67,0.7,27.0,6.0,

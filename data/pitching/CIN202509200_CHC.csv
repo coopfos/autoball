@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202509200,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202509200.shtml,ChicagoCubspitching,Javier Assad,4,3,2,2,2,2,0,4.26,18,74,43,28,4,11,6,8,4,0,48.0,,,-0.02,1.17,-0.00%,0.12,0.2
+CIN202509200,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202509200.shtml,ChicagoCubspitching,"Drew Pomeranz, L (2-2)",1,2,1,1,0,2,1,2.3,5,13,10,3,5,2,1,2,1,0,,0.0,0.0,-0.083,0.94,-0.01%,0.1,-0.4
+CIN202509200,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202509200.shtml,ChicagoCubspitching,Aaron Civale,2,2,1,1,0,3,1,4.91,8,29,18,6,4,8,2,3,2,0,,0.0,0.0,-0.02,0.77,-0.00%,0.08,0.1
+CIN202509200,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202509200.shtml,ChicagoCubspitching,Andrew Kittredge,1,2,2,2,0,2,1,3.53,5,19,14,6,4,4,1,2,0,0,,0.0,0.0,-0.101,0.51,-0.01%,0.05,-1.4
+CIN202509200,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202509200.shtml,ChicagoCubspitching,Team Totals,8,9,6,6,2,9,3,6.75,36,135,85,43,17,25,10,15,7,0,48.0,0.0,0.0,-0.224,0.96,-0.01%,0.1,-1.6

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202407230,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407230.shtml,PittsburghPiratespitching,"Paul Skenes, L (6-1)",8.1,4,2,2,0,8,1,1.93,29,104,78,47,9,22,13,8,2,0,75.0,,,-0.04,1.01,-0.03%,1.12,2.1
+PIT202407230,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407230.shtml,PittsburghPiratespitching,Carmen Mlodzinski,0.2,0,0,0,0,1,0,3.19,2,8,5,3,2,0,1,0,0,0,,1.0,0.0,0.04,0.77,0.03%,0.85,0.5
+PIT202407230,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202407230.shtml,PittsburghPiratespitching,Team Totals,9.0,4,2,2,0,9,1,2.0,31,112,83,50,11,22,14,8,2,0,75.0,1.0,0.0,0.0,1.0,-0.00%,1.1,2.6

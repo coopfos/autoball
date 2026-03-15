@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202409140,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409140.shtml,MiamiMarlinspitching,"Valente Bellozo, L (2-4)",5.1,6,3,3,1,4,2,3.7,23,92,60,36,7,17,13,5,2,0,47.0,,,-0.093,0.92,0.00%,0.0,-0.3
+WAS202409140,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409140.shtml,MiamiMarlinspitching,Mike Baumann,1.2,1,0,0,0,4,0,5.43,6,29,23,13,4,6,0,2,2,0,,0.0,0.0,0.038,0.52,0.00%,0.0,0.7
+WAS202409140,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409140.shtml,MiamiMarlinspitching,George Soriano,1.0,1,1,1,0,1,1,5.67,4,13,10,5,4,1,1,2,0,0,,0.0,0.0,-0.026,0.12,0.00%,0.0,-0.5
+WAS202409140,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409140.shtml,MiamiMarlinspitching,Team Totals,8.0,8,4,4,1,9,3,4.5,33,134,93,54,15,24,14,9,4,0,47.0,0.0,0.0,-0.081,0.75,0.00%,0.0,-0.1

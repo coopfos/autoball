@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Alan Roden CF-LF,5.0,2.0,2.0,1.0,0.0,0.0,5.0,0.198,0.273,0.319,0.592,14.0,10.0,0.038,0.63,0.094,-0.057,0.01%,0.16,0.2,1.0,0.0,HR
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Matt Wallner RF,5.0,2.0,1.0,0.0,0.0,1.0,5.0,0.214,0.323,0.48,0.804,18.0,11.0,0.074,0.72,0.102,-0.028,0.01%,0.18,0.3,2.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,1.0,2.0,1.0,0.0,1.0,5.0,0.26,0.345,0.409,0.754,12.0,7.0,0.094,0.92,0.164,-0.07,0.01%,0.23,0.8,7.0,0.0,"2B,HBP"
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Kody Clemens LF-1B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.227,0.3,0.478,0.777,21.0,12.0,-0.079,0.82,0.0,-0.079,-0.01%,0.2,-1.6,4.0,0.0,GDP
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Luke Keaschall 2B,5.0,0.0,2.0,3.0,0.0,0.0,5.0,0.393,0.514,0.679,1.193,13.0,9.0,0.243,0.75,0.257,-0.015,0.04%,0.19,2.0,2.0,6.0,2·2B
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.24,0.297,0.373,0.67,21.0,11.0,-0.076,0.64,0.006,-0.082,-0.01%,0.16,-0.8,1.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Brooks Lee SS,4.0,2.0,2.0,1.0,1.0,0.0,5.0,0.245,0.288,0.376,0.664,21.0,12.0,0.174,0.69,0.202,-0.028,0.03%,0.17,1.8,1.0,3.0,HR
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Edouard Julien 1B,1.0,0.0,1.0,0.0,1.0,0.0,2.0,0.202,0.294,0.317,0.611,7.0,3.0,0.098,0.94,0.098,0.0,0.01%,0.24,1.2,7.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Austin Martin PH-CF,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.263,0.3,0.421,0.721,10.0,5.0,0.096,0.54,0.096,0.0,0.01%,0.14,1.7,2.0,0.0,HR
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Mickey Gasper DH,4.0,0.0,0.0,1.0,0.0,0.0,4.0,0.167,0.286,0.19,0.476,17.0,9.0,-0.082,0.88,0.007,-0.089,-0.01%,0.22,-1.2,0.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Pierson Ohl P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Thomas Hatch P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Kody Funderburk P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Brooks Kriske P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508060,MIN,https://www.baseball-reference.com/boxes/DET/DET202508060.shtml,MinnesotaTwinsbatting,Team Totals,38.0,9.0,11.0,8.0,4.0,4.0,43.0,0.289,0.372,0.605,0.977,154.0,89.0,0.58,0.75,1.026,-0.448,0.09%,0.19,4.5,27.0,9.0,

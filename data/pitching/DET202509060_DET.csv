@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202509060,DET,https://www.baseball-reference.com/boxes/DET/DET202509060.shtml,DetroitTigerspitching,"Tarik Skubal, W (13-4)",7,2,0,0,1,6,0,2.1,23,90,63,39,9,15,8,8,3,0,78.0,,,0.257,0.49,0.11%,0.35,3.5
+DET202509060,DET,https://www.baseball-reference.com/boxes/DET/DET202509060.shtml,DetroitTigerspitching,Tommy Kahnle,1,0,0,0,0,1,0,4.53,3,10,6,2,4,0,1,1,0,0,,0.0,0.0,0.006,0.08,0.00%,0.06,0.5
+DET202509060,DET,https://www.baseball-reference.com/boxes/DET/DET202509060.shtml,DetroitTigerspitching,Rafael Montero,1,1,0,0,0,0,0,4.64,3,13,10,6,2,2,3,0,0,0,,0.0,0.0,0.003,0.06,0.00%,0.04,0.5
+DET202509060,DET,https://www.baseball-reference.com/boxes/DET/DET202509060.shtml,DetroitTigerspitching,Team Totals,9,3,0,0,1,7,0,0.0,29,113,79,47,15,17,12,9,3,0,78.0,0.0,0.0,0.266,0.41,0.11%,0.29,4.5

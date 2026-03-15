@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Jackson Chourio LF,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.274,0.321,0.452,0.773,13.0,10.0,-0.135,1.92,0.068,-0.203,-0.10%,2.28,-0.5,3.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,4.0,0.0,0.0,1.0,0.0,1.0,5.0,0.262,0.338,0.366,0.704,23.0,15.0,-0.204,2.14,0.0,-0.204,-0.14%,2.53,-1.2,4.0,0.0,SF
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,William Contreras DH,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.281,0.359,0.468,0.827,30.0,20.0,-0.229,1.76,0.0,-0.229,-0.16%,2.09,-1.6,0.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Willy Adames SS,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.255,0.338,0.47,0.809,17.0,13.0,-0.099,1.84,0.12,-0.219,-0.07%,2.18,0.0,1.0,2.0,HR
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Brewer Hicklen RF,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,15.0,10.0,-0.045,0.87,0.0,-0.045,-0.03%,1.03,-0.4,2.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Sal Frelick PH-RF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.267,0.336,0.343,0.679,8.0,4.0,-0.087,1.68,0.0,-0.087,-0.06%,1.98,-0.4,1.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Gary Sánchez C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.23,0.322,0.41,0.732,17.0,12.0,-0.096,0.94,0.0,-0.096,-0.07%,1.11,-0.6,9.0,1.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.21,0.294,0.41,0.704,16.0,9.0,-0.115,1.1,0.0,-0.115,-0.08%,1.31,-0.7,4.0,1.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Andruw Monasterio PR-1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.216,0.32,0.288,0.609,,,,,,,,,,3.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,3.0,2.0,2.0,0.0,0.0,0.0,4.0,0.24,0.338,0.394,0.732,16.0,10.0,0.152,1.69,0.17,-0.018,0.11%,2.0,1.1,1.0,3.0,"2B,SB,HBP"
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.255,0.32,0.357,0.677,11.0,8.0,-0.122,2.45,0.144,-0.266,-0.09%,2.9,0.2,3.0,2.0,SB
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Tobias Myers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Bryse Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202409010,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202409010.shtml,MilwaukeeBrewersbatting,Team Totals,38.0,3.0,5.0,3.0,0.0,6.0,40.0,0.132,0.15,0.237,0.387,166.0,111.0,-0.98,1.73,0.502,-1.482,-0.70%,2.05,-4.2,31.0,9.0,

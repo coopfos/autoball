@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,1.0,0.0,0.0,0.0,3.0,5.0,0.261,0.327,0.382,0.709,18.0,12.0,-0.036,0.41,0.012,-0.048,0%,0.01,-0.4,4.0,0.0,HBP
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.285,0.315,0.48,0.795,12.0,9.0,-0.011,0.46,0.021,-0.032,0%,0.01,-0.3,2.0,3.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.281,0.358,0.483,0.84,23.0,13.0,0.0,0.4,0.024,-0.023,0%,0.0,0.6,2.0,2.0,SB
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,3.0,0.0,2.0,1.0,1.0,0.0,4.0,0.284,0.318,0.406,0.724,20.0,10.0,0.055,0.54,0.067,-0.013,0.00%,0.01,1.4,1.0,2.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Nolan Jones DH,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.189,0.296,0.295,0.591,20.0,10.0,-0.093,0.84,0.014,-0.107,-0.00%,0.01,-2.0,0.0,0.0,GDP
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Jake Cave LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.25,0.303,0.326,0.629,18.0,11.0,-0.056,0.54,0.0,-0.056,-0.00%,0.01,-1.2,1.0,0.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Michael Toglia 1B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.196,0.248,0.455,0.703,13.0,10.0,-0.019,0.27,0.008,-0.027,0%,0.01,0.4,7.0,1.0,HR
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.198,0.236,0.455,0.691,12.0,10.0,-0.025,0.31,0.004,-0.029,0%,0.01,-0.4,4.0,0.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Sam Hilliard RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,14.0,10.0,-0.018,0.23,0.0,-0.018,0%,0.0,-0.5,2.0,0.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Jacob Stallings PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.293,0.376,0.466,0.841,5.0,1.0,0.008,0.24,0.008,0.0,0%,0.0,0.1,0.0,0.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Austin Gomber P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Justin Lawrence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Anthony Molina P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+HOU202406250,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406250.shtml,ColoradoRockiesbatting,Team Totals,32.0,2.0,6.0,2.0,4.0,11.0,37.0,0.188,0.297,0.281,0.579,155.0,96.0,-0.195,0.44,0.158,-0.353,-0.00%,0.01,-2.3,24.0,8.0,

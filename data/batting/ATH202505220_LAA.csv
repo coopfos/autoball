@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Zach Neto SS,5.0,2.0,3.0,1.0,0.0,0.0,5.0,0.296,0.341,0.56,0.901,23.0,15.0,0.187,0.91,0.215,-0.028,0.10%,0.79,1.7,4.0,7.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,1.0,1.0,0.0,1.0,0.0,5.0,0.278,0.372,0.401,0.774,20.0,10.0,0.092,1.25,0.146,-0.054,0.05%,1.09,0.7,10.0,0.0,HBP
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,2.0,3.0,5.0,1.0,0.0,5.0,0.225,0.272,0.508,0.78,22.0,12.0,0.544,1.63,0.594,-0.05,0.29%,1.42,3.8,1.0,1.0,HR
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Jorge Soler DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.225,0.3,0.391,0.691,17.0,9.0,0.001,1.23,0.08,-0.078,0.00%,1.07,0.3,0.0,0.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,5.0,2.0,2.0,1.0,0.0,2.0,5.0,0.275,0.309,0.556,0.864,24.0,14.0,0.001,1.28,0.158,-0.156,0.00%,1.12,0.2,5.0,0.0,HR
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Jo Adell RF,3.0,0.0,0.0,1.0,1.0,1.0,5.0,0.186,0.255,0.364,0.62,22.0,11.0,-0.084,1.14,0.033,-0.116,-0.04%,1.0,0.1,1.0,0.0,HBP
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Tim Anderson 2B,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.2,0.256,0.238,0.493,7.0,6.0,-0.053,1.05,0.0,-0.053,-0.03%,0.92,-0.5,1.0,2.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Yoán Moncada PH-3B,2.0,0.0,0.0,1.0,0.0,1.0,3.0,0.222,0.337,0.472,0.809,10.0,7.0,-0.054,0.85,0.005,-0.059,-0.03%,0.75,-0.8,0.0,0.0,SF
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Kevin Newman 3B-2B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.191,0.208,0.213,0.421,23.0,17.0,0.002,0.61,0.05,-0.048,0.00%,0.53,0.9,1.0,3.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Kyren Paris CF,5.0,1.0,1.0,0.0,0.0,3.0,5.0,0.198,0.276,0.397,0.673,22.0,14.0,-0.034,0.6,0.026,-0.059,-0.02%,0.52,-0.9,4.0,0.0,2B
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Hunter Strickland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Reid Detmers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Ryan Zeferjahn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Connor Brogdon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202505220,LAA,https://www.baseball-reference.com/boxes/ATH/ATH202505220.shtml,LosAngelesAngelsbatting,Team Totals,38.0,10.0,13.0,10.0,4.0,10.0,45.0,0.342,0.422,0.526,0.949,190.0,115.0,0.602,1.06,1.307,-0.701,0.32%,0.93,5.6,27.0,14.0,

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202405150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405150.shtml,BostonRedSoxpitching,"Tanner Houck, L (3-5)",5.2,5,3,1,3,7,0,2.17,26,112,75,40,10,25,8,7,5,0,55.0,,,0.178,1.46,0.10%,1.4,1.7
+BOS202405150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405150.shtml,BostonRedSoxpitching,"Greg Weissert, BS (2)",0.1,2,1,0,0,1,0,1.53,3,9,6,4,1,1,2,0,0,0,,2.0,2.0,-0.408,2.21,-0.23%,2.12,-2.6
+BOS202405150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405150.shtml,BostonRedSoxpitching,Cam Booser,2.0,0,0,0,0,4,0,2.63,6,27,20,10,3,7,1,1,1,0,,0.0,0.0,0.112,0.73,0.06%,0.7,1.0
+BOS202405150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405150.shtml,BostonRedSoxpitching,Chase Anderson,1.0,0,0,0,0,0,0,4.12,3,9,7,5,0,2,1,2,1,0,,0.0,0.0,0.04,0.52,0.02%,0.5,0.5
+BOS202405150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405150.shtml,BostonRedSoxpitching,Team Totals,9.0,7,4,1,3,12,0,1.0,38,157,108,59,14,35,12,10,7,0,55.0,2.0,2.0,-0.078,1.35,-0.05%,1.29,0.7

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Jose Altuve 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.305,0.352,0.457,0.809,14.0,11.0,-0.055,0.61,0.012,-0.067,-0.05%,0.94,-0.5,1.0,3.0,CS
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Alex Bregman 3B,3.0,1.0,1.0,0.0,0.0,1.0,4.0,0.257,0.32,0.413,0.732,21.0,12.0,0.054,1.17,0.089,-0.035,0.05%,1.79,0.4,2.0,0.0,"SB,HBP"
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Yordan Alvarez DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.293,0.379,0.523,0.902,16.0,11.0,-0.099,1.08,0.0,-0.099,-0.09%,1.66,-0.9,0.0,0.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Yainer Diaz C,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.287,0.313,0.418,0.731,19.0,14.0,0.126,1.01,0.177,-0.051,0.11%,1.54,0.9,11.0,0.0,HR
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Jon Singleton 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.238,0.328,0.355,0.683,14.0,11.0,-0.039,1.04,0.044,-0.083,-0.03%,1.59,-0.3,8.0,0.0,2B
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Jeremy Peña SS,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.274,0.319,0.38,0.7,14.0,9.0,0.162,1.39,0.2,-0.038,0.15%,2.13,0.8,0.0,3.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Jake Meyers CF,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.239,0.307,0.426,0.733,15.0,9.0,0.263,1.56,0.348,-0.085,0.24%,2.39,0.7,1.0,0.0,HR
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Joey Loperfido LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.25,0.305,0.385,0.69,22.0,14.0,-0.072,0.73,0.0,-0.072,-0.07%,1.11,-0.7,1.0,0.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Trey Cabbage RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.233,0.253,0.384,0.637,18.0,10.0,-0.048,0.67,0.0,-0.048,-0.04%,1.02,-0.4,3.0,0.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Framber Valdez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Tayler Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Bryan Abreu P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Ryan Pressly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Josh Hader P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407200,HOU,https://www.baseball-reference.com/boxes/SEA/SEA202407200.shtml,HoustonAstrosbatting,Team Totals,33.0,4.0,7.0,4.0,1.0,11.0,35.0,0.212,0.257,0.424,0.681,153.0,101.0,0.292,0.99,0.87,-0.578,0.27%,1.52,-0.0,27.0,8.0,

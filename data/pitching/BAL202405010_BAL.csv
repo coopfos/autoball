@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202405010,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405010.shtml,BaltimoreOriolespitching,"Corbin Burnes, L (3-1)",6,4,2,2,1,6,1,2.61,22,95,61,30,13,18,11,4,2,0,61.0,,,0.006,0.84,0.01%,1.16,0.7
+BAL202405010,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405010.shtml,BaltimoreOriolespitching,Mike Baumann,2,0,0,0,0,1,0,4.26,6,24,17,6,3,8,3,2,0,0,,0.0,0.0,0.055,0.37,0.04%,0.51,0.9
+BAL202405010,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405010.shtml,BaltimoreOriolespitching,Yohan Ramírez,1,0,0,0,0,1,0,8.74,3,10,7,4,0,3,1,1,1,0,,0.0,0.0,0.015,0.19,0.01%,0.27,0.5
+BAL202405010,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405010.shtml,BaltimoreOriolespitching,Team Totals,9,4,2,2,1,8,1,2.0,31,129,85,40,16,29,15,7,3,0,61.0,0.0,0.0,0.076,0.7,0.06%,0.97,2.1

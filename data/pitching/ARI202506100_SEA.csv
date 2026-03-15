@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ARI202506100,SEA,https://www.baseball-reference.com/boxes/ARI/ARI202506100.shtml,SeattleMarinerspitching,"Logan Evans, L (3-2)",5,7,4,4,2,5,1,3.38,23,87,50,26,8,16,5,11,4,0,40.0,,,-0.16,0.72,-0.10%,0.72,-1.5
+ARI202506100,SEA,https://www.baseball-reference.com/boxes/ARI/ARI202506100.shtml,SeattleMarinerspitching,Trent Thornton,1,5,5,5,2,1,1,7.71,9,40,24,18,2,4,1,5,4,0,,0.0,0.0,-0.145,0.3,-0.09%,0.3,-4.5
+ARI202506100,SEA,https://www.baseball-reference.com/boxes/ARI/ARI202506100.shtml,SeattleMarinerspitching,Jackson Kowar,2,1,1,1,0,3,1,2.35,7,28,17,9,3,5,1,3,0,0,,0.0,0.0,0.0,0.01,0.00%,0.01,0.0
+ARI202506100,SEA,https://www.baseball-reference.com/boxes/ARI/ARI202506100.shtml,SeattleMarinerspitching,Team Totals,8,13,10,10,4,9,3,11.25,39,155,91,53,13,25,7,19,8,0,40.0,0.0,0.0,-0.305,0.49,-0.18%,0.49,-5.9

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Austin Slater LF,3.0,0.0,2.0,0.0,0.0,0.0,3.0,0.219,0.338,0.266,0.603,5.0,4.0,0.013,0.66,0.056,-0.043,0.01%,0.96,0.2,1.0,0.0,CS
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Cedric Mullins PH-CF,2.0,1.0,2.0,0.0,0.0,0.0,2.0,0.227,0.286,0.399,0.686,8.0,5.0,0.011,0.1,0.011,0.0,0.01%,0.15,0.7,1.0,0.0,SB
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,4.0,1.0,0.0,0.0,1.0,0.0,5.0,0.267,0.308,0.427,0.734,17.0,9.0,-0.048,0.58,0.01,-0.058,-0.04%,0.85,-0.9,6.0,0.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,2.0,1.0,1.0,2.0,0.0,5.0,0.287,0.375,0.558,0.933,18.0,9.0,0.056,0.37,0.067,-0.011,0.05%,0.55,1.9,3.0,2.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Anthony Santander RF,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.239,0.306,0.528,0.834,22.0,14.0,0.159,0.4,0.191,-0.032,0.14%,0.58,0.4,0.0,0.0,HR
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Eloy Jiménez DH,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.256,0.306,0.359,0.665,18.0,11.0,-0.001,0.31,0.028,-0.029,-0.00%,0.45,0.2,0.0,0.0,2B
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Colton Cowser CF-LF,4.0,2.0,2.0,0.0,0.0,1.0,4.0,0.247,0.325,0.45,0.775,14.0,10.0,0.101,0.34,0.106,-0.005,0.09%,0.5,0.9,3.0,0.0,"3B,2B"
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Ramón Urías 3B,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.25,0.321,0.407,0.728,14.0,8.0,0.035,0.46,0.071,-0.036,0.03%,0.67,0.3,1.0,1.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,James McCann C,3.0,1.0,1.0,3.0,0.0,0.0,4.0,0.226,0.277,0.339,0.616,20.0,13.0,0.117,0.46,0.119,-0.002,0.10%,0.68,1.5,11.0,0.0,"HR,SF"
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.183,0.227,0.356,0.583,15.0,11.0,-0.019,0.18,0.0,-0.019,-0.02%,0.27,-0.6,1.0,2.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Dean Kremer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Cionel Pérez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Burch Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408200,BAL,https://www.baseball-reference.com/boxes/NYN/NYN202408200.shtml,BaltimoreOriolesbatting,Team Totals,36.0,9.0,11.0,8.0,4.0,5.0,41.0,0.306,0.366,0.583,0.949,151.0,94.0,0.424,0.4,0.659,-0.235,0.37%,0.58,4.7,27.0,5.0,

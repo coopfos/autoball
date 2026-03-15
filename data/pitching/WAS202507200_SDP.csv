@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202507200,SDP,https://www.baseball-reference.com/boxes/WAS/WAS202507200.shtml,SanDiegoPadrespitching,"Nick Pivetta, W (10-2)",6,3,1,1,1,5,1,2.81,22,87,60,32,9,19,7,9,4,0,66.0,,,0.073,0.24,0.06%,0.3,1.9
+WAS202507200,SDP,https://www.baseball-reference.com/boxes/WAS/WAS202507200.shtml,SanDiegoPadrespitching,Bryan Hoeing,1,1,0,0,1,0,0,3.38,6,23,13,12,1,0,3,2,1,0,,0.0,0.0,0.005,0.15,0.00%,0.2,0.5
+WAS202507200,SDP,https://www.baseball-reference.com/boxes/WAS/WAS202507200.shtml,SanDiegoPadrespitching,Alek Jacob,2,2,0,0,0,1,0,6.39,8,32,22,14,4,4,4,3,0,0,,0.0,0.0,0.004,0.04,0.00%,0.05,1.0
+WAS202507200,SDP,https://www.baseball-reference.com/boxes/WAS/WAS202507200.shtml,SanDiegoPadrespitching,Team Totals,9,6,1,1,2,6,1,1.0,36,142,95,58,14,23,14,14,5,0,66.0,0.0,0.0,0.082,0.18,0.06%,0.23,3.3

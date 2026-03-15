@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Angel Martínez LF,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.258,0.331,0.392,0.723,19.0,13.0,0.218,1.93,0.241,-0.023,0.14%,2.01,1.5,2.0,0.0,2B
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.251,0.299,0.335,0.634,11.0,9.0,-0.186,2.38,0.017,-0.203,-0.12%,2.48,-0.9,1.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,José Ramírez 3B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.273,0.331,0.515,0.847,8.0,7.0,-0.07,2.27,0.094,-0.164,-0.04%,2.37,-0.1,2.0,2.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.245,0.323,0.459,0.782,12.0,8.0,-0.011,1.93,0.174,-0.185,-0.01%,2.01,-0.8,3.0,0.0,"2B,GDP"
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Lane Thomas CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.242,0.314,0.397,0.711,10.0,8.0,-0.189,1.52,0.0,-0.189,-0.12%,1.59,-1.1,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,3.0,2.0,1.0,2.0,1.0,0.0,4.0,0.229,0.27,0.407,0.677,21.0,11.0,0.536,1.58,0.569,-0.033,0.34%,1.65,1.6,0.0,0.0,HR
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Will Brennan RF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.25,0.297,0.377,0.674,10.0,6.0,0.097,1.18,0.132,-0.035,0.06%,1.23,0.5,5.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Bo Naylor C,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.204,0.27,0.358,0.628,12.0,5.0,0.092,1.87,0.138,-0.046,0.06%,1.94,0.4,11.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,David Fry PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.262,0.358,0.449,0.807,6.0,2.0,0.007,0.28,0.007,0.0,0.00%,0.29,0.1,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Austin Hedges C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.156,0.209,0.227,0.435,,,,,,,,,,2.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,1.0,1.0,0.0,0.0,0.0,1.0,2.0,0.21,0.302,0.322,0.625,7.0,5.0,-0.01,0.61,0.014,-0.024,-0.01%,0.65,-0.1,1.0,0.0,HBP
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Daniel Schneemann PH-SS,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.223,0.301,0.38,0.682,10.0,7.0,-0.142,2.51,0.0,-0.142,-0.09%,2.62,-1.0,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Matthew Boyd P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Pedro Avila P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Erik Sabrowski P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Eli Morgan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Andrew Walters P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202409160,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202409160.shtml,ClevelandGuardiansbatting,Team Totals,32.0,4.0,10.0,4.0,3.0,7.0,36.0,0.312,0.389,0.469,0.858,126.0,81.0,0.342,1.76,1.386,-1.044,0.21%,1.83,0.1,27.0,2.0,

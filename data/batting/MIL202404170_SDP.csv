@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Xander Bogaerts 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.2,0.273,0.263,0.535,18.0,13.0,-0.232,1.69,0.0,-0.232,-0.15%,1.82,-1.4,1.0,2.0,
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.288,0.374,0.5,0.874,15.0,9.0,-0.097,1.49,0.037,-0.133,-0.06%,1.6,-0.5,1.0,0.0,
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Jurickson Profar LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.309,0.413,0.485,0.898,18.0,13.0,-0.133,1.46,0.03,-0.163,-0.09%,1.57,-0.6,0.0,0.0,GDP
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Manny Machado DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.262,0.333,0.44,0.774,14.0,10.0,-0.054,1.51,0.059,-0.112,-0.03%,1.63,-0.3,0.0,0.0,
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.227,0.337,0.44,0.777,13.0,7.0,-0.157,1.37,0.024,-0.181,-0.10%,1.48,-0.9,2.0,1.0,GDP
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Jackson Merrill CF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.333,0.405,0.439,0.845,9.0,7.0,-0.013,1.08,0.051,-0.063,-0.01%,1.16,-0.3,2.0,0.0,3B
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Tyler Wade 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.214,0.298,0.238,0.536,16.0,11.0,-0.127,1.58,0.0,-0.127,-0.08%,1.71,-0.9,1.0,1.0,
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Matthew Batten 1B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.333,0.333,1.0,1.333,11.0,7.0,0.171,1.15,0.211,-0.04,0.11%,1.24,0.6,5.0,2.0,3B
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Kyle Higashioka C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.188,0.188,0.438,0.625,7.0,7.0,-0.08,0.97,0.025,-0.105,-0.05%,1.05,-0.4,11.0,0.0,2B
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Michael King P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202404170,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202404170.shtml,SanDiegoPadresbatting,Team Totals,30.0,0.0,5.0,0.0,2.0,3.0,32.0,0.167,0.219,0.333,0.552,121.0,84.0,-0.722,1.39,0.437,-1.156,-0.47%,1.5,-4.6,24.0,6.0,

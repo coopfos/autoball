@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202506260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202506260.shtml,ClevelandGuardianspitching,"Tanner Bibee, L (4-8)",6.0,3,3,2,0,7,0,3.9,24,96,63,37,13,13,8,7,4,0,63.0,,,-0.091,0.9,-0.06%,1.01,-0.0
+CLE202506260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202506260.shtml,ClevelandGuardianspitching,Zak Kent,2.1,1,2,2,2,2,0,6.14,9,36,19,11,3,5,3,2,1,0,,0.0,0.0,0.03,0.24,0.02%,0.27,0.6
+CLE202506260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202506260.shtml,ClevelandGuardianspitching,Kolby Allard,0.2,2,1,1,1,0,0,2.76,4,13,8,6,0,2,1,2,1,0,,2.0,2.0,-0.025,0.16,-0.02%,0.18,-2.1
+CLE202506260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202506260.shtml,ClevelandGuardianspitching,Team Totals,9.0,6,6,5,3,9,0,5.0,37,145,90,54,16,20,12,11,6,0,63.0,2.0,2.0,-0.086,0.68,-0.06%,0.76,-1.5

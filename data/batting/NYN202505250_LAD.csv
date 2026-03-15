@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.295,0.388,0.638,1.025,14.0,10.0,0.037,0.9,0.103,-0.066,0.03%,1.18,0.5,0.0,0.0,HR
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.259,0.341,0.42,0.761,11.0,8.0,0.011,0.9,0.058,-0.046,0.01%,1.18,0.3,1.0,0.0,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.357,0.427,0.636,1.063,16.0,10.0,0.159,1.34,0.181,-0.023,0.12%,1.75,1.7,2.0,2.0,2B
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Will Smith C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.326,0.446,0.485,0.931,20.0,13.0,-0.331,1.87,0.0,-0.331,-0.26%,2.45,-3.2,8.0,0.0,GDP
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.307,0.331,0.593,0.925,17.0,12.0,-0.071,1.11,0.028,-0.099,-0.06%,1.46,-0.5,4.0,0.0,"2B,SB"
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Max Muncy 3B,2.0,0.0,1.0,0.0,2.0,0.0,4.0,0.21,0.339,0.331,0.67,17.0,5.0,0.076,1.03,0.1,-0.024,0.06%,1.35,0.4,0.0,1.0,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Andy Pages CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.266,0.313,0.457,0.77,18.0,12.0,-0.185,1.51,0.002,-0.187,-0.14%,1.98,-1.3,4.0,0.0,"SB,GDP"
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.163,0.297,0.261,0.558,20.0,11.0,-0.03,1.02,0.049,-0.079,-0.02%,1.34,-0.3,2.0,0.0,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Tommy Edman 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.231,0.279,0.463,0.742,9.0,7.0,-0.092,1.29,0.0,-0.092,-0.07%,1.69,-0.7,2.0,1.0,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Landon Knack P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Lou Trivino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505250,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505250.shtml,LosAngelesDodgersbatting,Team Totals,31.0,1.0,6.0,1.0,4.0,7.0,35.0,0.194,0.286,0.355,0.641,142.0,88.0,-0.426,1.22,0.521,-0.947,-0.34%,1.6,-3.2,24.0,6.0,

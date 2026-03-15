@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202504180,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504180.shtml,SanDiegoPadrespitching,"Kyle Hart, L (2-1)",5,10,5,5,0,2,2,6.48,25,79,55,34,6,15,8,15,5,0,29.0,,,-0.329,0.73,-0.22%,0.81,-2.9
+HOU202504180,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504180.shtml,SanDiegoPadrespitching,Alek Jacob,2,1,0,0,0,1,0,2.45,6,20,12,7,2,3,3,2,2,0,,1.0,0.0,0.069,0.54,0.05%,0.6,1.4
+HOU202504180,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504180.shtml,SanDiegoPadrespitching,Yuki Matsui,1,1,1,1,1,1,0,2.25,5,20,13,9,2,2,0,3,1,0,,0.0,0.0,-0.058,0.51,-0.04%,0.57,-0.5
+HOU202504180,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504180.shtml,SanDiegoPadrespitching,Team Totals,8,12,6,6,1,4,2,6.75,36,119,80,50,10,20,11,20,8,0,29.0,1.0,0.0,-0.318,0.67,-0.21%,0.74,-2.1

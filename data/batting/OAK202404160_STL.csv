@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Brendan Donovan 2B,4.0,0.0,0.0,1.0,1.0,0.0,5.0,0.238,0.364,0.429,0.792,18.0,11.0,-0.059,1.07,0.036,-0.096,-0.03%,0.89,-0.5,0.0,1.0,CS
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Paul Goldschmidt 1B,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.19,0.292,0.238,0.53,21.0,15.0,-0.022,1.0,0.027,-0.049,-0.01%,0.83,-0.3,11.0,1.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Willson Contreras C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.283,0.389,0.5,0.889,13.0,9.0,-0.075,0.97,0.013,-0.088,-0.04%,0.8,-0.6,5.0,0.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.297,0.312,0.405,0.717,10.0,6.0,0.057,1.09,0.105,-0.048,0.03%,0.91,0.3,1.0,6.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Iván Herrera DH,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.27,0.293,0.514,0.806,20.0,12.0,0.015,1.44,0.093,-0.078,0.01%,1.2,-0.1,0.0,0.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Lars Nootbaar LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.2,0.4,0.467,0.867,18.0,11.0,0.062,1.43,0.122,-0.06,0.03%,1.19,0.3,4.0,0.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Masyn Winn SS,1.0,1.0,0.0,1.0,2.0,1.0,4.0,0.362,0.396,0.489,0.886,18.0,7.0,0.115,1.57,0.126,-0.011,0.06%,1.31,0.8,0.0,3.0,"SB,SF"
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Jordan Walker RF,1.0,0.0,0.0,1.0,1.0,0.0,3.0,0.184,0.25,0.306,0.556,11.0,5.0,0.016,1.99,0.067,-0.052,0.01%,1.65,-0.1,1.0,0.0,SF
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Victor Scott II CF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.089,0.145,0.143,0.288,3.0,3.0,-0.015,0.61,0.0,-0.015,-0.01%,0.51,-0.2,1.0,0.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Michael Siani CF-RF,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.077,0.2,0.231,0.431,11.0,10.0,-0.089,1.41,0.0,-0.089,-0.04%,1.17,-0.8,3.0,0.0,SH
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Lance Lynn P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,JoJo Romero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Ryan Helsley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202404160,STL,https://www.baseball-reference.com/boxes/OAK/OAK202404160.shtml,StLouisCardinalsbatting,Team Totals,27.0,3.0,4.0,3.0,6.0,7.0,37.0,0.148,0.286,0.148,0.434,143.0,89.0,0.005,1.28,0.589,-0.586,0.00%,1.06,-1.2,27.0,11.0,

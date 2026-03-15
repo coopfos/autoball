@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202404190,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404190.shtml,ChicagoCubspitching,"Jameson Taillon, W (1-0)",5,3,1,1,0,4,1,1.8,18,73,54,30,12,12,4,10,3,0,61.0,,,0.152,0.43,0.10%,0.46,1.4
+CHN202404190,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404190.shtml,ChicagoCubspitching,Keegan Thompson,2,0,0,0,1,4,0,0.0,8,36,22,10,8,4,3,0,0,0,,0.0,0.0,0.012,0.14,0.01%,0.15,1.0
+CHN202404190,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404190.shtml,ChicagoCubspitching,Colten Brewer,2,3,2,1,0,1,0,4.5,9,33,24,14,5,5,5,3,2,0,,0.0,0.0,0.004,0.03,0.00%,0.03,-1.0
+CHN202404190,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404190.shtml,ChicagoCubspitching,Team Totals,9,6,3,2,1,9,1,2.0,35,142,100,54,25,21,12,13,5,0,61.0,0.0,0.0,0.168,0.25,0.11%,0.27,1.4

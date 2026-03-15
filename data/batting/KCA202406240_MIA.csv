@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. CF,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.264,0.331,0.44,0.771,20.0,9.0,-0.045,0.69,0.014,-0.059,0%,0.01,-0.5,5.0,0.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Bryan De La Cruz DH,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.248,0.297,0.435,0.732,15.0,10.0,0.07,0.8,0.127,-0.058,0.00%,0.01,0.5,0.0,0.0,2B
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Jake Burger 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.213,0.252,0.333,0.586,13.0,11.0,-0.029,0.64,0.026,-0.055,0%,0.01,-0.3,7.0,0.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.237,0.291,0.379,0.67,21.0,10.0,-0.022,1.05,0.053,-0.075,0%,0.01,-0.4,2.0,0.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Tim Anderson SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.224,0.249,0.238,0.487,17.0,12.0,-0.099,1.01,0.0,-0.099,-0.00%,0.01,-0.9,1.0,1.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Otto Lopez 2B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.248,0.28,0.348,0.628,10.0,8.0,-0.033,0.81,0.026,-0.059,0%,0.01,-0.3,1.0,2.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Nick Gordon LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.225,0.25,0.382,0.632,18.0,13.0,-0.029,0.79,0.036,-0.065,0%,0.01,-0.3,3.0,0.0,2B
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.197,0.283,0.238,0.52,9.0,5.0,-0.013,1.5,0.013,-0.025,0%,0.02,-0.1,0.0,2.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Vidal Bruján PH-3B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.234,0.305,0.336,0.64,6.0,5.0,-0.027,0.53,0.0,-0.027,0%,0.01,-0.3,0.0,0.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.156,0.19,0.224,0.414,13.0,9.0,-0.105,1.39,0.0,-0.105,-0.00%,0.02,-1.1,5.0,0.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Roddery Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,JT Chargois P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Kent Emanuel P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+KCA202406240,MIA,https://www.baseball-reference.com/boxes/KCA/KCA202406240.shtml,MiamiMarlinsbatting,Team Totals,32.0,1.0,4.0,1.0,3.0,15.0,35.0,0.125,0.2,0.188,0.388,142.0,92.0,-0.332,0.9,0.295,-0.627,-0.00%,0.01,-3.5,24.0,6.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202404080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,TorontoBlueJayspitching,"José Berríos, W (2-0)",6.2,4,0,0,1,6,0,1.45,25,101,72,36,11,25,9,9,7,0,71.0,,,0.277,0.66,0.14%,0.54,3.2
+TOR202404080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,TorontoBlueJayspitching,Yimi García,1.1,1,1,1,1,2,1,2.45,6,27,18,9,4,5,0,3,0,0,,1.0,0.0,0.019,0.41,0.01%,0.34,-0.3
+TOR202404080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,TorontoBlueJayspitching,Chad Green,1.0,2,1,1,0,2,1,4.15,5,23,15,9,3,3,1,2,0,0,,0.0,0.0,0.014,0.27,0.01%,0.22,-0.5
+TOR202404080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,TorontoBlueJayspitching,Team Totals,9.0,7,2,2,2,10,2,2.0,36,151,105,54,18,33,10,14,7,0,71.0,1.0,0.0,0.31,0.56,0.15%,0.46,2.4

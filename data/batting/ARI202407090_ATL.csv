@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Jarred Kelenic CF,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.273,0.316,0.449,0.766,17.0,12.0,0.02,0.54,0.05,-0.03,0.01%,0.59,-0.3,3.0,0.0,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Ozzie Albies 2B,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.26,0.313,0.411,0.724,32.0,25.0,-0.062,0.65,0.015,-0.077,-0.04%,0.72,-0.8,1.0,2.0,SB
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,0.0,1.0,0.0,1.0,3.0,5.0,0.253,0.327,0.447,0.774,23.0,12.0,-0.027,0.52,0.03,-0.057,-0.02%,0.57,-0.1,0.0,3.0,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Matt Olson 1B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.239,0.32,0.424,0.744,14.0,8.0,-0.033,0.6,0.032,-0.065,-0.02%,0.67,-0.8,7.0,1.0,2B
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Marcell Ozuna DH,5.0,2.0,2.0,0.0,0.0,1.0,5.0,0.293,0.373,0.56,0.933,23.0,14.0,0.048,0.63,0.099,-0.051,0.03%,0.7,0.0,0.0,0.0,"2B,GDP"
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Adam Duvall RF,3.0,2.0,2.0,3.0,1.0,0.0,4.0,0.191,0.26,0.336,0.597,15.0,10.0,0.139,0.89,0.157,-0.018,0.09%,0.98,2.5,1.0,0.0,HR
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Eddie Rosario LF,3.0,1.0,0.0,0.0,0.0,0.0,3.0,0.181,0.224,0.323,0.547,7.0,6.0,-0.021,1.12,0.021,-0.042,-0.01%,1.24,-0.4,1.0,0.0,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Eli White PH-LF,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.231,0.231,0.615,0.846,6.0,5.0,0.044,0.36,0.044,0.0,0.03%,0.4,1.4,0.0,0.0,3B
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Sean Murphy C,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.228,0.297,0.406,0.703,17.0,10.0,-0.007,0.55,0.004,-0.01,-0.00%,0.61,0.2,12.0,0.0,IW
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Orlando Arcia SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.208,0.243,0.327,0.57,20.0,12.0,0.057,0.56,0.089,-0.033,0.04%,0.62,-0.3,1.0,3.0,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Chris Sale P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Jesse Chavez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,A.J. Minter P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ARI202407090,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202407090.shtml,AtlantaBravesbatting,Team Totals,38.0,6.0,11.0,5.0,3.0,8.0,41.0,0.289,0.341,0.474,0.815,174.0,114.0,0.158,0.66,0.541,-0.383,0.10%,0.73,1.4,27.0,9.0,

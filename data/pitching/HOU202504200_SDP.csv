@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202504200,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504200.shtml,SanDiegoPadrespitching,Dylan Cease,5.0,6,2,2,1,6,0,6.04,22,88,57,34,12,11,4,11,5,0,52.0,,,-0.001,1.58,-0.00%,1.74,0.4
+HOU202504200,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504200.shtml,SanDiegoPadrespitching,"Alek Jacob, W (1-0)",1.1,1,0,0,0,1,0,2.19,5,15,11,6,1,4,2,2,2,0,,0.0,0.0,0.123,1.45,0.08%,1.6,0.7
+HOU202504200,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504200.shtml,SanDiegoPadrespitching,"Jason Adam, H (8)",1.2,0,0,0,0,2,0,0.75,6,25,18,10,3,5,2,2,0,0,,0.0,0.0,0.197,2.27,0.13%,2.5,0.7
+HOU202504200,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504200.shtml,SanDiegoPadrespitching,"Robert Suarez, S (9)",1.0,0,0,0,0,2,0,0.0,3,17,12,9,2,1,0,1,1,0,,0.0,0.0,0.195,2.59,0.13%,2.86,0.5
+HOU202504200,SDP,https://www.baseball-reference.com/boxes/HOU/HOU202504200.shtml,SanDiegoPadrespitching,Team Totals,9.0,7,2,2,1,11,0,2.0,36,145,98,59,18,21,8,16,8,0,52.0,0.0,0.0,0.514,1.77,0.34%,1.95,2.4

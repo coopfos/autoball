@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Spencer Horwitz 1B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.299,0.419,0.455,0.874,16.0,9.0,-0.003,1.43,0.087,-0.09,0%,0.21,0.2,1.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Bo Bichette SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.225,0.278,0.325,0.603,17.0,11.0,-0.186,1.6,0.0,-0.186,-0.02%,0.23,-1.1,1.0,0.0,GDP
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.293,0.371,0.463,0.834,19.0,12.0,-0.117,1.21,0.0,-0.117,-0.01%,0.17,-0.7,0.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Danny Jansen C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.225,0.313,0.387,0.7,18.0,10.0,-0.077,1.02,0.0,-0.077,-0.01%,0.15,-0.6,13.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Daulton Varsho LF-CF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.199,0.283,0.397,0.68,18.0,9.0,-0.018,0.85,0.024,-0.043,-0.00%,0.12,-0.2,4.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Davis Schneider 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.215,0.308,0.397,0.704,10.0,7.0,-0.072,0.93,0.0,-0.072,-0.01%,0.13,-0.4,1.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Addison Barger RF-LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.159,0.185,0.206,0.391,14.0,10.0,-0.088,1.19,0.0,-0.088,-0.01%,0.17,-0.5,2.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Ernie Clement 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.252,0.268,0.399,0.667,9.0,5.0,-0.083,1.14,0.0,-0.083,-0.01%,0.16,-0.5,1.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Kevin Kiermaier CF,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0.191,0.234,0.299,0.533,6.0,5.0,0.106,0.63,0.117,-0.011,0.01%,0.1,0.9,1.0,0.0,HR
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,George Springer PH-RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.217,0.304,0.356,0.66,2.0,2.0,-0.025,0.99,0.0,-0.025,-0.00%,0.14,-0.1,0.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Kevin Gausman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Nate Pearson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Génesis Cabrera P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Zach Pop P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407050,TOR,https://www.baseball-reference.com/boxes/SEA/SEA202407050.shtml,TorontoBlueJaysbatting,Team Totals,28.0,1.0,2.0,1.0,2.0,10.0,30.0,0.071,0.133,0.179,0.312,129.0,80.0,-0.563,1.15,0.228,-0.792,-0.05%,0.17,-3.0,24.0,0.0,

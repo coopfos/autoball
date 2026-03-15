@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Roman Anthony LF,2.0,4.0,1.0,1.0,4.0,1.0,6.0,0.286,0.406,0.451,0.857,35.0,13.0,0.097,0.62,0.116,-0.019,0.09%,0.96,2.3,2.0,0.0,"HR,SB"
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Alex Bregman 3B,5.0,2.0,2.0,2.0,1.0,0.0,6.0,0.303,0.384,0.549,0.933,25.0,15.0,0.063,0.74,0.114,-0.051,0.06%,1.14,2.3,1.0,3.0,HR
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Jarren Duran CF,4.0,1.0,1.0,0.0,1.0,0.0,6.0,0.265,0.335,0.456,0.79,15.0,9.0,-0.065,0.67,0.02,-0.085,-0.06%,1.03,0.1,2.0,0.0,HBP
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Trevor Story SS,5.0,2.0,2.0,2.0,0.0,1.0,6.0,0.256,0.301,0.418,0.719,23.0,12.0,0.053,0.93,0.105,-0.053,0.05%,1.43,2.3,3.0,0.0,"SB,HBP"
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Masataka Yoshida DH,4.0,1.0,1.0,2.0,1.0,1.0,6.0,0.257,0.299,0.414,0.713,19.0,13.0,-0.006,0.79,0.036,-0.042,-0.01%,1.21,-0.1,0.0,0.0,SF
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Abraham Toro 1B,6.0,1.0,1.0,1.0,0.0,0.0,6.0,0.249,0.301,0.388,0.689,16.0,12.0,-0.094,0.59,0.0,-0.094,-0.09%,0.91,-1.0,6.0,1.0,
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Wilyer Abreu RF,4.0,0.0,2.0,3.0,1.0,0.0,5.0,0.251,0.324,0.484,0.807,27.0,17.0,-0.007,0.45,0.031,-0.038,-0.01%,0.7,3.0,2.0,0.0,2·2B
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Ceddanne Rafaela 2B,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.259,0.301,0.438,0.739,14.0,13.0,-0.024,0.44,0.015,-0.038,-0.02%,0.68,-1.4,2.0,1.0,
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Carlos Narváez C,4.0,2.0,2.0,3.0,0.0,0.0,4.0,0.25,0.32,0.418,0.737,16.0,11.0,0.187,0.8,0.211,-0.023,0.17%,1.23,2.2,9.0,0.0,HR
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Ali Sánchez PH-C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.227,0.227,0.318,0.545,4.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,1.0,
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Dustin May P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Justin Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Jovani Morán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxbatting,Team Totals,40.0,14.0,13.0,14.0,8.0,5.0,51.0,0.325,0.451,0.6,1.051,194.0,117.0,0.204,0.67,0.648,-0.443,0.19%,1.02,9.5,27.0,6.0,

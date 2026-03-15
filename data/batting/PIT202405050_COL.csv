@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.279,0.323,0.426,0.749,10.0,8.0,-0.063,0.61,0.0,-0.063,-0.01%,0.12,-0.8,1.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.304,0.395,0.488,0.883,12.0,6.0,-0.071,1.09,0.067,-0.138,-0.01%,0.21,-0.7,0.0,4.0,CS
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Elias Díaz DH,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.308,0.356,0.421,0.776,19.0,15.0,-0.002,0.58,0.033,-0.035,0%,0.11,0.2,0.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Elehuris Montero 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.2,0.252,0.276,0.528,16.0,11.0,-0.077,0.75,0.0,-0.077,-0.01%,0.15,-0.9,13.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.243,0.291,0.35,0.64,18.0,9.0,0.049,0.89,0.088,-0.039,0.01%,0.17,1.0,0.0,4.0,2B
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Jacob Stallings C,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.351,0.419,0.568,0.986,15.0,11.0,0.075,1.11,0.162,-0.088,0.01%,0.22,0.3,6.0,1.0,"HR,GDP"
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Sean Bouchard RF,3.0,1.0,2.0,1.0,1.0,0.0,4.0,0.258,0.378,0.452,0.83,16.0,9.0,0.073,0.68,0.117,-0.044,0.01%,0.14,0.7,2.0,0.0,"HR,2B"
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Jordan Beck LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.143,0.143,0.143,0.286,14.0,9.0,-0.058,0.75,0.0,-0.058,-0.01%,0.15,-0.6,1.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Jake Cave PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.206,0.263,0.294,0.557,5.0,4.0,-0.038,1.31,0.0,-0.038,-0.01%,0.26,-0.3,0.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Alan Trejo SS,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.08,0.08,0.08,0.16,5.0,5.0,-0.048,0.63,0.0,-0.048,-0.01%,0.12,-0.5,0.0,2.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Ryan Feltner P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Anthony Molina P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202405050,COL,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,ColoradoRockiesbatting,Team Totals,32.0,3.0,7.0,3.0,3.0,6.0,35.0,0.219,0.286,0.469,0.754,130.0,87.0,-0.16,0.82,0.467,-0.628,-0.02%,0.16,-1.6,24.0,11.0,

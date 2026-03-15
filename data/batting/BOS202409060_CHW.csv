@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Nicky Lopez 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.241,0.313,0.299,0.611,12.0,8.0,-0.053,0.9,0.022,-0.075,0%,0.0,-0.6,0.0,4.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.22,0.274,0.396,0.67,9.0,7.0,-0.047,0.96,0.033,-0.08,0%,0.0,-0.4,6.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.218,0.282,0.374,0.656,17.0,9.0,-0.03,1.04,0.046,-0.076,0%,0.0,-0.1,0.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.236,0.292,0.39,0.682,14.0,10.0,-0.065,1.01,0.019,-0.084,0%,0.0,-0.5,0.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.242,0.314,0.363,0.677,30.0,21.0,-0.037,1.16,0.052,-0.089,0%,0.0,-0.5,8.0,2.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.223,0.253,0.3,0.554,16.0,9.0,-0.112,1.37,0.062,-0.174,0%,0.0,-0.7,1.0,0.0,"2B,GDP"
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.212,0.261,0.273,0.534,14.0,10.0,-0.074,0.9,0.0,-0.074,0%,0.0,-0.6,0.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Chuckie Robinson C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.163,0.182,0.163,0.345,18.0,13.0,-0.099,0.96,0.013,-0.112,0%,0.0,-0.8,5.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Jacob Amaya SS,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.273,0.304,0.318,0.623,12.0,8.0,0.038,1.13,0.091,-0.053,0%,0.0,0.5,2.0,1.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Davis Martin P,,,,,,,,,,,,,,,,,,,,,1.0,4.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Matt Foster P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Fraser Ellard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Prelander Berroa P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BOS202409060,CHW,https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml,ChicagoWhiteSoxbatting,Team Totals,32.0,1.0,6.0,1.0,3.0,7.0,35.0,0.188,0.257,0.219,0.476,142.0,95.0,-0.479,1.04,0.338,-0.817,0.00%,0.0,-3.7,24.0,11.0,

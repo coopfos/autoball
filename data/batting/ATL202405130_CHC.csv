@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Mike Tauchman LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.269,0.401,0.42,0.822,13.0,11.0,-0.034,0.97,0.035,-0.068,-0.03%,1.2,-0.4,0.0,0.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Seiya Suzuki RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.288,0.349,0.466,0.815,12.0,7.0,-0.098,1.35,0.024,-0.123,-0.07%,1.65,-0.6,1.0,0.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Cody Bellinger CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.255,0.336,0.491,0.827,12.0,10.0,0.011,1.03,0.076,-0.065,0.01%,1.26,-0.2,2.0,0.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Christopher Morel 3B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.223,0.308,0.439,0.747,24.0,17.0,0.052,1.38,0.122,-0.07,0.04%,1.69,0.0,0.0,2.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Pete Crow-Armstrong PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.244,0.286,0.356,0.641,,,,,,,,,,0.0,0.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Ian Happ DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.219,0.333,0.301,0.635,17.0,14.0,-0.312,1.87,0.0,-0.312,-0.23%,2.29,-1.8,0.0,0.0,GDP
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Nico Hoerner SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.269,0.361,0.391,0.752,11.0,7.0,-0.022,0.91,0.047,-0.069,-0.02%,1.11,-0.3,0.0,3.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Michael Busch 1B,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.252,0.316,0.474,0.79,6.0,4.0,-0.049,0.95,0.013,-0.062,-0.04%,1.16,-0.4,6.0,0.0,CS
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Nick Madrigal PH-2B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.193,0.258,0.246,0.504,4.0,3.0,-0.037,1.46,0.0,-0.037,-0.03%,1.79,-0.2,0.0,0.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Miles Mastrobuoni 2B,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.15,0.261,0.2,0.461,10.0,5.0,-0.013,1.29,0.012,-0.026,-0.01%,1.58,-0.1,1.0,1.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Patrick Wisdom PH-1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.31,0.429,0.655,1.084,4.0,3.0,-0.025,0.98,0.0,-0.025,-0.02%,1.2,-0.2,3.0,0.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Miguel Amaya C,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.195,0.261,0.28,0.541,11.0,10.0,-0.054,1.16,0.022,-0.076,-0.04%,1.42,-0.5,11.0,0.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Shota Imanaga P,,,,,,,,,,,,,,,,,,,,,0.0,3.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Hayden Wesneski P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubsbatting,Team Totals,30.0,0.0,5.0,0.0,3.0,8.0,33.0,0.167,0.242,0.167,0.409,124.0,91.0,-0.581,1.21,0.351,-0.933,-0.43%,1.48,-4.6,24.0,10.0,

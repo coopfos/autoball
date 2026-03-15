@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,George Springer DH,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.219,0.302,0.379,0.682,17.0,11.0,-0.029,1.27,0.092,-0.121,0%,0.01,-0.0,0.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Daulton Varsho CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.216,0.296,0.417,0.713,18.0,10.0,-0.068,1.21,0.024,-0.092,0%,0.01,-0.5,4.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.327,0.399,0.561,0.96,13.0,11.0,-0.01,1.41,0.056,-0.065,0%,0.01,-0.0,4.0,1.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.244,0.313,0.348,0.66,12.0,8.0,0.004,1.26,0.084,-0.08,0%,0.01,-0.1,9.0,1.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Ernie Clement 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.26,0.282,0.416,0.698,9.0,8.0,-0.065,1.33,0.054,-0.12,-0.00%,0.01,-0.4,1.0,2.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Will Wagner 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.309,0.329,0.485,0.814,17.0,13.0,-0.158,1.66,0.0,-0.158,-0.00%,0.02,-1.2,2.0,1.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Leo Jimenez SS,2.0,0.0,0.0,0.0,0.0,1.0,3.0,0.23,0.327,0.388,0.716,12.0,9.0,-0.081,1.33,0.015,-0.095,-0.00%,0.02,-0.7,1.0,1.0,HBP
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Spencer Horwitz PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.259,0.349,0.418,0.767,4.0,3.0,-0.024,0.97,0.0,-0.024,0%,0.01,-0.2,0.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Davis Schneider LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.194,0.286,0.335,0.622,10.0,5.0,-0.095,1.15,0.0,-0.095,-0.00%,0.01,-0.8,2.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Joey Loperfido PH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.222,0.272,0.369,0.641,1.0,1.0,0.026,0.45,0.026,0.0,0%,0.01,0.2,0.0,0.0,2B
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Nathan Lukes RF,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.467,0.556,0.667,1.222,17.0,11.0,0.025,1.05,0.077,-0.052,0%,0.01,0.2,0.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Kevin Gausman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Tommy Nance P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Erik Swanson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202409060,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409060.shtml,TorontoBlueJaysbatting,Team Totals,35.0,1.0,7.0,1.0,1.0,11.0,37.0,0.2,0.243,0.229,0.472,130.0,90.0,-0.475,1.27,0.428,-0.902,-0.00%,0.01,-3.6,24.0,6.0,

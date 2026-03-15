@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Matt Wallner RF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.091,0.231,0.182,0.413,20.0,11.0,0.067,0.51,0.079,-0.012,0.03%,0.4,0.2,1.0,1.0,2B
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Carlos Correa SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.083,0.0,0.083,14.0,8.0,0.002,0.76,0.026,-0.024,0.00%,0.59,-0.4,2.0,3.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Edouard Julien 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,1.0,0.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.083,0.083,0.083,0.167,19.0,11.0,0.043,0.9,0.097,-0.054,0.02%,0.7,0.3,1.0,0.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,DaShawn Keirsey Jr. LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.3,0.364,0.3,0.664,12.0,9.0,-0.08,0.79,0.0,-0.08,-0.04%,0.62,-1.1,0.0,0.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.125,0.125,0.125,0.25,17.0,12.0,-0.043,0.4,0.0,-0.043,-0.02%,0.31,-1.0,5.0,1.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Ty France 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.091,0.091,0.091,0.182,11.0,8.0,-0.027,0.26,0.0,-0.027,-0.01%,0.2,-0.7,8.0,0.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Willi Castro 2B-SS,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.4,0.455,1.0,1.455,16.0,12.0,0.014,0.22,0.028,-0.015,0.01%,0.18,1.6,1.0,2.0,"HR,2B"
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,José Miranda 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.2,0.2,0.2,0.4,6.0,6.0,-0.016,0.29,0.004,-0.02,-0.01%,0.23,-0.4,0.0,1.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Harrison Bader LF-CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.286,0.286,0.857,1.143,14.0,8.0,-0.041,0.49,0.0,-0.041,-0.02%,0.39,-1.0,5.0,0.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Bailey Ober P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Randy Dobnak P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SLN202503300,MIN,https://www.baseball-reference.com/boxes/SLN/SLN202503300.shtml,MinnesotaTwinsbatting,Team Totals,32.0,2.0,5.0,2.0,2.0,5.0,34.0,0.156,0.206,0.313,0.518,129.0,85.0,-0.081,0.51,0.234,-0.316,-0.04%,0.4,-2.5,24.0,9.0,

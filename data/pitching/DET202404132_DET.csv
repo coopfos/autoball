@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202404132,DET,https://www.baseball-reference.com/boxes/DET/DET202404132.shtml,DetroitTigerspitching,"Matt Manning, L (0-1)",6.2,5,4,4,2,7,2,2.92,27,92,68,38,12,18,8,10,2,0,53.0,,,-0.144,0.86,-0.10%,0.98,-0.7
+DET202404132,DET,https://www.baseball-reference.com/boxes/DET/DET202404132.shtml,DetroitTigerspitching,Joey Wentz,2.1,2,0,0,1,4,0,1.17,10,42,28,18,3,7,2,3,1,0,,0.0,0.0,0.027,0.28,0.02%,0.32,1.1
+DET202404132,DET,https://www.baseball-reference.com/boxes/DET/DET202404132.shtml,DetroitTigerspitching,Team Totals,9.0,7,4,4,3,11,2,4.0,37,134,96,56,15,25,10,13,3,0,53.0,0.0,0.0,-0.117,0.69,-0.08%,0.79,0.4

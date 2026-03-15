@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.259,0.322,0.409,0.731,20.0,12.0,-0.046,0.82,0.036,-0.082,-0.00%,0.06,-0.9,4.0,0.0,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Rafael Devers DH,4.0,1.0,1.0,0.0,1.0,2.0,5.0,0.252,0.374,0.463,0.837,26.0,13.0,-0.037,0.73,0.052,-0.09,-0.00%,0.06,-0.2,0.0,0.0,GDP
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Willy Adames SS,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.222,0.311,0.407,0.717,16.0,9.0,0.016,0.84,0.072,-0.056,0.00%,0.06,-0.3,3.0,3.0,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Dominic Smith 1B,5.0,2.0,2.0,0.0,0.0,1.0,5.0,0.285,0.343,0.405,0.748,16.0,12.0,0.098,0.98,0.147,-0.049,0.01%,0.08,0.8,8.0,0.0,2B
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Casey Schmitt 2B,4.0,2.0,2.0,4.0,1.0,0.0,5.0,0.249,0.326,0.424,0.75,19.0,10.0,0.252,1.23,0.305,-0.053,0.01%,0.1,3.1,1.0,3.0,"HR,2B"
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,3.0,1.0,0.0,0.0,2.0,2.0,5.0,0.227,0.338,0.42,0.758,30.0,17.0,-0.061,0.61,0.032,-0.093,-0.00%,0.05,-0.4,0.0,1.0,SB
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Luis Matos LF,4.0,0.0,2.0,1.0,1.0,0.0,5.0,0.2,0.248,0.424,0.672,24.0,14.0,0.218,0.84,0.221,-0.004,0.01%,0.07,1.7,2.0,0.0,SB
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,5.0,0.0,2.0,1.0,0.0,3.0,5.0,0.211,0.268,0.295,0.563,20.0,14.0,-0.026,0.87,0.05,-0.076,-0.00%,0.07,0.2,7.0,1.0,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Drew Gilbert RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.107,0.107,0.214,0.321,15.0,10.0,-0.135,1.12,0.0,-0.135,-0.01%,0.09,-1.7,2.0,0.0,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Logan Webb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Joey Lucchesi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Spencer Bivens P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202508230,SFG,https://www.baseball-reference.com/boxes/MIL/MIL202508230.shtml,SanFranciscoGiantsbatting,Team Totals,38.0,7.0,10.0,6.0,6.0,10.0,44.0,0.263,0.364,0.395,0.758,186.0,111.0,0.279,0.88,0.915,-0.638,0.01%,0.07,2.5,27.0,9.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.285,0.351,0.429,0.781,19.0,12.0,-0.13,1.25,0.0,-0.13,-0.03%,0.53,-0.9,5.0,3.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Jackson Chourio CF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.278,0.313,0.481,0.794,10.0,6.0,0.375,1.29,0.408,-0.033,0.10%,0.55,1.4,2.0,0.0,HR
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.27,0.351,0.47,0.821,14.0,11.0,0.145,1.07,0.206,-0.061,0.04%,0.46,1.1,0.0,0.0,"HR,2B"
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.258,0.355,0.404,0.759,19.0,13.0,-0.102,1.27,0.0,-0.102,-0.03%,0.55,-1.0,8.0,0.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.295,0.358,0.411,0.769,12.0,6.0,0.03,1.24,0.07,-0.041,0.01%,0.53,0.4,0.0,0.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Andrew Vaughn 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.237,0.287,0.399,0.686,18.0,14.0,-0.086,0.9,0.0,-0.086,-0.02%,0.38,-0.9,8.0,0.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Isaac Collins LF,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.277,0.375,0.43,0.805,16.0,13.0,0.067,1.0,0.113,-0.046,0.02%,0.43,1.0,2.0,0.0,2B
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Caleb Durbin 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.259,0.331,0.394,0.725,16.0,10.0,-0.158,1.1,0.04,-0.198,-0.04%,0.47,-1.1,0.0,2.0,GDP
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Andruw Monasterio SS,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.286,0.333,0.5,0.833,10.0,6.0,-0.046,1.32,0.026,-0.072,-0.01%,0.56,-0.5,1.0,4.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Quinn Priester P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Nick Mears P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Aaron Ashby P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Abner Uribe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewersbatting,Team Totals,34.0,4.0,9.0,4.0,1.0,9.0,35.0,0.265,0.286,0.5,0.786,134.0,91.0,0.095,1.16,0.863,-0.769,0.02%,0.49,-0.6,27.0,10.0,

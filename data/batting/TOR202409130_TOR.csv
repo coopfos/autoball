@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,George Springer DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.221,0.306,0.377,0.684,24.0,15.0,-0.013,1.56,0.114,-0.127,0%,0.0,0.1,0.0,0.0,SB
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Nathan Lukes LF,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.333,0.395,0.424,0.819,19.0,11.0,-0.179,2.09,0.09,-0.269,0%,0.0,-0.8,3.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 3B-1B,4.0,2.0,1.0,1.0,1.0,1.0,5.0,0.32,0.394,0.546,0.94,12.0,9.0,0.086,1.52,0.15,-0.064,0%,0.0,1.0,3.0,3.0,"2B,IW"
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Spencer Horwitz 1B,3.0,0.0,1.0,1.0,0.0,0.0,4.0,0.278,0.361,0.47,0.831,11.0,8.0,-0.045,1.15,0.024,-0.069,0%,0.0,-0.6,7.0,1.0,SF
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Leo Jimenez PR-SS,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.231,0.339,0.381,0.72,3.0,2.0,0.123,3.29,0.123,0.0,0%,0.01,0.8,0.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Will Wagner 2B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.305,0.337,0.451,0.788,31.0,22.0,-0.201,1.39,0.011,-0.212,0%,0.0,-1.4,1.0,6.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,5.0,0.0,2.0,2.0,0.0,0.0,5.0,0.246,0.31,0.349,0.659,24.0,16.0,0.204,2.12,0.293,-0.089,0%,0.0,1.4,6.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Addison Barger RF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.208,0.246,0.393,0.639,20.0,12.0,0.007,1.08,0.072,-0.065,0%,0.0,0.4,0.0,1.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Ernie Clement SS-3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.267,0.288,0.421,0.709,14.0,11.0,-0.069,1.28,0.033,-0.101,0%,0.0,-0.4,3.0,2.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Joey Loperfido CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.226,0.275,0.369,0.643,17.0,10.0,-0.214,1.58,0.0,-0.214,0%,0.0,-1.5,5.0,0.0,GDP
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Kevin Gausman P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Génesis Cabrera P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Tommy Nance P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Brendon Little P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Erik Swanson P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202409130,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202409130.shtml,TorontoBlueJaysbatting,Team Totals,38.0,4.0,10.0,4.0,3.0,7.0,42.0,0.263,0.31,0.289,0.599,175.0,116.0,-0.301,1.59,0.91,-1.21,0.00%,0.0,-1.0,33.0,13.0,

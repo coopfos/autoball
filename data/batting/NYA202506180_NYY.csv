@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Trent Grisham CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.239,0.343,0.455,0.798,17.0,8.0,-0.122,1.83,0.051,-0.172,-0.10%,2.63,-0.5,4.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Aaron Judge RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.366,0.463,0.729,1.192,19.0,13.0,-0.191,2.26,0.0,-0.191,-0.16%,3.24,-1.2,2.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Cody Bellinger LF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.251,0.32,0.442,0.763,15.0,10.0,-0.059,2.02,0.135,-0.194,-0.05%,2.9,0.1,3.0,0.0,HR
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.3,0.358,0.438,0.797,17.0,12.0,0.059,1.58,0.134,-0.075,0.05%,2.26,-0.2,7.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.223,0.335,0.459,0.795,13.0,8.0,-0.06,2.01,0.114,-0.173,-0.05%,2.88,0.3,0.0,1.0,HR
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Ben Rice C,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.228,0.313,0.456,0.769,9.0,3.0,-0.004,0.92,0.026,-0.03,-0.00%,1.32,0.0,5.0,1.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Giancarlo Stanton PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.444,0.444,0.556,1.0,6.0,3.0,-0.028,1.15,0.0,-0.028,-0.02%,1.65,-0.2,0.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,J.C. Escarra C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.226,0.329,0.355,0.684,2.0,2.0,-0.11,4.66,0.0,-0.11,-0.10%,6.68,-0.3,2.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.235,0.307,0.419,0.726,18.0,15.0,-0.192,1.44,0.0,-0.192,-0.17%,2.06,-1.0,0.0,3.0,CS
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Jasson Domínguez DH,1.0,0.0,0.0,0.0,2.0,1.0,3.0,0.235,0.328,0.38,0.708,16.0,6.0,0.089,1.35,0.114,-0.025,0.08%,1.93,0.3,0.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Oswald Peraza 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.157,0.242,0.287,0.529,6.0,4.0,-0.049,0.92,0.0,-0.049,-0.04%,1.31,-0.4,4.0,3.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Austin Wells PH,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.217,0.283,0.448,0.731,2.0,0.0,0.14,3.95,0.14,0.0,0.12%,5.66,0.6,0.0,0.0,HBP
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,DJ LeMahieu 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.244,0.333,0.341,0.675,,,,,,,,,,0.0,1.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Ryan Yarbrough P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Yerry De los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202506180.shtml,NewYorkYankeesbatting,Team Totals,29.0,2.0,3.0,2.0,4.0,10.0,34.0,0.103,0.235,0.31,0.546,140.0,84.0,-0.527,1.81,0.714,-1.239,-0.45%,2.6,-2.4,27.0,9.0,

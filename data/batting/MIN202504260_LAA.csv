@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Jorge Soler DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.237,0.29,0.423,0.712,18.0,11.0,-0.065,0.64,0.0,-0.065,-0.04%,0.6,-0.8,0.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.3,0.323,0.667,0.989,23.0,15.0,0.131,0.68,0.134,-0.003,0.07%,0.65,1.7,2.0,2.0,"HR,3·SB"
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Mike Trout RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.177,0.27,0.49,0.76,14.0,8.0,-0.082,0.78,0.0,-0.082,-0.05%,0.73,-1.0,2.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.2,0.234,0.41,0.644,14.0,9.0,-0.091,0.83,0.0,-0.091,-0.05%,0.79,-1.1,1.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.266,0.284,0.544,0.828,17.0,10.0,-0.052,0.52,0.0,-0.052,-0.03%,0.49,-0.8,7.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.247,0.327,0.382,0.709,11.0,7.0,-0.023,0.45,0.0,-0.023,-0.01%,0.42,-0.3,2.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,J.D. Davis PH-1B,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.167,0.167,0.167,0.333,3.0,3.0,0.017,0.36,0.017,0.0,0.01%,0.34,0.3,4.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.228,0.258,0.315,0.573,8.0,5.0,-0.031,0.66,0.011,-0.042,-0.02%,0.63,-0.4,0.0,1.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Jo Adell CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.203,0.253,0.338,0.591,17.0,11.0,-0.047,0.57,0.0,-0.047,-0.03%,0.55,-0.6,4.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Tim Anderson 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.176,0.222,0.196,0.418,12.0,9.0,-0.04,0.51,0.0,-0.04,-0.02%,0.49,-0.6,2.0,3.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Yusei Kikuchi P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Ryan Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Reid Detmers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,José Fermin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Garrett McDaniels P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202504260,LAA,https://www.baseball-reference.com/boxes/MIN/MIN202504260.shtml,LosAngelesAngelsbatting,Team Totals,32.0,1.0,5.0,1.0,0.0,13.0,32.0,0.156,0.156,0.25,0.406,137.0,88.0,-0.283,0.64,0.162,-0.445,-0.16%,0.6,-3.6,24.0,8.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+KCA202505310,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202505310.shtml,KansasCityRoyalspitching,Michael Wacha,7,1,0,0,1,6,0,2.88,23,99,68,47,9,12,6,10,1,0,80.0,,,0.439,0.96,0.27%,0.99,3.4
+KCA202505310,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202505310.shtml,KansasCityRoyalspitching,"John Schreiber, W (2-2)",1,0,0,0,1,2,0,3.52,4,21,14,9,2,3,0,1,0,0,,0.0,0.0,0.106,1.86,0.07%,1.91,0.5
+KCA202505310,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202505310.shtml,KansasCityRoyalspitching,"Carlos Estévez, S (16)",1,1,0,0,0,0,0,1.78,4,14,9,8,0,1,2,2,0,0,,0.0,0.0,0.16,2.28,0.10%,2.34,0.5
+KCA202505310,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202505310.shtml,KansasCityRoyalspitching,Team Totals,9,2,0,0,2,8,0,0.0,31,134,91,64,11,16,8,13,1,0,80.0,0.0,0.0,0.705,1.25,0.43%,1.28,4.4

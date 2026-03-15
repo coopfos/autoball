@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202408300,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408300.shtml,PittsburghPiratespitching,Bailey Falter,4,7,4,4,1,2,0,4.41,20,59,41,27,3,11,6,11,7,0,33.0,,,-0.2,0.81,-0.00%,0.0,-2.0
+CLE202408300,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408300.shtml,PittsburghPiratespitching,"Carmen Mlodzinski, L (2-5)",1,4,4,4,0,2,2,3.89,7,26,22,12,2,8,3,2,0,0,,0.0,0.0,-0.507,1.26,-0.00%,0.01,-3.5
+CLE202408300,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408300.shtml,PittsburghPiratespitching,Domingo Germán,3,5,2,2,1,4,0,6.11,16,54,38,18,10,9,3,7,2,0,,0.0,0.0,-0.01,0.83,0.00%,0.0,-0.5
+CLE202408300,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408300.shtml,PittsburghPiratespitching,Team Totals,8,16,10,10,2,8,2,11.25,43,139,101,57,15,28,12,20,9,0,33.0,0.0,0.0,-0.717,0.9,-0.00%,0.0,-6.1

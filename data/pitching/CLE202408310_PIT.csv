@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202408310,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408310.shtml,PittsburghPiratespitching,"Luis Ortiz, W (6-4)",6.0,1,0,0,3,5,0,3.19,21,87,53,34,4,15,7,6,4,0,72.0,,,0.379,1.04,0.00%,0.0,2.9
+CLE202408310,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408310.shtml,PittsburghPiratespitching,"Jalen Beeks, H (8)",0.1,1,0,0,1,0,0,4.22,3,9,5,2,2,1,0,2,2,0,,0.0,0.0,-0.081,2.41,0.00%,0.0,-0.4
+CLE202408310,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408310.shtml,PittsburghPiratespitching,"Dennis Santana, H (4)",1.2,0,0,0,0,2,0,4.55,4,14,11,4,4,3,1,1,0,0,,2.0,0.0,0.237,1.53,0.00%,0.0,1.4
+CLE202408310,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408310.shtml,PittsburghPiratespitching,"Aroldis Chapman, S (5)",1.0,0,0,0,0,2,0,3.48,3,16,13,9,2,2,0,1,0,0,,0.0,0.0,0.04,0.52,0.00%,0.0,0.5
+CLE202408310,PIT,https://www.baseball-reference.com/boxes/CLE/CLE202408310.shtml,PittsburghPiratespitching,Team Totals,9.0,2,0,0,4,9,0,0.0,31,126,82,49,12,21,8,10,6,0,72.0,2.0,0.0,0.575,1.18,0.00%,0.0,4.4

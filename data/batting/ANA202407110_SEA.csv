@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,J.P. Crawford SS,4.0,3.0,3.0,3.0,0.0,0.0,4.0,0.212,0.308,0.357,0.665,18.0,10.0,0.101,0.39,0.108,-0.007,0.07%,0.42,2.9,0.0,4.0,"HR,2B"
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Dylan Moore SS,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.212,0.316,0.407,0.723,8.0,6.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,2.0,0.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Josh Rojas 3B,4.0,0.0,1.0,1.0,1.0,2.0,5.0,0.25,0.325,0.365,0.691,24.0,14.0,0.063,0.31,0.071,-0.008,0.04%,0.33,0.2,0.0,3.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Cal Raleigh C,5.0,3.0,3.0,4.0,0.0,0.0,5.0,0.215,0.299,0.432,0.731,8.0,6.0,0.022,0.35,0.052,-0.031,0.01%,0.38,3.0,8.0,0.0,2·HR
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Julio Rodríguez CF,3.0,0.0,3.0,0.0,1.0,0.0,4.0,0.259,0.308,0.358,0.667,14.0,7.0,0.052,0.35,0.052,0.0,0.03%,0.38,1.5,4.0,0.0,2B
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Víctor Robles CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.229,0.345,0.354,0.699,2.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,1.0,0.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Luke Raley RF,3.0,1.0,0.0,0.0,0.0,1.0,5.0,0.246,0.298,0.429,0.728,15.0,10.0,0.057,0.43,0.059,-0.002,0.04%,0.46,0.3,1.0,0.0,2·HBP
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Ty France 1B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.232,0.322,0.363,0.685,14.0,11.0,0.003,0.58,0.012,-0.009,0.00%,0.62,-0.2,8.0,0.0,"2B,GDP"
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Jorge Polanco 2B,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.204,0.295,0.294,0.589,13.0,9.0,0.092,0.52,0.126,-0.034,0.06%,0.56,0.1,2.0,2.0,2·GDP
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Ryan Bliss 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.224,0.297,0.362,0.659,7.0,5.0,0.0,0.0,0.0,0.0,0%,0.0,-0.3,0.0,0.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Mitch Haniger DH,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.207,0.283,0.337,0.62,19.0,8.0,-0.004,0.17,0.009,-0.013,-0.00%,0.19,-0.3,0.0,0.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Jonatan Clase LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.184,0.205,0.211,0.416,13.0,9.0,-0.015,0.21,0.004,-0.018,-0.01%,0.23,-0.2,1.0,0.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Luis Castillo P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Mike Baumann P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Eduard Bazardo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407110,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407110.shtml,SeattleMarinersbatting,Team Totals,38.0,11.0,15.0,11.0,3.0,5.0,43.0,0.395,0.465,0.711,1.176,155.0,96.0,0.371,0.35,0.493,-0.122,0.24%,0.37,6.5,27.0,10.0,

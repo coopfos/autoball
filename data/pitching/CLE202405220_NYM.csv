@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202405220,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405220.shtml,NewYorkMetspitching,Jose Quintana,6.0,4,3,3,0,4,1,5.13,21,70,46,29,7,10,9,7,3,0,56.0,,,-0.086,0.96,-0.03%,0.5,-0.1
+CLE202405220,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405220.shtml,NewYorkMetspitching,"Reed Garrett, L (5-1)",1.0,2,1,1,1,2,0,1.04,6,30,17,10,4,3,2,1,1,0,,0.0,0.0,-0.165,1.7,-0.05%,0.89,-0.5
+CLE202405220,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405220.shtml,NewYorkMetspitching,Adam Ottavino,0.2,2,2,2,1,1,0,3.79,6,26,14,6,3,5,0,3,1,0,,0.0,0.0,-0.103,0.38,-0.03%,0.2,-1.9
+CLE202405220,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405220.shtml,NewYorkMetspitching,Josh Walker,0.1,0,0,0,1,1,0,2.45,2,10,5,2,2,1,0,0,0,0,,2.0,0.0,0.005,0.2,0.00%,0.11,0.4
+CLE202405220,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405220.shtml,NewYorkMetspitching,Team Totals,8.0,8,6,6,3,8,1,6.75,35,136,82,47,16,19,11,11,5,0,56.0,2.0,0.0,-0.349,0.97,-0.11%,0.51,-2.1

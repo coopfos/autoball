@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Lawrence Butler CF,3.0,2.0,2.0,1.0,2.0,0.0,5.0,0.234,0.308,0.409,0.717,19.0,7.0,0.054,0.6,0.079,-0.025,0%,0.0,1.8,2.0,0.0,
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Jacob Wilson SS,4.0,2.0,3.0,0.0,0.0,0.0,5.0,0.318,0.358,0.456,0.814,14.0,10.0,0.062,0.77,0.091,-0.029,0%,0.0,2.1,3.0,0.0,"2B,SH"
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Brent Rooker DH,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.27,0.342,0.495,0.837,13.0,10.0,-0.061,0.76,0.027,-0.089,0%,0.0,-0.7,0.0,0.0,2B
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Tyler Soderstrom 1B,5.0,0.0,2.0,3.0,0.0,1.0,5.0,0.271,0.344,0.47,0.813,10.0,9.0,-0.087,0.89,0.015,-0.102,0%,0.0,1.5,4.0,0.0,2B
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Darell Hernaiz 3B,4.0,2.0,2.0,0.0,1.0,0.0,5.0,0.252,0.319,0.369,0.688,14.0,8.0,0.12,0.79,0.127,-0.007,0%,0.0,0.4,0.0,0.0,2B
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Colby Thomas LF,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.234,0.274,0.442,0.715,10.0,6.0,-0.102,1.09,0.026,-0.129,0%,0.0,-2.4,2.0,0.0,GDP
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,JJ Bleday RF,5.0,3.0,3.0,3.0,0.0,1.0,5.0,0.213,0.304,0.401,0.704,17.0,11.0,0.261,0.55,0.284,-0.024,0%,0.0,2.8,2.0,0.0,2·HR
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Zack Gelof 2B,5.0,2.0,3.0,1.0,0.0,2.0,5.0,0.173,0.2,0.327,0.527,15.0,12.0,0.084,0.25,0.107,-0.023,0%,0.0,1.9,3.0,1.0,"HR,2B,CS"
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Willie MacIver C,4.0,0.0,0.0,1.0,0.0,1.0,4.0,0.2,0.268,0.347,0.615,10.0,9.0,-0.025,0.26,0.0,-0.025,0%,0.0,-0.8,11.0,1.0,
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Luis Morales P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Justin Sterner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Scott McGough P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202509010,ATH,https://www.baseball-reference.com/boxes/SLN/SLN202509010.shtml,Athleticsbatting,Team Totals,40.0,11.0,17.0,11.0,3.0,6.0,44.0,0.425,0.465,0.775,1.24,122.0,82.0,0.306,0.66,0.756,-0.453,0.00%,0.0,6.5,27.0,3.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202407210,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202407210.shtml,TorontoBlueJayspitching,"Kevin Gausman, W (8-8)",6.2,5,4,4,3,5,1,4.55,27,97,58,36,7,15,5,14,2,0,50.0,,,-0.09,1.06,-0.01%,0.09,-0.7
+TOR202407210,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202407210.shtml,TorontoBlueJayspitching,"Génesis Cabrera, H (5)",0.2,1,0,0,1,1,0,3.46,4,18,9,4,1,4,0,2,2,0,,0.0,0.0,-0.072,1.85,-0.00%,0.16,-0.3
+TOR202407210,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202407210.shtml,TorontoBlueJayspitching,"Chad Green, S (8)",1.2,0,0,0,0,0,0,1.82,5,14,9,6,0,3,1,4,0,0,,2.0,0.0,0.369,3.02,0.02%,0.26,1.4
+TOR202407210,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202407210.shtml,TorontoBlueJayspitching,Team Totals,9.0,6,4,4,4,6,1,4.0,36,129,76,46,8,22,6,20,4,0,50.0,2.0,0.0,0.207,1.4,0.01%,0.12,0.4

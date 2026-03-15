@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Heliot Ramos LF,3.0,1.0,2.0,0.0,2.0,0.0,5.0,0.231,0.286,0.407,0.692,21.0,12.0,0.165,0.88,0.183,-0.018,0.11%,0.96,1.2,2.0,0.0,2B
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Willy Adames SS,5.0,0.0,2.0,2.0,0.0,2.0,5.0,0.202,0.273,0.281,0.554,22.0,14.0,0.039,1.45,0.14,-0.1,0.03%,1.58,0.5,2.0,1.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.333,0.389,0.593,0.981,24.0,16.0,-0.132,1.07,0.0,-0.132,-0.09%,1.16,-1.7,3.0,0.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,3.0,0.0,0.0,0.0,2.0,0.0,5.0,0.24,0.406,0.44,0.846,28.0,13.0,0.028,0.66,0.064,-0.036,0.02%,0.72,-0.0,0.0,2.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Wilmer Flores DH,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.203,0.25,0.43,0.68,22.0,14.0,-0.103,0.98,0.008,-0.112,-0.07%,1.06,-1.0,0.0,0.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Luis Matos RF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.167,0.194,0.3,0.494,14.0,10.0,-0.102,0.81,0.0,-0.102,-0.07%,0.89,-1.0,2.0,0.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Tyler Fitzgerald 2B,2.0,1.0,1.0,0.0,2.0,0.0,4.0,0.302,0.353,0.492,0.845,19.0,8.0,0.026,0.9,0.098,-0.072,0.02%,0.97,0.5,1.0,1.0,"SB,CS"
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,David Villar 1B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.25,0.5,17.0,11.0,-0.084,1.14,0.019,-0.102,-0.06%,1.24,-1.0,6.0,0.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Sam Huff C,3.0,1.0,2.0,2.0,1.0,1.0,4.0,0.19,0.292,0.333,0.625,14.0,9.0,0.303,0.96,0.333,-0.03,0.20%,1.04,2.1,9.0,0.0,HR
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Justin Verlander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Ryan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202504200,SFG,https://www.baseball-reference.com/boxes/ANA/ANA202504200.shtml,SanFranciscoGiantsbatting,Team Totals,34.0,4.0,8.0,4.0,8.0,9.0,42.0,0.235,0.381,0.353,0.734,181.0,107.0,0.14,0.98,0.845,-0.704,0.09%,1.07,-0.4,25.0,5.0,

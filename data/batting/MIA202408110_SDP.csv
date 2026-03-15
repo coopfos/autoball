@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Luis Arráez 1B-2B,4.0,2.0,3.0,0.0,0.0,0.0,4.0,0.306,0.337,0.38,0.717,14.0,9.0,0.126,0.88,0.149,-0.023,0.11%,1.31,1.6,7.0,0.0,2B
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Jurickson Profar LF,4.0,0.0,0.0,1.0,0.0,0.0,4.0,0.297,0.396,0.486,0.881,20.0,12.0,-0.096,1.23,0.0,-0.096,-0.09%,1.81,-0.8,0.0,0.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.248,0.317,0.407,0.724,17.0,10.0,0.015,0.78,0.028,-0.013,0.01%,1.16,0.5,0.0,2.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Donovan Solano PH-1B,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.313,0.363,0.436,0.799,7.0,5.0,0.127,1.2,0.127,0.0,0.11%,1.78,1.7,0.0,0.0,HR
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.269,0.318,0.444,0.762,14.0,9.0,-0.142,1.04,0.0,-0.142,-0.13%,1.54,-1.8,0.0,2.0,GDP
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Xander Bogaerts DH,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.271,0.313,0.372,0.685,9.0,8.0,0.045,0.89,0.09,-0.044,0.04%,1.32,0.7,0.0,0.0,2B
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,1.0,0.0,0.0,0.0,0.0,4.0,0.291,0.323,0.483,0.806,17.0,11.0,-0.157,1.61,0.0,-0.157,-0.14%,2.39,-0.9,5.0,0.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,David Peralta RF,4.0,0.0,1.0,2.0,0.0,2.0,4.0,0.257,0.32,0.393,0.713,10.0,8.0,0.078,1.3,0.151,-0.073,0.07%,1.93,0.9,0.0,0.0,2B
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.227,0.327,0.358,0.685,17.0,12.0,-0.007,1.11,0.077,-0.084,-0.01%,1.64,-0.4,1.0,3.0,2B
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Luis Campusano C,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.238,0.278,0.377,0.655,16.0,11.0,-0.155,1.76,0.03,-0.185,-0.14%,2.62,-0.4,11.0,0.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Dylan Cease P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Sean Reynolds P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Yuki Matsui P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Jason Adam P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408110,SDP,https://www.baseball-reference.com/boxes/MIA/MIA202408110.shtml,SanDiegoPadresbatting,Team Totals,36.0,6.0,10.0,6.0,0.0,9.0,36.0,0.278,0.278,0.472,0.75,141.0,95.0,-0.166,1.19,0.652,-0.817,-0.15%,1.76,1.1,24.0,7.0,

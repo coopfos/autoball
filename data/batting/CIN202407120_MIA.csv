@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. CF,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.252,0.322,0.414,0.736,26.0,14.0,-0.118,0.96,0.021,-0.139,0%,0.0,-1.7,2.0,1.0,GDP
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Xavier Edwards SS,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.319,0.385,0.404,0.789,20.0,12.0,-0.053,0.69,0.025,-0.078,0%,0.0,-0.5,1.0,5.0,2B
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Bryan De La Cruz DH,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.247,0.295,0.42,0.715,14.0,10.0,-0.026,0.53,0.02,-0.045,0%,0.0,-0.1,0.0,0.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Josh Bell 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.227,0.288,0.347,0.634,13.0,11.0,-0.021,0.66,0.03,-0.051,0%,0.0,-0.6,11.0,1.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,1.0,1.0,3.0,0.0,2.0,4.0,0.244,0.294,0.425,0.719,15.0,10.0,-0.012,0.65,0.066,-0.078,0%,0.0,1.2,4.0,0.0,"HR,GDP"
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.211,0.293,0.252,0.545,12.0,8.0,-0.007,0.37,0.02,-0.027,0%,0.0,-0.2,1.0,2.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Nick Gordon LF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.231,0.259,0.394,0.652,20.0,13.0,-0.005,0.64,0.04,-0.045,0%,0.0,0.3,0.0,1.0,2B
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Vidal Bruján 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.218,0.295,0.316,0.611,16.0,8.0,0.006,0.69,0.05,-0.044,0%,0.0,-0.2,1.0,3.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Ali Sánchez C,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.25,0.323,0.25,0.573,13.0,9.0,0.004,0.7,0.051,-0.047,0%,0.0,0.9,3.0,0.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Yonny Chirinos P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,JT Chargois P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407120,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202407120.shtml,MiamiMarlinsbatting,Team Totals,37.0,4.0,11.0,4.0,1.0,11.0,38.0,0.297,0.316,0.432,0.748,149.0,95.0,-0.232,0.66,0.323,-0.554,0.00%,0.0,-0.8,24.0,13.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202506140,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202506140.shtml,PittsburghPiratespitching,Mike Burrows,5.1,5,1,1,0,8,0,4.24,21,81,56,30,15,11,5,8,5,0,62.0,,,0.181,1.23,0.01%,0.15,1.5
+CHN202506140,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202506140.shtml,PittsburghPiratespitching,"Ryan Borucki, L (1-3)",0.2,1,1,1,0,0,1,5.18,3,12,8,5,1,2,1,2,0,0,,0.0,0.0,-0.167,0.68,-0.01%,0.08,-0.8
+CHN202506140,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202506140.shtml,PittsburghPiratespitching,Braxton Ashcraft,2.0,0,0,0,0,2,0,0.93,6,18,14,9,3,2,1,3,2,0,,0.0,0.0,0.067,0.45,0.01%,0.05,0.9
+CHN202506140,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202506140.shtml,PittsburghPiratespitching,Team Totals,8.0,6,2,2,0,10,1,2.25,30,111,78,44,19,15,7,13,7,0,62.0,0.0,0.0,0.081,1.04,0.01%,0.13,1.7

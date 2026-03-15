@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Charlie Blackmon DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.259,0.328,0.431,0.759,14.0,10.0,-0.072,1.05,0.007,-0.079,-0.02%,0.56,-0.3,0.0,0.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.284,0.347,0.478,0.824,20.0,12.0,-0.041,0.85,0.03,-0.071,-0.01%,0.45,-0.6,0.0,4.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.358,0.436,0.522,0.958,21.0,14.0,-0.076,0.84,0.008,-0.084,-0.02%,0.45,-0.3,0.0,2.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Elias Díaz C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.321,0.362,0.396,0.758,14.0,9.0,-0.021,0.8,0.038,-0.059,-0.01%,0.42,-0.6,8.0,1.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Nolan Jones LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.171,0.256,0.3,0.556,9.0,8.0,-0.083,0.86,0.0,-0.083,-0.03%,0.46,-1.2,0.0,0.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Elehuris Montero 1B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.213,0.269,0.234,0.503,8.0,7.0,-0.079,0.77,0.0,-0.079,-0.03%,0.41,-0.8,11.0,1.0,GDP
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Brenton Doyle CF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.292,0.333,0.508,0.841,11.0,7.0,-0.031,0.77,0.016,-0.047,-0.01%,0.41,-0.3,1.0,0.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Michael Toglia RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.132,0.154,0.447,0.601,8.0,7.0,-0.058,0.73,0.0,-0.058,-0.02%,0.39,-0.6,1.0,0.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Alan Trejo 2B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.167,0.167,0.167,0.333,7.0,5.0,0.036,0.63,0.053,-0.017,0.01%,0.33,0.2,2.0,1.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Austin Gomber P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404160,COL,https://www.baseball-reference.com/boxes/PHI/PHI202404160.shtml,ColoradoRockiesbatting,Team Totals,31.0,0.0,7.0,0.0,1.0,8.0,32.0,0.226,0.25,0.226,0.476,112.0,79.0,-0.425,0.82,0.152,-0.577,-0.14%,0.44,-4.5,24.0,11.0,

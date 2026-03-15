@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.236,0.314,0.4,0.714,15.0,9.0,-0.105,1.02,0.0,-0.105,-0.01%,0.11,-0.8,3.0,0.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Bryan De La Cruz DH,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.269,0.315,0.474,0.79,15.0,10.0,0.138,0.81,0.166,-0.028,0.01%,0.09,1.0,0.0,0.0,HR
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Jake Burger 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.203,0.25,0.362,0.612,11.0,8.0,-0.045,1.18,0.044,-0.089,-0.00%,0.13,-0.2,0.0,3.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Josh Bell 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.201,0.29,0.306,0.596,8.0,8.0,-0.015,1.23,0.067,-0.082,-0.00%,0.14,0.0,8.0,0.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.235,0.283,0.316,0.599,17.0,14.0,-0.184,1.18,0.0,-0.184,-0.01%,0.13,-1.6,2.0,0.0,GDP
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Nick Gordon LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.198,0.229,0.396,0.625,13.0,10.0,-0.079,1.0,0.0,-0.079,-0.01%,0.11,-0.6,2.0,0.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Vidal Bruján SS,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.266,0.338,0.391,0.729,12.0,7.0,-0.037,0.91,0.019,-0.056,-0.00%,0.1,-0.3,4.0,3.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.129,0.164,0.2,0.364,10.0,6.0,-0.071,0.91,0.0,-0.071,-0.01%,0.1,-0.5,3.0,1.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Otto Lopez 2B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.286,0.318,0.476,0.794,12.0,9.0,-0.035,0.81,0.015,-0.05,-0.00%,0.09,-0.2,2.0,2.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Ryan Weathers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Anthony Maldonado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Andrew Nardi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202405080,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202405080.shtml,MiamiMarlinsbatting,Team Totals,32.0,1.0,6.0,1.0,0.0,6.0,32.0,0.188,0.188,0.281,0.469,113.0,81.0,-0.433,1.02,0.311,-0.744,-0.03%,0.11,-3.3,24.0,9.0,

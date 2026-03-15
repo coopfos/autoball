@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Mike Yastrzemski LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.231,0.327,0.395,0.722,12.0,9.0,-0.057,0.46,0.0,-0.057,-0.04%,0.49,-0.1,2.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Maikel Garcia SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.292,0.357,0.469,0.825,12.0,7.0,-0.043,0.53,0.0,-0.043,-0.03%,0.55,-0.6,2.0,1.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Nick Loftin 1B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.21,0.282,0.364,0.646,7.0,4.0,0.0,0.0,0.0,0.0,0%,0.0,-0.4,1.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.26,0.321,0.467,0.788,9.0,6.0,-0.037,0.48,0.0,-0.037,-0.02%,0.51,-0.4,3.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Tyler Tolbert SS,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.222,0.293,0.333,0.626,7.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,0.2,0.0,1.0,HBP
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Salvador Perez C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.237,0.28,0.441,0.721,9.0,5.0,-0.043,0.57,0.0,-0.043,-0.03%,0.6,-0.6,10.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Luke Maile P,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.211,0.333,0.316,0.649,7.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,0.7,0.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Adam Frazier 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.265,0.319,0.365,0.684,15.0,10.0,-0.029,0.29,0.0,-0.029,-0.02%,0.3,-1.2,2.0,1.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Jac Caglianone RF,3.0,0.0,1.0,2.0,1.0,0.0,4.0,0.154,0.226,0.278,0.504,20.0,11.0,0.01,0.14,0.014,-0.003,0.01%,0.14,1.4,0.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Michael Massey 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.222,0.241,0.278,0.519,19.0,11.0,-0.026,0.24,0.0,-0.026,-0.02%,0.25,-0.4,0.0,2.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Carter Jensen DH-C,1.0,0.0,0.0,0.0,2.0,0.0,3.0,0.125,0.417,0.25,0.667,15.0,7.0,0.044,0.36,0.044,-0.001,0.03%,0.38,-0.3,0.0,0.0,GDP
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Kyle Isbel CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.259,0.304,0.362,0.666,7.0,4.0,-0.042,0.6,0.0,-0.042,-0.03%,0.63,-0.7,4.0,1.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Ryan Bergert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Daniel Lynch IV P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Jonathan Bowlan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Taylor Clarke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509080,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,KansasCityRoyalsbatting,Team Totals,29.0,2.0,3.0,2.0,4.0,5.0,34.0,0.103,0.235,0.103,0.339,139.0,80.0,-0.223,0.36,0.058,-0.281,-0.14%,0.38,-2.5,24.0,6.0,

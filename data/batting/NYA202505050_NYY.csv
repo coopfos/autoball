@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Trent Grisham CF,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.298,0.379,0.631,1.01,21.0,10.0,0.172,0.79,0.196,-0.025,0.12%,0.91,1.7,4.0,0.0,HR
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Aaron Judge RF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.414,0.503,0.759,1.263,17.0,11.0,-0.1,1.15,0.024,-0.125,-0.07%,1.32,-1.0,4.0,0.0,GDP
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Ben Rice DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.255,0.358,0.557,0.914,12.0,11.0,-0.082,0.94,0.0,-0.082,-0.06%,1.07,-0.6,0.0,0.0,2B
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.353,0.4,0.481,0.881,15.0,11.0,0.047,0.77,0.086,-0.04,0.03%,0.89,0.5,5.0,0.0,SB
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Cody Bellinger LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.202,0.275,0.36,0.634,24.0,15.0,-0.068,1.13,0.042,-0.11,-0.05%,1.3,-0.2,2.0,0.0,SB
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Anthony Volpe SS,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.228,0.317,0.431,0.748,16.0,8.0,-0.112,1.44,0.021,-0.133,-0.08%,1.66,-0.7,1.0,1.0,SF
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.21,0.265,0.457,0.722,12.0,9.0,-0.079,1.01,0.013,-0.092,-0.05%,1.16,-0.5,8.0,0.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Oswald Peraza 3B,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.205,0.279,0.333,0.612,14.0,7.0,-0.024,0.63,0.005,-0.029,-0.02%,0.73,-0.3,1.0,4.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Jasson Domínguez PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.224,0.315,0.357,0.672,5.0,4.0,-0.046,1.8,0.0,-0.046,-0.03%,2.07,-0.1,0.0,0.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Jorbit Vivas 2B,2.0,1.0,0.0,0.0,1.0,2.0,3.0,0.143,0.4,0.143,0.543,14.0,9.0,0.007,0.76,0.04,-0.033,0.01%,0.87,-0.2,2.0,1.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Devin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Luke Weaver P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202505050,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202505050.shtml,NewYorkYankeesbatting,Team Totals,30.0,3.0,6.0,3.0,4.0,9.0,35.0,0.2,0.286,0.333,0.619,150.0,95.0,-0.285,0.99,0.427,-0.715,-0.20%,1.14,-1.5,27.0,8.0,

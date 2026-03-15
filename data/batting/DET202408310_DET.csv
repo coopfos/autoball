@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Parker Meadows CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.228,0.302,0.421,0.723,20.0,13.0,-0.005,0.83,0.058,-0.064,-0.00%,0.25,0.0,4.0,0.0,CS
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Riley Greene LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.258,0.349,0.475,0.824,16.0,10.0,-0.054,0.83,0.022,-0.076,-0.01%,0.26,-0.7,1.0,1.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Matt Vierling RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.26,0.306,0.441,0.747,16.0,10.0,-0.029,0.92,0.032,-0.06,-0.01%,0.28,-0.3,0.0,0.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Colt Keith DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.257,0.309,0.385,0.694,16.0,10.0,-0.105,1.44,0.0,-0.105,-0.02%,0.44,-1.1,0.0,0.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Andy Ibáñez PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.258,0.308,0.396,0.704,3.0,3.0,-0.007,0.28,0.0,-0.007,-0.00%,0.08,-0.1,0.0,0.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Spencer Torkelson 1B,3.0,1.0,2.0,0.0,0.0,1.0,3.0,0.222,0.287,0.379,0.666,12.0,8.0,0.021,1.02,0.06,-0.039,0.00%,0.31,0.2,9.0,0.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Zach McKinstry 2B,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.228,0.284,0.358,0.642,7.0,6.0,0.045,1.14,0.096,-0.051,0.01%,0.35,0.3,2.0,3.0,2B
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Trey Sweeney SS,3.0,0.0,1.0,2.0,0.0,0.0,3.0,0.194,0.216,0.333,0.55,7.0,4.0,0.076,1.15,0.139,-0.063,0.01%,0.35,0.6,2.0,3.0,"2B,GDP"
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Ryan Kreidler 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.127,0.2,0.182,0.382,10.0,7.0,-0.06,0.84,0.028,-0.088,-0.01%,0.26,-0.7,1.0,1.0,CS
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Jake Rogers C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.198,0.249,0.377,0.627,12.0,7.0,-0.011,0.81,0.033,-0.043,-0.00%,0.25,-0.1,8.0,1.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Tarik Skubal P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigersbatting,Team Totals,30.0,2.0,9.0,2.0,1.0,7.0,31.0,0.3,0.323,0.367,0.689,119.0,78.0,-0.129,0.95,0.468,-0.596,-0.02%,0.29,-1.9,27.0,9.0,

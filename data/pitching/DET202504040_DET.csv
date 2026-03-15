@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202504040,DET,https://www.baseball-reference.com/boxes/DET/DET202504040.shtml,DetroitTigerspitching,"Jack Flaherty, W (1-0)",5.2,3,1,1,2,7,0,2.38,22,95,59,32,11,16,6,7,2,0,64.0,,,0.14,0.86,0.08%,0.85,1.6
+DET202504040,DET,https://www.baseball-reference.com/boxes/DET/DET202504040.shtml,DetroitTigerspitching,Tyler Holton,1.1,0,0,0,0,2,0,0.0,4,16,12,4,1,7,2,0,0,0,,1.0,0.0,0.016,0.15,0.01%,0.15,0.7
+DET202504040,DET,https://www.baseball-reference.com/boxes/DET/DET202504040.shtml,DetroitTigerspitching,Kenta Maeda,1.0,4,3,3,1,1,0,15.0,8,34,18,12,5,1,1,5,4,0,,0.0,0.0,-0.026,0.22,-0.02%,0.22,-2.0
+DET202504040,DET,https://www.baseball-reference.com/boxes/DET/DET202504040.shtml,DetroitTigerspitching,Will Vest,1.0,0,0,0,1,1,0,2.7,4,18,10,3,3,4,2,0,0,0,,2.0,2.0,0.034,0.6,0.02%,0.59,-0.0
+DET202504040,DET,https://www.baseball-reference.com/boxes/DET/DET202504040.shtml,DetroitTigerspitching,Team Totals,9.0,7,4,4,4,11,0,4.0,38,163,99,51,20,28,11,12,6,0,64.0,3.0,2.0,0.164,0.62,0.10%,0.62,0.3

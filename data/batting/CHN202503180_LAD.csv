@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,5.0,2.0,2.0,0.0,0.0,1.0,5.0,0.4,0.4,0.6,1.0,20.0,15.0,0.039,0.97,0.112,-0.073,0.02%,0.94,0.4,0.0,0.0,2B
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Tommy Edman 2B,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.2,0.2,0.2,0.4,11.0,9.0,0.051,0.93,0.096,-0.045,0.03%,0.9,0.0,1.0,4.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,1.0,1.0,1.0,1.0,1.0,5.0,0.25,0.4,0.25,0.65,20.0,14.0,0.12,1.02,0.141,-0.022,0.07%,0.99,1.1,1.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Will Smith C,2.0,0.0,1.0,1.0,3.0,0.0,5.0,0.5,0.8,0.5,1.3,29.0,14.0,0.117,0.91,0.161,-0.044,0.07%,0.89,1.4,9.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Max Muncy 3B,3.0,0.0,0.0,0.0,2.0,2.0,5.0,0.0,0.4,0.0,0.4,32.0,18.0,0.063,0.91,0.104,-0.042,0.04%,0.88,0.1,1.0,1.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Enrique Hernández 1B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,21.0,15.0,-0.141,1.19,0.0,-0.141,-0.08%,1.15,-1.9,9.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Michael Conforto LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.5,0.75,15.0,10.0,-0.097,1.3,0.024,-0.122,-0.06%,1.26,-0.7,2.0,0.0,2B
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Miguel Rojas SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.25,0.5,15.0,11.0,-0.076,1.0,0.018,-0.094,-0.04%,0.97,-0.8,1.0,2.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Andy Pages CF,2.0,1.0,0.0,0.0,2.0,2.0,4.0,0.0,0.5,0.0,0.5,22.0,10.0,-0.009,0.94,0.042,-0.05,-0.01%,0.91,-0.2,3.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Yoshinobu Yamamoto P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Anthony Banda P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Ben Casparius P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Blake Treinen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202503180,LAD,https://www.baseball-reference.com/boxes/CHN/CHN202503180.shtml,LosAngelesDodgersbatting,Team Totals,34.0,4.0,7.0,3.0,8.0,9.0,42.0,0.206,0.357,0.265,0.622,185.0,116.0,0.067,1.01,0.698,-0.633,0.04%,0.98,-0.6,27.0,8.0,

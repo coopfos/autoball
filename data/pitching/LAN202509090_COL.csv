@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202509090,COL,https://www.baseball-reference.com/boxes/LAN/LAN202509090.shtml,ColoradoRockiespitching,"Germán Márquez, L (3-13)",5,6,5,5,1,2,2,6.31,22,89,53,35,7,11,4,15,6,0,36.0,,,-0.217,0.55,0.00%,0.0,-2.5
+LAN202509090,COL,https://www.baseball-reference.com/boxes/LAN/LAN202509090.shtml,ColoradoRockiespitching,Roansy Contreras,3,3,2,2,0,2,2,6.75,12,44,29,15,2,12,5,5,0,0,,0.0,0.0,0.007,0.09,0.00%,0.0,-0.5
+LAN202509090,COL,https://www.baseball-reference.com/boxes/LAN/LAN202509090.shtml,ColoradoRockiespitching,Team Totals,8,9,7,7,1,4,4,7.88,34,133,82,50,9,23,9,20,6,0,36.0,0.0,0.0,-0.21,0.39,0.00%,0.0,-3.0

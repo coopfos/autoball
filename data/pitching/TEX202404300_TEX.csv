@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202404300,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202404300.shtml,TexasRangerspitching,"Jon Gray, W (1-1)",8,3,1,1,0,3,0,2.48,27,98,72,40,10,22,13,11,2,0,75.0,,,0.334,0.84,0.19%,0.81,2.8
+TEX202404300,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202404300.shtml,TexasRangerspitching,Cole Winn,1,0,0,0,0,0,0,0.0,3,12,10,6,0,4,2,1,0,0,,0.0,0.0,0.002,0.03,0.00%,0.03,0.5
+TEX202404300,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202404300.shtml,TexasRangerspitching,Team Totals,9,3,1,1,0,3,0,1.0,30,110,82,46,10,26,15,12,2,0,75.0,0.0,0.0,0.336,0.76,0.19%,0.73,3.3

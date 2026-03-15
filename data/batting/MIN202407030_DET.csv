@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Matt Vierling 3B,5.0,2.0,1.0,2.0,0.0,2.0,5.0,0.249,0.284,0.443,0.727,19.0,14.0,-0.055,0.49,0.005,-0.06,-0.01%,0.1,0.9,0.0,4.0,HR
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Colt Keith 2B,5.0,2.0,2.0,0.0,0.0,2.0,5.0,0.232,0.279,0.323,0.602,16.0,11.0,0.04,0.38,0.057,-0.017,0.01%,0.08,0.7,3.0,1.0,3B
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Ryan Kreidler SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.147,0.237,0.235,0.472,,,,,,,,,,0.0,1.0,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Riley Greene CF,4.0,2.0,3.0,2.0,0.0,0.0,4.0,0.26,0.354,0.497,0.851,16.0,10.0,0.088,0.66,0.089,-0.001,0.01%,0.14,1.6,3.0,0.0,"HR,3B"
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Carson Kelly C,4.0,1.0,1.0,4.0,0.0,1.0,4.0,0.245,0.321,0.406,0.726,15.0,13.0,0.278,1.18,0.319,-0.041,0.03%,0.24,2.5,5.0,0.0,HR
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Wenceel Pérez RF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.26,0.314,0.4,0.714,8.0,8.0,0.025,0.35,0.052,-0.027,0.00%,0.07,0.4,1.0,0.0,HR
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Justyn-Henry Malloy DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.197,0.284,0.394,0.678,18.0,12.0,-0.011,0.22,0.008,-0.019,-0.00%,0.05,-0.2,0.0,0.0,SB
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Zach McKinstry SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.18,0.241,0.286,0.527,10.0,8.0,-0.024,0.29,0.0,-0.024,-0.00%,0.06,-0.7,1.0,1.0,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Andy Ibáñez PH-2B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.294,0.323,0.412,0.735,4.0,3.0,-0.001,0.02,0.0,-0.001,0%,0.0,-0.2,2.0,0.0,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Gio Urshela 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.237,0.28,0.299,0.579,20.0,14.0,0.029,0.35,0.04,-0.011,0.00%,0.07,-0.2,8.0,1.0,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Akil Baddoo LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.132,0.242,0.34,0.582,14.0,11.0,-0.044,0.49,0.001,-0.045,-0.01%,0.1,-0.4,4.0,0.0,3B
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Keider Montero P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Alex Faedo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202407030,DET,https://www.baseball-reference.com/boxes/MIN/MIN202407030.shtml,DetroitTigersbatting,Team Totals,38.0,9.0,11.0,9.0,0.0,10.0,38.0,0.289,0.289,0.763,1.053,140.0,104.0,0.325,0.47,0.571,-0.246,0.04%,0.1,4.5,27.0,9.0,

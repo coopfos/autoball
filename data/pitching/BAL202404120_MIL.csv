@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewerspitching,"Freddy Peralta, W (2-0)",6,5,1,1,0,11,1,2.55,23,90,60,28,16,16,3,9,5,0,69.0,,,0.12,0.65,0.08%,0.72,1.7
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewerspitching,JB Bukauskas,1,0,0,0,0,1,0,1.69,3,10,8,3,2,3,1,1,1,0,,0.0,0.0,0.001,0.02,0.00%,0.02,0.5
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewerspitching,Thyago Vieira,2,1,0,0,1,2,0,4.5,8,28,18,8,4,6,3,2,2,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.9
+BAL202404120,MIL,https://www.baseball-reference.com/boxes/BAL/BAL202404120.shtml,MilwaukeeBrewerspitching,Team Totals,9,6,1,1,1,14,1,1.0,34,128,86,39,22,25,7,12,8,0,69.0,0.0,0.0,0.122,0.45,0.08%,0.49,3.1

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Marcus Semien 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.25,0.25,0.25,0.5,20.0,13.0,-0.029,1.07,0.047,-0.077,-0.02%,1.02,-0.3,2.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Corey Seager DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,18.0,13.0,-0.178,1.33,0.0,-0.178,-0.10%,1.27,-1.3,0.0,0.0,GDP
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Wyatt Langford LF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.333,0.5,0.333,0.833,16.0,8.0,0.027,0.75,0.058,-0.031,0.01%,0.71,0.1,0.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Adolis García RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,15.0,10.0,-0.119,1.23,0.0,-0.119,-0.07%,1.18,-0.8,3.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Jake Burger 1B,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.0,0.25,0.0,0.25,14.0,9.0,-0.058,1.17,0.038,-0.096,-0.03%,1.12,-0.2,4.0,2.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Josh Jung 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.5,0.5,0.5,1.0,11.0,10.0,0.039,0.95,0.077,-0.038,0.02%,0.91,0.4,0.0,2.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Kevin Pillar CF,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.667,0.667,0.667,1.333,14.0,9.0,0.079,1.28,0.112,-0.034,0.04%,1.22,0.9,3.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Joc Pederson PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,2.0,-0.011,0.42,0.0,-0.011,-0.01%,0.4,-0.1,0.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Kyle Higashioka C,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.25,0.25,0.5,0.75,14.0,10.0,0.072,1.07,0.158,-0.086,0.04%,1.02,0.2,13.0,0.0,2B
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Josh Smith SS,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,9.0,8.0,-0.095,1.32,0.0,-0.095,-0.05%,1.26,-0.9,0.0,2.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Nathan Eovaldi P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Chris Martin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Luke Jackson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Shawn Armstrong P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202503270,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202503270.shtml,TexasRangersbatting,Team Totals,33.0,2.0,7.0,2.0,2.0,7.0,35.0,0.212,0.257,0.242,0.5,135.0,92.0,-0.273,1.1,0.49,-0.765,-0.16%,1.05,-1.9,27.0,6.0,

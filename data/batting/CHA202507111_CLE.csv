@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.289,0.346,0.403,0.749,15.0,10.0,-0.103,0.99,0.0,-0.103,-0.03%,0.45,-1.0,3.0,0.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Nolan Jones RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.229,0.316,0.327,0.643,13.0,11.0,0.016,0.7,0.052,-0.036,0.00%,0.32,-0.0,2.0,0.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,José Ramírez 3B,4.0,1.0,0.0,0.0,0.0,2.0,4.0,0.298,0.362,0.506,0.868,21.0,14.0,-0.093,0.97,0.0,-0.093,-0.03%,0.45,-0.8,1.0,4.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.215,0.289,0.426,0.715,13.0,6.0,-0.036,1.16,0.03,-0.066,-0.01%,0.53,-0.3,0.0,0.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,David Fry PH-DH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.141,0.214,0.297,0.511,5.0,3.0,-0.007,0.28,0.0,-0.007,-0.00%,0.13,-0.2,0.0,0.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.23,0.325,0.362,0.687,12.0,7.0,0.24,0.89,0.296,-0.056,0.07%,0.41,1.3,11.0,0.0,HR
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.214,0.293,0.383,0.676,14.0,10.0,0.07,0.47,0.111,-0.041,0.02%,0.22,0.6,2.0,3.0,HR
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Angel Martínez CF,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.243,0.269,0.4,0.669,10.0,6.0,0.17,0.72,0.185,-0.015,0.05%,0.33,1.4,2.0,0.0,"HR,2B"
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Austin Hedges C,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.107,0.208,0.214,0.423,10.0,6.0,-0.035,0.8,0.0,-0.035,-0.01%,0.37,-0.4,6.0,0.0,SH
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.183,0.25,0.261,0.511,14.0,9.0,-0.114,1.08,0.0,-0.114,-0.03%,0.5,-0.9,0.0,2.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Logan Allen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202507111,CLE,https://www.baseball-reference.com/boxes/CHA/CHA202507111.shtml,ClevelandGuardiansbatting,Team Totals,31.0,4.0,5.0,4.0,1.0,9.0,33.0,0.161,0.188,0.484,0.671,127.0,82.0,0.108,0.84,0.674,-0.566,0.03%,0.39,-0.4,27.0,10.0,

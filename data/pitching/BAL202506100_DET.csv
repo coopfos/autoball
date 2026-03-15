@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202506100,DET,https://www.baseball-reference.com/boxes/BAL/BAL202506100.shtml,DetroitTigerspitching,Brant Hurter,2.2,2,1,1,0,3,0,1.75,12,44,32,22,4,6,5,3,2,0,53.0,,,0.003,1.07,0.00%,1.13,0.2
+BAL202506100,DET,https://www.baseball-reference.com/boxes/BAL/BAL202506100.shtml,DetroitTigerspitching,"Chase Lee, W (3-0)",0.1,0,0,0,0,1,0,2.5,1,9,7,5,1,1,0,0,0,0,,1.0,0.0,0.026,0.92,0.02%,0.97,0.2
+BAL202506100,DET,https://www.baseball-reference.com/boxes/BAL/BAL202506100.shtml,DetroitTigerspitching,"Sawyer Gipson-Long, H (1)",4.2,3,1,1,0,5,0,4.32,17,51,40,20,9,11,6,5,3,0,,0.0,0.0,0.15,0.63,0.10%,0.67,1.1
+BAL202506100,DET,https://www.baseball-reference.com/boxes/BAL/BAL202506100.shtml,DetroitTigerspitching,"Tommy Kahnle, H (9)",0.1,0,0,0,1,1,0,1.24,2,11,4,1,1,2,0,0,0,0,,1.0,0.0,0.025,1.35,0.02%,1.43,0.3
+BAL202506100,DET,https://www.baseball-reference.com/boxes/BAL/BAL202506100.shtml,DetroitTigerspitching,"Will Vest, S (11)",1.0,1,1,1,0,1,1,1.89,4,20,14,9,3,2,1,2,0,0,,0.0,0.0,0.038,1.06,0.02%,1.12,-0.5
+BAL202506100,DET,https://www.baseball-reference.com/boxes/BAL/BAL202506100.shtml,DetroitTigerspitching,Team Totals,9.0,6,3,3,1,11,1,3.0,36,135,97,57,18,22,12,10,5,0,53.0,2.0,0.0,0.242,0.87,0.15%,0.92,1.3

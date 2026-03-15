@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Byron Buxton CF,5.0,2.0,3.0,1.0,0.0,1.0,5.0,0.28,0.34,0.556,0.897,13.0,8.0,0.153,0.37,0.155,-0.002,0.01%,0.02,0.8,0.0,0.0,"HR,SB"
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.242,0.315,0.412,0.727,15.0,8.0,0.024,0.58,0.058,-0.034,0.00%,0.04,0.3,0.0,0.0,2B
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Luke Keaschall 2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.343,0.429,0.522,0.951,11.0,7.0,0.039,0.46,0.06,-0.021,0.00%,0.03,0.1,2.0,3.0,CS
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Kody Clemens 1B,4.0,0.0,0.0,1.0,0.0,1.0,4.0,0.211,0.284,0.443,0.727,10.0,9.0,-0.037,0.62,0.0,-0.037,-0.00%,0.04,-1.0,7.0,0.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.262,0.35,0.397,0.747,15.0,9.0,0.008,0.46,0.033,-0.025,0%,0.03,-0.1,12.0,0.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Matt Wallner RF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.211,0.323,0.478,0.801,17.0,10.0,-0.064,0.5,0.0,-0.064,-0.00%,0.03,-0.6,3.0,0.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,2.0,2.0,1.0,1.0,2.0,0.0,4.0,0.227,0.292,0.365,0.657,20.0,8.0,0.125,0.43,0.125,-0.001,0.01%,0.03,1.8,1.0,2.0,HR
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Brooks Lee SS,3.0,1.0,1.0,4.0,1.0,1.0,4.0,0.245,0.288,0.383,0.671,22.0,14.0,0.183,0.59,0.184,-0.001,0.01%,0.04,2.6,1.0,2.0,HR
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,James Outman LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.106,0.192,0.298,0.49,6.0,5.0,-0.02,0.21,0.003,-0.023,-0.00%,0.01,0.0,1.0,0.0,3B
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Thomas Hatch P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Michael Tonkin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Génesis Cabrera P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Erasmo Ramírez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202508170,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,MinnesotaTwinsbatting,Team Totals,32.0,8.0,9.0,7.0,5.0,7.0,37.0,0.281,0.378,0.656,1.035,129.0,78.0,0.411,0.46,0.618,-0.208,0.02%,0.03,3.9,27.0,8.0,

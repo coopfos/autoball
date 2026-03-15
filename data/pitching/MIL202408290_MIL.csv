@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202408290,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202408290.shtml,MilwaukeeBrewerspitching,"Aaron Civale, W (5-8)",7,2,0,0,2,7,0,4.59,25,92,59,31,11,17,7,9,3,0,78.0,,,0.238,0.57,0.18%,0.7,3.6
+MIL202408290,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202408290.shtml,MilwaukeeBrewerspitching,Aaron Ashby,2,0,0,0,0,3,0,4.26,6,25,19,6,4,9,3,0,0,0,,0.0,0.0,0.009,0.06,0.01%,0.07,1.0
+MIL202408290,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202408290.shtml,MilwaukeeBrewerspitching,Team Totals,9,2,0,0,2,10,0,0.0,31,117,78,37,15,26,10,9,3,0,78.0,0.0,0.0,0.247,0.47,0.18%,0.58,4.6

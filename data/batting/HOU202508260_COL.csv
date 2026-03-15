@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Tyler Freeman DH,3.0,0.0,1.0,1.0,0.0,1.0,4.0,0.285,0.358,0.378,0.736,10.0,8.0,-0.005,0.99,0.02,-0.025,0%,0.0,-0.3,0.0,0.0,"CS,SH"
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Mickey Moniak RF,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.259,0.297,0.494,0.791,17.0,10.0,0.157,0.72,0.174,-0.017,0%,0.0,1.9,2.0,0.0,"2B,SB"
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,1.0,1.0,2.0,0.0,2.0,4.0,0.274,0.323,0.524,0.847,18.0,11.0,0.158,0.47,0.176,-0.018,0%,0.0,1.2,8.0,0.0,HR
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.271,0.333,0.444,0.777,17.0,11.0,-0.041,0.39,0.0,-0.041,0%,0.0,-0.8,4.0,1.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.244,0.288,0.4,0.688,13.0,8.0,-0.034,0.33,0.0,-0.034,0%,0.0,-0.9,4.0,0.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.263,0.301,0.431,0.732,12.0,5.0,-0.023,0.23,0.001,-0.024,0%,0.0,-0.2,1.0,3.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Warming Bernabel 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.275,0.302,0.48,0.782,12.0,10.0,-0.036,0.35,0.0,-0.036,0%,0.0,-0.7,4.0,0.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Kyle Karros 3B,4.0,2.0,2.0,0.0,0.0,1.0,4.0,0.3,0.397,0.42,0.817,10.0,9.0,0.044,0.34,0.048,-0.004,0%,0.0,0.2,0.0,1.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Ryan Ritter 2B,2.0,2.0,0.0,0.0,0.0,0.0,3.0,0.252,0.297,0.363,0.66,13.0,8.0,0.099,0.74,0.101,-0.002,0%,0.0,1.1,4.0,1.0,HBP
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Tanner Gordon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Luis Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Juan Mejia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508260.shtml,ColoradoRockiesbatting,Team Totals,32.0,6.0,6.0,6.0,1.0,11.0,35.0,0.188,0.235,0.313,0.548,122.0,80.0,0.319,0.52,0.52,-0.201,0.00%,0.0,1.5,27.0,6.0,

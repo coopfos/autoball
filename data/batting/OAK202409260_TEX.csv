@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Marcus Semien 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.234,0.303,0.384,0.687,10.0,8.0,-0.18,1.39,0.0,-0.18,0%,0.0,-1.4,0.0,4.0,GDP
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Josh Smith SS,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.264,0.344,0.402,0.746,13.0,9.0,-0.001,0.79,0.051,-0.052,0%,0.0,0.2,2.0,2.0,2B
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Wyatt Langford LF,2.0,1.0,1.0,0.0,2.0,0.0,4.0,0.253,0.326,0.407,0.733,17.0,7.0,0.073,1.19,0.11,-0.037,0%,0.0,0.4,1.0,0.0,SB
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Adolis García DH,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.223,0.283,0.395,0.678,9.0,5.0,-0.001,1.74,0.128,-0.129,0%,0.0,0.5,0.0,0.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Nathaniel Lowe 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.262,0.358,0.384,0.741,12.0,8.0,-0.059,1.79,0.038,-0.098,0%,0.0,0.1,9.0,1.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Leody Taveras CF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.228,0.286,0.353,0.639,19.0,12.0,-0.133,1.35,0.0,-0.133,0%,0.0,-0.8,5.0,0.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Travis Jankowski RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.203,0.262,0.246,0.508,14.0,11.0,-0.134,1.36,0.0,-0.134,0%,0.0,-0.8,2.0,0.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Carson Kelly C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.235,0.313,0.36,0.673,14.0,9.0,-0.072,0.95,0.0,-0.072,0%,0.0,-0.5,3.0,0.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Jonathan Ornelas 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.194,0.237,0.25,0.487,11.0,8.0,0.009,0.75,0.041,-0.032,0%,0.0,0.2,1.0,0.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Kumar Rocker P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Jack Leiter P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangersbatting,Team Totals,31.0,2.0,5.0,2.0,3.0,6.0,34.0,0.161,0.235,0.194,0.429,119.0,77.0,-0.498,1.28,0.368,-0.867,0.00%,0.0,-2.2,24.0,10.0,

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinspitching,"Roddery Muñoz, L (2-6)",3.2,7,6,4,3,2,2,5.68,22,83,47,29,7,11,10,7,2,0,26.0,,,-0.302,0.57,0.00%,0.0,-4.6
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinspitching,Shaun Anderson,5.1,8,4,4,0,2,2,9.64,24,62,43,31,3,9,7,15,4,0,,3.0,0.0,-0.012,0.09,0.00%,0.0,-0.5
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinspitching,Team Totals,9.0,15,10,8,3,4,4,8.0,46,145,90,60,10,20,17,22,6,0,26.0,3.0,0.0,-0.314,0.32,0.00%,0.0,-5.1

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Steven Kwan LF,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.37,0.43,0.543,0.973,10.0,5.0,-0.004,0.86,0.025,-0.029,-0.00%,0.9,-0.2,2.0,0.0,HBP
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,José Tena 3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,-0.012,0.52,0.0,-0.012,-0.01%,0.55,-0.2,0.0,0.0,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Daniel Schneemann RF-LF,2.0,0.0,0.0,1.0,1.0,1.0,4.0,0.259,0.354,0.481,0.835,15.0,7.0,-0.068,0.88,0.007,-0.075,-0.04%,0.92,-0.2,5.0,0.0,SF
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.278,0.332,0.547,0.879,14.0,8.0,0.039,0.88,0.101,-0.063,0.02%,0.93,0.0,0.0,1.0,"HR,GDP"
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Jhonkensy Noel RF,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.333,0.333,1.0,1.333,2.0,2.0,0.007,0.11,0.007,0.0,0.01%,0.12,0.2,0.0,0.0,2B
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.235,0.317,0.491,0.808,22.0,13.0,0.019,0.41,0.039,-0.02,0.01%,0.42,0.3,4.0,0.0,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,David Fry DH,4.0,0.0,3.0,0.0,0.0,0.0,4.0,0.316,0.422,0.532,0.954,14.0,10.0,-0.051,0.75,0.061,-0.112,-0.03%,0.79,0.7,0.0,0.0,"2·2B,CS,GDP"
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.246,0.307,0.341,0.648,12.0,9.0,-0.003,0.4,0.023,-0.026,-0.00%,0.42,-0.6,4.0,2.0,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Tyler Freeman CF,4.0,0.0,0.0,1.0,0.0,1.0,4.0,0.211,0.306,0.335,0.64,15.0,10.0,-0.073,0.52,0.0,-0.073,-0.05%,0.55,-1.4,2.0,0.0,GDP
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.212,0.311,0.298,0.609,22.0,16.0,0.027,0.41,0.043,-0.016,0.02%,0.42,-0.5,2.0,3.0,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Austin Hedges C,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.154,0.188,0.246,0.435,10.0,7.0,-0.009,0.89,0.034,-0.044,-0.01%,0.93,0.3,5.0,2.0,"2B,SB"
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Triston McKenzie P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Pedro Avila P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Darren McCaughan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406280,CLE,https://www.baseball-reference.com/boxes/KCA/KCA202406280.shtml,ClevelandGuardiansbatting,Team Totals,31.0,3.0,8.0,3.0,2.0,10.0,35.0,0.258,0.314,0.484,0.798,137.0,88.0,-0.128,0.64,0.34,-0.47,-0.08%,0.67,-1.5,24.0,9.0,

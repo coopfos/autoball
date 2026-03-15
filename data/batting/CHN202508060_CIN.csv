@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,TJ Friedl CF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.275,0.375,0.4,0.775,15.0,10.0,0.013,0.51,0.046,-0.033,0.01%,0.55,0.8,3.0,0.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Spencer Steer 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.236,0.301,0.388,0.69,21.0,17.0,-0.037,0.96,0.041,-0.078,-0.02%,1.04,-0.4,6.0,1.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.279,0.356,0.476,0.832,15.0,11.0,-0.088,0.86,0.003,-0.091,-0.06%,0.94,-0.3,2.0,2.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Austin Hays DH,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.264,0.325,0.463,0.787,13.0,10.0,-0.042,0.79,0.028,-0.07,-0.03%,0.86,-0.4,0.0,0.0,2B
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Gavin Lux 2B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.268,0.353,0.368,0.72,12.0,10.0,-0.087,0.83,0.0,-0.087,-0.06%,0.9,-1.0,1.0,3.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Tyler Stephenson C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.235,0.321,0.406,0.727,10.0,9.0,-0.061,0.81,0.0,-0.061,-0.04%,0.87,-0.5,4.0,1.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Noelvi Marte RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.272,0.318,0.468,0.786,9.0,7.0,-0.044,0.59,0.0,-0.044,-0.03%,0.64,-0.5,3.0,0.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Jake Fraley LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.241,0.342,0.401,0.743,9.0,8.0,-0.046,0.6,0.0,-0.046,-0.03%,0.65,-0.5,5.0,0.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Ke'Bryan Hayes 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.235,0.276,0.294,0.569,9.0,8.0,-0.056,0.76,0.0,-0.056,-0.04%,0.82,-0.5,0.0,0.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Andrew Abbott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Luis Mey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Yosver Zulueta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202508060,CIN,https://www.baseball-reference.com/boxes/CHN/CHN202508060.shtml,CincinnatiRedsbatting,Team Totals,32.0,1.0,4.0,1.0,0.0,12.0,32.0,0.125,0.125,0.156,0.281,113.0,90.0,-0.448,0.74,0.118,-0.566,-0.29%,0.81,-3.2,24.0,7.0,

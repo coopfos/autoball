@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.248,0.323,0.439,0.762,18.0,8.0,0.013,1.08,0.101,-0.088,0%,0.0,0.4,3.0,0.0,HR
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.248,0.318,0.435,0.753,16.0,11.0,0.036,0.9,0.091,-0.055,0%,0.0,-0.1,1.0,3.0,2B
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.252,0.346,0.365,0.711,13.0,7.0,0.013,1.32,0.089,-0.076,0%,0.0,0.3,4.0,1.0,SB
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Brandon Drury DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.167,0.243,0.227,0.471,12.0,8.0,-0.117,1.73,0.032,-0.148,0%,0.0,-0.4,0.0,0.0,SB
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,4.0,4.0,0.233,0.291,0.393,0.685,16.0,13.0,-0.14,1.46,0.0,-0.14,0%,0.0,-1.2,6.0,1.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Eric Wagaman 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.235,0.235,0.5,0.735,15.0,11.0,-0.125,1.15,0.0,-0.125,0%,0.0,-1.1,0.0,0.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Jordyn Adams CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.229,0.289,0.314,0.604,16.0,11.0,-0.047,0.81,0.023,-0.07,0%,0.0,-0.3,3.0,0.0,SB
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Gustavo Campero RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.294,0.294,0.294,0.588,11.0,8.0,-0.076,0.98,0.0,-0.076,0%,0.0,-0.6,3.0,0.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Jack López 2B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.105,0.15,0.105,0.255,13.0,8.0,-0.038,0.78,0.011,-0.05,0%,0.0,-0.2,4.0,3.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,José Suarez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Guillo Zuñiga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Hunter Strickland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Ryan Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202409190,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,LosAngelesAngelsbatting,Team Totals,33.0,1.0,6.0,1.0,1.0,11.0,34.0,0.182,0.206,0.303,0.509,130.0,85.0,-0.481,1.14,0.347,-0.828,0.00%,0.0,-3.3,24.0,9.0,

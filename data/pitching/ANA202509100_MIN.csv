@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202509100,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202509100.shtml,MinnesotaTwinspitching,Taj Bradley,6.1,4,3,3,2,5,1,4.88,24,98,57,29,15,13,8,9,2,0,56.0,,,-0.091,1.05,0.00%,0.0,-0.2
+ANA202509100,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202509100.shtml,MinnesotaTwinspitching,"Cole Sands, L (3-4)",1.2,1,1,1,0,0,0,3.78,6,18,12,10,2,0,1,5,1,0,,1.0,0.0,-0.106,1.52,0.00%,0.0,0.2
+ANA202509100,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202509100.shtml,MinnesotaTwinspitching,Team Totals,8.0,5,4,4,2,5,1,4.5,30,116,69,39,17,13,9,14,3,0,56.0,1.0,0.0,-0.197,1.14,0.00%,0.0,0.0

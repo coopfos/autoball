@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.308,0.37,0.435,0.805,15.0,10.0,0.057,0.93,0.123,-0.066,0.04%,0.98,0.7,2.0,0.0,HR
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.206,0.291,0.427,0.718,12.0,10.0,-0.107,0.81,0.0,-0.107,-0.07%,0.86,-1.0,0.0,0.0,GDP
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.327,0.389,0.54,0.93,19.0,10.0,0.028,0.57,0.053,-0.025,0.02%,0.61,-0.0,2.0,0.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.251,0.349,0.386,0.734,14.0,10.0,-0.109,0.98,0.026,-0.135,-0.07%,1.04,-0.8,8.0,0.0,GDP
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.24,0.323,0.432,0.755,18.0,12.0,0.002,0.6,0.044,-0.042,0.00%,0.64,-0.2,2.0,4.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Lane Thomas CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.155,0.215,0.211,0.426,19.0,12.0,-0.095,0.94,0.0,-0.095,-0.06%,0.99,-0.9,4.0,0.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Bo Naylor C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.19,0.305,0.405,0.71,13.0,7.0,-0.046,0.99,0.015,-0.061,-0.03%,1.05,-0.2,4.0,1.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.235,0.296,0.357,0.654,9.0,9.0,-0.075,1.0,0.0,-0.075,-0.05%,1.06,-0.7,0.0,1.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Nolan Jones RF,2.0,1.0,1.0,1.0,1.0,0.0,3.0,0.212,0.299,0.321,0.62,17.0,11.0,0.163,0.78,0.174,-0.011,0.10%,0.82,1.2,2.0,0.0,HR
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Gavin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Kolby Allard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506130,CLE,https://www.baseball-reference.com/boxes/SEA/SEA202506130.shtml,ClevelandGuardiansbatting,Team Totals,30.0,2.0,4.0,2.0,3.0,8.0,33.0,0.133,0.212,0.333,0.545,136.0,91.0,-0.182,0.84,0.435,-0.617,-0.12%,0.89,-2.1,24.0,7.0,

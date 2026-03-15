@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,JJ Bleday CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.242,0.324,0.441,0.765,12.0,10.0,-0.194,1.19,0.0,-0.194,-0.00%,0.01,-1.7,0.0,0.0,GDP
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Miguel Andujar LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.305,0.333,0.398,0.732,19.0,13.0,-0.102,0.96,0.0,-0.102,-0.00%,0.01,-0.9,1.0,1.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Brent Rooker DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.261,0.336,0.506,0.841,21.0,14.0,0.015,0.84,0.073,-0.058,0%,0.01,0.1,0.0,0.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Tyler Soderstrom 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.226,0.319,0.435,0.755,12.0,9.0,-0.045,0.91,0.037,-0.082,0%,0.01,-0.5,8.0,0.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Kyle McCann C,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.289,0.379,0.434,0.813,12.0,9.0,0.026,1.07,0.078,-0.051,0%,0.01,0.1,5.0,0.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Tyler Nevin 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.203,0.304,0.331,0.635,13.0,9.0,-0.073,1.42,0.037,-0.11,0%,0.01,-0.6,1.0,1.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.203,0.256,0.369,0.625,15.0,12.0,0.026,1.47,0.139,-0.113,0%,0.01,-0.0,3.0,5.0,HR
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Lawrence Butler RF,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.179,0.26,0.269,0.529,7.0,4.0,0.037,1.61,0.081,-0.045,0%,0.02,0.2,4.0,0.0,SB
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Daz Cameron PH-RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.167,0.236,0.333,0.569,2.0,2.0,-0.039,1.54,0.0,-0.039,0%,0.02,-0.2,0.0,0.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Aledmys Díaz SS,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.103,0.133,0.103,0.237,8.0,3.0,-0.018,1.24,0.036,-0.054,0%,0.01,-0.0,1.0,3.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Luis Medina P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,T.J. McFarland P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Austin Adams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Sean Newcomb P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202406300,OAK,https://www.baseball-reference.com/boxes/ARI/ARI202406300.shtml,OaklandAthleticsbatting,Team Totals,32.0,1.0,5.0,1.0,2.0,13.0,34.0,0.156,0.206,0.25,0.456,121.0,85.0,-0.367,1.19,0.481,-0.848,-0.00%,0.01,-3.6,24.0,12.0,

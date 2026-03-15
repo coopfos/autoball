@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinspitching,"Pablo López, W (5-5)",7,6,1,1,1,6,1,4.84,28,93,67,37,16,14,11,10,2,0,66.0,,,0.215,1.06,0.14%,1.11,2.4
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinspitching,Steven Okert,1,0,0,0,0,0,0,2.89,3,10,5,4,0,1,0,3,1,0,,0.0,0.0,0.013,0.18,0.01%,0.19,0.5
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinspitching,Cole Sands,1,0,0,0,0,1,0,5.01,3,13,10,5,2,3,1,1,0,0,,0.0,0.0,0.007,0.09,0.00%,0.1,0.5
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinspitching,Team Totals,9,6,1,1,1,7,1,1.0,34,116,82,46,18,18,12,14,3,0,66.0,0.0,0.0,0.235,0.9,0.15%,0.94,3.3

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202409220,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202409220.shtml,PhiladelphiaPhilliespitching,"Zack Wheeler, L (16-7)",7,7,2,2,1,8,1,2.56,28,94,67,43,12,12,8,11,4,0,62.0,,,0.059,0.98,0.01%,0.23,1.0
+NYN202409220,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202409220.shtml,PhiladelphiaPhilliespitching,Matt Strahm,1,0,0,0,0,2,0,1.96,3,13,8,6,2,0,1,0,0,0,,1.0,0.0,0.048,0.65,0.01%,0.15,0.9
+NYN202409220,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202409220.shtml,PhiladelphiaPhilliespitching,Team Totals,8,7,2,2,1,10,1,2.25,31,107,75,49,14,12,9,11,4,0,62.0,1.0,0.0,0.107,0.95,0.01%,0.22,1.8

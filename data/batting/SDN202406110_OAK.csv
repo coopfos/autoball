@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Abraham Toro 3B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.268,0.311,0.402,0.713,15.0,11.0,0.051,0.99,0.132,-0.081,0.00%,0.11,0.9,0.0,0.0,HR
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,JJ Bleday CF,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.238,0.321,0.447,0.768,18.0,11.0,0.096,0.85,0.109,-0.014,0.01%,0.1,1.2,3.0,1.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Brent Rooker DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.263,0.346,0.522,0.868,12.0,10.0,-0.147,1.44,0.0,-0.147,-0.01%,0.16,-1.5,0.0,0.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Miguel Andujar LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.317,0.323,0.483,0.806,17.0,12.0,-0.069,1.1,0.045,-0.114,-0.00%,0.12,-1.0,3.0,0.0,CS
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Tyler Soderstrom 1B,3.0,1.0,2.0,2.0,1.0,1.0,4.0,0.222,0.347,0.413,0.759,24.0,9.0,0.365,1.34,0.406,-0.042,0.02%,0.15,2.2,9.0,0.0,HR
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Zack Gelof 2B,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.187,0.244,0.313,0.557,17.0,13.0,-0.122,1.44,0.0,-0.122,-0.01%,0.16,-1.0,2.0,4.0,SH
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Seth Brown RF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.193,0.256,0.313,0.569,12.0,5.0,-0.005,1.11,0.06,-0.065,0%,0.12,0.2,2.0,0.0,2B
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Max Schuemann SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.254,0.32,0.355,0.675,11.0,9.0,-0.092,1.7,0.049,-0.141,-0.01%,0.19,-0.5,2.0,5.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Kyle McCann C,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.279,0.364,0.456,0.82,10.0,6.0,-0.158,1.72,0.0,-0.158,-0.01%,0.19,-1.6,3.0,1.0,GDP
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Shea Langeliers PH-C,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.197,0.26,0.439,0.7,3.0,3.0,-0.079,1.57,0.0,-0.079,-0.01%,0.17,-0.4,0.0,0.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,JP Sears P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Dany Jiménez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Vinny Nittoli P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Austin Adams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Scott Alexander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406110,OAK,https://www.baseball-reference.com/boxes/SDN/SDN202406110.shtml,OaklandAthleticsbatting,Team Totals,33.0,3.0,9.0,3.0,3.0,8.0,37.0,0.273,0.333,0.485,0.818,139.0,89.0,-0.16,1.28,0.801,-0.963,-0.01%,0.14,-1.6,24.0,12.0,

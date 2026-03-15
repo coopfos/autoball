@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202406270,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202406270.shtml,LosAngelesAngelspitching,"Davis Daniel, W (1-0)",8,4,0,0,0,8,0,0.0,26,99,73,38,13,22,7,11,6,0,82.0,,,0.325,0.66,0.03%,0.09,4.0
+ANA202406270,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202406270.shtml,LosAngelesAngelspitching,Ben Joyce,1,0,0,0,0,0,0,4.35,3,9,8,6,1,1,2,1,0,0,,0.0,0.0,0.006,0.08,0.00%,0.01,0.5
+ANA202406270,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202406270.shtml,LosAngelesAngelspitching,Team Totals,9,4,0,0,0,8,0,0.0,29,108,81,44,14,23,9,12,6,0,82.0,0.0,0.0,0.331,0.6,0.03%,0.09,4.4

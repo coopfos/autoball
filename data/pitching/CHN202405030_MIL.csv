@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202405030,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,MilwaukeeBrewerspitching,Joe Ross,6,6,1,1,0,4,1,4.65,23,86,56,31,14,11,8,11,6,0,60.0,,,0.154,1.09,0.13%,1.51,1.9
+CHN202405030,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,MilwaukeeBrewerspitching,"Elvis Peguero, W (4-0)",1,1,0,0,0,0,0,3.38,3,10,6,5,0,1,1,2,1,0,,0.0,0.0,0.042,0.56,0.03%,0.77,0.5
+CHN202405030,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,MilwaukeeBrewerspitching,"Joel Payamps, H (4)",1,1,0,0,0,0,0,3.09,4,10,8,5,2,1,2,2,0,0,,0.0,0.0,0.087,1.66,0.07%,2.29,0.5
+CHN202405030,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,MilwaukeeBrewerspitching,"Trevor Megill, S (2)",1,0,0,0,0,1,0,1.17,3,11,8,3,2,3,1,1,0,0,,0.0,0.0,0.089,1.17,0.07%,1.62,0.5
+CHN202405030,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,MilwaukeeBrewerspitching,Team Totals,9,8,1,1,0,5,1,1.0,33,117,78,44,18,16,12,16,7,0,60.0,0.0,0.0,0.372,1.12,0.31%,1.55,3.4

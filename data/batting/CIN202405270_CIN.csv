@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Jacob Hurtubise LF,3.0,0.0,0.0,1.0,0.0,1.0,3.0,0.25,0.333,0.286,0.619,13.0,8.0,0.022,0.91,0.061,-0.039,0.01%,0.5,0.2,1.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Santiago Espinal PH-3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.195,0.256,0.271,0.527,1.0,1.0,-0.017,0.59,0.0,-0.017,-0.01%,0.33,-0.4,0.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.245,0.347,0.448,0.795,19.0,7.0,-0.012,0.65,0.016,-0.028,-0.00%,0.36,0.0,0.0,2.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Jeimer Candelario 3B-1B,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.222,0.299,0.419,0.719,15.0,8.0,0.035,0.76,0.105,-0.07,0.01%,0.41,0.1,2.0,2.0,"HR,GDP"
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Spencer Steer 1B-LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.231,0.347,0.407,0.754,12.0,9.0,-0.043,0.73,0.021,-0.064,-0.01%,0.41,-1.1,6.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Jake Fraley RF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.281,0.341,0.36,0.701,17.0,10.0,0.006,0.56,0.024,-0.019,0.00%,0.31,-0.0,3.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Tyler Stephenson C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.25,0.326,0.43,0.756,10.0,6.0,-0.073,0.7,0.0,-0.073,-0.02%,0.39,-1.1,12.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Nick Martini DH,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.186,0.219,0.34,0.559,16.0,10.0,0.042,0.55,0.06,-0.019,0.01%,0.3,0.4,0.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Jonathan India 2B,2.0,1.0,1.0,0.0,1.0,0.0,3.0,0.223,0.333,0.313,0.647,9.0,5.0,0.026,0.92,0.078,-0.052,0.01%,0.51,0.4,1.0,2.0,GDP
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Will Benson CF,2.0,0.0,1.0,1.0,0.0,1.0,2.0,0.194,0.293,0.394,0.686,10.0,6.0,0.043,1.14,0.117,-0.074,0.01%,0.63,0.3,2.0,0.0,CS
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Stuart Fairchild PH-CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.229,0.315,0.385,0.7,3.0,2.0,-0.007,0.65,0.0,-0.007,-0.00%,0.36,-0.2,0.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Nick Lodolo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Sam Moll P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Lucas Sims P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202405270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202405270.shtml,CincinnatiRedsbatting,Team Totals,28.0,3.0,5.0,3.0,6.0,6.0,34.0,0.179,0.324,0.286,0.609,125.0,72.0,0.022,0.75,0.482,-0.462,0.01%,0.41,-1.3,27.0,6.0,

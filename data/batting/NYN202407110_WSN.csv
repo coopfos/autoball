@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,0.0,0.0,0.0,0.0,2.0,5.0,0.271,0.347,0.485,0.833,20.0,14.0,-0.063,0.71,0.017,-0.08,-0.01%,0.21,-1.3,3.0,1.0,HBP
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Lane Thomas RF,2.0,0.0,2.0,0.0,2.0,0.0,5.0,0.249,0.318,0.405,0.723,21.0,10.0,0.064,0.83,0.109,-0.045,0.01%,0.24,1.0,1.0,0.0,"CS,HBP"
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,James Wood LF,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.244,0.354,0.341,0.696,19.0,14.0,-0.092,1.14,0.024,-0.116,-0.02%,0.33,-1.2,1.0,1.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Jesse Winker DH,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.26,0.377,0.424,0.8,26.0,15.0,-0.026,0.59,0.015,-0.042,-0.00%,0.17,-1.1,0.0,0.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Riley Adams C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.225,0.29,0.348,0.638,16.0,10.0,-0.1,0.94,0.0,-0.1,-0.02%,0.27,-1.5,8.0,0.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Juan Yepez 1B,2.0,0.0,1.0,0.0,2.0,0.0,4.0,0.308,0.4,0.462,0.862,18.0,8.0,0.06,0.56,0.079,-0.019,0.01%,0.16,0.8,6.0,0.0,2B
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.277,0.309,0.433,0.742,13.0,10.0,0.027,0.74,0.07,-0.043,0.01%,0.21,-0.4,1.0,1.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Trey Lipscomb 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.228,0.293,0.257,0.551,15.0,12.0,-0.099,0.71,0.002,-0.101,-0.02%,0.21,-0.2,0.0,2.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.253,0.315,0.314,0.629,15.0,9.0,-0.092,0.63,0.004,-0.096,-0.02%,0.18,-0.4,4.0,0.0,HBP
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,MacKenzie Gore P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Hunter Harvey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Kyle Finnegan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407110,WSN,https://www.baseball-reference.com/boxes/NYN/NYN202407110.shtml,WashingtonNationalsbatting,Team Totals,32.0,0.0,6.0,0.0,5.0,11.0,40.0,0.188,0.35,0.219,0.569,163.0,102.0,-0.321,0.74,0.32,-0.642,-0.06%,0.21,-4.3,24.0,5.0,

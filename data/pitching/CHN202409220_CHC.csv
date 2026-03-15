@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202409220,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409220.shtml,ChicagoCubspitching,"Shota Imanaga, W (15-3)",7,6,0,0,0,4,0,2.91,26,94,67,49,7,11,13,9,4,0,69.0,,,0.261,0.63,0.00%,0.0,3.4
+CHN202409220,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409220.shtml,ChicagoCubspitching,Ethan Roberts,1,2,0,0,0,1,0,2.55,5,22,14,8,1,5,3,1,1,0,,0.0,0.0,0.011,0.35,0.00%,0.0,0.5
+CHN202409220,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409220.shtml,ChicagoCubspitching,Trey Wingenter,1,0,0,0,0,1,0,9.72,3,18,14,9,3,2,2,0,0,0,,0.0,0.0,0.006,0.08,0.00%,0.0,0.5
+CHN202409220,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409220.shtml,ChicagoCubspitching,Team Totals,9,8,0,0,0,6,0,0.0,34,134,95,66,11,18,18,10,5,0,69.0,0.0,0.0,0.278,0.54,0.00%,0.0,4.4

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Connor Norby 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.265,0.296,0.544,0.84,13.0,8.0,0.008,0.67,0.054,-0.047,0%,0.0,-0.1,1.0,2.0,2B
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Jake Burger 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.248,0.305,0.469,0.774,15.0,9.0,0.019,0.81,0.062,-0.043,0%,0.0,-0.0,0.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Jonah Bride 1B,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.258,0.353,0.417,0.769,25.0,14.0,-0.037,1.05,0.061,-0.097,0%,0.0,-0.1,7.0,1.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Derek Hill LF-CF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.233,0.259,0.395,0.655,9.0,8.0,-0.029,1.45,0.1,-0.128,0%,0.0,-0.2,1.0,0.0,HR
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,David Hensley DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.25,0.323,0.393,0.715,15.0,11.0,-0.106,1.02,0.0,-0.106,0%,0.0,-1.1,0.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Otto Lopez SS,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.243,0.285,0.324,0.609,18.0,12.0,0.065,0.83,0.092,-0.027,0%,0.0,1.1,2.0,5.0,SB
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Griffin Conine RF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.375,0.444,0.75,1.194,16.0,11.0,0.04,1.05,0.118,-0.078,0%,0.0,-0.5,1.0,0.0,GDP
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Cristian Pache CF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.203,0.282,0.286,0.568,5.0,4.0,-0.088,1.62,0.0,-0.088,0%,0.0,-0.8,0.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Kyle Stowers PH-LF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.221,0.27,0.336,0.607,11.0,7.0,-0.016,0.22,0.0,-0.017,0%,0.0,-0.0,0.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.218,0.243,0.297,0.54,11.0,6.0,-0.067,0.86,0.0,-0.067,0%,0.0,-0.7,10.0,1.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Jesús Sánchez PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.241,0.297,0.425,0.722,2.0,1.0,-0.001,0.02,0.0,-0.001,0%,0.0,-0.3,0.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Max Meyer P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Kent Emanuel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Austin Kitchen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+COL202408280,MIA,https://www.baseball-reference.com/boxes/COL/COL202408280.shtml,MiamiMarlinsbatting,Team Totals,34.0,2.0,8.0,2.0,2.0,10.0,36.0,0.235,0.278,0.353,0.631,140.0,91.0,-0.212,0.92,0.487,-0.699,0.00%,0.0,-2.9,24.0,9.0,

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Lars Nootbaar LF,5.0,1.0,1.0,0.0,1.0,1.0,6.0,0.245,0.373,0.401,0.774,21.0,11.0,0.02,0.36,0.045,-0.025,0.01%,0.32,-1.0,3.0,0.0,
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Masyn Winn SS,5.0,1.0,1.0,1.0,1.0,2.0,6.0,0.263,0.343,0.421,0.764,26.0,18.0,0.029,0.44,0.058,-0.029,0.02%,0.4,0.6,3.0,6.0,
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Brendan Donovan 2B,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.329,0.386,0.469,0.855,21.0,13.0,-0.015,0.59,0.048,-0.063,-0.01%,0.53,-0.1,1.0,2.0,2B
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,5.0,1.0,3.0,0.0,0.0,1.0,5.0,0.269,0.351,0.403,0.754,29.0,20.0,0.119,0.65,0.121,-0.002,0.06%,0.58,0.7,0.0,2.0,
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Nolan Gorman 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.182,0.296,0.303,0.599,,,,,,,,,,0.0,0.0,
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Willson Contreras 1B,4.0,1.0,2.0,3.0,1.0,0.0,5.0,0.252,0.34,0.399,0.738,18.0,11.0,0.134,0.85,0.179,-0.045,0.07%,0.76,2.6,8.0,1.0,2B
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Alec Burleson 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.296,0.343,0.638,,,,,,,,,,1.0,0.0,
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Iván Herrera DH,4.0,0.0,1.0,2.0,0.0,1.0,5.0,0.36,0.414,0.96,1.374,21.0,14.0,-0.005,0.64,0.054,-0.059,-0.00%,0.57,-0.1,0.0,0.0,"2B,SF"
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Jordan Walker RF,2.0,2.0,0.0,1.0,1.0,2.0,5.0,0.193,0.268,0.263,0.531,26.0,15.0,-0.052,0.38,0.005,-0.057,-0.03%,0.34,0.2,0.0,0.0,"HBP,SF"
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Pedro Pagés C,3.0,2.0,1.0,0.0,2.0,1.0,5.0,0.242,0.277,0.389,0.667,27.0,11.0,0.032,0.31,0.057,-0.025,0.02%,0.28,1.9,8.0,0.0,2B
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Victor Scott II CF,3.0,1.0,1.0,1.0,1.0,0.0,5.0,0.291,0.361,0.41,0.771,17.0,8.0,0.015,0.25,0.02,-0.006,0.01%,0.22,0.8,2.0,0.0,SF
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Erick Fedde P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalsbatting,Team Totals,35.0,10.0,11.0,8.0,8.0,9.0,47.0,0.314,0.426,0.429,0.854,206.0,121.0,0.277,0.48,0.587,-0.311,0.15%,0.43,5.7,27.0,11.0,

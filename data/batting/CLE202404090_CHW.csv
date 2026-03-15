@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Robbie Grossman RF,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.133,0.278,0.133,0.411,21.0,12.0,0.004,0.71,0.056,-0.052,0.00%,0.4,0.4,0.0,0.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Yoán Moncada 3B,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.282,0.364,0.41,0.774,7.0,5.0,0.08,0.92,0.09,-0.01,0.03%,0.52,0.8,0.0,1.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Nicky Lopez 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.148,0.233,0.148,0.381,11.0,7.0,-0.07,0.74,0.0,-0.07,-0.02%,0.42,-1.1,1.0,1.0,GDP
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B-3B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.3,0.3,0.4,0.7,21.0,15.0,0.037,0.8,0.098,-0.06,0.01%,0.45,0.6,1.0,3.0,2B
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn 1B,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.205,0.279,0.231,0.51,15.0,14.0,0.031,1.12,0.099,-0.068,0.01%,0.63,1.1,8.0,0.0,2B
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Korey Lee DH,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.375,0.412,0.625,1.037,14.0,9.0,0.048,0.94,0.087,-0.039,0.02%,0.53,0.4,0.0,0.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.167,0.239,0.19,0.43,19.0,12.0,0.14,1.39,0.161,-0.021,0.05%,0.79,0.6,3.0,0.0,2B
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Kevin Pillar CF,2.0,0.0,1.0,2.0,0.0,0.0,2.0,0.111,0.273,0.222,0.495,7.0,5.0,0.049,0.81,0.069,-0.02,0.02%,0.46,1.0,0.0,0.0,2B
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher PH-CF,1.0,0.0,1.0,2.0,0.0,0.0,2.0,0.231,0.333,0.346,0.679,9.0,6.0,0.263,2.79,0.278,-0.015,0.09%,1.58,1.0,1.0,0.0,"2B,SH"
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Paul DeJong SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.167,0.167,0.458,0.625,15.0,11.0,-0.115,0.9,0.007,-0.121,-0.04%,0.51,-1.0,1.0,1.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Martín Maldonado C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.091,0.13,0.136,0.267,14.0,12.0,-0.098,0.9,0.0,-0.098,-0.03%,0.51,-1.1,12.0,0.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Michael Soroka P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Jordan Leasure P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Steven Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404090,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202404090.shtml,ChicagoWhiteSoxbatting,Team Totals,36.0,7.0,12.0,7.0,2.0,10.0,39.0,0.333,0.368,0.472,0.841,153.0,108.0,0.369,1.02,0.945,-0.574,0.13%,0.58,2.6,27.0,7.0,

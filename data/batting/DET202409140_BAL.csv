@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,2.0,2.0,2.0,1.0,0.0,4.0,0.283,0.368,0.545,0.913,21.0,11.0,0.184,0.9,0.208,-0.025,0.14%,1.15,2.4,1.0,3.0,"HR,2B,SB"
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,3.0,0.0,2.0,1.0,1.0,0.0,4.0,0.234,0.306,0.414,0.72,15.0,8.0,0.184,0.88,0.187,-0.003,0.14%,1.13,1.6,2.0,0.0,SB
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Anthony Santander RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.24,0.312,0.514,0.825,20.0,15.0,-0.083,1.18,0.056,-0.138,-0.06%,1.5,-1.1,2.0,0.0,GDP
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Adley Rutschman DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.252,0.321,0.393,0.715,22.0,13.0,-0.158,1.04,0.004,-0.162,-0.12%,1.33,-1.5,0.0,0.0,GDP
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Colton Cowser LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.24,0.321,0.431,0.752,19.0,11.0,-0.09,0.87,0.0,-0.09,-0.07%,1.11,-1.3,0.0,0.0,GDP
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Ryan O'Hearn 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.256,0.329,0.41,0.739,17.0,13.0,-0.011,0.53,0.026,-0.037,-0.01%,0.68,-0.3,12.0,1.0,
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Emmanuel Rivera 3B,2.0,1.0,0.0,0.0,1.0,0.0,4.0,0.221,0.303,0.306,0.61,16.0,7.0,0.009,0.73,0.063,-0.054,0.01%,0.93,-0.0,0.0,3.0,"HBP,GDP"
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Livan Soto 2B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.25,0.333,0.375,0.708,10.0,9.0,0.033,0.94,0.092,-0.06,0.03%,1.21,0.4,2.0,5.0,2B
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,James McCann C,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.217,0.26,0.333,0.594,18.0,12.0,-0.028,0.92,0.021,-0.049,-0.02%,1.18,-0.7,7.0,0.0,SF
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Corbin Burnes P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Cionel Pérez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202409140,BAL,https://www.baseball-reference.com/boxes/DET/DET202409140.shtml,BaltimoreOriolesbatting,Team Totals,30.0,4.0,8.0,4.0,4.0,5.0,36.0,0.267,0.361,0.433,0.794,158.0,99.0,0.04,0.89,0.657,-0.618,0.03%,1.14,-0.4,27.0,12.0,

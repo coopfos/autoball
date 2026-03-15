@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Víctor Robles CF,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.256,0.333,0.369,0.702,23.0,12.0,0.111,0.53,0.134,-0.023,0.05%,0.42,2.4,3.0,0.0,2B
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Julio Rodríguez DH,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.264,0.314,0.372,0.686,21.0,15.0,0.03,0.31,0.052,-0.022,0.01%,0.25,0.2,0.0,0.0,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Cal Raleigh C,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.211,0.304,0.44,0.744,25.0,17.0,0.13,0.44,0.167,-0.038,0.06%,0.35,0.1,5.0,0.0,HR
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Luke Raley LF,3.0,1.0,2.0,1.0,0.0,1.0,5.0,0.236,0.307,0.434,0.741,18.0,10.0,0.02,0.47,0.038,-0.018,0.01%,0.37,0.8,2.0,0.0,"HBP,SF"
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Jorge Polanco 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.219,0.304,0.365,0.669,10.0,8.0,-0.028,0.38,0.006,-0.034,-0.01%,0.3,0.2,0.0,3.0,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Dylan Moore PR-2B,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.199,0.307,0.375,0.682,1.0,1.0,0.001,0.02,0.001,0.0,0%,0.01,-0.2,0.0,1.0,SB
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Justin Turner 1B,4.0,0.0,1.0,0.0,0.0,0.0,5.0,0.246,0.343,0.358,0.701,9.0,6.0,0.006,0.2,0.016,-0.009,0.00%,0.16,-0.1,9.0,1.0,HBP
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Dominic Canzone RF,5.0,1.0,1.0,1.0,0.0,0.0,5.0,0.208,0.282,0.403,0.685,22.0,14.0,-0.041,0.37,0.01,-0.052,-0.02%,0.29,-0.9,5.0,0.0,"HR,GDP"
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Josh Rojas 3B,4.0,2.0,2.0,1.0,1.0,1.0,5.0,0.233,0.314,0.354,0.668,17.0,9.0,0.071,0.22,0.072,-0.001,0.03%,0.17,1.2,2.0,3.0,HR
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Leo Rivas SS,4.0,2.0,2.0,1.0,1.0,0.0,5.0,0.225,0.311,0.275,0.586,17.0,10.0,0.053,0.29,0.054,-0.001,0.03%,0.23,1.7,0.0,1.0,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,George Kirby P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Collin Snider P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Austin Voth P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Troy Taylor P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202408180,SEA,https://www.baseball-reference.com/boxes/PIT/PIT202408180.shtml,SeattleMarinersbatting,Team Totals,39.0,10.0,13.0,8.0,3.0,7.0,45.0,0.333,0.4,0.59,0.99,163.0,102.0,0.353,0.34,0.55,-0.198,0.17%,0.27,5.4,27.0,9.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,3.0,2.0,1.0,2.0,2.0,2.0,5.0,0.296,0.396,0.657,1.053,17.0,10.0,0.129,0.67,0.166,-0.037,0.10%,0.84,1.9,0.0,0.0,"HR,IW"
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.257,0.339,0.411,0.75,24.0,13.0,-0.001,0.57,0.03,-0.031,-0.00%,0.71,0.8,1.0,1.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.356,0.426,0.62,1.045,25.0,18.0,-0.081,0.82,0.012,-0.094,-0.06%,1.03,-1.6,5.0,1.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,5.0,1.0,2.0,0.0,0.0,3.0,5.0,0.306,0.329,0.575,0.904,23.0,15.0,-0.049,0.58,0.018,-0.067,-0.04%,0.73,-0.9,5.0,0.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Max Muncy 3B,4.0,2.0,2.0,3.0,1.0,0.0,5.0,0.212,0.337,0.345,0.682,20.0,12.0,0.096,0.74,0.12,-0.024,0.07%,0.93,3.6,0.0,1.0,"HR,SB"
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Andy Pages CF,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.271,0.319,0.453,0.772,21.0,14.0,0.1,0.69,0.133,-0.033,0.07%,0.87,1.8,1.0,0.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,1.0,2.0,1.0,1.0,1.0,4.0,0.172,0.312,0.287,0.599,17.0,8.0,0.198,0.76,0.215,-0.017,0.15%,0.95,2.1,0.0,0.0,HR
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Enrique Hernández LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.226,0.297,0.443,0.74,,,,,,,,,,0.0,0.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Dalton Rushing C,4.0,0.0,1.0,1.0,0.0,3.0,4.0,0.25,0.286,0.3,0.586,16.0,12.0,0.009,0.7,0.048,-0.039,0.01%,0.88,-0.4,14.0,1.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Tommy Edman 2B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.232,0.278,0.457,0.735,14.0,9.0,-0.114,0.67,0.01,-0.124,-0.09%,0.84,-2.7,0.0,2.0,GDP
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Dustin May P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Ben Casparius P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CLE202505270,LAD,https://www.baseball-reference.com/boxes/CLE/CLE202505270.shtml,LosAngelesDodgersbatting,Team Totals,37.0,9.0,13.0,8.0,5.0,12.0,42.0,0.351,0.429,0.595,1.023,177.0,111.0,0.287,0.69,0.752,-0.466,0.21%,0.86,4.6,27.0,6.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202504230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202504230.shtml,ClevelandGuardianspitching,"Luis Ortiz, L (2-3)",4.1,5,4,4,5,8,0,5.96,24,104,64,34,18,12,5,6,1,0,40.0,,,-0.234,0.97,-0.18%,1.25,-1.8
+CLE202504230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202504230.shtml,ClevelandGuardianspitching,Joey Cantillo,1.2,3,0,0,1,2,0,1.35,7,30,20,7,4,9,3,1,1,0,,0.0,0.0,0.038,0.42,0.03%,0.54,0.8
+CLE202504230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202504230.shtml,ClevelandGuardianspitching,Zak Kent,3.0,3,1,1,2,4,0,3.0,14,60,36,21,4,11,2,6,4,0,,0.0,0.0,-0.024,0.27,-0.02%,0.35,0.5
+CLE202504230,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202504230.shtml,ClevelandGuardianspitching,Team Totals,9.0,11,5,5,8,14,0,5.0,45,194,120,62,26,32,10,13,6,0,40.0,0.0,0.0,-0.22,0.66,-0.17%,0.84,-0.6

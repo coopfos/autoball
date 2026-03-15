@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202508090,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202508090.shtml,LosAngelesDodgerspitching,"Blake Snell, W (2-1)",5,3,0,0,3,10,0,2.37,21,90,53,27,15,11,2,6,4,0,68.0,,,0.275,1.08,0.24%,1.55,2.5
+LAN202508090,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202508090.shtml,LosAngelesDodgerspitching,"Brock Stewart, H (16)",1,0,0,0,1,1,0,2.63,4,19,13,9,2,2,1,1,0,0,,0.0,0.0,0.048,0.65,0.04%,0.94,0.5
+LAN202508090,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202508090.shtml,LosAngelesDodgerspitching,Jack Dreyer,2,1,1,1,0,2,1,2.98,7,26,17,9,4,4,1,4,0,0,,0.0,0.0,0.002,0.02,0.00%,0.03,0.0
+LAN202508090,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202508090.shtml,LosAngelesDodgerspitching,Alexis Díaz,1,1,0,0,1,1,0,7.82,5,28,16,8,4,4,0,3,1,0,,0.0,0.0,0.0,0.01,0.00%,0.01,0.5
+LAN202508090,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202508090.shtml,LosAngelesDodgerspitching,Team Totals,9,5,1,1,5,14,1,1.0,37,163,99,53,25,21,4,14,5,0,68.0,0.0,0.0,0.325,0.69,0.28%,0.98,3.6

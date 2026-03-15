@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202506270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202506270.shtml,TorontoBlueJayspitching,"José Berríos, W (4-3)",7,4,0,0,1,8,0,3.26,24,91,65,35,13,17,3,12,7,0,76.0,,,0.329,0.94,0.27%,1.26,3.5
+BOS202506270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202506270.shtml,TorontoBlueJayspitching,Nick Sandlin,1,0,0,0,1,0,0,2.31,3,17,9,4,1,4,1,1,0,0,,0.0,0.0,0.001,0.03,0.00%,0.04,0.5
+BOS202506270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202506270.shtml,TorontoBlueJayspitching,Paxton Schultz,1,0,0,0,0,0,0,3.63,3,12,9,6,1,2,1,2,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+BOS202506270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202506270.shtml,TorontoBlueJayspitching,Team Totals,9,4,0,0,2,8,0,0.0,30,120,83,45,15,23,5,15,7,0,76.0,0.0,0.0,0.33,0.75,0.27%,1.02,4.5

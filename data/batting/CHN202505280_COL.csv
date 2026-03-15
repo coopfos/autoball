@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.262,0.322,0.506,0.828,15.0,12.0,-0.152,1.5,0.0,-0.152,0%,0.0,-1.0,2.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Tyler Freeman RF,3.0,0.0,0.0,1.0,0.0,2.0,4.0,0.189,0.273,0.243,0.516,20.0,11.0,-0.105,1.57,0.009,-0.114,0%,0.0,-0.4,0.0,0.0,SF
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.274,0.317,0.416,0.733,15.0,11.0,-0.096,0.97,0.0,-0.096,0%,0.0,-0.5,2.0,7.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.276,0.324,0.443,0.768,25.0,19.0,0.001,1.14,0.072,-0.071,0%,0.0,-0.0,3.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Kyle Farmer 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.245,0.283,0.378,0.661,11.0,8.0,-0.189,1.56,0.0,-0.189,0%,0.0,-1.1,4.0,6.0,GDP
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.209,0.326,0.353,0.679,7.0,4.0,0.002,0.66,0.032,-0.031,0%,0.0,0.1,1.0,2.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Orlando Arcia DH,3.0,0.0,2.0,0.0,0.0,0.0,3.0,0.235,0.257,0.265,0.522,10.0,8.0,0.04,1.56,0.093,-0.053,0%,0.0,0.5,0.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Michael Toglia 1B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.198,0.271,0.357,0.628,9.0,5.0,-0.091,1.99,0.061,-0.152,0%,0.0,-1.0,10.0,0.0,GDP
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Mickey Moniak CF,3.0,1.0,1.0,0.0,0.0,2.0,3.0,0.223,0.27,0.405,0.676,15.0,10.0,0.0,1.78,0.1,-0.1,0%,0.0,0.2,2.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Tanner Gordon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Ryan Rolison P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505280,COL,https://www.baseball-reference.com/boxes/CHN/CHN202505280.shtml,ColoradoRockiesbatting,Team Totals,30.0,1.0,6.0,1.0,0.0,11.0,31.0,0.2,0.194,0.2,0.394,127.0,88.0,-0.59,1.41,0.367,-0.958,0.00%,0.0,-3.2,24.0,15.0,

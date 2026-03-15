@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,TJ Friedl CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.294,0.358,0.388,0.746,15.0,11.0,-0.038,1.03,0.054,-0.091,-0.02%,0.99,-0.4,4.0,0.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Matt McLain 2B,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.212,0.349,0.462,0.811,20.0,14.0,0.004,0.88,0.065,-0.061,0.00%,0.85,0.4,4.0,0.0,SB
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.242,0.31,0.44,0.75,15.0,11.0,-0.089,0.89,0.009,-0.098,-0.05%,0.86,-0.5,0.0,2.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Austin Hays LF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.406,0.441,0.719,1.16,20.0,13.0,-0.066,0.84,0.015,-0.081,-0.04%,0.81,-0.6,2.0,0.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Gavin Lux DH,4.0,1.0,1.0,2.0,0.0,3.0,4.0,0.315,0.419,0.425,0.843,22.0,13.0,-0.054,0.75,0.026,-0.08,-0.03%,0.72,1.0,0.0,0.0,HR
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Spencer Steer 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.125,0.2,0.219,0.419,17.0,11.0,-0.08,0.76,0.0,-0.08,-0.05%,0.73,-0.8,3.0,1.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Jake Fraley RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.333,0.411,0.744,13.0,9.0,-0.016,0.67,0.033,-0.049,-0.01%,0.64,-0.3,3.0,0.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Noelvi Marte 3B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.348,0.375,0.609,0.984,12.0,11.0,0.088,0.8,0.125,-0.037,0.05%,0.77,0.7,3.0,1.0,"2B,SB"
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Jose Trevino C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.292,0.346,0.458,0.804,13.0,11.0,-0.145,0.97,0.0,-0.145,-0.08%,0.93,-1.4,4.0,1.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Nick Lodolo P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Alexis Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Emilio Pagán P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIA202504210,CIN,https://www.baseball-reference.com/boxes/MIA/MIA202504210.shtml,CincinnatiRedsbatting,Team Totals,35.0,3.0,8.0,3.0,1.0,14.0,36.0,0.229,0.25,0.343,0.593,147.0,104.0,-0.396,0.85,0.327,-0.722,-0.23%,0.82,-1.9,24.0,7.0,

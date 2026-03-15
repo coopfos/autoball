@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,6.0,4.0,5.0,6.0,0.0,1.0,6.0,0.245,0.369,0.474,0.843,22.0,18.0,0.631,1.6,0.652,-0.021,0.51%,2.15,5.0,0.0,0.0,"3·HR,2B"
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,6.0,1.0,3.0,0.0,0.0,1.0,6.0,0.301,0.346,0.463,0.809,16.0,12.0,0.042,1.06,0.133,-0.091,0.03%,1.44,0.7,3.0,3.0,"2B,SB"
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,6.0,0.0,2.0,0.0,0.0,2.0,6.0,0.282,0.371,0.521,0.892,18.0,12.0,0.015,1.21,0.146,-0.131,0.01%,1.64,-0.1,8.0,0.0,GDP
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.248,0.302,0.419,0.721,13.0,8.0,-0.055,1.2,0.027,-0.082,-0.04%,1.62,-0.3,0.0,0.0,HBP
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Weston Wilson RF,1.0,0.0,1.0,0.0,1.0,0.0,2.0,0.345,0.383,0.618,1.002,11.0,4.0,0.133,1.81,0.133,0.0,0.11%,2.44,0.7,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,6.0,1.0,2.0,1.0,0.0,1.0,6.0,0.243,0.32,0.362,0.682,27.0,20.0,-0.128,1.53,0.175,-0.303,-0.10%,2.06,0.5,1.0,3.0,"2·2B,GDP"
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,4.0,0.0,2.0,0.0,1.0,2.0,5.0,0.262,0.317,0.415,0.733,20.0,13.0,-0.023,2.02,0.095,-0.118,-0.02%,2.72,-0.6,8.0,0.0,SB
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh LF-CF,2.0,0.0,1.0,0.0,3.0,0.0,5.0,0.246,0.327,0.418,0.745,23.0,9.0,-0.039,2.04,0.11,-0.149,-0.03%,2.75,0.6,3.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Edmundo Sosa 3B,4.0,2.0,1.0,1.0,1.0,2.0,5.0,0.266,0.319,0.441,0.76,23.0,17.0,0.041,2.35,0.201,-0.161,0.03%,3.16,-0.4,0.0,1.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Johan Rojas CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.238,0.277,0.299,0.577,8.0,7.0,-0.103,1.1,0.0,-0.103,-0.08%,1.48,-1.4,4.0,0.0,GDP
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Kody Clemens PH-LF,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0.242,0.275,0.5,0.775,18.0,14.0,0.28,4.16,0.335,-0.055,0.23%,5.61,1.0,0.0,0.0,2B
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Tyler Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Tanner Banks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,José Alvarado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Taijuan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,José Ruiz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Orion Kerkering P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Matt Strahm P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409030,PHI,https://www.baseball-reference.com/boxes/TOR/TOR202409030.shtml,PhiladelphiaPhilliesbatting,Team Totals,43.0,10.0,18.0,10.0,6.0,11.0,50.0,0.419,0.5,0.744,1.244,199.0,134.0,0.794,1.7,2.007,-1.214,0.64%,2.29,5.6,27.0,7.0,

@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Jordan Beck LF,5.0,0.0,2.0,1.0,0.0,1.0,5.0,0.254,0.313,0.475,0.788,12.0,8.0,0.063,1.33,0.16,-0.098,0%,0.0,0.4,2.0,0.0,SB
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Thairo Estrada 2B,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.286,0.313,0.357,0.67,9.0,6.0,-0.102,1.73,0.01,-0.111,0%,0.0,-0.8,1.0,3.0,SF
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,1.0,2.0,1.0,0.0,2.0,4.0,0.277,0.325,0.477,0.802,15.0,11.0,0.281,1.11,0.337,-0.056,0%,0.0,1.2,4.0,1.0,"HR,2B"
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.204,0.315,0.345,0.66,14.0,11.0,-0.125,1.12,0.0,-0.125,0%,0.0,-1.1,1.0,5.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.207,0.267,0.332,0.598,9.0,6.0,-0.094,0.89,0.0,-0.094,0%,0.0,-0.8,4.0,0.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Orlando Arcia SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.205,0.239,0.295,0.535,12.0,7.0,-0.081,0.75,0.0,-0.081,0%,0.0,-0.8,1.0,4.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Kyle Farmer 1B,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.232,0.273,0.358,0.631,9.0,7.0,-0.077,1.04,0.018,-0.094,0%,0.0,-0.5,13.0,0.0,HBP
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Sam Hilliard PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.333,0.385,0.667,1.051,,,,,,,,,,0.0,0.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Keston Hiura 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.167,0.286,0.333,0.619,,,,,,,,,,0.0,0.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Mickey Moniak RF,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.212,0.262,0.385,0.647,20.0,10.0,-0.019,1.01,0.05,-0.068,0%,0.0,-0.2,1.0,0.0,SB
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Tyler Freeman DH,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.28,0.333,0.38,0.713,7.0,5.0,0.111,0.86,0.111,0.0,0%,0.0,1.0,0.0,0.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Chase Dollander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Juan Mejia P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Seth Halvorsen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202506030,COL,https://www.baseball-reference.com/boxes/MIA/MIA202506030.shtml,ColoradoRockiesbatting,Team Totals,34.0,3.0,7.0,3.0,1.0,5.0,37.0,0.206,0.243,0.324,0.567,107.0,71.0,-0.043,1.1,0.686,-0.727,0.00%,0.0,-1.6,27.0,15.0,

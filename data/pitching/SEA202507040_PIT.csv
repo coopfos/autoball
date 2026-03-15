@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202507040,PIT,https://www.baseball-reference.com/boxes/SEA/SEA202507040.shtml,PittsburghPiratespitching,"Bailey Falter, L (6-4)",5.2,3,4,3,0,4,3,3.69,21,75,51,33,10,8,4,13,3,0,53.0,,,-0.173,0.41,-0.01%,0.03,-1.4
+SEA202507040,PIT,https://www.baseball-reference.com/boxes/SEA/SEA202507040.shtml,PittsburghPiratespitching,Braxton Ashcraft,2.1,4,2,2,0,2,1,2.29,10,30,22,11,3,8,2,6,3,0,,0.0,0.0,-0.016,0.05,-0.00%,0.0,-1.0
+SEA202507040,PIT,https://www.baseball-reference.com/boxes/SEA/SEA202507040.shtml,PittsburghPiratespitching,Team Totals,8.0,7,6,5,0,6,4,5.62,31,105,73,44,13,16,6,19,6,0,53.0,0.0,0.0,-0.189,0.29,-0.01%,0.02,-2.4

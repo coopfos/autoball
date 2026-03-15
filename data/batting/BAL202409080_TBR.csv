@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Christopher Morel 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.198,0.296,0.356,0.652,6.0,6.0,-0.062,0.8,0.036,-0.099,-0.01%,0.12,-0.6,1.0,5.0,CS
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Jonathan Aranda 1B,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.203,0.276,0.304,0.581,22.0,11.0,0.045,0.67,0.067,-0.022,0.00%,0.1,0.2,5.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Jonny DeLuca LF,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.214,0.278,0.345,0.623,12.0,9.0,0.245,0.98,0.266,-0.021,0.02%,0.14,1.5,4.0,0.0,HR
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Junior Caminero DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.33,0.402,0.732,13.0,9.0,-0.054,0.94,0.024,-0.078,-0.01%,0.14,-0.4,0.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Josh Lowe RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.239,0.299,0.403,0.702,9.0,8.0,-0.07,0.73,0.0,-0.07,-0.01%,0.1,-0.8,3.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,José Caballero 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.229,0.283,0.36,0.643,13.0,10.0,0.039,0.81,0.064,-0.025,0.00%,0.12,0.4,0.0,0.0,2·SB
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Taylor Walls SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.18,0.292,0.246,0.538,12.0,6.0,-0.025,0.81,0.017,-0.042,-0.00%,0.12,-0.2,1.0,2.0,SB
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Ben Rortvedt C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.233,0.327,0.318,0.644,17.0,11.0,-0.128,1.21,0.0,-0.128,-0.01%,0.17,-1.5,11.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Jose Siri CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.188,0.257,0.364,0.621,19.0,14.0,-0.066,0.66,0.0,-0.066,-0.01%,0.1,-0.8,2.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Zack Littell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Richard Lovelady P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Kevin Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Garrett Cleavinger P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Edwin Uceta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409080,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409080.shtml,TampaBayRaysbatting,Team Totals,34.0,2.0,8.0,2.0,2.0,8.0,36.0,0.235,0.278,0.324,0.601,123.0,84.0,-0.076,0.84,0.474,-0.551,-0.01%,0.12,-2.1,27.0,7.0,

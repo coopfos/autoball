@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202503300,PHI,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,PhiladelphiaPhilliespitching,"Aaron Nola, L (0-1)",5.1,6,5,5,0,8,2,8.44,23,95,61,31,13,17,6,8,2,0,44.0,,,-0.176,0.74,-0.11%,0.78,-2.4
+WAS202503300,PHI,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,PhiladelphiaPhilliespitching,José Ruiz,0.2,1,0,0,0,2,0,5.4,3,11,9,5,3,1,0,1,1,0,,0.0,0.0,0.003,0.08,0.00%,0.08,0.2
+WAS202503300,PHI,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,PhiladelphiaPhilliespitching,Matt Strahm,1.0,1,0,0,0,1,0,0.0,4,12,10,6,0,4,0,3,1,0,,0.0,0.0,0.003,0.07,0.00%,0.07,0.5
+WAS202503300,PHI,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,PhiladelphiaPhilliespitching,Tanner Banks,1.0,1,0,0,0,0,0,0.0,3,14,10,7,1,2,1,2,2,0,,0.0,0.0,0.001,0.04,0.00%,0.04,0.5
+WAS202503300,PHI,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,PhiladelphiaPhilliespitching,Team Totals,8.0,9,5,5,0,11,2,5.62,33,132,90,49,17,24,7,14,6,0,44.0,0.0,0.0,-0.169,0.53,-0.11%,0.56,-1.2

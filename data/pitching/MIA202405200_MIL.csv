@@ -1,0 +1,10 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,Joe Ross,1.0,1,0,0,1,0,0,4.5,4,15,9,5,0,4,2,1,1,0,50.0,,,0.049,1.13,0.04%,1.34,0.5
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,Jared Koenig,2.2,1,0,0,1,0,0,2.7,9,43,26,19,2,5,6,2,2,0,,0.0,0.0,0.142,0.84,0.10%,1.0,1.4
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,Joel Payamps,1.1,0,0,0,0,1,0,4.7,4,17,11,8,2,1,2,1,0,0,,1.0,0.0,0.106,1.08,0.08%,1.29,0.8
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,"Hoby Milner, H (3)",1.1,0,1,1,1,0,0,1.96,5,20,11,5,2,4,3,1,0,0,,0.0,0.0,0.051,1.44,0.04%,1.73,0.4
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,"Elvis Peguero, H (7)",0.2,1,0,0,1,0,0,3.05,3,12,7,3,2,2,2,0,0,0,,1.0,1.0,-0.006,3.17,-0.00%,3.79,-0.3
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,"Bryan Hudson, H (7)",1.0,1,0,0,0,2,0,0.68,5,11,9,3,3,3,0,2,1,0,,0.0,0.0,0.148,4.14,0.11%,4.94,0.5
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,"Trevor Megill, BS (1)",1.0,2,1,1,0,1,0,2.13,5,18,10,5,2,3,0,4,1,0,,0.0,0.0,-0.286,3.32,-0.21%,3.97,-0.5
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,"Mitch White, L (1-1)",0.1,1,1,0,2,0,0,7.59,4,10,7,3,2,2,2,0,0,0,,0.0,0.0,-0.183,4.33,-0.13%,5.18,-1.4
+MIA202405200,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202405200.shtml,MilwaukeeBrewerspitching,Team Totals,9.1,7,3,2,6,4,0,1.93,39,146,90,51,15,24,17,11,5,0,50.0,2.0,1.0,0.021,2.32,0.02%,2.77,1.4

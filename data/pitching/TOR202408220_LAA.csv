@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202408220,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408220.shtml,LosAngelesAngelspitching,"Brock Burke, L (1-1)",1,3,3,3,0,1,0,8.35,6,28,22,15,2,5,3,2,0,0,36.0,,,-0.18,0.86,0.00%,0.0,-1.9
+TOR202408220,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408220.shtml,LosAngelesAngelspitching,Mike Baumann,1,3,2,2,1,0,1,5.24,7,21,13,8,2,3,3,3,0,0,,1.0,1.0,-0.135,0.43,0.00%,0.0,-2.1
+TOR202408220,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408220.shtml,LosAngelesAngelspitching,Griffin Canning,6,2,0,0,0,6,0,5.18,20,74,54,28,10,16,8,6,2,0,,0.0,0.0,0.035,0.08,0.00%,0.0,2.9
+TOR202408220,LAA,https://www.baseball-reference.com/boxes/TOR/TOR202408220.shtml,LosAngelesAngelspitching,Team Totals,8,8,5,5,1,7,1,5.62,33,123,89,51,14,24,14,11,2,0,36.0,1.0,1.0,-0.28,0.29,0.00%,0.0,-1.1

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202406270,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406270.shtml,DetroitTigerspitching,"Jack Flaherty, L (5-5)",5.2,7,5,5,1,7,3,3.24,25,98,66,40,14,12,6,11,4,0,41.0,,,-0.179,0.48,-0.03%,0.15,-2.5
+ANA202406270,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406270.shtml,DetroitTigerspitching,Beau Brieske,1.1,1,0,0,0,2,0,2.35,6,25,17,12,4,1,2,1,0,0,,2.0,0.0,0.008,0.07,0.00%,0.02,1.0
+ANA202406270,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406270.shtml,DetroitTigerspitching,Joey Wentz,1.0,0,0,0,0,2,0,5.19,3,13,9,3,2,4,0,1,0,0,,0.0,0.0,0.001,0.02,0.00%,0.01,0.5
+ANA202406270,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406270.shtml,DetroitTigerspitching,Team Totals,8.0,8,5,5,1,11,3,5.62,34,136,92,55,20,17,8,13,4,0,41.0,2.0,0.0,-0.17,0.37,-0.03%,0.12,-1.0

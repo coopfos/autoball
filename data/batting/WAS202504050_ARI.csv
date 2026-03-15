@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.344,0.361,0.5,0.861,18.0,11.0,-0.037,0.97,0.031,-0.068,-0.02%,0.92,-0.6,1.0,1.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.235,0.366,0.559,0.925,17.0,9.0,-0.071,1.2,0.03,-0.101,-0.04%,1.13,-0.4,0.0,1.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.2,0.222,0.429,0.651,12.0,9.0,-0.095,0.99,0.0,-0.095,-0.05%,0.94,-1.0,0.0,0.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Randal Grichuk DH,2.0,0.0,1.0,1.0,1.0,0.0,3.0,0.313,0.389,0.563,0.951,8.0,3.0,0.049,0.74,0.069,-0.02,0.03%,0.7,1.0,0.0,0.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Pavin Smith PH-DH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.294,0.429,0.471,0.899,4.0,3.0,0.044,0.95,0.044,0.0,0.03%,0.9,0.3,0.0,0.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Josh Naylor 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.273,0.368,0.364,0.732,16.0,9.0,-0.161,1.23,0.0,-0.161,-0.09%,1.16,-1.4,4.0,1.0,GDP
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.2,0.351,0.733,1.085,18.0,9.0,0.073,0.83,0.104,-0.031,0.04%,0.79,0.4,0.0,1.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Garrett Hampson PR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.167,0.444,0.167,0.611,,,0.012,2.85,0.012,0.0,0.01%,2.7,0.2,0.0,0.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.292,0.37,0.292,0.662,15.0,11.0,-0.114,1.3,0.027,-0.141,-0.07%,1.24,-0.9,15.0,2.0,GDP
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.412,0.421,0.529,0.95,9.0,7.0,0.04,1.39,0.138,-0.098,0.02%,1.32,0.8,2.0,0.0,CS
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Tim Tawa 2B,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.333,0.5,0.333,0.833,10.0,4.0,-0.078,1.75,0.04,-0.117,-0.04%,1.65,0.3,2.0,1.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Eduardo Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Bryce Jarvis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Joe Mantiply P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504050,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202504050.shtml,ArizonaDiamondbacksbatting,Team Totals,30.0,3.0,5.0,3.0,6.0,2.0,36.0,0.167,0.306,0.167,0.472,127.0,75.0,-0.338,1.21,0.495,-0.832,-0.19%,1.15,-1.4,24.0,7.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202507080,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202507080.shtml,LosAngelesDodgerspitching,"Clayton Kershaw, L (4-1)",6,6,2,2,1,3,0,3.38,24,85,57,32,6,19,10,9,5,0,54.0,,,0.046,1.14,0.04%,1.52,1.0
+MIL202507080,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202507080.shtml,LosAngelesDodgerspitching,Alex Vesia,1,0,0,0,0,1,0,2.68,3,14,10,4,2,4,1,1,0,0,,0.0,0.0,0.043,0.57,0.03%,0.76,0.5
+MIL202507080,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202507080.shtml,LosAngelesDodgerspitching,Kirby Yates,1,2,1,1,1,2,1,3.95,5,20,12,7,5,0,0,2,2,0,,0.0,0.0,-0.058,0.38,-0.05%,0.51,-0.5
+MIL202507080,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202507080.shtml,LosAngelesDodgerspitching,Team Totals,8,8,3,3,2,6,1,3.38,32,119,79,43,13,23,11,12,7,0,54.0,0.0,0.0,0.031,0.97,0.03%,1.29,1.0

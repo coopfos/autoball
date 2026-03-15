@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.267,0.325,0.307,0.632,5.0,3.0,0.035,0.87,0.035,0.0,0.02%,0.78,0.4,0.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Zach Neto PR-SS,4.0,1.0,0.0,0.0,0.0,2.0,4.0,0.174,0.25,0.217,0.467,18.0,14.0,-0.105,1.07,0.0,-0.105,-0.06%,0.96,-0.9,1.0,1.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Mike Trout CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.256,0.337,0.61,0.947,17.0,13.0,-0.016,1.04,0.053,-0.069,-0.01%,0.94,0.0,2.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Taylor Ward LF,2.0,1.0,0.0,0.0,2.0,0.0,4.0,0.287,0.315,0.529,0.844,18.0,9.0,-0.054,0.94,0.032,-0.086,-0.03%,0.84,-0.3,1.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Miguel Sanó DH,4.0,1.0,3.0,3.0,0.0,1.0,4.0,0.298,0.382,0.426,0.807,18.0,10.0,0.185,1.23,0.224,-0.039,0.10%,1.1,3.1,0.0,0.0,"HR,2B"
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.21,0.29,0.29,0.58,18.0,7.0,0.068,1.29,0.108,-0.04,0.04%,1.15,0.4,2.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Mickey Moniak RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.159,0.229,0.25,0.479,14.0,10.0,-0.129,1.35,0.0,-0.129,-0.07%,1.22,-1.1,0.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Luis Rengifo SS-3B,4.0,0.0,0.0,1.0,0.0,0.0,4.0,0.263,0.276,0.333,0.609,9.0,7.0,-0.076,0.98,0.0,-0.076,-0.04%,0.88,-0.5,1.0,2.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.29,0.362,0.452,0.814,14.0,11.0,-0.078,0.75,0.0,-0.078,-0.04%,0.67,-0.6,14.0,1.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.167,0.292,0.222,0.515,12.0,8.0,0.001,0.91,0.059,-0.059,0%,0.81,-0.1,3.0,1.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Patrick Sandoval P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,José Suarez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Hunter Strickland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202404200,LAA,https://www.baseball-reference.com/boxes/CIN/CIN202404200.shtml,LosAngelesAngelsbatting,Team Totals,34.0,5.0,7.0,5.0,3.0,7.0,37.0,0.206,0.27,0.324,0.594,143.0,92.0,-0.169,1.06,0.511,-0.681,-0.09%,0.95,0.2,24.0,7.0,

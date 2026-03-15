@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Nico Hoerner 2B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.269,0.383,0.358,0.741,19.0,14.0,-0.227,2.4,0.056,-0.283,-0.15%,2.63,-0.5,0.0,3.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Patrick Wisdom RF,4.0,0.0,1.0,2.0,0.0,2.0,4.0,0.125,0.222,0.375,0.597,15.0,10.0,0.143,1.2,0.209,-0.066,0.09%,1.32,1.3,1.0,0.0,3B
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Christopher Morel DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.2,0.265,0.36,0.625,17.0,11.0,-0.023,0.58,0.011,-0.034,-0.01%,0.64,-0.2,0.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Dansby Swanson SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.243,0.321,0.392,0.713,20.0,10.0,0.008,0.84,0.08,-0.072,0.00%,0.93,-0.1,2.0,3.0,CS
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Garrett Cooper 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.31,0.394,0.517,0.911,23.0,13.0,-0.064,1.11,0.008,-0.072,-0.04%,1.22,-0.6,8.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Mike Tauchman CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.256,0.385,0.349,0.733,11.0,6.0,0.03,1.92,0.134,-0.104,0.02%,2.1,-1.0,2.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Nick Madrigal 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.25,0.28,0.333,0.613,19.0,10.0,0.117,1.99,0.185,-0.068,0.08%,2.18,-0.2,1.0,1.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Miguel Amaya C,3.0,0.0,1.0,0.0,0.0,2.0,4.0,0.282,0.31,0.462,0.771,13.0,10.0,0.008,2.03,0.043,-0.036,0.01%,2.22,-0.2,6.0,0.0,SH
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Alexander Canario LF,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.286,0.286,0.429,0.714,20.0,13.0,-0.302,1.97,0.028,-0.33,-0.20%,2.16,-0.9,7.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Javier Assad P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Luke Little P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Yency Almonte P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Adbert Alzolay P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202404201,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404201.shtml,ChicagoCubsbatting,Team Totals,33.0,2.0,7.0,2.0,3.0,11.0,37.0,0.212,0.278,0.273,0.551,157.0,97.0,-0.31,1.54,0.754,-1.065,-0.21%,1.69,-2.4,27.0,8.0,

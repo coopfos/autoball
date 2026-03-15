@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Charlie Blackmon DH,5.0,1.0,1.0,1.0,0.0,0.0,5.0,0.248,0.311,0.38,0.691,21.0,14.0,-0.08,0.87,0.084,-0.164,-0.01%,0.17,-1.2,0.0,0.0,SB
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.272,0.312,0.42,0.732,14.0,10.0,0.085,0.57,0.112,-0.027,0.01%,0.11,1.1,2.0,5.0,"2B,SB"
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.301,0.384,0.458,0.842,17.0,10.0,-0.049,0.65,0.012,-0.061,-0.01%,0.13,-0.7,1.0,3.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Elias Díaz C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.301,0.345,0.426,0.771,16.0,10.0,-0.09,0.83,0.0,-0.09,-0.01%,0.16,-1.0,4.0,0.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.267,0.314,0.351,0.665,11.0,8.0,-0.003,0.73,0.043,-0.047,0%,0.14,-0.2,3.0,3.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Brenton Doyle CF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.283,0.338,0.455,0.793,16.0,9.0,-0.014,0.86,0.043,-0.057,-0.00%,0.17,-0.2,4.0,0.0,SB
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Jake Cave RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.22,0.298,0.293,0.591,13.0,8.0,0.023,0.92,0.078,-0.055,0.00%,0.18,-0.1,1.0,0.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Elehuris Montero 1B,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.213,0.258,0.295,0.553,12.0,10.0,0.297,1.08,0.302,-0.005,0.03%,0.21,2.7,12.0,0.0,2B
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.186,0.186,0.209,0.395,21.0,13.0,-0.012,0.73,0.062,-0.074,-0.00%,0.14,-0.0,0.0,0.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Dakota Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Jake Bird P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Justin Lawrence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405130,COL,https://www.baseball-reference.com/boxes/SDN/SDN202405130.shtml,ColoradoRockiesbatting,Team Totals,36.0,5.0,9.0,5.0,1.0,6.0,37.0,0.25,0.27,0.306,0.576,141.0,92.0,0.157,0.8,0.736,-0.58,0.02%,0.16,0.4,27.0,12.0,

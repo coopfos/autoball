@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202509130,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509130.shtml,BaltimoreOriolespitching,Tomoyuki Sugano,6.0,4,1,1,0,4,1,4.39,20,63,45,26,7,12,8,8,2,0,64.0,,,0.259,1.19,0.00%,0.0,2.1
+TOR202509130,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509130.shtml,BaltimoreOriolespitching,"Rico Garcia, H (7)",1.0,1,0,0,1,1,0,3.14,4,19,9,4,1,4,1,1,1,0,,0.0,0.0,0.109,2.92,0.00%,0.0,0.5
+TOR202509130,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509130.shtml,BaltimoreOriolespitching,"Kade Strowd, H (4)",0.2,2,1,1,0,0,0,1.64,4,14,12,7,2,3,3,1,0,0,,0.0,0.0,-0.002,2.25,0.00%,0.0,0.0
+TOR202509130,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509130.shtml,BaltimoreOriolespitching,"Keegan Akin, H (16)",0.2,2,1,1,1,0,0,3.26,5,12,7,6,0,1,2,2,1,0,,2.0,1.0,-0.023,3.88,0.00%,0.0,-0.7
+TOR202509130,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509130.shtml,BaltimoreOriolespitching,"Yennier Cano, BS (5), L (3-7)",0.1,3,2,1,0,0,0,5.09,5,16,12,9,0,2,2,2,1,0,,1.0,1.0,-0.879,4.9,0.00%,0.0,-2.8
+TOR202509130,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509130.shtml,BaltimoreOriolespitching,Team Totals,8.2,12,5,4,2,5,1,4.15,38,124,85,52,10,22,16,14,5,0,64.0,3.0,2.0,-0.536,2.3,0.00%,0.0,-0.8

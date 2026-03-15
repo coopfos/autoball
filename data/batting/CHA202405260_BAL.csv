@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.284,0.34,0.503,0.843,14.0,11.0,-0.018,0.79,0.037,-0.055,-0.01%,0.88,-0.4,1.0,0.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Adley Rutschman DH,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.3,0.338,0.483,0.821,14.0,10.0,0.242,0.83,0.276,-0.034,0.16%,0.92,1.7,0.0,0.0,HR
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.271,0.309,0.459,0.768,14.0,12.0,-0.002,0.43,0.028,-0.029,-0.00%,0.47,-0.3,3.0,0.0,2B
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.264,0.361,0.589,0.95,21.0,12.0,-0.027,0.73,0.012,-0.038,-0.02%,0.81,-0.4,1.0,2.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Anthony Santander RF,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.201,0.284,0.425,0.708,22.0,14.0,-0.072,0.89,0.01,-0.083,-0.05%,0.98,-0.4,3.0,0.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Cedric Mullins PR-CF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.193,0.241,0.333,0.574,,,0.019,0.37,0.019,0.0,0.01%,0.41,0.4,0.0,0.0,SB
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Austin Hays LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.169,0.231,0.211,0.442,17.0,12.0,-0.061,0.62,0.0,-0.061,-0.04%,0.69,-0.8,1.0,0.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Jorge Mateo 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.247,0.302,0.464,0.766,14.0,7.0,-0.022,0.66,0.024,-0.046,-0.01%,0.73,0.3,1.0,1.0,"2B,SB"
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,James McCann C,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.203,0.2,0.304,0.504,21.0,13.0,-0.044,0.65,0.011,-0.055,-0.03%,0.72,-0.6,14.0,0.0,SF
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Colton Cowser CF-RF,4.0,1.0,1.0,1.0,0.0,3.0,4.0,0.248,0.341,0.475,0.817,21.0,12.0,0.012,0.62,0.063,-0.051,0.01%,0.69,0.3,3.0,0.0,HR
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Kyle Bradish P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Danny Coulombe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202405260,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202405260.shtml,BaltimoreOriolesbatting,Team Totals,32.0,4.0,6.0,4.0,3.0,16.0,36.0,0.188,0.25,0.438,0.688,158.0,103.0,0.027,0.68,0.48,-0.452,0.02%,0.76,-0.3,27.0,4.0,

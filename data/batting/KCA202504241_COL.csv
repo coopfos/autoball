@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Brenton Doyle CF,2.0,1.0,0.0,0.0,2.0,1.0,4.0,0.304,0.361,0.518,0.879,18.0,7.0,0.06,1.07,0.107,-0.047,0.01%,0.24,0.5,2.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Kyle Farmer 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.268,0.303,0.394,0.697,15.0,12.0,-0.171,1.1,0.0,-0.171,-0.02%,0.24,-1.5,2.0,0.0,GDP
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.188,0.313,0.3,0.613,15.0,8.0,-0.037,0.62,0.014,-0.051,-0.01%,0.14,-0.4,1.0,1.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.25,0.341,0.458,0.8,18.0,10.0,0.258,1.04,0.307,-0.049,0.03%,0.23,2.3,5.0,2.0,HR
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Sean Bouchard DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.211,0.318,0.342,0.66,17.0,12.0,-0.059,0.57,0.0,-0.059,-0.01%,0.13,-0.6,0.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Mickey Moniak RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.217,0.288,0.5,0.788,15.0,9.0,-0.068,0.67,0.0,-0.068,-0.01%,0.15,-0.7,4.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Michael Toglia 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.177,0.214,0.253,0.467,11.0,8.0,-0.069,0.93,0.0,-0.069,-0.01%,0.2,-0.5,3.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Jordan Beck LF,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.212,0.297,0.364,0.661,20.0,12.0,0.101,0.61,0.124,-0.022,0.01%,0.13,1.0,3.0,0.0,HR
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Aaron Schunk SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.231,0.231,0.308,0.538,9.0,6.0,-0.052,0.65,0.0,-0.052,-0.01%,0.14,-0.4,4.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Germán Márquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Jake Bird P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202504241,COL,https://www.baseball-reference.com/boxes/KCA/KCA202504241.shtml,ColoradoRockiesbatting,Team Totals,30.0,4.0,4.0,4.0,3.0,7.0,33.0,0.133,0.212,0.333,0.545,138.0,84.0,-0.037,0.82,0.552,-0.588,-0.01%,0.18,-0.4,24.0,3.0,

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202508120,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508120.shtml,ChicagoCubspitching,"Javier Assad, L (0-1)",4,8,4,4,1,2,1,9.0,21,70,48,31,6,11,7,10,4,0,31.0,,,-0.176,0.92,-0.10%,0.82,-1.9
+TOR202508120,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508120.shtml,ChicagoCubspitching,Ben Brown,4,4,1,1,1,0,1,5.89,16,55,35,26,4,5,7,8,4,0,,0.0,0.0,0.024,0.18,0.01%,0.17,1.1
+TOR202508120,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508120.shtml,ChicagoCubspitching,Team Totals,8,12,5,5,2,2,2,5.62,37,125,83,57,10,16,14,18,8,0,31.0,0.0,0.0,-0.152,0.6,-0.08%,0.54,-0.9

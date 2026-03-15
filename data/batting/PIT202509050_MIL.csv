@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.292,0.358,0.448,0.807,21.0,12.0,-0.036,1.68,0.148,-0.184,-0.01%,0.86,-0.4,3.0,2.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Isaac Collins LF,4.0,0.0,1.0,0.0,1.0,2.0,5.0,0.275,0.371,0.435,0.805,17.0,11.0,0.039,1.1,0.123,-0.084,0.01%,0.56,0.5,0.0,0.0,2B
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.202,0.275,0.336,0.611,,,,,,,,,,1.0,0.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Jackson Chourio CF-LF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.276,0.313,0.474,0.787,17.0,13.0,-0.156,1.06,0.0,-0.156,-0.05%,0.54,-1.6,0.0,0.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,William Contreras C,5.0,2.0,2.0,0.0,0.0,0.0,5.0,0.263,0.358,0.411,0.769,18.0,12.0,0.201,1.48,0.264,-0.063,0.06%,0.75,2.0,8.0,0.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.297,0.362,0.409,0.772,25.0,10.0,0.053,1.36,0.121,-0.068,0.02%,0.69,0.5,1.0,0.0,SB
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Andrew Vaughn 1B,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.24,0.288,0.398,0.686,19.0,12.0,-0.225,1.71,0.041,-0.267,-0.07%,0.87,-1.0,11.0,0.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Jake Bauers DH,5.0,1.0,2.0,2.0,0.0,2.0,5.0,0.196,0.318,0.336,0.653,24.0,15.0,0.263,1.36,0.336,-0.073,0.08%,0.69,1.0,0.0,0.0,SB
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Caleb Durbin 3B,3.0,0.0,1.0,0.0,1.0,0.0,5.0,0.26,0.334,0.398,0.732,14.0,7.0,0.114,1.05,0.129,-0.015,0.03%,0.53,0.4,0.0,5.0,"SB,HBP"
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.228,0.28,0.32,0.6,14.0,7.0,-0.109,1.57,0.03,-0.139,-0.03%,0.8,-1.0,3.0,4.0,GDP
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Quinn Priester P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Abner Uribe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewersbatting,Team Totals,38.0,5.0,10.0,3.0,5.0,8.0,44.0,0.263,0.364,0.289,0.653,169.0,99.0,0.144,1.37,1.192,-1.049,0.04%,0.69,0.3,27.0,12.0,

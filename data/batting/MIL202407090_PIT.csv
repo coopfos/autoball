@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Joshua Palacios RF,5.0,1.0,1.0,2.0,0.0,0.0,5.0,0.267,0.45,0.667,1.117,17.0,12.0,-0.069,0.56,0.002,-0.07,-0.02%,0.33,1.1,1.0,0.0,HR
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Bryan Reynolds DH,5.0,2.0,2.0,2.0,0.0,2.0,5.0,0.28,0.344,0.486,0.83,18.0,10.0,0.245,0.59,0.263,-0.017,0.09%,0.34,1.7,0.0,0.0,HR
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Rowdy Tellez 1B,4.0,2.0,2.0,1.0,1.0,1.0,5.0,0.249,0.304,0.394,0.698,15.0,7.0,0.12,0.59,0.14,-0.019,0.04%,0.34,2.1,8.0,0.0,HR
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.278,0.318,0.423,0.74,18.0,7.0,0.089,0.81,0.113,-0.024,0.03%,0.48,1.2,2.0,5.0,
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.232,0.29,0.3,0.59,21.0,14.0,0.012,0.85,0.07,-0.058,0.00%,0.5,-0.9,1.0,4.0,GDP
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Jack Suwinski LF,5.0,2.0,2.0,2.0,0.0,0.0,5.0,0.186,0.264,0.339,0.604,19.0,11.0,0.07,0.76,0.092,-0.023,0.03%,0.44,1.6,0.0,0.0,"HR,SB"
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Joey Bart C,4.0,1.0,1.0,4.0,0.0,0.0,4.0,0.241,0.33,0.468,0.798,19.0,11.0,0.009,0.96,0.084,-0.075,0.00%,0.57,1.3,12.0,0.0,HR
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Jared Triolo SS,3.0,1.0,0.0,0.0,0.0,1.0,4.0,0.203,0.279,0.276,0.554,9.0,6.0,-0.058,0.57,0.0,-0.059,-0.02%,0.34,-0.5,1.0,1.0,HBP
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Michael A. Taylor CF,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.201,0.258,0.272,0.53,17.0,10.0,0.004,0.42,0.028,-0.024,0.00%,0.24,-0.4,2.0,0.0,
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Josh Fleming P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Quinn Priester P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Dennis Santana P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407090,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202407090.shtml,PittsburghPiratesbatting,Team Totals,38.0,12.0,11.0,12.0,3.0,7.0,42.0,0.289,0.357,0.684,1.041,153.0,88.0,0.422,0.68,0.792,-0.369,0.15%,0.4,7.4,27.0,10.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Mike Tauchman RF,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.286,0.371,0.457,0.828,25.0,12.0,0.001,1.11,0.034,-0.034,0%,0.0,-0.1,5.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 1B,4.0,2.0,1.0,0.0,1.0,0.0,5.0,0.281,0.309,0.432,0.741,17.0,11.0,-0.131,1.32,0.039,-0.17,0%,0.0,-0.8,6.0,0.0,GDP
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.233,0.302,0.435,0.737,10.0,6.0,0.01,0.55,0.035,-0.026,0%,0.0,-0.2,1.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.219,0.301,0.354,0.655,11.0,6.0,0.058,1.09,0.108,-0.05,0%,0.0,1.0,3.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Colson Montgomery SS,4.0,1.0,2.0,4.0,0.0,2.0,4.0,0.256,0.304,0.547,0.851,19.0,13.0,0.202,1.01,0.24,-0.039,0%,0.0,3.2,1.0,0.0,HR
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Edgar Quero C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.278,0.346,0.374,0.721,9.0,7.0,-0.064,0.48,0.004,-0.068,0%,0.0,-1.2,9.0,0.0,GDP
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Kyle Teel DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.267,0.37,0.376,0.746,9.0,7.0,-0.076,0.74,0.0,-0.076,0%,0.0,-0.9,0.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Brooks Baldwin 3B,4.0,0.0,3.0,0.0,0.0,0.0,4.0,0.239,0.284,0.375,0.659,13.0,8.0,0.077,0.62,0.081,-0.004,0%,0.0,0.9,0.0,2.0,2B
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Chase Meidroth 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.252,0.33,0.319,0.65,,,,,,,,,,0.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Josh Rojas 2B-3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.176,0.248,0.258,0.506,8.0,8.0,-0.075,1.02,0.003,-0.079,0%,0.0,-1.5,0.0,1.0,GDP
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Sean Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Mike Vasil P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Steven Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Tyler Alexander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508030,CHW,https://www.baseball-reference.com/boxes/ANA/ANA202508030.shtml,ChicagoWhiteSoxbatting,Team Totals,34.0,5.0,10.0,5.0,4.0,4.0,38.0,0.294,0.368,0.412,0.78,121.0,78.0,0.002,0.9,0.544,-0.546,0.00%,0.0,0.5,25.0,4.0,

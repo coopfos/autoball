@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,Tomoyuki Sugano,5,5,1,0,0,3,0,3.97,20,85,54,31,8,15,9,8,5,0,58.0,,,0.142,1.18,0.01%,0.12,1.5
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,"Keegan Akin, H (14)",2,0,0,0,0,0,0,3.23,6,19,14,8,0,6,4,2,1,0,,0.0,0.0,0.155,1.02,0.01%,0.1,1.0
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,Kade Strowd,0,2,0,0,1,0,0,2.19,3,9,4,2,1,1,2,0,0,0,,0.0,0.0,-0.356,3.2,-0.02%,0.31,-1.8
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,"Rico Garcia, H (2)",1,0,0,0,0,3,0,3.32,3,12,9,2,5,2,0,0,0,0,,3.0,0.0,0.444,5.8,0.03%,0.56,2.3
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,"Yaramil Hiraldo, BS (1)",1,1,2,2,4,2,1,4.76,8,34,12,2,7,3,1,1,1,0,,0.0,0.0,-0.409,2.97,-0.02%,0.29,-1.5
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,"Yennier Cano, W (2-6)",1,0,0,0,1,0,0,5.4,4,12,6,5,1,0,2,0,0,0,,0.0,0.0,0.31,4.18,0.02%,0.41,1.1
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,"Corbin Martin, S (2)",1,0,0,0,0,0,0,6.17,3,10,5,3,0,2,1,2,0,0,,0.0,0.0,0.444,5.38,0.03%,0.52,1.1
+BOS202508190,BAL,https://www.baseball-reference.com/boxes/BOS/BOS202508190.shtml,BaltimoreOriolespitching,Team Totals,11,8,3,2,6,8,1,1.64,47,181,104,53,22,29,19,13,7,0,58.0,3.0,0.0,0.73,2.38,0.04%,0.23,3.7

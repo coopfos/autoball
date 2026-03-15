@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigerspitching,"Tarik Skubal, W (11-3)",7.0,5,3,3,0,10,1,2.18,26,98,73,43,18,12,7,9,2,0,65.0,,,0.269,0.92,0.20%,1.15,0.8
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigerspitching,Will Vest,0.2,3,2,2,0,2,1,2.85,5,19,14,10,3,1,0,3,2,0,,0.0,0.0,-0.077,0.75,-0.06%,0.94,-1.7
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigerspitching,"Kyle Finnegan, S (21)",1.1,0,0,0,0,1,0,4.24,4,18,11,6,2,3,2,1,0,0,,1.0,0.0,0.144,1.33,0.11%,1.67,0.8
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigerspitching,Team Totals,9.0,8,5,5,0,13,2,5.0,35,135,98,59,23,16,9,13,4,0,65.0,1.0,0.0,0.336,0.94,0.25%,1.18,-0.2

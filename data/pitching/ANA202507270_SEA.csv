@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202507270,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202507270.shtml,SeattleMarinerspitching,"Logan Gilbert, L (3-4)",5,3,4,4,3,7,1,3.36,22,88,53,26,11,16,6,5,1,0,49.0,,,-0.138,1.02,-0.12%,1.5,-1.5
+ANA202507270,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202507270.shtml,SeattleMarinerspitching,Casey Legumina,2,0,0,0,0,2,0,5.31,6,30,20,12,4,4,1,3,0,0,,0.0,0.0,0.023,0.14,0.02%,0.21,1.0
+ANA202507270,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202507270.shtml,SeattleMarinerspitching,Jackson Kowar,1,1,0,0,1,0,0,1.86,4,17,8,6,0,2,3,0,0,0,,0.0,0.0,0.007,0.15,0.01%,0.22,0.5
+ANA202507270,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202507270.shtml,SeattleMarinerspitching,Team Totals,8,4,4,4,4,9,1,4.5,32,135,81,44,15,22,10,8,1,0,49.0,0.0,0.0,-0.108,0.76,-0.10%,1.13,0.1

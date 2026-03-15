@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202504080,DET,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,DetroitTigerspitching,"Tarik Skubal, W (1-2)",6,4,0,0,0,6,0,3.78,22,87,58,34,10,14,6,10,3,0,70.0,,,0.274,0.83,0.19%,0.94,3.0
+DET202504080,DET,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,DetroitTigerspitching,"Brant Hurter, S (2)",3,2,0,0,1,3,0,3.68,11,40,26,9,9,8,4,3,1,0,,0.0,0.0,0.035,0.23,0.02%,0.26,1.5
+DET202504080,DET,https://www.baseball-reference.com/boxes/DET/DET202504080.shtml,DetroitTigerspitching,Team Totals,9,6,0,0,1,9,0,0.0,33,127,84,43,19,22,10,13,4,0,70.0,0.0,0.0,0.309,0.63,0.21%,0.71,4.6

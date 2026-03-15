@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202506240,PHI,https://www.baseball-reference.com/boxes/HOU/HOU202506240.shtml,PhiladelphiaPhilliespitching,"Ranger Suárez, L (6-2)",7.2,4,1,1,2,7,1,2.08,27,101,67,40,9,18,8,10,3,0,72.0,,,0.209,1.16,0.17%,1.56,2.9
+HOU202506240,PHI,https://www.baseball-reference.com/boxes/HOU/HOU202506240.shtml,PhiladelphiaPhilliespitching,Orion Kerkering,0.1,1,0,0,0,1,0,2.35,2,5,4,2,0,2,0,1,0,0,,0.0,0.0,0.008,0.55,0.01%,0.74,0.1
+HOU202506240,PHI,https://www.baseball-reference.com/boxes/HOU/HOU202506240.shtml,PhiladelphiaPhilliespitching,Team Totals,8.0,5,1,1,2,8,1,1.12,29,106,71,42,9,20,8,11,3,0,72.0,0.0,0.0,0.217,1.12,0.18%,1.5,3.1

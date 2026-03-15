@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202506230,WSN,https://www.baseball-reference.com/boxes/SDN/SDN202506230.shtml,WashingtonNationalspitching,"Mitchell Parker, W (5-8)",6.0,6,3,3,2,1,2,4.59,26,96,64,38,5,21,9,14,6,0,47.0,,,0.104,0.76,0.00%,0.05,0.0
+SDN202506230,WSN,https://www.baseball-reference.com/boxes/SDN/SDN202506230.shtml,WashingtonNationalspitching,"Brad Lord, H (6)",2.0,0,0,0,0,1,0,3.48,6,23,16,10,1,5,1,4,0,0,,0.0,0.0,0.063,0.41,0.00%,0.03,1.0
+SDN202506230,WSN,https://www.baseball-reference.com/boxes/SDN/SDN202506230.shtml,WashingtonNationalspitching,Zach Brzykcy,0.2,3,3,3,1,1,1,5.79,6,33,20,15,2,3,1,3,2,0,,0.0,0.0,-0.004,0.09,0.00%,0.01,-2.7
+SDN202506230,WSN,https://www.baseball-reference.com/boxes/SDN/SDN202506230.shtml,WashingtonNationalspitching,Kyle Finnegan,0.1,0,0,0,0,0,0,2.93,1,3,3,2,1,0,0,1,0,0,,1.0,0.0,0.005,0.21,0.00%,0.01,0.2
+SDN202506230,WSN,https://www.baseball-reference.com/boxes/SDN/SDN202506230.shtml,WashingtonNationalspitching,Team Totals,9.0,9,6,6,3,3,3,6.0,39,155,103,65,9,29,11,22,8,0,47.0,1.0,0.0,0.168,0.59,0.01%,0.04,-1.4

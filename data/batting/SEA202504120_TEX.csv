@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Marcus Semien 2B,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.123,0.194,0.193,0.387,12.0,7.0,0.006,0.53,0.037,-0.031,0.00%,0.63,-0.1,1.0,3.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Dustin Harris LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Corey Seager SS,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.229,0.288,0.417,0.705,15.0,10.0,0.078,0.73,0.091,-0.014,0.06%,0.87,0.7,3.0,3.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Kevin Pillar RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.313,0.313,0.375,0.688,,,,,,,,,,0.0,0.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Josh Smith LF-2B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.353,0.45,0.529,0.979,10.0,7.0,0.056,0.93,0.095,-0.039,0.04%,1.11,0.7,1.0,0.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Adolis García RF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.229,0.327,0.438,0.765,15.0,11.0,0.086,0.86,0.1,-0.014,0.06%,1.02,0.8,0.0,0.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Ezequiel Duran SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Joc Pederson DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.077,0.2,0.103,0.303,17.0,12.0,-0.148,1.05,0.0,-0.148,-0.11%,1.25,-1.9,0.0,0.0,GDP
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Josh Jung 3B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.478,0.478,0.826,1.304,10.0,8.0,-0.033,0.84,0.037,-0.071,-0.02%,1.0,-0.1,1.0,2.0,2B
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Jake Burger 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.14,0.173,0.28,0.453,15.0,9.0,-0.096,1.16,0.0,-0.096,-0.07%,1.39,-0.3,7.0,1.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Jonah Heim C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.27,0.27,0.514,0.784,17.0,11.0,-0.059,0.58,0.0,-0.059,-0.04%,0.69,-1.2,7.0,0.0,GDP
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Leody Taveras CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.22,0.238,0.268,0.506,15.0,9.0,-0.043,0.55,0.0,-0.043,-0.03%,0.66,-0.5,3.0,1.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Kumar Rocker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Caleb Boushley P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Shawn Armstrong P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504120,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202504120.shtml,TexasRangersbatting,Team Totals,34.0,2.0,9.0,2.0,1.0,7.0,35.0,0.265,0.286,0.294,0.58,126.0,84.0,-0.153,0.81,0.36,-0.515,-0.11%,0.97,-1.9,24.0,11.0,

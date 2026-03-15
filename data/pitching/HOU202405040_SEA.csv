@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202405040,SEA,https://www.baseball-reference.com/boxes/HOU/HOU202405040.shtml,SeattleMarinerspitching,"Logan Gilbert, W (3-0)",8,2,0,0,4,6,0,1.69,27,96,60,36,13,11,9,8,1,0,80.0,,,0.324,0.68,0.21%,0.73,3.8
+HOU202405040,SEA,https://www.baseball-reference.com/boxes/HOU/HOU202405040.shtml,SeattleMarinerspitching,Tayler Saucedo,1,1,0,0,0,1,0,2.25,4,10,7,5,2,0,2,1,1,0,,0.0,0.0,0.007,0.09,0.01%,0.09,0.5
+HOU202405040,SEA,https://www.baseball-reference.com/boxes/HOU/HOU202405040.shtml,SeattleMarinerspitching,Team Totals,9,3,0,0,4,7,0,0.0,31,106,67,41,15,11,11,9,2,0,80.0,0.0,0.0,0.331,0.6,0.21%,0.65,4.3

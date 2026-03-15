@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Jose Altuve LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.274,0.31,0.377,0.687,18.0,11.0,-0.061,1.33,0.043,-0.104,-0.04%,1.35,-0.4,1.0,0.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Yordan Alvarez DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.2,0.298,0.306,0.604,13.0,10.0,-0.123,1.29,0.0,-0.123,-0.07%,1.3,-1.0,0.0,0.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Isaac Paredes 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.255,0.348,0.408,0.756,11.0,9.0,0.005,0.92,0.065,-0.06,0.00%,0.93,-0.1,0.0,3.0,2B
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Jeremy Peña SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.247,0.324,0.376,0.7,13.0,7.0,0.035,1.31,0.088,-0.053,0.02%,1.32,0.1,0.0,2.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Christian Walker 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.198,0.284,0.341,0.625,19.0,12.0,-0.117,1.78,0.044,-0.161,-0.07%,1.8,-0.7,10.0,0.0,2B
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Yainer Diaz C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.165,0.195,0.266,0.461,9.0,5.0,-0.146,1.4,0.0,-0.146,-0.09%,1.42,-1.1,6.0,0.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Zach Dezenzo RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.276,0.323,0.345,0.667,20.0,13.0,-0.039,1.19,0.052,-0.091,-0.02%,1.2,-0.3,2.0,0.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Jake Meyers CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.247,0.291,0.301,0.593,10.0,8.0,-0.097,1.35,0.0,-0.097,-0.06%,1.36,-0.7,4.0,0.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Victor Caratini PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.242,0.324,0.303,0.627,3.0,3.0,-0.011,0.43,0.0,-0.011,-0.01%,0.44,-0.1,0.0,0.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Mauricio Dubón 2B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.2,0.263,0.257,0.52,8.0,6.0,-0.011,0.98,0.03,-0.04,-0.01%,0.99,-0.0,1.0,1.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Framber Valdez P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+KCA202504260,HOU,https://www.baseball-reference.com/boxes/KCA/KCA202504260.shtml,HoustonAstrosbatting,Team Totals,33.0,0.0,6.0,0.0,2.0,8.0,35.0,0.182,0.229,0.242,0.471,124.0,84.0,-0.565,1.27,0.322,-0.886,-0.34%,1.28,-4.4,24.0,8.0,

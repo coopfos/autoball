@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202405100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405100.shtml,LosAngelesAngelspitching,Griffin Canning,5.2,3,0,0,2,3,0,5.75,22,90,56,37,8,11,4,13,6,0,64.0,,,0.288,1.06,0.07%,0.46,2.5
+ANA202405100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405100.shtml,LosAngelesAngelspitching,"Adam Cimber, H (3)",0.1,0,0,0,0,1,0,2.65,1,5,4,2,1,1,0,0,0,0,,2.0,0.0,0.07,2.74,0.02%,1.17,0.4
+ANA202405100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405100.shtml,LosAngelesAngelspitching,"Matt Moore, H (8)",1.0,1,0,0,1,1,0,4.3,5,16,10,4,2,4,0,3,1,0,,0.0,0.0,0.095,2.21,0.03%,0.95,0.5
+ANA202405100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405100.shtml,LosAngelesAngelspitching,"Luis García, H (5)",1.0,0,0,0,0,1,0,4.6,3,10,7,4,1,2,0,2,0,0,,0.0,0.0,0.12,1.59,0.03%,0.68,0.5
+ANA202405100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405100.shtml,LosAngelesAngelspitching,"Carlos Estévez, BS (3), L (0-2)",1.0,3,2,2,0,1,1,6.17,6,21,13,7,0,6,0,5,2,0,,0.0,0.0,-0.641,1.77,-0.17%,0.76,-1.5
+ANA202405100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405100.shtml,LosAngelesAngelspitching,Team Totals,9.0,7,2,2,3,7,1,2.0,37,142,90,54,12,24,4,23,9,0,64.0,2.0,0.0,-0.068,1.44,-0.02%,0.62,2.4

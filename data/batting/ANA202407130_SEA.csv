@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,J.P. Crawford SS,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.209,0.306,0.35,0.656,22.0,15.0,-0.134,1.78,0.036,-0.17,-0.10%,2.16,-0.8,0.0,4.0,
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Cal Raleigh DH,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.219,0.302,0.441,0.743,11.0,11.0,-0.052,1.74,0.089,-0.141,-0.04%,2.11,0.0,0.0,0.0,
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Julio Rodríguez CF,3.0,0.0,2.0,1.0,0.0,1.0,4.0,0.267,0.317,0.372,0.689,8.0,6.0,0.051,1.5,0.115,-0.064,0.04%,1.82,0.8,0.0,0.0,HBP
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Mitch Garver C,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.177,0.293,0.361,0.654,18.0,7.0,-0.029,2.08,0.072,-0.101,-0.02%,2.52,-0.2,8.0,0.0,
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Luke Raley RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.241,0.295,0.42,0.716,16.0,11.0,-0.307,2.72,0.0,-0.307,-0.22%,3.3,-2.6,1.0,0.0,GDP
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Ty France 1B,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.229,0.319,0.36,0.679,8.0,6.0,-0.017,1.11,0.06,-0.076,-0.01%,1.34,-0.2,13.0,0.0,HBP
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Jorge Polanco 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.196,0.285,0.282,0.567,11.0,9.0,-0.229,1.67,0.0,-0.229,-0.17%,2.02,-1.3,1.0,3.0,GDP
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Josh Rojas 3B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.245,0.322,0.358,0.681,13.0,7.0,-0.092,0.89,0.011,-0.103,-0.07%,1.08,-0.5,0.0,6.0,CS
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Víctor Robles LF,4.0,0.0,3.0,0.0,0.0,1.0,4.0,0.259,0.359,0.389,0.748,16.0,12.0,0.177,1.36,0.213,-0.036,0.13%,1.65,1.3,0.0,0.0,2B
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,George Kirby P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Austin Voth P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Collin Snider P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ANA202407130,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202407130.shtml,SeattleMarinersbatting,Team Totals,30.0,1.0,6.0,1.0,4.0,10.0,36.0,0.2,0.333,0.233,0.567,123.0,84.0,-0.632,1.63,0.596,-1.227,-0.46%,1.98,-3.4,24.0,14.0,

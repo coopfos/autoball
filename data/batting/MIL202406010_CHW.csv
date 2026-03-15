@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Tommy Pham CF-LF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.287,0.333,0.411,0.744,20.0,12.0,-0.172,1.32,0.0,-0.172,-0.00%,0.01,-1.3,2.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Korey Lee C,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.262,0.295,0.405,0.7,22.0,16.0,-0.184,1.36,0.0,-0.184,0%,0.01,-1.1,13.0,1.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Corey Julks RF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.317,0.404,0.488,0.892,16.0,12.0,-0.005,0.92,0.053,-0.058,0%,0.01,0.2,0.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Paul DeJong DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.228,0.278,0.425,0.703,10.0,7.0,-0.119,1.19,0.0,-0.119,0%,0.01,-1.0,0.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.237,0.345,0.42,0.765,27.0,19.0,0.149,0.94,0.209,-0.06,0%,0.0,1.2,5.0,0.0,HR
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 3B,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.167,0.205,0.214,0.419,12.0,5.0,0.077,0.94,0.101,-0.024,0%,0.0,0.4,1.0,0.0,HBP
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.195,0.23,0.284,0.514,4.0,4.0,0.112,0.99,0.112,0.0,0%,0.0,1.0,1.0,0.0,HR
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher CF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.178,0.25,0.233,0.483,8.0,7.0,-0.095,1.57,0.01,-0.105,0%,0.01,-0.5,2.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Danny Mendick 2B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.218,0.256,0.372,0.628,12.0,10.0,-0.099,1.21,0.06,-0.159,0%,0.0,-0.1,2.0,1.0,"SB,GDP"
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Zach Remillard SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.242,0.342,0.333,0.675,13.0,9.0,-0.189,1.82,0.0,-0.189,-0.00%,0.01,-1.5,1.0,2.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Garrett Crochet P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Justin Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Jordan Leasure P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406010,CHW,https://www.baseball-reference.com/boxes/MIL/MIL202406010.shtml,ChicagoWhiteSoxbatting,Team Totals,37.0,3.0,8.0,3.0,0.0,9.0,38.0,0.216,0.237,0.378,0.615,144.0,101.0,-0.525,1.24,0.545,-1.07,-0.00%,0.01,-2.8,27.0,4.0,

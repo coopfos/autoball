@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.253,0.313,0.299,0.611,18.0,12.0,-0.037,0.29,0.0,-0.037,-0.00%,0.02,-1.0,0.0,1.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.241,0.319,0.353,0.672,16.0,11.0,-0.007,0.24,0.01,-0.018,0%,0.01,0.1,13.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Taylor Ward LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.235,0.32,0.413,0.733,17.0,8.0,-0.012,0.34,0.012,-0.024,0%,0.02,-0.6,1.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Kevin Pillar RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.267,0.331,0.466,0.797,15.0,11.0,-0.042,0.39,0.0,-0.042,-0.00%,0.02,-0.8,1.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Logan O'Hoppe DH,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.283,0.337,0.489,0.826,8.0,4.0,-0.023,0.59,0.045,-0.069,-0.00%,0.03,-0.3,0.0,0.0,"CS,HBP"
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,2.0,3.0,0.0,0.0,2.0,1.0,4.0,0.174,0.248,0.225,0.473,19.0,8.0,0.012,0.36,0.029,-0.017,0%,0.02,-0.0,2.0,4.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Matt Thaiss C,2.0,1.0,1.0,0.0,2.0,1.0,4.0,0.243,0.354,0.371,0.725,20.0,10.0,0.048,0.46,0.052,-0.004,0.00%,0.03,0.6,7.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,2.0,3.0,3.0,0.0,1.0,4.0,0.25,0.297,0.432,0.729,16.0,12.0,0.144,0.78,0.153,-0.009,0.01%,0.04,3.1,2.0,7.0,"HR,2B"
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.198,0.245,0.322,0.566,11.0,8.0,0.172,0.54,0.184,-0.012,0.01%,0.03,2.0,1.0,0.0,HR
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Griffin Canning P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Hans Crouse P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Hunter Strickland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,José Marte P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Carlos Estévez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407100,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,LosAngelesAngelsbatting,Team Totals,30.0,7.0,8.0,6.0,6.0,8.0,37.0,0.267,0.405,0.5,0.905,140.0,84.0,0.255,0.44,0.485,-0.232,0.01%,0.02,3.0,27.0,13.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,2.0,2.0,1.0,1.0,2.0,1.0,5.0,0.296,0.361,0.408,0.769,22.0,9.0,0.001,0.52,0.023,-0.022,0%,0.19,0.5,2.0,0.0,"2B,SF"
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Jackson Chourio LF,4.0,2.0,1.0,1.0,1.0,1.0,5.0,0.28,0.319,0.482,0.801,16.0,9.0,0.002,0.59,0.046,-0.045,0%,0.22,0.5,1.0,0.0,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,5.0,1.0,3.0,3.0,0.0,0.0,5.0,0.267,0.346,0.467,0.813,23.0,13.0,0.118,0.59,0.188,-0.07,0.03%,0.22,2.5,0.0,0.0,"HR,2B,CS"
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,1.0,2.0,2.0,1.0,0.0,5.0,0.265,0.359,0.407,0.766,13.0,7.0,0.023,0.23,0.03,-0.007,0.01%,0.08,1.5,14.0,0.0,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.286,0.353,0.439,0.792,22.0,12.0,0.008,0.37,0.033,-0.026,0.00%,0.13,-0.5,3.0,1.0,2B
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Andrew Vaughn 1B,5.0,0.0,2.0,1.0,0.0,1.0,5.0,0.253,0.301,0.41,0.711,22.0,15.0,-0.002,0.54,0.052,-0.055,-0.00%,0.2,0.1,4.0,0.0,2B
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Caleb Durbin 3B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.264,0.338,0.403,0.742,21.0,15.0,0.117,0.72,0.125,-0.008,0.03%,0.26,1.1,0.0,2.0,SB
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.217,0.294,0.341,0.635,13.0,7.0,0.042,0.67,0.068,-0.026,0.01%,0.25,0.6,3.0,0.0,SB
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.227,0.276,0.314,0.59,14.0,9.0,-0.06,0.45,0.0,-0.06,-0.01%,0.16,-1.4,0.0,0.0,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Freddy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Grant Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Chad Patrick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202509160,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202509160.shtml,MilwaukeeBrewersbatting,Team Totals,35.0,9.0,13.0,9.0,6.0,7.0,42.0,0.371,0.452,0.571,1.024,166.0,96.0,0.249,0.52,0.565,-0.319,0.05%,0.19,4.9,27.0,4.0,

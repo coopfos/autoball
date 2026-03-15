@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Xavier Edwards SS,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.275,0.343,0.317,0.66,16.0,12.0,0.07,0.42,0.09,-0.021,0.03%,0.29,0.3,2.0,1.0,3B
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Agustín Ramírez C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.333,0.379,0.815,1.194,15.0,8.0,-0.057,0.39,0.0,-0.057,-0.02%,0.27,-0.9,5.0,0.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Dane Myers CF,3.0,0.0,3.0,1.0,1.0,0.0,4.0,0.351,0.373,0.491,0.864,16.0,10.0,0.089,0.56,0.089,0.0,0.04%,0.39,1.4,3.0,0.0,SB
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Eric Wagaman 1B-LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.247,0.3,0.409,0.709,12.0,10.0,-0.049,0.47,0.0,-0.049,-0.02%,0.33,-1.2,5.0,2.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Connor Norby 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.263,0.317,0.421,0.738,11.0,8.0,-0.04,0.37,0.0,-0.04,-0.02%,0.26,-1.1,0.0,1.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Otto Lopez 2B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.236,0.296,0.34,0.635,13.0,10.0,-0.03,0.29,0.0,-0.03,-0.01%,0.2,0.1,2.0,3.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.2,0.321,0.311,0.632,21.0,14.0,-0.024,0.24,0.0,-0.024,-0.01%,0.16,-0.2,0.0,0.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Ronny Simon DH,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.214,0.267,0.286,0.552,17.0,11.0,-0.014,0.19,0.001,-0.014,-0.01%,0.14,0.6,0.0,0.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Graham Pauley 1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.23,0.262,0.311,0.573,3.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,-0.3,2.0,1.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Javier Sanoja LF-P,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.314,0.333,0.392,0.725,16.0,11.0,-0.024,0.24,0.0,-0.024,-0.01%,0.16,-1.2,3.0,1.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Sandy Alcantara P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Tyler Phillips P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+LAN202504290,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504290.shtml,MiamiMarlinsbatting,Team Totals,35.0,2.0,9.0,2.0,1.0,7.0,36.0,0.257,0.278,0.314,0.592,140.0,95.0,-0.079,0.35,0.18,-0.259,-0.03%,0.25,-2.4,24.0,10.0,

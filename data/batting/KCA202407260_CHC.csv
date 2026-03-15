@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.254,0.332,0.347,0.679,16.0,11.0,-0.055,0.55,0.0,-0.055,-0.01%,0.14,-0.9,3.0,0.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Michael Busch 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.262,0.349,0.448,0.797,23.0,15.0,-0.039,0.39,0.0,-0.039,-0.01%,0.1,-0.7,7.0,0.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Seiya Suzuki RF,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.268,0.338,0.477,0.815,18.0,8.0,0.028,0.43,0.038,-0.01,0.01%,0.12,0.9,1.0,0.0,2B
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Ian Happ LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.235,0.342,0.444,0.786,17.0,9.0,-0.048,0.71,0.018,-0.066,-0.01%,0.19,-0.3,3.0,0.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Mike Tauchman DH,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.243,0.342,0.354,0.696,12.0,10.0,0.013,0.65,0.047,-0.034,0.00%,0.18,-0.7,0.0,0.0,HBP
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Dansby Swanson SS,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.218,0.288,0.345,0.634,11.0,8.0,0.105,0.95,0.135,-0.031,0.02%,0.26,0.1,2.0,0.0,GDP
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Miles Mastrobuoni 3B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.2,0.255,0.233,0.488,6.0,3.0,-0.092,1.39,0.0,-0.092,-0.01%,0.38,-0.8,0.0,2.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Patrick Wisdom PH-3B,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.202,0.283,0.394,0.677,7.0,4.0,0.007,0.16,0.007,0.0,0.00%,0.04,0.4,0.0,0.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Miguel Amaya C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.219,0.286,0.301,0.587,13.0,8.0,-0.207,1.01,0.0,-0.207,-0.03%,0.27,-1.9,5.0,0.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.18,0.23,0.292,0.523,11.0,7.0,-0.023,0.29,0.0,-0.023,-0.00%,0.08,-0.6,3.0,0.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Kyle Hendricks P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Jorge López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+KCA202407260,CHC,https://www.baseball-reference.com/boxes/KCA/KCA202407260.shtml,ChicagoCubsbatting,Team Totals,29.0,0.0,4.0,0.0,2.0,5.0,32.0,0.138,0.219,0.172,0.391,134.0,83.0,-0.311,0.64,0.245,-0.557,-0.05%,0.17,-4.5,24.0,5.0,

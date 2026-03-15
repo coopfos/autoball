@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.247,0.316,0.432,0.748,14.0,10.0,-0.017,0.73,0.031,-0.048,-0.01%,1.11,-0.4,4.0,4.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Juan Soto RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.249,0.381,0.488,0.868,10.0,8.0,-0.005,1.16,0.101,-0.107,-0.01%,1.76,0.4,1.0,0.0,HR
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.262,0.349,0.502,0.852,12.0,9.0,-0.121,1.2,0.0,-0.121,-0.11%,1.82,-0.7,7.0,1.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Brandon Nimmo LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.252,0.323,0.438,0.761,19.0,10.0,-0.051,0.96,0.027,-0.079,-0.05%,1.46,0.0,0.0,0.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Starling Marte DH,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.274,0.35,0.411,0.761,11.0,11.0,0.103,1.26,0.172,-0.069,0.09%,1.93,0.6,0.0,0.0,"HR,2B"
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.253,0.349,0.435,0.784,8.0,7.0,-0.132,1.7,0.027,-0.159,-0.12%,2.58,-0.3,2.0,5.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Francisco Alvarez C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.242,0.337,0.366,0.703,12.0,5.0,-0.069,0.92,0.019,-0.088,-0.06%,1.4,-0.7,7.0,0.0,GDP
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Ronny Mauricio 3B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.227,0.297,0.409,0.706,9.0,7.0,-0.093,1.25,0.0,-0.093,-0.08%,1.89,-0.8,1.0,2.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Cedric Mullins CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.221,0.301,0.414,0.715,12.0,10.0,-0.069,0.9,0.0,-0.069,-0.06%,1.37,-0.5,1.0,0.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Kodai Senga P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Brooks Raley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Ryne Stanek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508080,NYM,https://www.baseball-reference.com/boxes/MIL/MIL202508080.shtml,NewYorkMetsbatting,Team Totals,30.0,2.0,5.0,2.0,3.0,10.0,33.0,0.167,0.242,0.4,0.642,107.0,77.0,-0.454,1.13,0.377,-0.833,-0.41%,1.72,-2.4,24.0,12.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Jarren Duran LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.264,0.313,0.405,0.717,13.0,8.0,-0.091,1.43,0.04,-0.131,-0.05%,1.43,-0.8,0.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Rafael Devers DH,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.246,0.37,0.43,0.8,25.0,14.0,-0.127,1.89,0.024,-0.152,-0.08%,1.88,-0.8,0.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Alex Bregman 3B,4.0,2.0,3.0,3.0,0.0,0.0,4.0,0.327,0.401,0.612,1.013,13.0,8.0,0.446,1.72,0.497,-0.051,0.27%,1.71,2.7,0.0,0.0,"HR,2B,GDP"
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Kristian Campbell 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.287,0.385,0.461,0.846,8.0,6.0,0.052,1.07,0.109,-0.057,0.03%,1.07,0.1,1.0,4.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Wilyer Abreu RF,4.0,2.0,3.0,3.0,0.0,0.0,4.0,0.294,0.4,0.58,0.98,23.0,16.0,0.146,1.0,0.17,-0.024,0.09%,1.0,1.7,5.0,0.0,"2·HR,2B"
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Trevor Story SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.252,0.291,0.371,0.662,19.0,13.0,-0.072,0.72,0.0,-0.072,-0.04%,0.72,-0.8,0.0,3.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Romy Gonzalez 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.308,0.362,0.423,0.785,11.0,9.0,-0.052,1.54,0.044,-0.096,-0.03%,1.54,-0.2,7.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Abraham Toro 1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0.2,0.2,0.4,2.0,1.0,-0.002,0.09,0.0,-0.002,-0.00%,0.09,-0.2,2.0,1.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Connor Wong C,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.147,0.237,0.147,0.384,12.0,9.0,-0.011,1.07,0.056,-0.067,-0.01%,1.07,-0.3,5.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,3.0,1.0,2.0,0.0,0.0,0.0,3.0,0.225,0.281,0.324,0.605,12.0,8.0,0.065,1.46,0.1,-0.035,0.04%,1.45,0.4,5.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Tanner Houck P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Justin Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Brennan Bernardino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Greg Weissert P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Aroldis Chapman P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BOS202505070,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505070.shtml,BostonRedSoxbatting,Team Totals,34.0,6.0,11.0,6.0,1.0,1.0,35.0,0.324,0.343,0.647,0.99,138.0,92.0,0.354,1.28,1.04,-0.687,0.21%,1.27,1.8,27.0,9.0,

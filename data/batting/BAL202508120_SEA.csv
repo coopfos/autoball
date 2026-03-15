@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Randy Arozarena LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.25,0.351,0.466,0.817,14.0,11.0,0.004,0.79,0.052,-0.048,0.00%,1.22,-0.0,0.0,0.0,SB
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Cal Raleigh C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.245,0.351,0.587,0.939,15.0,9.0,-0.067,0.7,0.0,-0.067,-0.06%,1.08,-0.7,10.0,0.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Julio Rodríguez CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.256,0.312,0.447,0.759,22.0,12.0,-0.072,0.97,0.044,-0.116,-0.07%,1.5,-0.7,2.0,0.0,CS
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Josh Naylor 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.291,0.359,0.462,0.821,22.0,15.0,0.043,0.78,0.093,-0.051,0.04%,1.2,0.4,9.0,1.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Eugenio Suárez 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.234,0.304,0.54,0.843,10.0,6.0,-0.043,0.54,0.0,-0.043,-0.04%,0.84,-0.4,0.0,1.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Jorge Polanco DH,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.251,0.318,0.451,0.77,7.0,6.0,-0.012,0.88,0.033,-0.045,-0.01%,1.35,-0.1,0.0,0.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Dominic Canzone RF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.28,0.333,0.457,0.791,7.0,6.0,-0.021,0.89,0.026,-0.047,-0.02%,1.37,-0.3,3.0,0.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,J.P. Crawford SS,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.263,0.357,0.365,0.722,17.0,10.0,-0.089,0.93,0.012,-0.101,-0.08%,1.43,-0.9,2.0,2.0,2·GDP
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Cole Young 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.248,0.335,0.345,0.681,10.0,8.0,-0.069,0.89,0.0,-0.069,-0.06%,1.37,-0.7,0.0,4.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,George Kirby P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Eduard Bazardo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Gabe Speier P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202508120,SEA,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,SeattleMarinersbatting,Team Totals,30.0,1.0,6.0,1.0,1.0,6.0,31.0,0.2,0.226,0.2,0.426,124.0,83.0,-0.326,0.82,0.26,-0.587,-0.30%,1.27,-3.3,27.0,9.0,

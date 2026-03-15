@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Lawrence Butler CF,3.0,1.0,0.0,0.0,2.0,2.0,5.0,0.231,0.305,0.403,0.708,25.0,13.0,-0.019,0.61,0.036,-0.055,0%,0.01,-0.3,3.0,0.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Shea Langeliers C,4.0,2.0,3.0,3.0,1.0,1.0,5.0,0.274,0.323,0.546,0.869,18.0,11.0,0.204,0.58,0.21,-0.006,0.00%,0.0,3.3,9.0,0.0,"HR,2B"
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Nick Kurtz 1B,5.0,2.0,2.0,0.0,0.0,2.0,5.0,0.309,0.389,0.635,1.024,27.0,18.0,0.066,0.59,0.085,-0.019,0%,0.0,-0.1,7.0,1.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Brent Rooker DH,5.0,1.0,2.0,4.0,0.0,1.0,5.0,0.274,0.346,0.5,0.846,16.0,12.0,0.244,0.68,0.288,-0.044,0.00%,0.01,1.8,0.0,0.0,"HR,2B"
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Tyler Soderstrom LF,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.26,0.332,0.464,0.796,20.0,13.0,0.037,0.28,0.048,-0.011,0%,0.0,-0.0,4.0,0.0,2B
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,JJ Bleday RF,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.222,0.31,0.409,0.719,20.0,12.0,0.036,0.41,0.044,-0.008,0%,0.0,0.5,3.0,0.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Darell Hernaiz SS,4.0,1.0,1.0,1.0,0.0,1.0,5.0,0.286,0.341,0.514,0.856,23.0,15.0,-0.009,0.61,0.029,-0.037,0%,0.0,0.2,0.0,1.0,SF
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Luis Urías 2B,4.0,1.0,1.0,1.0,1.0,0.0,5.0,0.24,0.325,0.356,0.68,26.0,14.0,0.075,0.42,0.081,-0.007,0%,0.0,0.7,0.0,3.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Gio Urshela 3B,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.234,0.286,0.327,0.614,9.0,7.0,-0.024,0.77,0.037,-0.062,0%,0.01,1.0,0.0,1.0,2B
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Max Schuemann 3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.214,0.311,0.31,0.622,8.0,5.0,0.0,0.0,0.0,0.0,0%,0.0,-0.4,0.0,0.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Jack Perkins P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Michael Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Hogan Harris P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508090,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508090.shtml,Athleticsbatting,Team Totals,39.0,11.0,13.0,11.0,5.0,9.0,45.0,0.333,0.4,0.59,0.99,192.0,120.0,0.61,0.54,0.858,-0.249,0.00%,0.0,6.7,27.0,6.0,

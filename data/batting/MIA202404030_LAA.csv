@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.3,0.3,0.5,0.8,10.0,9.0,0.035,0.58,0.057,-0.023,0.02%,0.58,0.3,0.0,1.0,2B
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,1.0,0.0,0.0,1.0,0.0,0.0,3.0,0.125,0.348,0.313,0.66,6.0,4.0,-0.006,0.1,0.001,-0.008,-0.00%,0.1,0.1,7.0,0.0,"HBP,SF"
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Aaron Hicks RF,4.0,1.0,1.0,0.0,2.0,1.0,6.0,0.167,0.286,0.333,0.619,22.0,11.0,0.002,0.43,0.046,-0.044,0.00%,0.43,-1.2,1.0,0.0,GDP
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Mike Trout DH,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.273,0.333,0.682,1.015,26.0,13.0,0.008,0.69,0.057,-0.048,0.01%,0.68,-0.1,0.0,0.0,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Taylor Ward LF,5.0,2.0,3.0,2.0,0.0,0.0,5.0,0.32,0.32,0.76,1.08,15.0,13.0,0.124,0.8,0.157,-0.033,0.07%,0.79,2.1,1.0,0.0,"HR,2B"
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,4.0,1.0,1.0,1.0,1.0,0.0,5.0,0.19,0.261,0.19,0.451,15.0,8.0,0.102,0.77,0.116,-0.015,0.06%,0.75,1.5,0.0,4.0,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Miguel Sanó 1B-3B,3.0,2.0,2.0,0.0,2.0,0.0,5.0,0.231,0.333,0.385,0.718,22.0,11.0,0.104,0.48,0.105,-0.001,0.06%,0.48,1.2,4.0,1.0,"2·2B,GDP"
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.438,0.55,0.625,1.175,24.0,14.0,0.006,0.71,0.059,-0.053,0.00%,0.7,0.1,9.0,0.0,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Jo Adell CF,2.0,1.0,0.0,1.0,1.0,0.0,4.0,0.222,0.273,0.444,0.717,20.0,13.0,-0.011,0.71,0.028,-0.038,-0.01%,0.7,0.1,1.0,0.0,SF
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.2,0.0,0.2,6.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.3,1.0,0.0,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Zach Neto SS,5.0,0.0,2.0,2.0,0.0,2.0,5.0,0.238,0.273,0.333,0.606,14.0,11.0,-0.022,0.38,0.02,-0.042,-0.01%,0.38,1.2,2.0,5.0,2B
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Patrick Sandoval P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,José Cisnero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Guillo Zuñiga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404030,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,LosAngelesAngelsbatting,Team Totals,36.0,10.0,12.0,8.0,8.0,7.0,47.0,0.333,0.447,0.556,1.002,180.0,110.0,0.342,0.57,0.646,-0.305,0.20%,0.56,5.1,27.0,13.0,

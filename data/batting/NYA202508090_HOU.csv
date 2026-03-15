@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Jeremy Peña SS,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.32,0.377,0.494,0.871,24.0,12.0,0.004,1.39,0.111,-0.107,0.00%,2.39,0.5,2.0,2.0,HR
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Jesús Sánchez RF-LF,4.0,2.0,1.0,0.0,0.0,1.0,4.0,0.257,0.32,0.42,0.74,10.0,8.0,0.068,1.53,0.145,-0.077,0.07%,2.64,0.3,2.0,0.0,2B
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Jose Altuve DH,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.284,0.345,0.468,0.813,19.0,13.0,0.157,1.6,0.278,-0.121,0.16%,2.74,0.7,0.0,0.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Carlos Correa 3B,3.0,0.0,2.0,1.0,1.0,0.0,4.0,0.279,0.334,0.401,0.735,17.0,11.0,0.166,1.61,0.176,-0.009,0.17%,2.77,1.3,0.0,1.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Christian Walker 1B,3.0,0.0,0.0,1.0,1.0,1.0,4.0,0.233,0.297,0.392,0.689,17.0,9.0,0.065,2.5,0.201,-0.136,0.07%,4.3,-0.1,7.0,0.0,GDP
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Yainer Diaz C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.251,0.28,0.417,0.697,20.0,13.0,-0.238,2.08,0.0,-0.238,-0.24%,3.57,-1.5,2.0,0.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Taylor Trammell LF-CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.226,0.327,0.393,0.719,8.0,8.0,-0.205,2.04,0.0,-0.205,-0.21%,3.5,-1.3,3.0,0.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Ramón Urías 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.244,0.298,0.38,0.678,18.0,10.0,-0.134,1.32,0.0,-0.134,-0.14%,2.27,-0.7,3.0,4.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Chas McCormick CF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.234,0.286,0.286,0.571,8.0,6.0,0.012,0.65,0.031,-0.018,0.01%,1.11,0.1,4.0,0.0,2B
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Victor Caratini PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.271,0.323,0.428,0.751,7.0,3.0,0.067,1.45,0.067,0.0,0.07%,2.49,0.4,0.0,0.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Cam Smith PR-RF,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.252,0.321,0.371,0.692,4.0,3.0,-0.053,2.11,0.0,-0.053,-0.05%,3.63,-0.2,1.0,0.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Framber Valdez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Kaleb Ort P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Bryan King P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202508090,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202508090.shtml,HoustonAstrosbatting,Team Totals,33.0,4.0,7.0,4.0,4.0,11.0,37.0,0.212,0.297,0.364,0.661,152.0,96.0,-0.091,1.69,1.009,-1.098,-0.09%,2.9,-0.5,24.0,9.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202406120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202406120.shtml,StLouisCardinalspitching,"Sonny Gray, W (8-4)",7,4,1,1,1,9,0,3.01,26,84,58,35,11,12,8,8,3,0,73.0,,,0.287,0.99,0.14%,0.82,2.5
+SLN202406120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202406120.shtml,StLouisCardinalspitching,"Andrew Kittredge, H (18)",1,1,1,1,0,2,1,3.72,4,14,10,3,3,4,1,1,0,0,,0.0,0.0,0.01,0.96,0.01%,0.8,-0.5
+SLN202406120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202406120.shtml,StLouisCardinalspitching,"Ryan Helsley, S (22)",1,1,0,0,0,1,0,2.7,4,15,10,6,4,0,1,2,2,0,,0.0,0.0,0.074,1.81,0.04%,1.51,0.5
+SLN202406120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202406120.shtml,StLouisCardinalspitching,Team Totals,9,6,2,2,1,12,1,2.0,34,113,78,44,18,16,10,11,5,0,73.0,0.0,0.0,0.371,1.1,0.19%,0.92,2.6

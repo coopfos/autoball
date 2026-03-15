@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Jarren Duran LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.262,0.325,0.441,0.766,11.0,7.0,-0.06,0.78,0.0,-0.06,-0.03%,0.71,-0.8,2.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Romy Gonzalez PH-RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.265,0.316,0.353,0.669,6.0,5.0,-0.006,0.23,0.0,-0.006,-0.00%,0.21,-0.2,1.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Wilyer Abreu RF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.284,0.356,0.51,0.866,12.0,9.0,-0.018,0.56,0.017,-0.034,-0.01%,0.51,-0.2,4.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Garrett Cooper PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.222,0.293,0.333,0.626,4.0,3.0,-0.003,0.12,0.0,-0.003,-0.00%,0.11,-0.1,0.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Enmanuel Valdez LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.156,0.186,0.267,0.452,,,,,,,,,,0.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Rob Refsnyder DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.342,0.429,0.532,0.96,14.0,10.0,-0.042,0.46,0.002,-0.044,-0.02%,0.42,-0.5,0.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Rafael Devers 3B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.284,0.378,0.538,0.916,15.0,8.0,-0.02,0.48,0.018,-0.039,-0.01%,0.43,-0.4,1.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Connor Wong C,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.329,0.368,0.471,0.84,10.0,7.0,0.077,0.7,0.1,-0.023,0.04%,0.63,0.5,8.0,1.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Dominic Smith 1B,4.0,0.0,0.0,1.0,0.0,0.0,4.0,0.182,0.259,0.26,0.519,19.0,13.0,0.016,0.89,0.078,-0.063,0.01%,0.81,-0.1,2.0,2.0,CS
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Vaughn Grissom 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.149,0.213,0.162,0.375,14.0,8.0,-0.025,0.63,0.022,-0.047,-0.01%,0.58,-0.2,0.0,1.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,David Hamilton SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.265,0.337,0.41,0.747,20.0,8.0,0.003,0.73,0.044,-0.041,0.00%,0.67,0.3,2.0,0.0,SB
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.206,0.235,0.354,0.589,12.0,9.0,-0.062,0.57,0.0,-0.062,-0.03%,0.52,-1.4,3.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Kutter Crawford P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Chase Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202405290,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405290.shtml,BostonRedSoxbatting,Team Totals,33.0,1.0,6.0,1.0,3.0,6.0,36.0,0.182,0.25,0.182,0.432,137.0,87.0,-0.14,0.64,0.281,-0.422,-0.08%,0.58,-3.1,24.0,5.0,

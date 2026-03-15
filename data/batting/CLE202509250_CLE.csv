@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.275,0.333,0.379,0.713,9.0,8.0,-0.126,1.34,0.0,-0.126,-0.07%,1.27,-1.1,2.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,George Valera DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.222,0.333,0.444,0.778,13.0,8.0,-0.06,0.81,0.0,-0.06,-0.03%,0.77,-0.6,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Johnathan Rodríguez PH-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.167,0.214,0.303,0.517,,,,,,,,,,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Daniel Schneemann PH-DH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.21,0.288,0.361,0.649,3.0,3.0,-0.029,1.39,0.0,-0.029,-0.02%,1.32,-0.2,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.284,0.361,0.508,0.869,20.0,11.0,0.053,0.82,0.09,-0.037,0.03%,0.78,0.9,1.0,2.0,2B
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Kyle Manzardo 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.232,0.312,0.449,0.761,10.0,8.0,-0.142,1.33,0.0,-0.142,-0.08%,1.26,-1.2,5.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.218,0.272,0.358,0.63,16.0,9.0,-0.057,0.95,0.025,-0.082,-0.03%,0.9,-0.3,5.0,1.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Angel Martínez CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.226,0.268,0.362,0.63,12.0,11.0,-0.094,1.02,0.0,-0.094,-0.05%,0.97,-0.8,1.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,C.J. Kayfus RF,2.0,0.0,2.0,1.0,0.0,0.0,2.0,0.229,0.298,0.432,0.73,6.0,4.0,0.109,0.7,0.109,0.0,0.06%,0.67,1.2,1.0,0.0,2·2B
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Jhonkensy Noel PH-RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.154,0.176,0.273,0.448,4.0,3.0,-0.018,0.7,0.0,-0.018,-0.01%,0.67,-0.2,1.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Bo Naylor PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.194,0.282,0.376,0.658,3.0,3.0,-0.015,0.56,0.0,-0.015,-0.01%,0.53,-0.1,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Brayan Rocchio 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.234,0.293,0.335,0.629,7.0,5.0,-0.075,0.89,0.0,-0.075,-0.04%,0.85,-0.8,1.0,1.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Austin Hedges C,3.0,1.0,2.0,0.0,0.0,1.0,3.0,0.157,0.247,0.275,0.522,9.0,6.0,0.067,1.04,0.093,-0.026,0.04%,0.99,0.5,10.0,1.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Parker Messick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Matt Festa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Kolby Allard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Zak Kent P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202509250,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509250.shtml,ClevelandGuardiansbatting,Team Totals,32.0,2.0,5.0,2.0,2.0,8.0,34.0,0.156,0.206,0.25,0.456,112.0,79.0,-0.387,1.0,0.317,-0.704,-0.22%,0.95,-2.5,27.0,5.0,

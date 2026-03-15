@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,5.0,1.0,1.0,2.0,0.0,3.0,5.0,0.287,0.372,0.611,0.982,22.0,14.0,-0.009,1.11,0.119,-0.127,-0.01%,1.65,0.6,0.0,0.0,HR
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Mookie Betts RF,5.0,2.0,2.0,0.0,0.0,0.0,5.0,0.298,0.386,0.504,0.889,12.0,8.0,0.056,0.73,0.115,-0.059,0.05%,1.09,0.6,1.0,0.0,3B
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,2.0,1.0,1.0,1.0,0.0,5.0,0.28,0.379,0.48,0.86,21.0,12.0,-0.002,0.69,0.048,-0.05,-0.00%,1.03,-0.1,6.0,0.0,SF
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,4.0,2.0,2.0,0.0,1.0,2.0,5.0,0.269,0.335,0.491,0.826,22.0,12.0,0.012,0.83,0.067,-0.055,0.01%,1.23,0.3,0.0,0.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Max Muncy 3B,5.0,0.0,3.0,5.0,0.0,1.0,5.0,0.232,0.344,0.512,0.856,23.0,15.0,0.243,1.07,0.294,-0.051,0.22%,1.59,4.3,1.0,3.0,"2·2B,SB"
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Tommy Edman CF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.283,0.314,0.495,0.809,20.0,13.0,-0.188,1.35,0.0,-0.188,-0.17%,2.02,-1.6,2.0,0.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.245,0.309,0.381,0.69,15.0,8.0,-0.051,1.12,0.041,-0.092,-0.04%,1.67,-0.5,5.0,1.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Miguel Rojas SS,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.296,0.341,0.429,0.769,11.0,9.0,0.029,1.11,0.12,-0.091,0.03%,1.66,0.3,1.0,2.0,HR
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Hunter Feduccia C,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.429,0.5,0.429,0.929,17.0,11.0,0.027,0.78,0.062,-0.035,0.03%,1.17,0.3,7.0,0.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Bobby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Michael Grove P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Ryan Brasier P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Brusdar Graterol P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Daniel Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202409170,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202409170.shtml,LosAngelesDodgersbatting,Team Totals,38.0,9.0,12.0,9.0,3.0,9.0,42.0,0.316,0.357,0.579,0.936,163.0,102.0,0.117,0.97,0.866,-0.748,0.11%,1.45,4.1,24.0,8.0,

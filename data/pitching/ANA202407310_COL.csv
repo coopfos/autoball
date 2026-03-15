@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiespitching,"Kyle Freeland, W (3-4)",7,6,1,1,0,6,1,5.64,25,91,61,36,8,17,9,10,5,0,67.0,,,0.302,1.2,0.00%,0.0,2.5
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiespitching,"Tyler Kinley, H (8)",1,0,0,0,1,2,0,7.04,4,20,12,7,3,2,1,0,0,0,,0.0,0.0,0.141,3.36,0.00%,0.0,0.5
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiespitching,"Victor Vodnik, S (4)",1,0,0,0,0,1,0,3.83,3,8,6,4,1,1,1,1,1,0,,0.0,0.0,0.198,2.62,0.00%,0.0,0.5
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiespitching,Team Totals,9,6,1,1,1,9,1,1.0,32,119,79,47,12,20,11,11,6,0,67.0,0.0,0.0,0.641,1.59,0.00%,0.0,3.4

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202407090,TOR,https://www.baseball-reference.com/boxes/SFN/SFN202407090.shtml,TorontoBlueJayspitching,Yusei Kikuchi,7.1,6,2,2,0,13,2,4.0,27,100,70,35,16,19,4,10,4,0,71.0,,,0.151,1.07,0.01%,0.15,1.5
+SFN202407090,TOR,https://www.baseball-reference.com/boxes/SFN/SFN202407090.shtml,TorontoBlueJayspitching,"Nate Pearson, H (7)",0.2,1,0,0,1,1,0,4.71,4,19,11,7,2,2,1,1,1,0,,0.0,0.0,0.075,2.82,0.01%,0.4,0.2
+SFN202407090,TOR,https://www.baseball-reference.com/boxes/SFN/SFN202407090.shtml,TorontoBlueJayspitching,"Trevor Richards, BS (2), L (1-1)",0.2,2,2,2,1,0,0,3.4,5,25,14,8,3,3,3,1,0,0,,0.0,0.0,-0.81,4.28,-0.07%,0.61,-1.8
+SFN202407090,TOR,https://www.baseball-reference.com/boxes/SFN/SFN202407090.shtml,TorontoBlueJayspitching,Team Totals,8.2,9,4,4,2,14,2,4.15,36,144,95,50,21,24,8,12,5,0,71.0,0.0,0.0,-0.584,1.84,-0.05%,0.26,-0.1

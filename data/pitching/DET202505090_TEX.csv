@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202505090,TEX,https://www.baseball-reference.com/boxes/DET/DET202505090.shtml,TexasRangerspitching,"Patrick Corbin, L (2-2)",7,3,2,2,4,3,0,3.13,27,93,50,31,3,16,5,15,3,0,62.0,,,0.077,0.8,0.04%,0.68,1.4
+DET202505090,TEX,https://www.baseball-reference.com/boxes/DET/DET202505090.shtml,TexasRangerspitching,Jacob Webb,1,0,0,0,1,2,0,4.66,4,20,12,8,1,3,0,1,0,0,,0.0,0.0,0.03,0.53,0.01%,0.45,0.5
+DET202505090,TEX,https://www.baseball-reference.com/boxes/DET/DET202505090.shtml,TexasRangerspitching,Team Totals,8,3,2,2,5,5,0,2.25,31,113,62,39,4,19,5,16,3,0,62.0,0.0,0.0,0.107,0.77,0.05%,0.65,1.9

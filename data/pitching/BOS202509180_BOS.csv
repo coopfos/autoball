@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202509180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202509180.shtml,BostonRedSoxpitching,"Brayan Bello, L (11-8)",4,5,4,3,2,3,1,3.34,18,70,42,23,4,15,9,4,0,0,39.0,,,-0.224,0.78,-0.16%,0.92,-2.0
+BOS202509180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202509180.shtml,BostonRedSoxpitching,Payton Tolle,3,3,1,0,0,4,0,6.08,13,50,34,20,10,4,6,3,3,0,,0.0,0.0,0.019,0.7,0.01%,0.83,0.5
+BOS202509180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202509180.shtml,BostonRedSoxpitching,Greg Weissert,2,0,0,0,0,3,0,2.97,6,21,16,6,5,5,2,1,1,0,,0.0,0.0,0.032,0.21,0.02%,0.25,1.0
+BOS202509180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202509180.shtml,BostonRedSoxpitching,Team Totals,9,8,5,3,2,10,1,3.0,37,141,92,49,19,24,17,8,4,0,39.0,0.0,0.0,-0.173,0.66,-0.12%,0.79,-0.5

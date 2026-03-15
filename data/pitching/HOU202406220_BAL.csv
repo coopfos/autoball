@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202406220,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202406220.shtml,BaltimoreOriolespitching,"Corbin Burnes, L (8-3)",7,5,4,4,0,5,2,2.35,26,90,61,36,12,13,7,14,2,0,56.0,,,-0.193,0.65,-0.10%,0.58,-0.6
+HOU202406220,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202406220.shtml,BaltimoreOriolespitching,Bryan Baker,1,1,1,1,0,0,1,1.5,4,18,12,10,0,2,2,2,1,0,,0.0,0.0,-0.012,0.05,-0.01%,0.05,-0.5
+HOU202406220,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202406220.shtml,BaltimoreOriolespitching,Team Totals,8,6,5,5,0,5,3,5.62,30,108,73,46,12,15,9,16,3,0,56.0,0.0,0.0,-0.205,0.57,-0.11%,0.51,-1.2

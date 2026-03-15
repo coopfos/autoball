@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.27,0.313,0.381,0.694,15.0,9.0,-0.048,0.48,0.0,-0.048,0%,0.0,-0.9,2.0,2.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Bryan Reynolds DH,3.0,1.0,2.0,0.0,0.0,0.0,4.0,0.279,0.346,0.452,0.798,17.0,8.0,0.041,0.34,0.053,-0.011,0%,0.0,0.5,0.0,0.0,"2·2B,HBP"
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Joey Bart C,3.0,1.0,0.0,0.0,0.0,0.0,4.0,0.267,0.343,0.495,0.838,11.0,6.0,-0.012,0.59,0.019,-0.031,0%,0.0,-0.6,7.0,0.0,HBP
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.274,0.308,0.388,0.696,10.0,6.0,0.065,0.69,0.075,-0.01,0%,0.0,0.6,2.0,1.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Oneil Cruz CF,3.0,0.0,0.0,1.0,1.0,0.0,4.0,0.266,0.325,0.46,0.784,16.0,8.0,0.067,0.94,0.09,-0.024,0%,0.0,0.5,6.0,0.0,SB
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Connor Joe 1B,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.229,0.318,0.373,0.69,19.0,12.0,-0.017,0.76,0.006,-0.024,0%,0.0,-0.7,6.0,0.0,SF
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Bryan De La Cruz RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.235,0.274,0.384,0.658,7.0,5.0,-0.059,0.68,0.0,-0.059,0%,0.0,-1.0,1.0,0.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Billy Cook LF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.182,0.182,0.273,0.455,12.0,9.0,-0.031,0.4,0.0,-0.031,0%,0.0,-0.6,0.0,1.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Jared Triolo 3B,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.212,0.298,0.317,0.615,8.0,4.0,0.084,0.33,0.09,-0.006,0%,0.0,1.0,3.0,2.0,HR
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Bailey Falter P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Colin Holderman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,David Bednar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409110,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202409110.shtml,PittsburghPiratesbatting,Team Totals,29.0,3.0,6.0,3.0,1.0,3.0,33.0,0.207,0.273,0.379,0.652,115.0,67.0,0.09,0.6,0.333,-0.244,0.00%,0.0,-1.1,27.0,7.0,

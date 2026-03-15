@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202405310,STL,https://www.baseball-reference.com/boxes/PHI/PHI202405310.shtml,StLouisCardinalspitching,"Miles Mikolas, L (3-6)",6.0,5,3,3,1,5,1,5.54,23,96,62,39,8,15,8,9,4,0,54.0,,,-0.07,0.67,-0.04%,0.66,0.0
+PHI202405310,STL,https://www.baseball-reference.com/boxes/PHI/PHI202405310.shtml,StLouisCardinalspitching,Kyle Leahy,0.2,2,1,1,0,0,0,4.8,4,9,7,4,0,3,2,2,2,0,,0.0,0.0,-0.092,0.86,-0.05%,0.84,-0.8
+PHI202405310,STL,https://www.baseball-reference.com/boxes/PHI/PHI202405310.shtml,StLouisCardinalspitching,Matthew Liberatore,1.1,0,0,0,0,3,0,5.02,4,17,13,4,6,3,0,1,0,0,,1.0,0.0,0.031,0.28,0.02%,0.28,0.8
+PHI202405310,STL,https://www.baseball-reference.com/boxes/PHI/PHI202405310.shtml,StLouisCardinalspitching,Team Totals,8.0,7,4,4,1,8,1,4.5,31,122,82,47,14,21,10,12,6,0,54.0,1.0,0.0,-0.131,0.65,-0.08%,0.63,0.0

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Davis Schneider 2B,4.0,1.0,1.0,2.0,1.0,0.0,5.0,0.246,0.345,0.451,0.796,19.0,10.0,0.161,0.87,0.185,-0.024,0.05%,0.45,1.5,2.0,4.0,SB
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Daulton Varsho LF,3.0,2.0,1.0,2.0,2.0,1.0,5.0,0.212,0.304,0.444,0.748,23.0,11.0,0.147,0.41,0.147,0.0,0.05%,0.22,1.6,2.0,0.0,3B
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,2.0,1.0,1.0,1.0,0.0,5.0,0.279,0.374,0.383,0.757,18.0,10.0,0.021,0.35,0.039,-0.018,0.01%,0.18,0.4,10.0,1.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Bo Bichette SS,4.0,1.0,2.0,3.0,0.0,1.0,4.0,0.233,0.289,0.349,0.638,13.0,9.0,0.026,0.42,0.058,-0.032,0.01%,0.22,3.2,0.0,3.0,HR
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Ernie Clement 3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.247,0.27,0.376,0.646,3.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,1.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Justin Turner DH,1.0,1.0,0.0,0.0,3.0,0.0,4.0,0.225,0.304,0.373,0.678,25.0,12.0,0.036,0.24,0.038,-0.001,0.01%,0.13,0.6,0.0,0.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Daniel Vogelbach PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.167,0.271,0.31,0.58,8.0,6.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Cavan Biggio RF,3.0,0.0,1.0,0.0,1.0,1.0,5.0,0.202,0.33,0.277,0.607,15.0,8.0,-0.033,0.33,0.003,-0.036,-0.01%,0.17,-0.1,2.0,0.0,HBP
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.198,0.29,0.279,0.569,23.0,16.0,0.034,0.27,0.037,-0.004,0.01%,0.14,-1.0,6.0,0.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Kevin Kiermaier CF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.229,0.289,0.313,0.602,15.0,11.0,0.06,0.53,0.062,-0.003,0.02%,0.28,-0.1,1.0,0.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Isiah Kiner-Falefa 3B-SS,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.248,0.289,0.331,0.62,13.0,8.0,-0.079,0.69,0.0,-0.079,-0.03%,0.36,-0.5,3.0,2.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Chris Bassitt P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Génesis Cabrera P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Nate Pearson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202405220,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,TorontoBlueJaysbatting,Team Totals,34.0,9.0,10.0,8.0,8.0,7.0,43.0,0.294,0.442,0.441,0.883,175.0,103.0,0.373,0.45,0.569,-0.197,0.12%,0.23,5.1,27.0,12.0,

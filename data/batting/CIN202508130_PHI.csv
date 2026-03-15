@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.281,0.338,0.425,0.763,14.0,9.0,-0.03,0.73,0.022,-0.052,-0.02%,0.97,-0.7,0.0,4.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.249,0.372,0.578,0.95,15.0,10.0,-0.024,1.0,0.041,-0.066,-0.02%,1.34,-0.9,0.0,0.0,2B
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.256,0.356,0.49,0.846,20.0,16.0,-0.099,0.91,0.0,-0.099,-0.08%,1.21,-1.0,7.0,0.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.271,0.323,0.39,0.713,13.0,9.0,-0.061,0.79,0.0,-0.061,-0.05%,1.05,-0.7,8.0,1.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Rafael Marchán C,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.189,0.286,0.257,0.542,3.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,2.0,0.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.256,0.294,0.412,0.706,12.0,10.0,-0.041,0.4,0.0,-0.041,-0.03%,0.53,-0.6,1.0,0.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.269,0.332,0.417,0.749,12.0,6.0,-0.05,0.63,0.0,-0.05,-0.04%,0.84,-0.5,1.0,1.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Harrison Bader CF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.249,0.332,0.428,0.76,15.0,8.0,-0.047,0.66,0.002,-0.049,-0.04%,0.88,-0.0,3.0,0.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.241,0.315,0.352,0.667,17.0,11.0,0.01,0.46,0.028,-0.018,0.01%,0.62,-0.2,1.0,0.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Otto Kemp 3B,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.231,0.302,0.364,0.666,13.0,6.0,-0.068,0.93,0.002,-0.07,-0.06%,1.25,-0.2,1.0,2.0,HBP
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Cristopher Sánchez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Jordan Romano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Joe Ross P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508130,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508130.shtml,PhiladelphiaPhilliesbatting,Team Totals,30.0,0.0,3.0,0.0,1.0,10.0,32.0,0.1,0.156,0.133,0.29,134.0,88.0,-0.41,0.71,0.095,-0.506,-0.33%,0.95,-4.9,24.0,9.0,

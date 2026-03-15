@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202509260,DET,https://www.baseball-reference.com/boxes/BOS/BOS202509260.shtml,DetroitTigerspitching,Casey Mize,6.1,6,2,2,0,8,0,3.87,24,80,58,32,13,13,6,10,4,0,61.0,,,0.104,1.18,0.12%,2.31,1.1
+BOS202509260,DET,https://www.baseball-reference.com/boxes/BOS/BOS202509260.shtml,DetroitTigerspitching,"Kyle Finnegan, BS (7)",1.2,2,1,1,0,1,0,3.47,6,20,12,7,3,2,2,3,2,0,,2.0,1.0,-0.079,2.65,-0.09%,5.18,-0.1
+BOS202509260,DET,https://www.baseball-reference.com/boxes/BOS/BOS202509260.shtml,DetroitTigerspitching,"Tommy Kahnle, L (1-5)",0.1,2,1,1,0,0,0,4.43,3,7,4,3,0,1,1,2,1,0,,0.0,0.0,-0.363,2.33,-0.43%,4.56,-1.4
+BOS202509260,DET,https://www.baseball-reference.com/boxes/BOS/BOS202509260.shtml,DetroitTigerspitching,Team Totals,8.1,10,4,4,0,9,0,4.32,33,107,74,42,16,16,9,15,7,0,61.0,2.0,1.0,-0.338,1.58,-0.40%,3.1,-0.5

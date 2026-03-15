@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratespitching,"Andrew Heaney, L (5-10)",4,9,6,5,2,3,2,4.99,25,90,54,33,3,18,9,9,3,0,23.0,,,-0.363,0.72,-0.00%,0.0,-4.0
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratespitching,Chase Shugart,3,2,1,1,0,5,0,3.64,10,44,30,15,6,9,4,1,0,0,,0.0,0.0,0.0,0.07,0.00%,0.0,0.5
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratespitching,Kyle Nicolas,1,0,0,0,0,1,0,5.49,3,8,6,4,1,1,0,2,1,0,,0.0,0.0,0.001,0.01,0.00%,0.0,0.5
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratespitching,Team Totals,8,11,7,6,2,9,2,6.75,38,142,90,52,10,28,13,12,4,0,23.0,0.0,0.0,-0.362,0.5,-0.00%,0.0,-3.0

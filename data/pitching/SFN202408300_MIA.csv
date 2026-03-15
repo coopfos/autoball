@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202408300,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408300.shtml,MiamiMarlinspitching,Adam Oller,6.0,2,0,0,2,8,0,3.31,21,90,53,27,11,15,7,4,1,0,74.0,,,0.346,1.05,0.00%,0.0,2.8
+SFN202408300,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408300.shtml,MiamiMarlinspitching,"Mike Baumann, H (7), L (3-1)",1.2,2,3,3,2,2,0,5.4,9,45,28,15,6,7,2,3,2,0,,0.0,0.0,0.045,3.48,0.00%,0.0,0.2
+SFN202408300,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408300.shtml,MiamiMarlinspitching,"George Soriano, BS (3)",0.1,2,0,0,0,1,0,6.55,3,12,11,4,4,3,1,1,1,0,,3.0,3.0,-0.58,2.92,0.00%,0.0,-2.3
+SFN202408300,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408300.shtml,MiamiMarlinspitching,Team Totals,8.0,6,3,3,4,11,0,3.38,33,147,92,46,21,25,10,8,4,0,74.0,3.0,3.0,-0.189,1.88,0.00%,0.0,0.8

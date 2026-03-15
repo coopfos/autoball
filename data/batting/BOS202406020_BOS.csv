@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Jarren Duran LF-CF,3.0,0.0,2.0,1.0,2.0,0.0,5.0,0.262,0.33,0.434,0.764,22.0,9.0,0.134,0.97,0.168,-0.034,0.06%,0.73,0.9,3.0,0.0,CS
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Wilyer Abreu RF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.272,0.344,0.485,0.829,14.0,8.0,-0.044,0.91,0.04,-0.084,-0.02%,0.68,-0.3,1.0,0.0,2B
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Jamie Westbrook PH-RF,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,,,5.0,1.0,0.047,4.39,0.047,0.0,0.02%,3.31,0.3,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Dominic Smith 1B,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.195,0.286,0.276,0.562,13.0,8.0,-0.085,1.19,0.024,-0.109,-0.04%,0.89,-0.4,10.0,1.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Connor Wong PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.327,0.368,0.467,0.835,3.0,1.0,-0.16,6.39,0.0,-0.16,-0.07%,4.81,-0.8,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Bobby Dalbec 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.132,0.207,0.17,0.377,,,,,,,,,,1.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Rafael Devers 3B,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.283,0.376,0.549,0.924,23.0,12.0,0.393,1.04,0.425,-0.032,0.18%,0.79,2.1,1.0,2.0,"HR,3B"
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Enmanuel Valdez 2B,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.18,0.206,0.35,0.556,15.0,10.0,0.009,0.97,0.104,-0.095,0.00%,0.73,-0.2,1.0,2.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Garrett Cooper DH,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.206,0.274,0.309,0.583,17.0,12.0,-0.123,0.83,0.0,-0.123,-0.06%,0.63,-1.7,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Reese McGuire C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.226,0.298,0.333,0.631,12.0,11.0,-0.111,1.05,0.0,-0.111,-0.05%,0.8,-1.0,8.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF-SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.209,0.239,0.378,0.618,14.0,8.0,-0.12,1.16,0.022,-0.142,-0.05%,0.87,-0.8,3.0,1.0,CS
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,David Hamilton SS,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.274,0.337,0.4,0.737,7.0,6.0,0.012,0.34,0.02,-0.008,0.01%,0.26,0.1,1.0,4.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Rob Refsnyder PH-LF,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.337,0.416,0.517,0.933,6.0,4.0,-0.007,1.42,0.029,-0.036,-0.00%,1.06,-0.0,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Brayan Bello P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Justin Slaten P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Greg Weissert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Kenley Jansen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Cam Booser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202406020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202406020.shtml,BostonRedSoxbatting,Team Totals,36.0,4.0,8.0,4.0,6.0,7.0,42.0,0.222,0.333,0.389,0.722,151.0,90.0,-0.055,1.2,0.879,-0.934,-0.02%,0.9,-1.8,30.0,11.0,

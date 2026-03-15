@@ -1,0 +1,22 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Agustín Ramírez DH,6.0,2.0,1.0,0.0,0.0,3.0,6.0,0.232,0.288,0.422,0.711,25.0,17.0,-0.298,2.12,0.044,-0.341,-0.00%,0.04,-1.4,0.0,0.0,2B
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Jakob Marsee CF,6.0,1.0,2.0,1.0,0.0,1.0,6.0,0.32,0.39,0.534,0.924,27.0,17.0,0.071,2.58,0.347,-0.276,0.00%,0.06,-0.0,5.0,0.0,2B
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Otto Lopez SS,6.0,1.0,1.0,1.0,0.0,0.0,6.0,0.244,0.306,0.369,0.675,15.0,9.0,-0.011,2.02,0.273,-0.284,0%,0.04,-0.8,3.0,2.0,"2B,GDP"
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Liam Hicks C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.25,0.348,0.354,0.702,18.0,10.0,0.036,1.48,0.103,-0.067,0%,0.03,0.2,5.0,1.0,SB
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Joey Wiemer PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.25,0.293,0.462,0.755,0.0,0.0,0.018,2.07,0.018,0.0,0%,0.04,0.2,0.0,0.0,IW
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Brian Navarreto C,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.25,0.25,0.75,1.0,2.0,1.0,0.109,3.8,0.109,0.0,0.00%,0.08,0.7,1.0,0.0,2B
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Heriberto Hernández LF,2.0,0.0,0.0,0.0,1.0,2.0,3.0,0.267,0.346,0.431,0.777,16.0,9.0,0.01,1.38,0.061,-0.051,0%,0.03,-0.0,1.0,0.0,SB
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Xavier Edwards PH-2B,3.0,0.0,2.0,1.0,0.0,0.0,3.0,0.282,0.34,0.355,0.695,9.0,8.0,0.216,1.59,0.244,-0.028,0.00%,0.03,1.4,0.0,0.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Troy Johnston RF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.274,0.33,0.411,0.741,6.0,6.0,-0.039,0.73,0.0,-0.039,-0.00%,0.01,-0.3,0.0,0.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Dane Myers PH-RF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.233,0.29,0.325,0.615,21.0,15.0,-0.091,2.09,0.098,-0.189,-0.00%,0.04,-0.5,4.0,0.0,SB
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Connor Norby 3B,6.0,0.0,2.0,0.0,0.0,2.0,6.0,0.252,0.3,0.374,0.674,20.0,13.0,-0.035,1.37,0.112,-0.147,0%,0.03,-0.9,1.0,4.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Graham Pauley 2B,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.228,0.314,0.369,0.683,7.0,5.0,0.119,2.0,0.16,-0.04,0.00%,0.04,0.8,0.0,4.0,2B
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Javier Sanoja PH-2B-LF,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.243,0.287,0.395,0.681,8.0,6.0,0.048,2.64,0.21,-0.162,0.00%,0.06,0.4,1.0,1.0,HR
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Eric Wagaman 1B,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.25,0.298,0.38,0.678,12.0,10.0,-0.169,2.07,0.06,-0.229,-0.00%,0.04,-0.9,14.0,0.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Janson Junk P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Lake Bachar P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Cade Gibson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Michael Petersen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202509190,MIA,https://www.baseball-reference.com/boxes/TEX/TEX202509190.shtml,MiamiMarlinsbatting,Team Totals,49.0,6.0,14.0,6.0,3.0,10.0,52.0,0.286,0.327,0.449,0.776,186.0,126.0,-0.016,1.96,1.839,-1.853,0.00%,0.04,-1.2,36.0,14.0,

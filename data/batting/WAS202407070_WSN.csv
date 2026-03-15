@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,0.0,2.0,0.0,0.0,2.0,5.0,0.282,0.353,0.506,0.86,16.0,10.0,-0.051,0.52,0.015,-0.066,-0.02%,0.28,-0.2,2.0,2.0,HBP
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Lane Thomas RF,5.0,0.0,2.0,0.0,0.0,3.0,5.0,0.245,0.305,0.408,0.713,19.0,14.0,-0.049,0.61,0.034,-0.083,-0.02%,0.33,-0.7,6.0,0.0,CS
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,James Wood LF,2.0,1.0,1.0,0.0,2.0,1.0,4.0,0.32,0.452,0.48,0.932,21.0,10.0,0.069,0.62,0.079,-0.01,0.02%,0.34,0.8,0.0,0.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Jesse Winker DH,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.267,0.383,0.437,0.819,17.0,11.0,0.069,1.26,0.163,-0.094,0.02%,0.68,0.6,0.0,0.0,2·2B
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.277,0.311,0.435,0.746,18.0,10.0,0.052,1.15,0.106,-0.054,0.02%,0.62,0.1,1.0,3.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Juan Yepez 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.333,0.429,0.5,0.929,16.0,12.0,-0.14,1.57,0.106,-0.247,-0.04%,0.85,-1.0,7.0,0.0,"2B,2·GDP"
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Trey Lipscomb 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.228,0.298,0.26,0.558,17.0,13.0,-0.089,0.82,0.0,-0.089,-0.03%,0.44,-0.9,0.0,3.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Riley Adams C,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.235,0.302,0.365,0.667,13.0,10.0,0.071,0.65,0.104,-0.034,0.02%,0.35,0.2,7.0,1.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.261,0.32,0.325,0.645,16.0,9.0,0.001,0.41,0.021,-0.02,0%,0.22,-0.3,4.0,0.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,DJ Herz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Derek Law P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,WashingtonNationalsbatting,Team Totals,34.0,3.0,11.0,3.0,3.0,12.0,38.0,0.324,0.395,0.412,0.807,153.0,99.0,-0.067,0.82,0.628,-0.697,-0.02%,0.44,-1.4,27.0,9.0,

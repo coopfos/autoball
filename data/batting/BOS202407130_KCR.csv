@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Adam Frazier 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.209,0.291,0.288,0.58,21.0,17.0,-0.052,0.66,0.012,-0.064,-0.04%,0.89,-0.5,0.0,5.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.324,0.371,0.561,0.932,13.0,11.0,-0.071,0.66,0.0,-0.071,-0.06%,0.89,-1.0,2.0,1.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.249,0.313,0.426,0.74,12.0,11.0,-0.019,0.36,0.011,-0.03,-0.01%,0.49,-0.2,10.0,0.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Salvador Perez DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.279,0.341,0.468,0.809,15.0,11.0,-0.055,0.53,0.001,-0.056,-0.04%,0.72,-0.8,0.0,0.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Hunter Renfroe RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.221,0.294,0.385,0.679,14.0,12.0,-0.03,0.34,0.003,-0.033,-0.03%,0.46,-0.3,1.0,0.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,MJ Melendez LF,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.198,0.262,0.395,0.658,14.0,9.0,-0.014,0.37,0.013,-0.027,-0.01%,0.5,-0.7,0.0,0.0,HBP
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Freddy Fermin C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.291,0.34,0.413,0.753,15.0,10.0,-0.038,0.46,0.0,-0.038,-0.03%,0.63,-0.5,9.0,2.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.231,0.283,0.345,0.627,7.0,6.0,-0.02,0.52,0.013,-0.033,-0.02%,0.71,0.0,0.0,2.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Garrett Hampson CF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.264,0.301,0.357,0.658,9.0,7.0,0.012,0.57,0.047,-0.035,0.01%,0.77,-0.6,2.0,0.0,"2B,GDP"
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Seth Lugo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Kris Bubic P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Nick Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalsbatting,Team Totals,31.0,0.0,5.0,0.0,1.0,6.0,33.0,0.161,0.212,0.194,0.406,120.0,94.0,-0.287,0.49,0.1,-0.387,-0.24%,0.67,-4.7,24.0,10.0,

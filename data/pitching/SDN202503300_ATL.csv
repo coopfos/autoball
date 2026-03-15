@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202503300,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202503300.shtml,AtlantaBravespitching,"AJ Smith-Shawver, L (0-1)",4,6,2,2,3,4,0,4.5,21,77,42,17,13,12,7,7,5,0,43.0,,,-0.039,0.99,-0.02%,0.8,0.0
+SDN202503300,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202503300.shtml,AtlantaBravespitching,José Suarez,3,1,1,1,2,4,0,3.0,11,43,25,9,7,9,2,3,0,0,,0.0,0.0,0.021,0.47,0.01%,0.38,0.5
+SDN202503300,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202503300.shtml,AtlantaBravespitching,Héctor Neris,1,2,2,2,1,1,0,45.0,5,26,16,9,3,4,0,3,2,0,,0.0,0.0,-0.021,0.17,-0.01%,0.14,-1.5
+SDN202503300,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202503300.shtml,AtlantaBravespitching,Team Totals,8,9,5,5,6,9,0,5.62,37,146,83,35,23,25,9,13,7,0,43.0,0.0,0.0,-0.039,0.72,-0.02%,0.58,-0.9

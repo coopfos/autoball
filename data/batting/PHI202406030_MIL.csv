@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.298,0.364,0.408,0.773,21.0,15.0,-0.188,1.39,0.041,-0.229,-0.15%,1.82,-1.8,0.0,4.0,GDP
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.311,0.382,0.481,0.864,11.0,7.0,-0.173,1.24,0.0,-0.173,-0.14%,1.62,-1.6,1.0,0.0,GDP
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Christian Yelich LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.313,0.397,0.531,0.929,13.0,9.0,-0.084,0.82,0.0,-0.084,-0.07%,1.07,-0.7,2.0,0.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Willy Adames SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.255,0.333,0.443,0.776,18.0,11.0,-0.089,0.88,0.0,-0.089,-0.07%,1.16,-0.8,2.0,3.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.253,0.335,0.333,0.668,11.0,7.0,-0.043,0.56,0.0,-0.043,-0.03%,0.74,-0.4,2.0,0.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Gary Sánchez PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.226,0.302,0.452,0.754,2.0,1.0,-0.012,0.44,0.0,-0.012,-0.01%,0.58,-0.1,0.0,0.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Rhys Hoskins DH,2.0,1.0,1.0,1.0,1.0,0.0,3.0,0.243,0.345,0.486,0.831,15.0,6.0,0.095,0.59,0.106,-0.011,0.07%,0.78,1.4,0.0,0.0,"HR,SB"
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Jake Bauers 1B,2.0,0.0,1.0,0.0,1.0,1.0,3.0,0.213,0.305,0.404,0.71,16.0,9.0,0.024,1.03,0.06,-0.036,0.02%,1.35,0.1,12.0,1.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.289,0.39,0.497,0.886,14.0,7.0,0.003,1.33,0.065,-0.062,0.00%,1.75,0.1,0.0,1.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,3.0,0.0,2.0,0.0,0.0,1.0,3.0,0.247,0.325,0.365,0.689,11.0,9.0,0.024,1.57,0.089,-0.065,0.02%,2.06,0.3,5.0,0.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Bryse Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Hoby Milner P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202406030,MIL,https://www.baseball-reference.com/boxes/PHI/PHI202406030.shtml,MilwaukeeBrewersbatting,Team Totals,29.0,1.0,5.0,1.0,3.0,8.0,32.0,0.172,0.25,0.276,0.526,132.0,81.0,-0.443,1.02,0.361,-0.804,-0.35%,1.33,-3.5,24.0,13.0,

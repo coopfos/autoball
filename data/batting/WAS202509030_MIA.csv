@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Xavier Edwards 2B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.281,0.338,0.352,0.69,17.0,11.0,-0.045,0.48,0.013,-0.058,0%,0.01,-0.7,0.0,1.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Agustín Ramírez C,5.0,1.0,1.0,0.0,0.0,3.0,5.0,0.229,0.287,0.421,0.708,23.0,16.0,-0.022,0.46,0.021,-0.044,0%,0.01,-0.4,8.0,1.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Jakob Marsee CF,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.333,0.41,0.581,0.992,18.0,14.0,-0.006,0.43,0.03,-0.036,0%,0.0,-0.2,4.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Otto Lopez SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.245,0.314,0.363,0.677,14.0,12.0,0.004,0.73,0.054,-0.05,0%,0.01,0.2,4.0,2.0,GDP
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Heriberto Hernández DH,2.0,1.0,1.0,2.0,2.0,1.0,4.0,0.269,0.332,0.43,0.762,19.0,11.0,0.121,1.0,0.135,-0.014,0.00%,0.01,2.8,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Connor Norby 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.247,0.298,0.373,0.671,13.0,7.0,-0.071,1.2,0.067,-0.139,-0.00%,0.01,-1.0,0.0,0.0,"2B,GDP"
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Víctor Mesa Jr. RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.182,0.357,0.182,0.539,,,,,,,,,,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Eric Wagaman 1B-LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.237,0.288,0.37,0.658,14.0,8.0,-0.07,0.82,0.009,-0.078,-0.00%,0.01,-0.7,4.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Joey Wiemer RF,2.0,1.0,2.0,2.0,0.0,0.0,3.0,0.259,0.276,0.407,0.683,8.0,4.0,0.072,0.42,0.072,0.0,0.00%,0.0,2.1,0.0,0.0,"HR,HBP"
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Liam Hicks PH-1B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.257,0.348,0.361,0.709,7.0,4.0,-0.039,1.2,0.0,-0.039,0%,0.02,-0.6,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Javier Sanoja LF-3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.238,0.28,0.381,0.661,19.0,16.0,-0.079,0.78,0.0,-0.079,-0.00%,0.01,-1.2,4.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Eury Pérez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Michael Petersen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Tyler Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Luarbert Arias P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202509030,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202509030.shtml,MiamiMarlinsbatting,Team Totals,36.0,5.0,10.0,4.0,2.0,7.0,39.0,0.278,0.333,0.389,0.722,152.0,103.0,-0.135,0.71,0.401,-0.537,-0.00%,0.01,0.6,24.0,4.0,

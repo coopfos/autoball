@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Xavier Edwards SS,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.263,0.339,0.293,0.632,17.0,11.0,-0.039,0.69,0.031,-0.07,-0.01%,0.23,-0.2,2.0,4.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,2.0,1.0,1.0,0.0,5.0,0.235,0.33,0.296,0.626,20.0,12.0,0.151,0.96,0.193,-0.042,0.03%,0.32,1.3,0.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Eric Wagaman 1B,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.23,0.283,0.37,0.653,19.0,12.0,-0.089,0.95,0.004,-0.093,-0.02%,0.32,-1.0,12.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Agustín Ramírez C,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.247,0.295,0.521,0.815,15.0,9.0,0.006,1.08,0.069,-0.063,0.00%,0.36,-0.2,5.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Kyle Stowers LF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.287,0.365,0.507,0.873,21.0,15.0,-0.014,1.52,0.113,-0.127,-0.00%,0.51,-0.3,2.0,0.0,HR
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Matt Mervis DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.188,0.275,0.427,0.702,8.0,6.0,-0.027,0.54,0.0,-0.027,-0.01%,0.18,-0.2,0.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Nick Fortes PH-DH-DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.242,0.286,0.364,0.649,8.0,5.0,-0.075,1.5,0.0,-0.075,-0.01%,0.5,-0.6,0.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Connor Norby 3B,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.269,0.313,0.436,0.749,10.0,7.0,0.339,0.86,0.347,-0.008,0.07%,0.28,1.9,0.0,4.0,"HR,3B"
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Derek Hill CF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.18,0.241,0.34,0.581,13.0,10.0,-0.021,0.97,0.067,-0.088,-0.00%,0.32,-0.2,4.0,0.0,SB
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Javier Sanoja 2B,4.0,0.0,0.0,1.0,0.0,0.0,4.0,0.25,0.289,0.333,0.622,15.0,13.0,-0.034,1.1,0.039,-0.073,-0.01%,0.36,-0.7,0.0,5.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Valente Bellozo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Ronny Henriquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Anthony Bender P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505130,MIA,https://www.baseball-reference.com/boxes/CHN/CHN202505130.shtml,MiamiMarlinsbatting,Team Totals,37.0,4.0,9.0,4.0,3.0,9.0,40.0,0.243,0.3,0.459,0.759,146.0,100.0,0.197,1.01,0.863,-0.666,0.04%,0.33,-0.2,25.0,14.0,

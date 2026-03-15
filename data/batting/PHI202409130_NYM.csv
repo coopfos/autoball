@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,2.0,1.0,0.0,2.0,4.0,0.27,0.341,0.493,0.834,20.0,15.0,-0.017,0.52,0.023,-0.04,-0.01%,0.78,0.5,1.0,2.0,2B
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Eddy Alvarez 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Mark Vientos 3B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.275,0.333,0.532,0.866,15.0,9.0,-0.01,0.35,0.018,-0.028,-0.01%,0.52,-0.3,0.0,1.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,1.0,1.0,3.0,1.0,0.0,5.0,0.226,0.337,0.396,0.732,23.0,14.0,0.086,0.5,0.114,-0.028,0.08%,0.75,1.9,2.0,0.0,HR
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,2.0,1.0,1.0,1.0,5.0,0.24,0.328,0.468,0.795,19.0,11.0,0.003,0.33,0.023,-0.02,0.00%,0.5,1.2,8.0,2.0,HR
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Jesse Winker DH,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.263,0.366,0.419,0.785,25.0,13.0,-0.058,0.46,0.001,-0.059,-0.05%,0.68,-0.3,0.0,0.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Jose Iglesias 2B-SS,5.0,2.0,2.0,0.0,0.0,0.0,5.0,0.319,0.372,0.44,0.811,14.0,11.0,0.02,0.45,0.047,-0.027,0.02%,0.68,-0.2,0.0,0.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Tyrone Taylor RF,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.238,0.289,0.39,0.678,25.0,14.0,0.052,0.54,0.071,-0.019,0.05%,0.8,-0.6,2.0,0.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,2.0,2.0,3.0,0.0,0.0,4.0,0.237,0.305,0.383,0.688,17.0,12.0,0.21,0.72,0.222,-0.013,0.19%,1.08,1.9,6.0,1.0,HR
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Harrison Bader CF,4.0,2.0,2.0,3.0,0.0,2.0,4.0,0.246,0.29,0.393,0.683,14.0,10.0,-0.032,0.38,0.006,-0.037,-0.03%,0.57,2.4,6.0,0.0,"HR,2B"
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Jose Quintana P,,,,,,,,,,,,,,,,,,,,,2.0,1.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Phil Maton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Alex Young P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202409130,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409130.shtml,NewYorkMetsbatting,Team Totals,40.0,11.0,14.0,11.0,3.0,9.0,43.0,0.35,0.395,0.7,1.095,175.0,112.0,0.254,0.46,0.525,-0.271,0.23%,0.68,6.5,27.0,8.0,

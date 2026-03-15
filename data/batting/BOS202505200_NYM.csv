@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.28,0.35,0.461,0.811,18.0,13.0,-0.073,1.2,0.079,-0.153,-0.05%,1.45,-0.5,1.0,1.0,"SB,CS,HBP,GDP"
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Juan Soto RF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.247,0.379,0.437,0.815,18.0,8.0,-0.014,1.01,0.039,-0.052,-0.01%,1.22,-0.0,0.0,0.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.294,0.4,0.544,0.944,16.0,11.0,-0.097,1.17,0.0,-0.097,-0.07%,1.41,-0.8,6.0,3.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.215,0.277,0.401,0.678,16.0,11.0,-0.134,1.23,0.0,-0.134,-0.10%,1.49,-1.2,1.0,1.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Mark Vientos DH,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.236,0.301,0.382,0.682,14.0,9.0,0.041,1.02,0.1,-0.059,0.03%,1.24,0.5,0.0,0.0,"2B,HBP"
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Jeff McNeil 2B,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.245,0.388,0.453,0.841,12.0,4.0,0.015,1.04,0.055,-0.04,0.01%,1.26,0.2,3.0,1.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.25,0.333,0.328,0.661,10.0,6.0,-0.161,1.31,0.0,-0.161,-0.12%,1.59,-1.4,8.0,1.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Brett Baty 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.209,0.236,0.442,0.678,13.0,9.0,-0.125,1.58,0.0,-0.125,-0.09%,1.91,-1.0,1.0,4.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Tyrone Taylor CF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.246,0.296,0.365,0.661,15.0,8.0,-0.016,1.03,0.04,-0.056,-0.01%,1.25,-0.2,1.0,0.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Max Kranick P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetsbatting,Team Totals,29.0,0.0,4.0,0.0,3.0,7.0,34.0,0.138,0.265,0.172,0.437,132.0,79.0,-0.564,1.17,0.313,-0.877,-0.41%,1.42,-4.5,24.0,11.0,

@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Tim Tawa 2B,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.182,0.292,0.436,0.729,23.0,13.0,-0.108,0.84,0.0,-0.108,-0.06%,0.79,-1.0,1.0,2.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.289,0.355,0.625,0.98,15.0,12.0,-0.111,1.06,0.0,-0.111,-0.06%,1.0,-0.9,2.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Randal Grichuk DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.22,0.289,0.39,0.679,14.0,9.0,-0.064,0.86,0.0,-0.064,-0.04%,0.81,-0.5,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Pavin Smith PH-DH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.342,0.473,0.63,1.103,6.0,5.0,-0.016,0.66,0.0,-0.016,-0.01%,0.62,-0.2,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.2,0.3,0.533,0.833,10.0,9.0,-0.035,0.72,0.025,-0.06,-0.02%,0.67,-0.3,0.0,2.0,2B
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Josh Naylor 1B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.318,0.392,0.5,0.892,10.0,6.0,-0.038,1.04,0.042,-0.08,-0.02%,0.98,-0.2,8.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.23,0.321,0.257,0.578,18.0,11.0,-0.011,1.04,0.049,-0.06,-0.01%,0.98,0.1,6.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.181,0.204,0.343,0.546,11.0,7.0,0.015,1.19,0.093,-0.078,0.01%,1.11,0.6,3.0,0.0,2B
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Alek Thomas PR-CF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.288,0.338,0.411,0.748,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Jorge Barrosa CF-LF,3.0,1.0,1.0,1.0,0.0,1.0,4.0,0.2,0.188,0.333,0.521,17.0,10.0,0.031,1.16,0.088,-0.057,0.02%,1.08,-0.1,3.0,0.0,"2B,SF"
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Garrett Hampson SS,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.185,0.353,0.185,0.538,3.0,3.0,0.017,0.84,0.039,-0.022,0.01%,0.8,0.2,3.0,3.0,SB
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo PH-SS,1.0,0.0,1.0,3.0,0.0,0.0,2.0,0.267,0.379,0.429,0.807,11.0,8.0,0.375,1.82,0.375,0.0,0.21%,1.72,1.9,1.0,0.0,"SB,SF"
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Corbin Burnes P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Kevin Ginkel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Justin Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Ryan Thompson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202504300,ARI,https://www.baseball-reference.com/boxes/NYN/NYN202504300.shtml,ArizonaDiamondbacksbatting,Team Totals,33.0,4.0,8.0,4.0,2.0,9.0,37.0,0.242,0.27,0.333,0.604,138.0,93.0,0.055,1.03,0.711,-0.656,0.03%,0.97,-0.4,27.0,9.0,

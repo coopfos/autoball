@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202408090,PIT,https://www.baseball-reference.com/boxes/LAN/LAN202408090.shtml,PittsburghPiratespitching,"Mitch Keller, L (10-6)",4,7,7,7,2,5,2,3.56,21,95,59,33,11,15,4,10,5,0,23.0,,,-0.317,0.42,-0.09%,0.19,-5.1
+LAN202408090,PIT,https://www.baseball-reference.com/boxes/LAN/LAN202408090.shtml,PittsburghPiratespitching,Domingo Germán,4,1,2,2,2,3,1,4.5,15,75,46,34,2,10,1,9,4,0,,0.0,0.0,-0.058,0.15,-0.02%,0.07,-0.1
+LAN202408090,PIT,https://www.baseball-reference.com/boxes/LAN/LAN202408090.shtml,PittsburghPiratespitching,Team Totals,8,8,9,9,4,8,3,10.12,36,170,105,67,13,25,5,19,9,0,23.0,0.0,0.0,-0.375,0.31,-0.10%,0.14,-5.2

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Bo Bichette SS,4.0,0.0,1.0,2.0,1.0,1.0,5.0,0.277,0.315,0.368,0.683,17.0,9.0,0.007,1.1,0.083,-0.076,0.00%,0.99,0.7,0.0,2.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,1.0,2.0,0.0,1.0,1.0,5.0,0.281,0.369,0.422,0.792,14.0,10.0,0.071,0.78,0.099,-0.028,0.04%,0.7,-0.1,3.0,0.0,"2B,IW"
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Anthony Santander DH,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.188,0.271,0.333,0.604,21.0,15.0,0.125,1.2,0.192,-0.067,0.07%,1.07,0.4,0.0,0.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,George Springer RF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.304,0.405,0.52,0.925,22.0,14.0,-0.174,1.29,0.0,-0.174,-0.09%,1.16,-2.1,1.0,0.0,GDP
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.269,0.292,0.352,0.644,9.0,8.0,-0.063,0.89,0.018,-0.081,-0.03%,0.8,-0.3,14.0,1.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Ernie Clement 3B-2B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.225,0.255,0.292,0.547,13.0,10.0,0.062,0.86,0.109,-0.047,0.03%,0.77,0.0,2.0,0.0,2B
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Andrés Giménez 2B,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.195,0.273,0.305,0.577,7.0,5.0,0.063,1.2,0.104,-0.041,0.03%,1.08,0.4,2.0,2.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Addison Barger 3B,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.162,0.225,0.243,0.468,4.0,3.0,0.018,0.64,0.018,0.0,0.01%,0.57,0.4,0.0,0.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Myles Straw CF,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.288,0.323,0.39,0.712,15.0,14.0,0.048,1.26,0.116,-0.068,0.03%,1.13,-0.0,2.0,0.0,GDP
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Jonatan Clase LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.125,0.125,0.125,0.25,18.0,14.0,0.008,1.07,0.068,-0.06,0.00%,0.96,0.2,1.0,0.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,José Berríos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Yariel Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Brendon Little P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Jeff Hoffman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505070,TOR,https://www.baseball-reference.com/boxes/ANA/ANA202505070.shtml,TorontoBlueJaysbatting,Team Totals,37.0,4.0,12.0,4.0,2.0,8.0,39.0,0.324,0.359,0.378,0.737,140.0,102.0,0.165,1.06,0.807,-0.642,0.09%,0.95,-0.4,25.0,5.0,

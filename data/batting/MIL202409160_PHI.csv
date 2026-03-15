@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,4.0,0.0,2.0,1.0,0.0,2.0,4.0,0.25,0.37,0.489,0.859,16.0,12.0,0.044,1.18,0.104,-0.06,0.02%,0.91,0.8,0.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.296,0.342,0.466,0.807,14.0,10.0,-0.038,1.34,0.084,-0.122,-0.02%,1.03,-0.6,2.0,3.0,CS
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.29,0.377,0.533,0.91,18.0,10.0,-0.036,1.22,0.056,-0.092,-0.02%,0.94,-0.3,6.0,3.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.243,0.301,0.407,0.709,16.0,10.0,-0.163,1.43,0.014,-0.177,-0.07%,1.1,-1.2,1.0,0.0,GDP
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.287,0.34,0.456,0.796,15.0,9.0,-0.12,1.07,0.0,-0.12,-0.06%,0.82,-1.3,2.0,1.0,GDP
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.243,0.314,0.359,0.673,21.0,15.0,-0.022,0.63,0.028,-0.049,-0.01%,0.49,-0.3,1.0,2.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.267,0.323,0.425,0.748,10.0,6.0,0.052,0.59,0.072,-0.02,0.02%,0.45,0.5,7.0,1.0,"2B,HBP"
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh LF-CF,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.255,0.333,0.436,0.769,16.0,10.0,-0.002,0.86,0.078,-0.08,-0.00%,0.67,0.3,1.0,0.0,"HR,2B"
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Cal Stevenson CF,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.316,0.409,0.474,0.883,11.0,4.0,0.028,0.73,0.04,-0.012,0.01%,0.56,0.3,2.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Buddy Kennedy PH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.32,0.4,0.72,,,,,,,,,,0.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Kody Clemens PH-LF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.225,0.255,0.451,0.706,4.0,4.0,-0.039,0.84,0.0,-0.039,-0.02%,0.66,-0.8,1.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Ranger Suárez P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,José Alvarado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Tanner Banks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Tyler Gilbert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202409160,PHI,https://www.baseball-reference.com/boxes/MIL/MIL202409160.shtml,PhiladelphiaPhilliesbatting,Team Totals,34.0,2.0,11.0,2.0,1.0,8.0,36.0,0.324,0.361,0.471,0.832,141.0,90.0,-0.296,1.02,0.476,-0.771,-0.14%,0.79,-2.6,24.0,10.0,

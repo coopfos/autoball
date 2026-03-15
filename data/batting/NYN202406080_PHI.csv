@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.231,0.353,0.389,0.742,23.0,13.0,0.004,0.4,0.043,-0.039,0.00%,0.27,0.2,0.0,0.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.265,0.307,0.417,0.724,26.0,17.0,-0.048,0.41,0.003,-0.051,-0.02%,0.28,-0.6,9.0,0.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,4.0,1.0,3.0,1.0,0.0,1.0,4.0,0.276,0.384,0.535,0.918,20.0,13.0,0.136,0.38,0.155,-0.019,0.06%,0.26,0.7,7.0,0.0,"HR,2B,CS"
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 3B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.29,0.343,0.469,0.812,14.0,9.0,-0.009,0.55,0.03,-0.039,-0.00%,0.37,-0.5,0.0,4.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.215,0.277,0.364,0.64,11.0,10.0,-0.042,0.66,0.02,-0.062,-0.02%,0.45,0.4,4.0,0.0,HR
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.244,0.343,0.373,0.717,21.0,11.0,0.004,0.41,0.028,-0.024,0.00%,0.28,0.2,3.0,2.0,SB
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Edmundo Sosa SS,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.292,0.353,0.528,0.882,14.0,9.0,0.114,0.69,0.133,-0.019,0.05%,0.47,0.4,1.0,3.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Whit Merrifield LF,4.0,1.0,1.0,3.0,0.0,1.0,4.0,0.174,0.25,0.294,0.544,10.0,7.0,0.206,0.78,0.239,-0.033,0.08%,0.53,1.9,3.0,0.0,HR
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Cristian Pache CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.203,0.294,0.271,0.565,11.0,8.0,-0.015,0.28,0.01,-0.024,-0.01%,0.19,-0.4,0.0,0.0,2B
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Ranger Suárez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Orion Kerkering P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,José Ruiz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406080,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202406080.shtml,PhiladelphiaPhilliesbatting,Team Totals,37.0,7.0,11.0,7.0,1.0,6.0,38.0,0.297,0.316,0.595,0.91,150.0,97.0,0.35,0.5,0.661,-0.31,0.14%,0.34,2.4,27.0,9.0,

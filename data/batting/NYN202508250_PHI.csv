@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.299,0.353,0.451,0.803,23.0,16.0,0.019,0.72,0.091,-0.072,0.01%,0.97,-0.3,2.0,1.0,3B
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,3.0,1.0,0.0,1.0,1.0,0.0,4.0,0.247,0.37,0.57,0.94,12.0,6.0,-0.021,0.83,0.024,-0.044,-0.02%,1.12,-0.5,0.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.263,0.357,0.497,0.854,18.0,12.0,0.033,0.75,0.082,-0.05,0.03%,1.02,0.1,6.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.276,0.332,0.413,0.745,20.0,11.0,-0.038,0.78,0.048,-0.086,-0.03%,1.05,-0.7,8.0,0.0,HBP
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 3B,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.281,0.33,0.398,0.729,13.0,10.0,0.042,1.19,0.162,-0.12,0.03%,1.6,0.5,0.0,3.0,GDP
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh LF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.26,0.324,0.399,0.723,16.0,9.0,0.028,0.41,0.043,-0.015,0.02%,0.55,0.4,0.0,0.0,2B
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Max Kepler RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.215,0.299,0.375,0.674,12.0,8.0,-0.038,0.92,0.033,-0.07,-0.03%,1.25,-0.7,5.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Harrison Bader CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.258,0.343,0.423,0.766,24.0,16.0,-0.047,0.83,0.019,-0.066,-0.04%,1.12,0.0,1.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.246,0.319,0.37,0.689,17.0,11.0,-0.028,0.75,0.029,-0.056,-0.02%,1.01,-0.2,2.0,2.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Cristopher Sánchez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,David Robertson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Jordan Romano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Joe Ross P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508250,PHI,https://www.baseball-reference.com/boxes/NYN/NYN202508250.shtml,PhiladelphiaPhilliesbatting,Team Totals,32.0,3.0,6.0,3.0,4.0,6.0,37.0,0.188,0.297,0.281,0.579,155.0,99.0,-0.05,0.8,0.531,-0.579,-0.04%,1.07,-1.4,24.0,6.0,

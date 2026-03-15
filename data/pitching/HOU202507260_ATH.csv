@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202507260,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507260.shtml,Athleticspitching,Jacob Lopez,4.1,2,0,0,4,4,0,4.29,19,95,53,35,8,10,4,7,1,0,59.0,,,0.227,1.39,0.00%,0.02,2.0
+HOU202507260,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507260.shtml,Athleticspitching,"Justin Sterner, W (3-3)",1.2,2,1,1,0,1,0,4.06,6,19,14,9,3,2,0,5,2,0,,1.0,0.0,0.029,1.96,0.00%,0.02,0.0
+HOU202507260,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507260.shtml,Athleticspitching,"Sean Newcomb, H (3)",2.0,0,0,0,1,4,0,3.39,6,20,14,5,4,5,1,0,0,0,,0.0,0.0,0.251,1.99,0.00%,0.02,1.0
+HOU202507260,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507260.shtml,Athleticspitching,Mason Miller,1.0,0,0,0,0,1,0,3.76,3,19,13,9,4,0,1,1,1,0,,0.0,0.0,0.018,0.24,0.00%,0.0,0.5
+HOU202507260,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507260.shtml,Athleticspitching,Team Totals,9.0,4,1,1,5,10,0,1.0,34,153,94,58,19,17,6,13,4,0,59.0,1.0,0.0,0.525,1.5,0.00%,0.02,3.5

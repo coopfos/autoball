@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Alex Verdugo LF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.25,0.273,0.375,0.648,13.0,11.0,-0.039,0.79,0.036,-0.075,-0.02%,0.62,-0.2,2.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Austin Riley 3B,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.29,0.333,0.495,0.829,22.0,15.0,-0.116,0.85,0.0,-0.116,-0.06%,0.67,-1.3,0.0,3.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.311,0.49,0.541,1.031,17.0,9.0,0.061,0.79,0.111,-0.05,0.03%,0.62,0.9,0.0,0.0,HR
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,2.0,0.0,0.0,1.0,0.0,5.0,0.228,0.366,0.402,0.768,17.0,11.0,-0.021,1.7,0.134,-0.155,-0.01%,1.34,-1.7,13.0,4.0,GDP
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Sean Murphy C,2.0,1.0,1.0,1.0,2.0,0.0,4.0,0.22,0.35,0.66,1.01,25.0,14.0,0.155,0.84,0.164,-0.009,0.07%,0.66,1.5,5.0,2.0,HR
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Stuart Fairchild PR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.15,0.2,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Drake Baldwin C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.239,0.314,0.413,0.727,2.0,2.0,-0.018,3.94,0.0,-0.018,-0.01%,3.1,-0.2,1.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Ozzie Albies 2B,5.0,2.0,2.0,1.0,0.0,1.0,5.0,0.24,0.301,0.394,0.695,17.0,13.0,0.08,1.21,0.158,-0.079,0.04%,0.95,0.8,1.0,2.0,SB
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,0.0,2.0,2.0,1.0,0.0,5.0,0.253,0.274,0.384,0.657,18.0,10.0,0.471,1.4,0.517,-0.045,0.22%,1.1,1.8,2.0,0.0,"2B,SB"
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Eli White RF,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.267,0.333,0.533,0.867,13.0,10.0,-0.054,1.11,0.084,-0.138,-0.03%,0.88,0.4,0.0,0.0,HR
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Nick Allen SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.259,0.317,0.31,0.628,20.0,11.0,-0.014,1.01,0.064,-0.078,-0.01%,0.79,0.1,2.0,6.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Grant Holmes P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Scott Blewett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Daysbel Hernández P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Raisel Iglesias P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Dylan Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202504260,ATL,https://www.baseball-reference.com/boxes/ARI/ARI202504260.shtml,AtlantaBravesbatting,Team Totals,38.0,8.0,9.0,7.0,6.0,5.0,44.0,0.237,0.341,0.5,0.841,164.0,106.0,0.505,1.16,1.268,-0.763,0.24%,0.92,2.1,30.0,17.0,

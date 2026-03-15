@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.298,0.361,0.416,0.778,22.0,13.0,-0.011,0.99,0.061,-0.072,-0.00%,0.41,0.3,4.0,0.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.234,0.286,0.333,0.619,19.0,14.0,-0.039,1.16,0.068,-0.107,-0.01%,0.47,-0.7,0.0,3.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,William Contreras C,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.262,0.36,0.396,0.756,12.0,9.0,0.009,1.2,0.11,-0.101,0.00%,0.49,0.0,13.0,1.0,"2B,GDP"
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,5.0,3.0,4.0,5.0,0.0,0.0,5.0,0.272,0.349,0.476,0.825,17.0,10.0,0.429,1.25,0.434,-0.005,0.10%,0.51,4.2,0.0,0.0,"2·HR,2B"
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Andrew Vaughn 1B,5.0,1.0,2.0,3.0,0.0,1.0,5.0,0.245,0.288,0.434,0.723,15.0,11.0,0.016,1.14,0.134,-0.118,0.00%,0.46,1.4,4.0,2.0,HR
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Caleb Durbin 3B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.253,0.336,0.365,0.701,19.0,10.0,-0.139,1.05,0.019,-0.157,-0.03%,0.43,-1.4,0.0,1.0,GDP
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,5.0,0.0,2.0,1.0,0.0,2.0,5.0,0.277,0.342,0.41,0.752,25.0,16.0,0.025,0.79,0.092,-0.067,0.01%,0.32,0.4,2.0,0.0,2B
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Steward Berroa CF,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.0,0.2,0.0,0.2,29.0,16.0,-0.052,0.78,0.033,-0.085,-0.01%,0.32,-0.7,2.0,1.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Brandon Lockridge LF,5.0,2.0,3.0,0.0,0.0,1.0,5.0,0.237,0.282,0.281,0.563,15.0,12.0,0.164,0.89,0.197,-0.033,0.04%,0.36,1.4,0.0,0.0,2B
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Jacob Misiorowski P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,DL Hall P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Nick Mears P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Aaron Ashby P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Abner Uribe P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Trevor Megill P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202508150,MIL,https://www.baseball-reference.com/boxes/CIN/CIN202508150.shtml,MilwaukeeBrewersbatting,Team Totals,43.0,10.0,17.0,9.0,2.0,7.0,45.0,0.395,0.422,0.698,1.12,173.0,111.0,0.402,1.03,1.148,-0.745,0.10%,0.42,5.0,27.0,9.0,

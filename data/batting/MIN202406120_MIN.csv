@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Manuel Margot RF,3.0,2.0,2.0,1.0,1.0,0.0,4.0,0.238,0.312,0.325,0.637,17.0,8.0,0.079,0.36,0.081,-0.002,0.04%,0.31,1.8,3.0,0.0,"2B,SB"
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Max Kepler PH-RF,1.0,0.0,0.0,1.0,0.0,1.0,2.0,0.25,0.309,0.409,0.718,9.0,8.0,-0.006,0.12,0.0,-0.006,-0.00%,0.1,-0.3,0.0,0.0,SF
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Carlos Correa SS,6.0,3.0,5.0,1.0,0.0,0.0,6.0,0.29,0.356,0.459,0.815,26.0,16.0,0.097,0.39,0.097,0.0,0.05%,0.34,1.8,2.0,3.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Royce Lewis DH,5.0,3.0,3.0,2.0,0.0,0.0,5.0,0.367,0.394,0.933,1.327,13.0,10.0,0.088,0.7,0.121,-0.033,0.05%,0.61,2.1,0.0,0.0,"HR,2B,GDP"
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,José Miranda 3B,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.273,0.308,0.459,0.767,13.0,11.0,-0.061,0.69,0.029,-0.09,-0.03%,0.61,0.1,2.0,4.0,2·2B
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,2.0,1.0,1.0,1.0,0.0,5.0,0.23,0.285,0.376,0.661,26.0,16.0,0.081,0.65,0.094,-0.013,0.04%,0.57,0.4,0.0,0.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,5.0,2.0,3.0,4.0,0.0,0.0,5.0,0.23,0.308,0.413,0.721,18.0,12.0,0.193,0.59,0.2,-0.008,0.10%,0.52,3.5,11.0,0.0,2B
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Kyle Farmer 2B,5.0,1.0,3.0,2.0,0.0,1.0,5.0,0.192,0.294,0.269,0.563,21.0,15.0,0.01,0.23,0.033,-0.023,0.01%,0.2,0.3,1.0,1.0,CS
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Willi Castro LF,5.0,2.0,3.0,1.0,0.0,1.0,5.0,0.26,0.352,0.419,0.771,18.0,13.0,0.048,0.13,0.053,-0.006,0.03%,0.12,1.7,0.0,0.0,HR
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Christian Vázquez C,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.189,0.209,0.276,0.485,13.0,10.0,0.007,0.16,0.02,-0.013,0.00%,0.14,1.5,8.0,0.0,2·2B
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Pablo López P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Jorge Alcala P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Steven Okert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Jhoan Duran P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Jay Jackson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406120,MIN,https://www.baseball-reference.com/boxes/MIN/MIN202406120.shtml,MinnesotaTwinsbatting,Team Totals,44.0,17.0,24.0,17.0,2.0,4.0,47.0,0.545,0.553,0.841,1.394,174.0,119.0,0.536,0.42,0.728,-0.194,0.28%,0.36,13.0,27.0,9.0,

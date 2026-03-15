@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.258,0.322,0.365,0.687,20.0,10.0,-0.042,0.76,0.044,-0.086,-0.03%,0.9,-0.5,1.0,2.0,CS
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Jackson Chourio LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.267,0.313,0.433,0.746,14.0,9.0,-0.063,0.6,0.0,-0.063,-0.04%,0.72,-0.8,4.0,0.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Garrett Mitchell CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.243,0.341,0.364,0.706,12.0,7.0,-0.024,0.47,0.013,-0.038,-0.02%,0.56,-0.2,2.0,0.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.285,0.358,0.469,0.826,6.0,5.0,0.101,0.75,0.125,-0.024,0.07%,0.89,1.6,8.0,0.0,2B
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Willy Adames SS,2.0,1.0,0.0,0.0,2.0,0.0,4.0,0.252,0.334,0.45,0.784,20.0,10.0,-0.067,0.84,0.03,-0.097,-0.05%,1.0,-0.6,1.0,1.0,GDP
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Tyler Black DH,1.0,0.0,0.0,0.0,2.0,0.0,3.0,0.196,0.315,0.239,0.554,13.0,5.0,0.041,0.77,0.052,-0.011,0.03%,0.92,0.5,0.0,0.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Gary Sánchez PH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.24,0.324,0.413,0.737,1.0,1.0,-0.025,0.54,0.0,-0.025,-0.02%,0.64,-0.9,0.0,0.0,GDP
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.22,0.303,0.426,0.729,17.0,11.0,-0.12,1.23,0.0,-0.12,-0.09%,1.46,-1.4,5.0,2.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.261,0.334,0.336,0.67,18.0,12.0,0.17,1.04,0.198,-0.028,0.12%,1.24,1.4,3.0,0.0,"3B,SB"
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.248,0.344,0.399,0.743,9.0,6.0,-0.046,1.03,0.061,-0.107,-0.03%,1.22,-0.7,1.0,2.0,CS
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Frankie Montas P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Nick Mears P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Devin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202408200,MIL,https://www.baseball-reference.com/boxes/SLN/SLN202408200.shtml,MilwaukeeBrewersbatting,Team Totals,31.0,3.0,8.0,3.0,5.0,3.0,36.0,0.258,0.361,0.355,0.716,130.0,76.0,-0.075,0.83,0.523,-0.599,-0.06%,0.99,-1.6,27.0,7.0,

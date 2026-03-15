@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,1.0,0.0,0.0,0.0,0.0,5.0,0.304,0.367,0.473,0.84,15.0,7.0,-0.045,0.39,0.002,-0.048,-0.03%,0.51,0.0,2.0,3.0,2·HBP
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Tyrone Taylor PH-CF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.178,0.221,0.247,0.467,5.0,4.0,0.0,0.0,0.0,0.0,0%,0.0,0.1,1.0,0.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Juan Soto RF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.257,0.378,0.41,0.787,18.0,12.0,0.004,0.36,0.025,-0.021,0.00%,0.47,1.1,1.0,0.0,2B
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,José Azocar PH-CF-RF,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.4,0.4,0.4,0.8,9.0,4.0,0.0,0.0,0.0,0.0,0%,0.0,-1.1,0.0,0.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Pete Alonso 1B,5.0,3.0,2.0,1.0,1.0,2.0,6.0,0.337,0.453,0.635,1.088,15.0,10.0,-0.039,0.3,0.003,-0.042,-0.03%,0.39,1.2,8.0,0.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Jesse Winker DH,4.0,4.0,2.0,1.0,2.0,1.0,6.0,0.22,0.299,0.407,0.705,24.0,12.0,-0.006,0.4,0.036,-0.041,-0.00%,0.52,2.4,0.0,0.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,4.0,2.0,3.0,2.0,1.0,6.0,0.219,0.303,0.385,0.688,32.0,15.0,0.04,0.45,0.059,-0.019,0.03%,0.59,2.7,0.0,1.0,HR
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Brandon Nimmo LF,6.0,4.0,4.0,9.0,0.0,0.0,6.0,0.218,0.261,0.418,0.679,19.0,12.0,0.106,0.42,0.119,-0.012,0.08%,0.55,6.3,3.0,0.0,"2·HR,2B"
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Francisco Alvarez C,5.0,0.0,2.0,1.0,1.0,2.0,6.0,0.308,0.357,0.615,0.973,20.0,13.0,0.108,0.39,0.118,-0.01,0.08%,0.51,0.9,8.0,1.0,2B
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Jeff McNeil CF-RF-2B,5.0,1.0,2.0,3.0,0.0,0.0,6.0,0.333,0.308,0.75,1.058,23.0,17.0,0.093,0.35,0.093,0.0,0.07%,0.46,0.6,3.0,1.0,"HR,3B,SF"
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Luisangel Acuña 2B-SS,6.0,0.0,3.0,1.0,0.0,1.0,6.0,0.288,0.347,0.364,0.711,16.0,10.0,-0.041,0.26,0.0,-0.041,-0.03%,0.33,0.4,1.0,1.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Griffin Canning P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Max Kranick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,José Ureña P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202504280,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202504280.shtml,NewYorkMetsbatting,Team Totals,47.0,19.0,21.0,19.0,6.0,9.0,56.0,0.447,0.518,0.809,1.326,196.0,116.0,0.22,0.34,0.455,-0.234,0.17%,0.44,14.6,27.0,7.0,

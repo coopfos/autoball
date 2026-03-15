@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Corey Julks LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.293,0.369,0.483,0.852,18.0,13.0,-0.056,0.56,0.0,-0.056,0%,0.0,-0.8,2.0,0.0,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Duke Ellis LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Nicky Lopez 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.244,0.305,0.279,0.584,16.0,11.0,-0.039,0.46,0.015,-0.054,0%,0.0,-0.5,1.0,0.0,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.205,0.222,0.523,0.745,18.0,12.0,0.069,0.48,0.107,-0.038,0%,0.0,0.4,3.0,0.0,HR
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Gavin Sheets DH,2.0,3.0,1.0,1.0,2.0,1.0,4.0,0.235,0.341,0.417,0.758,19.0,8.0,0.091,0.43,0.1,-0.009,0%,0.0,1.4,0.0,0.0,HR
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn 1B,4.0,2.0,2.0,1.0,0.0,0.0,4.0,0.217,0.278,0.355,0.633,13.0,6.0,0.066,0.68,0.087,-0.021,0%,0.0,0.9,5.0,0.0,HR
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Paul DeJong SS,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.228,0.28,0.446,0.726,13.0,8.0,0.183,0.88,0.2,-0.018,0%,0.0,2.2,1.0,2.0,2B
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Oscar Colás RF,3.0,0.0,1.0,2.0,0.0,0.0,4.0,0.231,0.375,0.231,0.606,13.0,7.0,0.137,0.6,0.14,-0.004,0%,0.0,0.8,1.0,0.0,HBP
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Korey Lee C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.245,0.28,0.378,0.658,12.0,9.0,-0.033,0.53,0.0,-0.033,0%,0.0,-0.5,14.0,1.0,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.211,0.262,0.298,0.561,22.0,15.0,-0.053,0.67,0.0,-0.053,0%,0.0,-0.8,0.0,0.0,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Garrett Crochet P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Jonathan Cannon P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202406070,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406070.shtml,ChicagoWhiteSoxbatting,Team Totals,31.0,7.0,8.0,7.0,2.0,5.0,34.0,0.258,0.324,0.581,0.904,144.0,89.0,0.365,0.58,0.649,-0.286,0.00%,0.0,3.2,27.0,5.0,

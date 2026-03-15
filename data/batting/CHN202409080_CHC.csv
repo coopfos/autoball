@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.245,0.344,0.461,0.805,14.0,8.0,0.022,0.59,0.06,-0.038,0.00%,0.05,0.1,4.0,0.0,2B
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.238,0.309,0.385,0.695,21.0,14.0,-0.046,0.7,0.032,-0.078,-0.00%,0.06,-0.5,0.0,1.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Seiya Suzuki DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.271,0.348,0.475,0.823,12.0,10.0,-0.085,0.89,0.0,-0.085,-0.01%,0.07,-1.0,0.0,0.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Cody Bellinger 1B,3.0,1.0,0.0,0.0,0.0,0.0,3.0,0.263,0.324,0.42,0.744,14.0,11.0,-0.021,0.82,0.019,-0.04,-0.00%,0.07,-0.2,8.0,1.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Mike Tauchman RF,2.0,0.0,0.0,0.0,1.0,2.0,3.0,0.246,0.349,0.359,0.708,22.0,13.0,-0.002,0.93,0.03,-0.032,0%,0.08,0.0,3.0,0.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Isaac Paredes 3B,3.0,0.0,1.0,2.0,0.0,0.0,3.0,0.226,0.339,0.395,0.734,11.0,6.0,0.127,1.46,0.167,-0.039,0.01%,0.13,1.3,0.0,2.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.235,0.285,0.392,0.677,11.0,7.0,-0.063,0.79,0.0,-0.063,-0.00%,0.07,-0.8,1.0,0.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Miguel Amaya C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.23,0.285,0.352,0.637,12.0,7.0,-0.02,0.52,0.01,-0.03,-0.00%,0.05,-0.2,8.0,1.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Miles Mastrobuoni 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.202,0.255,0.234,0.489,12.0,9.0,-0.055,0.7,0.0,-0.055,-0.00%,0.06,-0.6,2.0,1.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Jameson Taillon P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Nate Pearson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Porter Hodge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202409080,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409080.shtml,ChicagoCubsbatting,Team Totals,28.0,2.0,3.0,2.0,2.0,10.0,30.0,0.107,0.167,0.143,0.31,129.0,85.0,-0.143,0.81,0.318,-0.46,-0.01%,0.07,-1.9,27.0,6.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202408080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202408080.shtml,TorontoBlueJayspitching,"Kevin Gausman, W (10-8)",8,3,2,2,3,2,1,4.42,30,100,69,46,7,16,9,16,4,0,67.0,,,0.161,0.71,0.00%,0.02,1.9
+TOR202408080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202408080.shtml,TorontoBlueJayspitching,Zach Pop,0,3,3,3,0,0,0,6.43,3,15,8,5,0,3,2,1,0,0,,0.0,0.0,-0.064,0.42,-0.00%,0.01,-1.8
+TOR202408080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202408080.shtml,TorontoBlueJayspitching,"Chad Green, S (11)",1,2,1,1,0,1,0,1.67,5,19,14,11,1,2,2,2,1,0,,3.0,3.0,0.07,1.79,0.00%,0.05,-1.7
+TOR202408080,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202408080.shtml,TorontoBlueJayspitching,Team Totals,9,8,6,6,3,3,1,6.0,38,134,91,62,8,21,13,19,5,0,67.0,3.0,3.0,0.167,0.83,0.00%,0.03,-1.6

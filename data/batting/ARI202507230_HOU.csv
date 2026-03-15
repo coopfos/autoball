@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Taylor Trammell CF-LF,3.0,0.0,1.0,0.0,2.0,1.0,5.0,0.217,0.339,0.413,0.752,28.0,13.0,0.084,1.56,0.202,-0.118,0.07%,2.11,0.5,4.0,0.0,"SB,CS"
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Victor Caratini 1B,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.27,0.321,0.439,0.759,14.0,9.0,-0.106,1.56,0.073,-0.179,-0.09%,2.11,-0.5,9.0,0.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Christian Walker DH,5.0,1.0,2.0,1.0,0.0,3.0,5.0,0.237,0.296,0.385,0.681,24.0,18.0,0.24,2.12,0.4,-0.16,0.19%,2.86,0.4,0.0,0.0,2B
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Yainer Diaz C,5.0,2.0,3.0,0.0,0.0,0.0,5.0,0.246,0.277,0.403,0.68,17.0,11.0,0.217,1.53,0.305,-0.088,0.18%,2.07,1.2,7.0,0.0,2·2B
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Brice Matthews 2B,4.0,0.0,0.0,1.0,0.0,2.0,5.0,0.167,0.259,0.542,0.801,18.0,15.0,-0.042,1.45,0.068,-0.109,-0.03%,1.96,-0.7,2.0,2.0,SH
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Mauricio Dubón SS-3B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.262,0.308,0.407,0.715,14.0,6.0,0.039,1.46,0.087,-0.048,0.03%,1.97,0.3,1.0,2.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Cooper Hummel LF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.167,0.302,0.25,0.552,10.0,6.0,-0.08,1.29,0.013,-0.094,-0.07%,1.74,-0.7,1.0,0.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Cam Smith RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.265,0.332,0.397,0.73,4.0,3.0,-0.017,0.68,0.0,-0.017,-0.01%,0.92,-0.3,2.0,0.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Chas McCormick RF-CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.23,0.299,0.262,0.561,13.0,10.0,-0.117,1.06,0.0,-0.117,-0.09%,1.43,-1.1,0.0,0.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Shay Whitcomb 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.115,0.115,0.231,0.346,14.0,9.0,-0.017,0.98,0.036,-0.053,-0.01%,1.32,-0.2,1.0,2.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Zack Short SS,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.25,0.314,0.406,0.721,3.0,2.0,0.082,2.35,0.082,0.0,0.07%,3.17,0.4,0.0,1.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Brandon Walter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Bennett Sousa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Josh Hader P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202507230,HOU,https://www.baseball-reference.com/boxes/ARI/ARI202507230.shtml,HoustonAstrosbatting,Team Totals,37.0,4.0,11.0,3.0,3.0,7.0,41.0,0.297,0.35,0.378,0.728,159.0,102.0,0.283,1.49,1.266,-0.983,0.23%,2.01,-0.7,27.0,7.0,

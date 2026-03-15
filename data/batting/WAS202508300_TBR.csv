@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Chandler Simpson LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.295,0.33,0.348,0.678,15.0,10.0,0.017,0.4,0.036,-0.019,0.00%,0.05,-0.1,1.0,0.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Yandy Díaz DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.284,0.344,0.469,0.813,16.0,11.0,-0.092,0.55,0.0,-0.092,-0.01%,0.06,-1.4,0.0,0.0,GDP
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Brandon Lowe 2B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.264,0.32,0.488,0.808,15.0,11.0,-0.002,0.23,0.012,-0.014,0%,0.03,-0.3,0.0,3.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Junior Caminero 3B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.256,0.299,0.531,0.83,16.0,11.0,0.002,0.37,0.02,-0.018,0%,0.04,-0.2,0.0,3.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Josh Lowe RF,3.0,2.0,2.0,4.0,0.0,0.0,3.0,0.236,0.301,0.387,0.688,9.0,7.0,0.314,0.73,0.319,-0.005,0.02%,0.08,3.4,2.0,0.0,2·HR
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Jake Mangum CF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.285,0.319,0.356,0.675,6.0,5.0,-0.016,0.28,0.007,-0.024,-0.00%,0.03,-0.4,2.0,0.0,CS
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Bob Seymour 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.194,0.219,0.323,0.541,9.0,5.0,-0.02,0.27,0.0,-0.02,-0.00%,0.03,-0.4,9.0,1.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Carson Williams SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.231,0.259,0.423,0.682,12.0,8.0,-0.02,0.27,0.0,-0.02,-0.00%,0.03,-0.6,1.0,1.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Hunter Feduccia C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.119,0.255,0.19,0.445,13.0,8.0,-0.014,0.19,0.0,-0.014,-0.00%,0.02,-0.4,12.0,0.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Ryan Pepiot P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Mason Englert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Griffin Jax P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Bryan Baker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508300,TBR,https://www.baseball-reference.com/boxes/WAS/WAS202508300.shtml,TampaBayRaysbatting,Team Totals,30.0,4.0,5.0,4.0,1.0,5.0,31.0,0.167,0.194,0.367,0.56,111.0,76.0,0.169,0.36,0.394,-0.226,0.01%,0.04,-0.4,27.0,8.0,

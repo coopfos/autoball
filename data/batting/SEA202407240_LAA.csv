@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.247,0.332,0.361,0.694,15.0,6.0,0.134,1.19,0.166,-0.031,0.01%,0.2,0.9,5.0,1.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.309,0.351,0.432,0.784,11.0,8.0,-0.167,1.85,0.0,-0.167,-0.02%,0.32,-1.1,1.0,2.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Taylor Ward LF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.229,0.313,0.394,0.706,32.0,22.0,-0.007,1.5,0.049,-0.056,-0.00%,0.26,0.2,3.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Willie Calhoun DH,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.255,0.321,0.391,0.711,14.0,8.0,0.115,2.1,0.244,-0.129,0.01%,0.36,-0.2,0.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Kevin Pillar PR-DH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.273,0.333,0.465,0.798,,,0.028,1.76,0.028,0.0,0.00%,0.3,0.1,0.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.172,0.253,0.213,0.466,16.0,10.0,0.225,1.65,0.291,-0.066,0.02%,0.28,0.5,3.0,1.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.208,0.255,0.333,0.588,12.0,10.0,-0.078,1.15,0.039,-0.117,-0.01%,0.2,-0.7,2.0,0.0,CS
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.257,0.311,0.44,0.75,12.0,8.0,-0.084,1.21,0.029,-0.113,-0.01%,0.2,-0.4,3.0,1.0,SB
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Matt Thaiss C,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.231,0.333,0.346,0.679,13.0,10.0,-0.036,0.88,0.026,-0.063,-0.00%,0.15,-0.4,8.0,1.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Jo Adell RF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.194,0.264,0.389,0.653,23.0,17.0,-0.124,1.23,0.0,-0.124,-0.01%,0.21,-1.0,2.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Griffin Canning P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,José Quijada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Hans Crouse P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Carlos Estévez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202407240,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202407240.shtml,LosAngelesAngelsbatting,Team Totals,34.0,2.0,9.0,2.0,2.0,13.0,36.0,0.265,0.306,0.265,0.57,148.0,99.0,0.006,1.4,0.872,-0.866,-0.00%,0.24,-2.0,27.0,6.0,

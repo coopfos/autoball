@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202504300,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202504300.shtml,MinnesotaTwinspitching,"Pablo López, L (2-2)",6.1,4,2,2,0,6,0,2.25,23,90,60,35,10,15,10,7,2,0,63.0,,,0.154,1.1,0.08%,0.94,2.0
+CLE202504300,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202504300.shtml,MinnesotaTwinspitching,Brock Stewart,0.2,1,2,2,1,1,1,4.5,4,21,11,7,2,2,1,1,0,0,,1.0,1.0,-0.174,1.14,-0.09%,0.98,-2.5
+CLE202504300,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202504300.shtml,MinnesotaTwinspitching,Danny Coulombe,1.0,0,0,0,0,3,0,0.0,3,16,11,6,2,3,0,0,0,0,,0.0,0.0,0.007,0.08,0.00%,0.07,0.5
+CLE202504300,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202504300.shtml,MinnesotaTwinspitching,Team Totals,8.0,5,4,4,1,10,1,4.5,30,127,82,48,14,20,11,8,2,0,63.0,1.0,1.0,-0.013,1.02,-0.01%,0.88,0.1

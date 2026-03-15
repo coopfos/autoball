@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Isaac Paredes DH-3B,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.257,0.356,0.467,0.824,20.0,13.0,-0.025,1.51,0.122,-0.147,-0.02%,1.69,-0.5,0.0,0.0,2B
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Jake Meyers CF,2.0,0.0,1.0,0.0,1.0,1.0,3.0,0.308,0.369,0.405,0.774,10.0,5.0,-0.023,1.42,0.04,-0.063,-0.02%,1.6,-0.2,5.0,0.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Taylor Trammell CF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.214,0.0,0.214,9.0,7.0,-0.028,0.56,0.0,-0.028,-0.02%,0.63,-0.5,3.0,0.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Jose Altuve 2B,4.0,1.0,2.0,2.0,0.0,0.0,5.0,0.272,0.332,0.457,0.788,15.0,13.0,-0.031,1.25,0.056,-0.087,-0.02%,1.4,0.7,1.0,1.0,"HR,SF"
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Cam Smith RF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.286,0.351,0.435,0.786,17.0,13.0,-0.133,1.07,0.0,-0.133,-0.09%,1.19,-1.3,1.0,0.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Christian Walker 1B,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.234,0.294,0.384,0.678,20.0,12.0,0.023,0.92,0.118,-0.095,0.02%,1.04,0.1,5.0,0.0,HR
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Yainer Diaz C,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.248,0.28,0.411,0.69,15.0,9.0,0.057,0.71,0.1,-0.043,0.04%,0.8,0.8,7.0,0.0,"HR,2B"
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Cooper Hummel LF,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.222,0.386,0.356,0.742,18.0,10.0,-0.023,0.81,0.013,-0.036,-0.02%,0.91,-0.4,1.0,0.0,HBP
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Bryan Abreu P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Mauricio Dubón 3B-LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.251,0.289,0.393,0.682,12.0,6.0,-0.005,1.08,0.042,-0.046,-0.00%,1.21,-0.2,3.0,1.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Zack Short SS,3.0,1.0,3.0,1.0,1.0,0.0,4.0,0.667,0.75,1.0,1.75,20.0,12.0,0.254,1.55,0.254,0.0,0.17%,1.74,1.9,1.0,4.0,2B
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Ryan Gusto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Bennett Sousa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Bryan King P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202507060,HOU,https://www.baseball-reference.com/boxes/LAN/LAN202507060.shtml,HoustonAstrosbatting,Team Totals,37.0,5.0,11.0,5.0,2.0,9.0,41.0,0.297,0.341,0.622,0.963,156.0,100.0,0.066,1.12,0.745,-0.678,0.04%,1.25,0.5,27.0,6.0,

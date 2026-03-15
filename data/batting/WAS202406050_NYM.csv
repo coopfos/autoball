@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Francisco Lindor SS,5.0,2.0,2.0,1.0,0.0,0.0,5.0,0.235,0.302,0.41,0.713,11.0,10.0,0.022,0.34,0.054,-0.032,0.01%,0.13,0.8,1.0,2.0,HR
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Pete Alonso 1B,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.238,0.315,0.477,0.792,30.0,14.0,0.021,0.36,0.043,-0.023,0.01%,0.14,1.1,12.0,1.0,2B
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,0.0,1.0,0.0,0.0,1.0,5.0,0.222,0.351,0.384,0.736,13.0,7.0,-0.036,0.43,0.026,-0.062,-0.01%,0.16,0.1,2.0,0.0,"HBP,GDP"
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,J.D. Martinez DH,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.281,0.331,0.467,0.798,15.0,11.0,-0.062,0.62,0.014,-0.075,-0.01%,0.24,-1.2,0.0,0.0,2·GDP
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.333,0.392,0.621,1.013,19.0,11.0,-0.021,0.53,0.019,-0.04,-0.01%,0.2,-0.0,0.0,3.0,
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Tyrone Taylor RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.235,0.258,0.353,0.611,11.0,8.0,0.061,0.35,0.079,-0.018,0.01%,0.14,-0.1,0.0,0.0,3B
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Harrison Bader CF,3.0,1.0,1.0,3.0,0.0,1.0,4.0,0.272,0.317,0.376,0.693,12.0,9.0,0.037,0.71,0.062,-0.025,0.01%,0.27,1.7,3.0,0.0,"2B,SF"
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Jose Iglesias 2B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.389,0.421,0.444,0.865,11.0,7.0,-0.02,0.3,0.006,-0.026,-0.01%,0.12,0.8,3.0,4.0,
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Luis Torrens C,4.0,2.0,2.0,2.0,0.0,0.0,4.0,0.3,0.364,1.0,1.364,19.0,12.0,0.204,0.28,0.205,-0.001,0.05%,0.11,1.6,5.0,1.0,2·HR
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Luis Severino P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Danny Young P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetsbatting,Team Totals,34.0,9.0,11.0,8.0,3.0,5.0,39.0,0.324,0.385,0.706,1.09,141.0,89.0,0.206,0.43,0.508,-0.302,0.05%,0.17,4.6,27.0,13.0,

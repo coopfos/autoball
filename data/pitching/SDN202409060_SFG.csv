@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202409060,SFG,https://www.baseball-reference.com/boxes/SDN/SDN202409060.shtml,SanFranciscoGiantspitching,"Mason Black, L (0-3)",4.2,6,4,4,1,6,1,7.5,21,93,66,44,4,18,3,11,1,0,41.0,,,-0.158,0.52,-0.00%,0.01,-1.0
+SDN202409060,SFG,https://www.baseball-reference.com/boxes/SDN/SDN202409060.shtml,SanFranciscoGiantspitching,Sean Hjelle,1.1,2,0,0,0,2,0,3.84,6,22,15,6,2,7,2,2,1,0,,2.0,1.0,-0.016,0.38,0.00%,0.01,0.0
+SDN202409060,SFG,https://www.baseball-reference.com/boxes/SDN/SDN202409060.shtml,SanFranciscoGiantspitching,Austin Warren,2.0,1,1,1,0,1,1,2.25,7,32,21,13,1,7,3,3,1,0,,0.0,0.0,0.0,0.1,0.00%,0.0,0.0
+SDN202409060,SFG,https://www.baseball-reference.com/boxes/SDN/SDN202409060.shtml,SanFranciscoGiantspitching,Team Totals,8.0,9,5,5,1,9,2,5.62,34,147,102,63,7,32,8,16,3,0,41.0,2.0,1.0,-0.174,0.41,-0.00%,0.01,-1.0

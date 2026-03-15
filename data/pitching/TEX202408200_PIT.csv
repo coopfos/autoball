@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202408200,PIT,https://www.baseball-reference.com/boxes/TEX/TEX202408200.shtml,PittsburghPiratespitching,"Mitch Keller, W (11-7)",7,3,0,0,0,9,0,3.76,24,98,73,38,12,23,5,10,4,0,80.0,,,0.308,0.8,0.01%,0.04,3.0
+TEX202408200,PIT,https://www.baseball-reference.com/boxes/TEX/TEX202408200.shtml,PittsburghPiratespitching,"Aroldis Chapman, H (20)",1,0,0,0,0,0,0,3.28,2,4,4,3,1,0,2,0,0,0,,1.0,0.0,0.097,1.11,0.00%,0.07,0.9
+TEX202408200,PIT,https://www.baseball-reference.com/boxes/TEX/TEX202408200.shtml,PittsburghPiratespitching,David Bednar,1,0,0,0,0,1,0,5.56,3,10,8,3,3,2,2,0,0,0,,0.0,0.0,0.017,0.22,0.00%,0.01,0.5
+TEX202408200,PIT,https://www.baseball-reference.com/boxes/TEX/TEX202408200.shtml,PittsburghPiratespitching,Team Totals,9,3,0,0,0,10,0,0.0,29,112,85,44,16,25,9,10,4,0,80.0,1.0,0.0,0.422,0.76,0.01%,0.04,4.3

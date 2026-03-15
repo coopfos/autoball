@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.256,0.33,0.455,0.785,15.0,12.0,-0.045,0.51,0.003,-0.048,-0.03%,0.64,-0.2,1.0,1.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Brandon Nimmo LF,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.233,0.348,0.41,0.758,21.0,14.0,0.015,0.58,0.047,-0.033,0.01%,0.73,-0.0,4.0,0.0,2B
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Jesse Winker RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.26,0.371,0.41,0.781,13.0,8.0,-0.077,0.81,0.002,-0.079,-0.06%,1.01,-0.5,0.0,0.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.244,0.329,0.472,0.8,13.0,9.0,-0.063,0.61,0.0,-0.063,-0.05%,0.77,-0.9,7.0,0.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,J.D. Martinez DH,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.26,0.346,0.442,0.788,17.0,10.0,0.023,0.74,0.062,-0.04,0.02%,0.93,0.6,0.0,0.0,2B
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.239,0.293,0.379,0.672,10.0,6.0,0.092,0.89,0.111,-0.019,0.07%,1.11,0.2,1.0,2.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.273,0.327,0.542,0.869,19.0,12.0,-0.179,1.21,0.024,-0.203,-0.14%,1.52,-1.4,0.0,3.0,"2B,GDP"
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.267,0.327,0.426,0.753,21.0,15.0,-0.105,1.0,0.0,-0.105,-0.08%,1.26,-1.1,9.0,0.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Harrison Bader CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.269,0.309,0.405,0.714,14.0,10.0,-0.044,0.61,0.0,-0.044,-0.03%,0.77,-0.6,2.0,0.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Jose Quintana P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Adam Ottavino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Alex Young P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetsbatting,Team Totals,33.0,0.0,7.0,0.0,2.0,9.0,35.0,0.212,0.257,0.303,0.56,143.0,96.0,-0.383,0.78,0.249,-0.634,-0.29%,0.98,-4.0,24.0,7.0,

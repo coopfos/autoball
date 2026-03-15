@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.264,0.368,0.58,0.948,18.0,7.0,-0.063,1.17,0.033,-0.096,-0.04%,1.26,-0.6,1.0,2.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.304,0.343,0.464,0.807,16.0,12.0,-0.11,1.17,0.024,-0.135,-0.07%,1.25,-0.7,8.0,0.0,GDP
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.281,0.319,0.502,0.821,19.0,12.0,-0.125,1.26,0.0,-0.125,-0.08%,1.35,-0.9,6.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Ryan O'Hearn RF,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.276,0.339,0.449,0.788,15.0,12.0,-0.006,0.9,0.051,-0.056,-0.00%,0.96,0.0,1.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Austin Hays LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.209,0.266,0.337,0.603,,,,,,,,,,0.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Anthony Santander DH,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.225,0.303,0.464,0.768,20.0,10.0,0.109,1.15,0.16,-0.05,0.07%,1.23,1.1,0.0,0.0,HR
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Jordan Westburg 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.28,0.335,0.488,0.823,9.0,7.0,-0.16,1.77,0.0,-0.16,-0.10%,1.9,-1.1,2.0,1.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Kyle Stowers LF-RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.333,0.321,0.481,0.803,13.0,9.0,-0.152,1.39,0.023,-0.175,-0.10%,1.49,-1.0,3.0,0.0,CS
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.178,0.225,0.314,0.539,19.0,9.0,-0.063,0.9,0.021,-0.084,-0.04%,0.96,-0.2,4.0,0.0,SB
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Ramón Urías 3B,2.0,0.0,1.0,1.0,1.0,0.0,3.0,0.247,0.304,0.411,0.715,11.0,6.0,0.112,1.14,0.142,-0.03,0.07%,1.22,1.0,0.0,1.0,2B
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Albert Suárez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Jacob Webb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Danny Coulombe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406050,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202406050.shtml,BaltimoreOriolesbatting,Team Totals,31.0,2.0,6.0,2.0,4.0,5.0,35.0,0.194,0.286,0.323,0.608,140.0,84.0,-0.458,1.2,0.454,-0.911,-0.30%,1.29,-2.4,25.0,4.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202404020,MIN,https://www.baseball-reference.com/boxes/MIL/MIL202404020.shtml,MinnesotaTwinspitching,"Louis Varland, L (0-1)",4,6,3,3,2,4,1,6.75,21,89,52,27,11,14,8,6,4,0,40.0,,,-0.121,1.05,-0.07%,0.99,-0.9
+MIL202404020,MIN,https://www.baseball-reference.com/boxes/MIL/MIL202404020.shtml,MinnesotaTwinspitching,Jorge Alcala,2,1,0,0,2,2,0,0.0,9,39,21,13,2,6,0,5,1,0,,0.0,0.0,0.064,0.74,0.04%,0.7,1.0
+MIL202404020,MIN,https://www.baseball-reference.com/boxes/MIL/MIL202404020.shtml,MinnesotaTwinspitching,Jay Jackson,2,0,0,0,1,2,0,0.0,6,24,14,7,3,4,2,1,0,0,,0.0,0.0,0.076,0.57,0.04%,0.54,1.0
+MIL202404020,MIN,https://www.baseball-reference.com/boxes/MIL/MIL202404020.shtml,MinnesotaTwinspitching,Team Totals,8,7,3,3,5,8,1,3.38,36,152,87,47,16,24,10,12,5,0,40.0,0.0,0.0,0.019,0.88,0.01%,0.83,1.1

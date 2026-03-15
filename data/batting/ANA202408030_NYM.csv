@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Francisco Lindor SS,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.255,0.331,0.463,0.794,14.0,9.0,-0.034,1.37,0.078,-0.113,-0.03%,1.63,-0.1,0.0,6.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.237,0.353,0.417,0.77,19.0,12.0,0.024,1.5,0.124,-0.1,0.02%,1.8,0.3,1.0,0.0,2B
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,J.D. Martinez DH,4.0,1.0,2.0,4.0,0.0,1.0,5.0,0.268,0.349,0.454,0.803,19.0,14.0,0.419,1.8,0.486,-0.067,0.30%,2.15,2.6,0.0,0.0,HR
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Pete Alonso 1B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.242,0.326,0.468,0.794,21.0,11.0,-0.005,1.0,0.056,-0.061,-0.00%,1.21,-0.1,12.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Jesse Winker RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.255,0.371,0.412,0.783,12.0,10.0,-0.118,1.18,0.0,-0.118,-0.08%,1.41,-1.1,3.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Harrison Bader CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.268,0.309,0.405,0.714,,,,,,,,,,1.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Mark Vientos 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.284,0.341,0.556,0.897,20.0,13.0,0.132,1.25,0.176,-0.044,0.10%,1.5,0.4,0.0,2.0,2B
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Jose Iglesias PR-3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.333,0.38,0.508,0.888,,,,,,,,,,0.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Luis Torrens C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.288,0.338,0.493,0.831,17.0,9.0,-0.19,1.6,0.0,-0.19,-0.14%,1.92,-1.1,7.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Jeff McNeil 2B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.235,0.291,0.369,0.66,20.0,11.0,-0.058,1.52,0.059,-0.118,-0.04%,1.81,-0.3,0.0,2.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Tyrone Taylor CF-RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.236,0.282,0.396,0.678,19.0,15.0,-0.194,1.92,0.0,-0.194,-0.14%,2.29,-1.1,0.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,David Peterson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Huascar Brazobán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Alex Young P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Adam Ottavino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Danny Young P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408030,NYM,https://www.baseball-reference.com/boxes/ANA/ANA202408030.shtml,NewYorkMetsbatting,Team Totals,34.0,4.0,8.0,4.0,4.0,8.0,39.0,0.235,0.316,0.382,0.698,161.0,104.0,-0.024,1.47,0.979,-1.005,-0.02%,1.75,-0.4,24.0,10.0,

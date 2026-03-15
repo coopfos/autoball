@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202405310,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202405310.shtml,LosAngelesAngelspitching,José Soriano,6,7,4,4,2,3,0,3.86,27,98,57,34,9,14,7,15,4,0,43.0,,,-0.215,0.66,-0.03%,0.17,-1.3
+SEA202405310,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202405310.shtml,LosAngelesAngelspitching,Luis García,1,0,0,0,0,1,0,4.26,4,20,12,8,1,3,1,1,0,0,,0.0,0.0,0.083,1.73,0.01%,0.46,0.4
+SEA202405310,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202405310.shtml,LosAngelesAngelspitching,"Matt Moore, L (1-2)",1,2,1,1,0,1,1,5.91,5,23,16,10,5,1,2,2,1,0,,0.0,0.0,-0.251,0.89,-0.04%,0.24,-0.6
+SEA202405310,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202405310.shtml,LosAngelesAngelspitching,Team Totals,8,9,5,5,2,5,1,5.62,36,141,85,52,15,18,10,18,5,0,43.0,0.0,0.0,-0.383,0.81,-0.06%,0.21,-1.4

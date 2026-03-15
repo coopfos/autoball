@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202508160,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508160.shtml,WashingtonNationalspitching,"Cade Cavalli, W (1-0)",7,7,0,0,0,5,0,2.2,26,90,63,34,9,20,12,9,5,0,68.0,,,0.412,1.15,0.00%,0.0,3.4
+WAS202508160,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508160.shtml,WashingtonNationalspitching,"Jose A. Ferrer, S (2)",2,1,0,0,0,2,0,4.45,7,24,15,8,4,3,4,1,1,0,,0.0,0.0,0.146,1.24,0.00%,0.0,1.0
+WAS202508160,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508160.shtml,WashingtonNationalspitching,Team Totals,9,8,0,0,0,7,0,0.0,33,114,78,42,13,23,16,10,6,0,68.0,0.0,0.0,0.558,1.17,0.00%,0.0,4.4

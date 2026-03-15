@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202506190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202506190.shtml,LosAngelesDodgerspitching,"Yoshinobu Yamamoto, L (6-6)",6.1,7,3,3,0,5,1,2.76,25,100,70,44,6,20,7,13,5,0,52.0,,,-0.036,0.79,-0.03%,1.11,-0.2
+LAN202506190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202506190.shtml,LosAngelesDodgerspitching,Lou Trivino,0.2,0,0,0,0,0,0,3.95,3,15,9,8,1,0,1,1,0,0,,1.0,0.0,0.029,0.68,0.03%,0.95,0.7
+LAN202506190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202506190.shtml,LosAngelesDodgerspitching,Jack Little,2.0,4,2,2,1,1,0,9.0,11,35,23,14,4,5,3,5,2,0,,0.0,0.0,-0.047,0.2,-0.04%,0.28,-1.0
+LAN202506190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202506190.shtml,LosAngelesDodgerspitching,Team Totals,9.0,11,5,5,1,6,1,5.0,39,150,102,66,11,25,11,19,7,0,52.0,1.0,0.0,-0.054,0.62,-0.04%,0.86,-0.5

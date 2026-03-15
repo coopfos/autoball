@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202404080,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,SeattleMarinerspitching,"Luis Castillo, L (0-3)",5,9,4,4,1,6,0,6.89,25,101,70,42,9,19,6,12,8,0,38.0,,,-0.194,0.78,-0.10%,0.66,-1.6
+TOR202404080,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,SeattleMarinerspitching,Tyson Miller,2,0,0,0,0,2,0,0.0,6,21,18,11,2,5,0,4,2,0,,0.0,0.0,0.015,0.1,0.01%,0.08,1.0
+TOR202404080,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,SeattleMarinerspitching,Brett de Geus,1,2,1,1,0,1,0,9.0,5,24,14,6,2,6,1,2,2,0,,0.0,0.0,-0.012,0.18,-0.01%,0.15,-0.5
+TOR202404080,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404080.shtml,SeattleMarinerspitching,Team Totals,8,11,5,5,1,9,0,5.62,36,146,102,59,13,30,7,18,12,0,38.0,0.0,0.0,-0.191,0.56,-0.10%,0.48,-1.1

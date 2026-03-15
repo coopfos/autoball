@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.296,0.39,0.631,1.02,18.0,12.0,-0.099,1.03,0.0,-0.099,0%,0.0,-0.8,0.0,0.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.259,0.343,0.423,0.766,19.0,11.0,-0.017,0.97,0.053,-0.07,0%,0.0,-0.2,1.0,4.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.308,0.333,0.596,0.929,17.0,10.0,-0.109,0.91,0.022,-0.131,0%,0.0,-0.8,2.0,0.0,"2B,GDP"
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.351,0.42,0.629,1.049,10.0,7.0,-0.077,0.73,0.0,-0.077,0%,0.0,-0.8,4.0,4.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Andy Pages LF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.272,0.32,0.467,0.786,10.0,9.0,0.06,0.74,0.085,-0.025,0%,0.0,0.3,4.0,0.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Tommy Edman CF,1.0,1.0,0.0,0.0,1.0,0.0,3.0,0.237,0.285,0.473,0.758,13.0,6.0,0.01,1.42,0.063,-0.053,0%,0.0,0.3,1.0,1.0,HBP
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.229,0.299,0.448,0.747,9.0,5.0,0.009,1.68,0.133,-0.124,0%,0.0,0.3,2.0,1.0,2·GDP
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Dalton Rushing C,3.0,0.0,0.0,1.0,0.0,2.0,3.0,0.25,0.294,0.313,0.607,11.0,8.0,-0.038,1.43,0.025,-0.063,0%,0.0,-0.3,6.0,0.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Miguel Rojas 2B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.25,0.278,0.329,0.607,8.0,4.0,-0.001,0.87,0.043,-0.044,0%,0.0,-0.2,1.0,1.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Hyeseong Kim PR-2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.395,0.425,0.5,0.925,,,0.008,1.18,0.008,0.0,0%,0.0,0.1,0.0,0.0,SB
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Tony Gonsolin P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Anthony Banda P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Bobby Miller P,,,,,,,,,,,,,,,,,,,,,2.0,2.0,
+NYN202505240,LAD,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,LosAngelesDodgersbatting,Team Totals,29.0,2.0,5.0,2.0,2.0,10.0,32.0,0.172,0.25,0.207,0.457,115.0,72.0,-0.254,1.06,0.432,-0.686,0.00%,0.0,-2.2,24.0,13.0,

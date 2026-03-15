@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202406300,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406300.shtml,TexasRangerspitching,"Andrew Heaney, W (3-9)",7,5,2,2,0,10,0,4.04,28,93,68,36,16,16,5,12,7,0,69.0,,,0.061,0.75,0.01%,0.25,1.2
+BAL202406300,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406300.shtml,TexasRangerspitching,José Ureña,2,2,0,0,0,2,0,2.83,8,32,22,13,6,3,3,3,0,0,,0.0,0.0,0.001,0.0,0.00%,0.0,0.9
+BAL202406300,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406300.shtml,TexasRangerspitching,Team Totals,9,7,2,2,0,12,0,2.0,36,125,90,49,22,19,8,15,7,0,69.0,0.0,0.0,0.062,0.59,0.01%,0.2,2.1

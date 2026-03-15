@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202507102,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507102.shtml,BaltimoreOriolespitching,"Tomoyuki Sugano, W (7-5)",6,4,3,3,3,2,0,4.44,25,99,60,36,11,13,10,10,7,0,51.0,,,-0.011,1.24,-0.00%,0.29,-0.1
+BAL202507102,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507102.shtml,BaltimoreOriolespitching,Andrew Kittredge,1,0,0,0,0,1,0,3.57,3,9,8,3,2,3,0,2,1,0,,0.0,0.0,0.027,0.35,0.00%,0.08,0.5
+BAL202507102,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507102.shtml,BaltimoreOriolespitching,Gregory Soto,1,0,0,0,0,1,0,3.78,3,13,9,4,3,2,0,2,1,0,,0.0,0.0,0.021,0.28,0.00%,0.07,0.5
+BAL202507102,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507102.shtml,BaltimoreOriolespitching,Seranthony Domínguez,1,1,0,0,1,2,0,3.13,5,21,12,4,3,5,0,2,1,0,,0.0,0.0,0.013,0.56,0.00%,0.13,0.5
+BAL202507102,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507102.shtml,BaltimoreOriolespitching,Team Totals,9,5,3,3,4,6,0,3.0,36,142,89,47,19,23,10,16,10,0,51.0,0.0,0.0,0.05,1.0,0.01%,0.24,1.3

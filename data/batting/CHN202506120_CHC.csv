@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.251,0.339,0.393,0.732,14.0,11.0,-0.069,0.69,0.0,-0.069,-0.05%,0.9,-0.8,1.0,0.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Kyle Tucker RF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.273,0.386,0.504,0.89,14.0,9.0,-0.001,0.5,0.03,-0.03,0%,0.65,-0.1,1.0,0.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Seiya Suzuki DH,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.266,0.325,0.548,0.874,7.0,5.0,0.03,0.69,0.073,-0.044,0.02%,0.9,0.6,0.0,0.0,HR
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,1.0,1.0,2.0,0.0,1.0,3.0,0.271,0.305,0.554,0.859,16.0,10.0,0.218,0.69,0.244,-0.026,0.17%,0.9,1.6,5.0,0.0,HR
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Dansby Swanson SS,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.242,0.293,0.423,0.716,9.0,8.0,-0.026,0.55,0.008,-0.034,-0.02%,0.72,-0.2,0.0,0.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Carson Kelly C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.25,0.365,0.486,0.851,13.0,10.0,-0.039,0.5,0.0,-0.039,-0.03%,0.65,-0.5,10.0,1.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Michael Busch 1B,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.264,0.363,0.505,0.867,16.0,9.0,-0.028,0.63,0.01,-0.038,-0.02%,0.82,-0.3,7.0,1.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Nico Hoerner 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.285,0.33,0.356,0.685,6.0,4.0,-0.046,0.6,0.0,-0.046,-0.04%,0.78,-0.5,2.0,4.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Matt Shaw 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.239,0.314,0.341,0.654,8.0,6.0,-0.031,0.41,0.0,-0.031,-0.02%,0.53,-0.4,0.0,2.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Jameson Taillon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Brad Keller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Daniel Palencia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Ryan Pressly P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHN202506120,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202506120.shtml,ChicagoCubsbatting,Team Totals,28.0,3.0,4.0,3.0,1.0,9.0,29.0,0.143,0.172,0.357,0.53,103.0,72.0,0.008,0.59,0.365,-0.357,0.01%,0.76,-0.7,27.0,8.0,

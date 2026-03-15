@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202404202,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404202.shtml,ChicagoCubspitching,"Shota Imanaga, W (3-0)",6,5,3,2,0,5,1,0.84,23,92,64,44,15,5,10,8,1,0,57.0,,,-0.082,0.88,-0.05%,0.94,-0.1
+CHN202404202,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404202.shtml,ChicagoCubspitching,"Ben Brown, H (1)",2,2,0,0,0,3,0,3.93,8,27,19,11,6,2,4,1,0,0,,0.0,0.0,0.142,1.16,0.09%,1.25,1.0
+CHN202404202,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404202.shtml,ChicagoCubspitching,"Héctor Neris, S (1)",1,1,0,0,0,1,0,3.86,4,16,10,7,3,0,2,1,0,0,,0.0,0.0,0.072,1.43,0.05%,1.53,0.5
+CHN202404202,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404202.shtml,ChicagoCubspitching,Team Totals,9,8,3,2,0,9,1,2.0,35,135,93,62,24,7,16,10,1,0,57.0,0.0,0.0,0.132,1.01,0.09%,1.08,1.4

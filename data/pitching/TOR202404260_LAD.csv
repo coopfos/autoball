@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202404260,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404260.shtml,LosAngelesDodgerspitching,"Gavin Stone, W (2-1)",7,2,1,1,2,2,1,4.68,25,94,58,38,4,16,9,12,4,0,69.0,,,0.125,0.39,0.08%,0.43,2.4
+TOR202404260,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404260.shtml,LosAngelesDodgerspitching,Nick Ramirez,2,3,1,1,2,1,0,1.29,11,28,18,10,2,6,2,6,3,0,,0.0,0.0,0.0,0.01,0.00%,0.01,-0.0
+TOR202404260,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404260.shtml,LosAngelesDodgerspitching,Team Totals,9,5,2,2,4,3,1,2.0,36,122,76,48,6,22,11,18,7,0,69.0,0.0,0.0,0.125,0.27,0.08%,0.3,2.4

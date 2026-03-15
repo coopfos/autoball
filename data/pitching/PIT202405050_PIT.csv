@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202405050,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,PittsburghPiratespitching,Bailey Falter,5.1,6,3,3,2,3,2,4.34,23,80,52,28,9,15,6,12,7,0,45.0,,,-0.127,0.6,-0.05%,0.42,-0.9
+PIT202405050,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,PittsburghPiratespitching,"Luis Ortiz, W (2-1)",1.2,0,0,0,0,0,0,2.89,5,16,13,10,0,3,1,4,0,0,,2.0,0.0,0.137,1.14,0.06%,0.79,1.4
+PIT202405050,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,PittsburghPiratespitching,"Aroldis Chapman, H (7)",1.0,0,0,0,1,2,0,4.91,3,21,12,6,3,3,0,0,0,0,,0.0,0.0,0.076,1.39,0.03%,0.96,0.5
+PIT202405050,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,PittsburghPiratespitching,"David Bednar, S (6)",1.0,1,0,0,0,1,0,9.69,4,13,10,8,0,2,0,3,1,0,,0.0,0.0,0.075,1.06,0.03%,0.73,0.5
+PIT202405050,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405050.shtml,PittsburghPiratespitching,Team Totals,9.0,7,3,3,3,6,2,3.0,35,130,87,52,12,23,7,19,8,0,45.0,2.0,0.0,0.161,0.82,0.07%,0.56,1.6

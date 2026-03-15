@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202507070,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202507070.shtml,PhiladelphiaPhilliespitching,Cristopher Sánchez,7.0,7,1,1,1,8,0,2.59,29,105,73,42,13,18,15,5,3,0,66.0,,,0.286,1.18,0.26%,1.74,2.3
+SFN202507070,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202507070.shtml,PhiladelphiaPhilliespitching,"Orion Kerkering, L (5-4)",0.1,1,2,2,0,0,0,2.83,5,25,13,6,1,6,3,0,0,0,,0.0,0.0,-0.35,2.02,-0.31%,3.0,-2.4
+SFN202507070,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202507070.shtml,PhiladelphiaPhilliespitching,Max Lazar,0.2,0,0,0,0,1,0,3.44,2,6,4,2,1,1,1,0,0,0,,2.0,0.0,0.021,0.47,0.02%,0.7,0.9
+SFN202507070,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202507070.shtml,PhiladelphiaPhilliespitching,Team Totals,8.0,8,3,3,1,9,0,3.38,36,136,90,50,15,25,19,5,3,0,66.0,2.0,0.0,-0.043,1.25,-0.04%,1.86,0.7

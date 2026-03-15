@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202507090,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202507090.shtml,HoustonAstrospitching,"Brandon Walter, L (1-2)",6,2,2,2,0,7,2,3.98,20,95,60,29,15,16,2,11,2,0,67.0,,,0.042,0.52,0.03%,0.62,1.0
+HOU202507090,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202507090.shtml,HoustonAstrospitching,Bennett Sousa,1,3,2,2,1,0,0,2.29,7,24,14,7,3,4,4,2,1,0,,0.0,0.0,-0.113,0.69,-0.08%,0.82,-1.5
+HOU202507090,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202507090.shtml,HoustonAstrospitching,Bryan King,2,1,0,0,0,0,0,2.84,6,16,13,9,0,4,4,2,2,0,,0.0,0.0,0.025,0.22,0.02%,0.25,1.0
+HOU202507090,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202507090.shtml,HoustonAstrospitching,Team Totals,9,6,4,4,1,7,2,4.0,33,135,87,45,18,24,10,15,5,0,67.0,0.0,0.0,-0.046,0.51,-0.03%,0.6,0.5

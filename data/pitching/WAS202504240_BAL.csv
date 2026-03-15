@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolespitching,"Cade Povich, W (1-2)",6.2,4,1,1,1,5,0,5.04,25,87,60,31,7,22,8,11,4,0,66.0,,,0.282,0.94,0.12%,0.68,2.1
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolespitching,"Yennier Cano, H (5)",0.1,0,0,0,0,0,0,0.0,1,1,1,1,0,0,1,0,0,0,,1.0,0.0,0.051,1.83,0.02%,1.31,0.2
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolespitching,"Gregory Soto, H (5)",1.0,0,0,0,0,0,0,3.72,3,13,6,3,1,2,1,2,0,0,,0.0,0.0,0.137,1.83,0.06%,1.32,0.5
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolespitching,"Félix Bautista, S (3)",1.0,1,0,0,0,1,0,2.57,4,19,12,7,3,2,3,0,0,0,,0.0,0.0,0.192,4.25,0.08%,3.05,0.5
+WAS202504240,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504240.shtml,BaltimoreOriolespitching,Team Totals,9.0,5,1,1,1,6,0,1.0,33,120,79,42,11,26,13,13,4,0,66.0,1.0,0.0,0.662,1.5,0.28%,1.08,3.3

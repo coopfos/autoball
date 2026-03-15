@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,4.0,1.0,2.0,1.0,1.0,1.0,5.0,0.258,0.311,0.333,0.644,25.0,15.0,0.18,1.33,0.271,-0.092,0.08%,1.01,0.8,6.0,0.0,CS
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,LaMonte Wade Jr. 1B,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.372,0.471,0.512,0.982,14.0,9.0,-0.048,1.3,0.053,-0.101,-0.02%,0.98,-0.6,3.0,1.0,CS
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Wilmer Flores PH-1B,2.0,0.0,1.0,1.0,0.0,1.0,2.0,0.25,0.317,0.278,0.595,6.0,6.0,0.158,1.93,0.178,-0.02,0.07%,1.46,0.7,4.0,1.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Jorge Soler DH,3.0,0.0,1.0,0.0,0.0,2.0,4.0,0.233,0.347,0.45,0.797,14.0,9.0,0.03,1.39,0.09,-0.06,0.01%,1.05,0.5,0.0,0.0,HBP
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Michael Conforto LF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.295,0.348,0.574,0.922,13.0,11.0,-0.077,1.88,0.068,-0.145,-0.03%,1.42,-0.6,3.0,0.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.188,0.243,0.348,0.591,25.0,16.0,-0.132,1.33,0.0,-0.132,-0.06%,1.0,-1.2,0.0,2.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Thairo Estrada 2B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.227,0.246,0.409,0.655,14.0,10.0,0.004,1.17,0.084,-0.08,0.00%,0.88,-0.1,0.0,2.0,2B
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.125,0.243,0.125,0.368,15.0,5.0,-0.019,1.08,0.046,-0.065,-0.01%,0.81,-0.4,4.0,0.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,2.0,0.0,0.0,1.0,1.0,1.0,4.0,0.289,0.356,0.421,0.777,13.0,8.0,-0.034,1.25,0.026,-0.06,-0.02%,0.94,0.1,5.0,0.0,SF
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Nick Ahmed SS,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.265,0.308,0.327,0.634,19.0,11.0,0.019,0.87,0.054,-0.035,0.01%,0.66,-0.1,1.0,2.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Kyle Harrison P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Ryan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404150,SFG,https://www.baseball-reference.com/boxes/MIA/MIA202404150.shtml,SanFranciscoGiantsbatting,Team Totals,32.0,4.0,8.0,4.0,4.0,12.0,38.0,0.25,0.342,0.281,0.623,158.0,100.0,0.081,1.32,0.87,-0.79,0.04%,1.0,-0.9,27.0,10.0,

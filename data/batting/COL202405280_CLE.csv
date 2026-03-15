@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Tyler Freeman CF,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.222,0.316,0.359,0.675,16.0,9.0,-0.086,0.64,0.0,-0.086,-0.05%,0.65,-1.2,1.0,0.0,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,4.0,2.0,2.0,0.0,1.0,1.0,5.0,0.273,0.336,0.38,0.717,26.0,17.0,-0.008,0.86,0.064,-0.071,-0.01%,0.87,0.3,1.0,2.0,SB
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,4.0,2.0,2.0,2.0,0.0,5.0,0.272,0.328,0.558,0.885,18.0,8.0,0.233,0.89,0.248,-0.015,0.14%,0.91,2.3,0.0,1.0,"HR,2B"
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,4.0,3.0,2.0,5.0,1.0,0.0,5.0,0.234,0.321,0.51,0.832,13.0,7.0,0.286,1.14,0.327,-0.041,0.18%,1.16,4.1,6.0,1.0,2·HR
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,David Fry LF,5.0,3.0,3.0,3.0,0.0,0.0,5.0,0.357,0.492,0.622,1.115,22.0,17.0,0.409,1.01,0.419,-0.009,0.25%,1.04,3.2,1.0,0.0,"HR,SB"
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.236,0.276,0.382,0.658,13.0,9.0,0.23,0.77,0.23,0.0,0.14%,0.79,2.5,0.0,0.0,2·2B
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Will Brennan RF,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.227,0.287,0.373,0.66,15.0,9.0,0.002,0.93,0.066,-0.064,0.00%,0.94,-0.1,2.0,0.0,"SB,GDP"
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Bo Naylor C,4.0,0.0,0.0,1.0,0.0,2.0,5.0,0.177,0.255,0.269,0.524,18.0,12.0,-0.096,0.9,0.0,-0.096,-0.06%,0.92,-2.1,14.0,0.0,"SF,GDP"
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.219,0.239,0.324,0.562,7.0,7.0,-0.036,0.76,0.008,-0.044,-0.02%,0.78,-0.8,1.0,2.0,SF
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Triston McKenzie P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Nick Sandlin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Sam Hentges P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202405280,CLE,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ClevelandGuardiansbatting,Team Totals,37.0,13.0,13.0,13.0,5.0,4.0,44.0,0.351,0.409,0.757,1.166,148.0,95.0,0.934,0.89,1.362,-0.426,0.57%,0.91,8.1,27.0,7.0,

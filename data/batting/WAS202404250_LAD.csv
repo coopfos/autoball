@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Mookie Betts 2B,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.374,0.477,0.636,1.112,21.0,14.0,0.171,1.04,0.193,-0.022,0.11%,1.15,1.7,0.0,0.0,"2B,SB"
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.358,0.419,0.67,1.089,16.0,11.0,-0.222,1.23,0.0,-0.222,-0.15%,1.36,-2.2,0.0,0.0,GDP
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,0.0,2.0,1.0,1.0,0.0,4.0,0.303,0.421,0.414,0.836,18.0,12.0,0.153,0.95,0.163,-0.01,0.10%,1.05,1.5,4.0,2.0,2B
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.255,0.327,0.48,0.808,19.0,14.0,-0.03,1.25,0.107,-0.137,-0.02%,1.38,-0.6,1.0,0.0,"HR,GDP"
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.231,0.255,0.288,0.543,10.0,5.0,-0.007,0.92,0.069,-0.075,-0.01%,1.02,-0.1,0.0,0.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Andy Pages CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.258,0.303,0.548,0.851,23.0,15.0,0.011,1.1,0.084,-0.073,0.01%,1.21,0.2,2.0,0.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Chris Taylor LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.047,0.192,0.047,0.239,20.0,13.0,-0.135,0.95,0.0,-0.135,-0.09%,1.05,-1.5,4.0,0.0,GDP
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Miguel Rojas SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.278,0.316,0.472,0.788,13.0,8.0,-0.081,0.88,0.013,-0.094,-0.05%,0.97,-0.9,0.0,2.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Austin Barnes C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.222,0.364,0.222,0.586,18.0,8.0,-0.045,1.08,0.026,-0.071,-0.03%,1.2,-0.5,13.0,0.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Yoshinobu Yamamoto P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Daniel Hudson P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Evan Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202404250,LAD,https://www.baseball-reference.com/boxes/WAS/WAS202404250.shtml,LosAngelesDodgersbatting,Team Totals,32.0,2.0,9.0,2.0,3.0,7.0,35.0,0.281,0.343,0.438,0.78,158.0,100.0,-0.185,1.04,0.655,-0.839,-0.13%,1.15,-2.4,27.0,4.0,

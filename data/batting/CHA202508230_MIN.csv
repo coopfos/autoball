@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.269,0.331,0.531,0.862,13.0,8.0,-0.075,0.78,0.0,-0.075,-0.00%,0.03,-1.0,2.0,0.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.242,0.317,0.407,0.724,19.0,11.0,-0.033,0.71,0.024,-0.057,-0.00%,0.03,-0.5,0.0,0.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Luke Keaschall 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.337,0.424,0.488,0.913,15.0,10.0,-0.006,0.7,0.036,-0.042,0%,0.03,-0.2,3.0,4.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Matt Wallner RF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.21,0.319,0.477,0.796,13.0,8.0,-0.063,0.72,0.039,-0.102,-0.00%,0.03,-0.2,1.0,0.0,"HR,GDP"
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.26,0.351,0.398,0.75,15.0,8.0,-0.009,0.48,0.026,-0.034,0%,0.02,0.1,7.0,0.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Brooks Lee SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.298,0.392,0.69,13.0,9.0,-0.053,0.53,0.009,-0.062,-0.00%,0.02,-0.8,2.0,2.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Kody Clemens 1B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.212,0.282,0.444,0.726,22.0,14.0,0.114,0.52,0.14,-0.025,0.00%,0.01,0.9,6.0,0.0,HR
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,4.0,1.0,1.0,1.0,0.0,3.0,4.0,0.233,0.292,0.387,0.68,16.0,13.0,-0.004,0.53,0.038,-0.042,0%,0.02,0.2,2.0,1.0,HR
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,James Outman LF,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.133,0.224,0.317,0.541,13.0,8.0,0.018,0.69,0.031,-0.013,0%,0.03,0.2,1.0,0.0,HBP
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Austin Martin PH-LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.241,0.293,0.352,0.645,4.0,2.0,-0.015,0.59,0.0,-0.015,0%,0.02,-0.2,0.0,0.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Mick Abel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Thomas Hatch P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202508230,MIN,https://www.baseball-reference.com/boxes/CHA/CHA202508230.shtml,MinnesotaTwinsbatting,Team Totals,32.0,3.0,7.0,3.0,2.0,8.0,35.0,0.219,0.286,0.5,0.786,143.0,91.0,-0.126,0.62,0.343,-0.467,-0.00%,0.02,-1.5,24.0,7.0,

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,3.0,1.0,2.0,2.0,2.0,1.0,5.0,0.293,0.361,0.448,0.809,18.0,8.0,0.045,0.38,0.07,-0.025,0.01%,0.1,2.1,1.0,2.0,
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Isaac Collins LF,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.275,0.371,0.433,0.804,21.0,13.0,0.025,0.41,0.054,-0.029,0.00%,0.1,-0.1,4.0,0.0,
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,William Contreras DH,4.0,1.0,1.0,0.0,1.0,2.0,5.0,0.263,0.359,0.41,0.769,21.0,14.0,0.063,0.45,0.073,-0.01,0.01%,0.11,-0.1,0.0,0.0,GDP
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Jake Bauers RF,4.0,3.0,2.0,2.0,1.0,0.0,5.0,0.213,0.331,0.373,0.705,21.0,10.0,0.139,0.53,0.144,-0.005,0.02%,0.13,1.1,1.0,0.0,"2B,GDP"
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Andrew Vaughn 1B,5.0,1.0,4.0,1.0,0.0,0.0,5.0,0.248,0.296,0.409,0.705,18.0,14.0,0.075,0.33,0.075,0.0,0.01%,0.08,1.9,4.0,2.0,2B
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Caleb Durbin 3B,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.254,0.327,0.389,0.716,24.0,17.0,-0.055,0.34,0.0,-0.055,-0.01%,0.08,-2.5,0.0,2.0,GDP
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.206,0.286,0.341,0.627,21.0,8.0,0.052,0.22,0.059,-0.007,0.01%,0.05,2.1,2.0,0.0,2B
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Danny Jansen C,4.0,1.0,1.0,1.0,1.0,1.0,5.0,0.201,0.308,0.367,0.676,24.0,14.0,0.057,0.26,0.057,-0.001,0.01%,0.07,0.9,12.0,0.0,2B
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.225,0.277,0.315,0.592,18.0,16.0,0.042,0.32,0.043,-0.001,0.01%,0.08,0.0,2.0,1.0,2·SB
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Jacob Misiorowski P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Craig Yoho P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509070,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509070.shtml,MilwaukeeBrewersbatting,Team Totals,38.0,10.0,14.0,8.0,7.0,9.0,45.0,0.368,0.467,0.474,0.94,186.0,114.0,0.443,0.35,0.575,-0.133,0.07%,0.09,5.3,27.0,8.0,

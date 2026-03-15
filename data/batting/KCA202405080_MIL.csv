@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,1.0,3.0,1.0,1.0,0.0,5.0,0.316,0.382,0.444,0.826,21.0,14.0,0.075,1.24,0.169,-0.094,0.05%,1.47,1.8,2.0,0.0,3·2B
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,0.0,1.0,2.0,1.0,1.0,5.0,0.329,0.406,0.51,0.917,12.0,10.0,-0.05,1.63,0.112,-0.162,-0.03%,1.93,0.4,4.0,0.0,"2B,GDP,IW"
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.295,0.38,0.659,1.039,17.0,12.0,-0.183,1.52,0.0,-0.183,-0.13%,1.8,-1.3,0.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Willy Adames SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.257,0.344,0.457,0.801,14.0,9.0,-0.069,1.5,0.067,-0.136,-0.05%,1.78,-0.6,3.0,1.0,SB
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Jake Bauers LF,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0.203,0.276,0.362,0.639,9.0,4.0,-0.009,1.0,0.011,-0.02,-0.01%,1.19,-0.0,1.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Jackson Chourio PH-LF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.221,0.264,0.345,0.61,10.0,7.0,-0.096,1.8,0.0,-0.096,-0.07%,2.13,-0.5,0.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.25,0.326,0.306,0.633,11.0,8.0,-0.108,1.25,0.016,-0.124,-0.08%,1.48,-0.8,3.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Gary Sánchez 1B,3.0,2.0,2.0,1.0,1.0,0.0,4.0,0.232,0.317,0.554,0.871,24.0,14.0,0.142,0.92,0.167,-0.024,0.10%,1.09,1.4,3.0,1.0,HR
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Oliver Dunn 3B,2.0,1.0,0.0,0.0,2.0,1.0,4.0,0.221,0.277,0.325,0.602,18.0,8.0,0.037,1.32,0.108,-0.072,0.03%,1.56,0.4,0.0,2.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.238,0.339,0.39,0.729,12.0,10.0,-0.114,1.51,0.0,-0.114,-0.08%,1.79,-1.1,7.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Joe Ross P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Bryan Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Kevin Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202405080,MIL,https://www.baseball-reference.com/boxes/KCA/KCA202405080.shtml,MilwaukeeBrewersbatting,Team Totals,33.0,4.0,8.0,4.0,6.0,6.0,39.0,0.242,0.359,0.455,0.814,148.0,96.0,-0.375,1.38,0.65,-1.025,-0.27%,1.63,-0.5,24.0,4.0,

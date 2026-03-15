@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202506080,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202506080.shtml,MilwaukeeBrewerspitching,Freddy Peralta,6,1,0,0,2,3,0,2.69,20,90,55,33,9,13,7,8,3,0,71.0,,,0.353,1.06,0.24%,1.21,3.0
+MIL202506080,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202506080.shtml,MilwaukeeBrewerspitching,"Rob Zastryzny, L (1-1)",1,1,1,1,0,2,1,1.04,4,16,11,5,4,2,0,2,0,0,,0.0,0.0,-0.142,0.93,-0.10%,1.06,-0.5
+MIL202506080,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202506080.shtml,MilwaukeeBrewerspitching,Aaron Ashby,2,1,0,0,0,1,0,0.0,7,25,18,10,4,4,4,2,2,0,,0.0,0.0,0.088,0.9,0.06%,1.03,1.0
+MIL202506080,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202506080.shtml,MilwaukeeBrewerspitching,Team Totals,9,3,1,1,2,6,1,1.0,31,131,84,48,17,19,11,12,5,0,71.0,0.0,0.0,0.299,1.01,0.20%,1.15,3.4

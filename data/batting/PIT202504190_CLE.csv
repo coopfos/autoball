@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.329,0.384,0.468,0.852,19.0,12.0,0.052,0.87,0.093,-0.041,0.03%,0.9,0.7,4.0,0.0,SB
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Nolan Jones RF,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.174,0.309,0.261,0.57,22.0,14.0,0.011,0.83,0.061,-0.05,0.01%,0.86,0.3,1.0,0.0,"2B,GDP"
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Gabriel Arias 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.279,0.338,0.508,0.846,,,,,,,,,,0.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,0.0,1.0,1.0,0.0,0.0,4.0,0.269,0.329,0.507,0.837,12.0,9.0,-0.013,1.18,0.049,-0.062,-0.01%,1.22,-0.3,1.0,1.0,SF
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.194,0.316,0.5,0.816,17.0,10.0,0.005,1.03,0.123,-0.118,0.00%,1.07,-0.6,0.0,0.0,"HR,GDP"
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.247,0.314,0.351,0.665,17.0,11.0,-0.054,0.53,0.0,-0.054,-0.03%,0.55,-0.8,10.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Bo Naylor C,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.222,0.321,0.378,0.699,21.0,11.0,0.012,0.54,0.041,-0.028,0.01%,0.55,0.3,7.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Angel Martínez CF-RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.36,0.346,0.52,0.866,16.0,11.0,-0.049,0.59,0.005,-0.054,-0.03%,0.61,-0.2,1.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.219,0.286,0.469,0.754,6.0,5.0,0.012,1.12,0.067,-0.056,0.01%,1.17,0.1,1.0,4.0,"2B,GDP"
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Lane Thomas PH-CF,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.156,0.188,0.178,0.365,9.0,7.0,-0.019,0.39,0.0,-0.019,-0.01%,0.41,-0.7,1.0,1.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.22,0.293,0.26,0.553,14.0,7.0,-0.023,0.73,0.025,-0.048,-0.01%,0.76,-0.5,1.0,3.0,SB
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Ben Lively P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202504190,CLE,https://www.baseball-reference.com/boxes/PIT/PIT202504190.shtml,ClevelandGuardiansbatting,Team Totals,32.0,3.0,9.0,3.0,3.0,8.0,36.0,0.281,0.333,0.438,0.771,153.0,97.0,-0.066,0.78,0.464,-0.53,-0.04%,0.81,-1.6,27.0,10.0,

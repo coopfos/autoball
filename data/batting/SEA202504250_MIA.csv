@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Xavier Edwards SS,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.288,0.364,0.317,0.682,15.0,9.0,0.207,0.88,0.235,-0.029,0.09%,0.65,1.7,2.0,0.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Jesús Sánchez CF-RF,4.0,1.0,1.0,2.0,0.0,2.0,4.0,0.226,0.333,0.355,0.688,18.0,11.0,0.023,0.91,0.093,-0.069,0.01%,0.67,1.1,5.0,0.0,HR
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Eric Wagaman LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.273,0.325,0.468,0.793,14.0,10.0,-0.054,0.58,0.021,-0.076,-0.02%,0.43,-0.3,4.0,0.0,"2B,GDP"
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Dane Myers PR-CF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.286,0.3,0.388,0.688,,,0.0,,0.0,0.0,0%,,0.0,2.0,0.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Agustín Ramírez DH,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.7,0.75,1.4,2.15,9.0,8.0,0.033,0.74,0.087,-0.054,0.01%,0.55,1.8,0.0,0.0,"HR,2B"
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Kyle Stowers RF-LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.289,0.371,0.422,0.793,11.0,8.0,0.013,0.46,0.036,-0.024,0.01%,0.34,-0.5,2.0,0.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Connor Norby 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.269,0.321,0.346,0.668,15.0,11.0,-0.054,0.59,0.002,-0.055,-0.02%,0.43,-0.6,0.0,1.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Matt Mervis 1B,4.0,1.0,0.0,0.0,0.0,1.0,4.0,0.219,0.301,0.578,0.879,14.0,7.0,-0.004,0.63,0.029,-0.034,-0.00%,0.47,-0.5,4.0,1.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Liam Hicks C,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.245,0.317,0.34,0.656,17.0,11.0,0.12,0.94,0.152,-0.032,0.05%,0.69,0.4,7.0,1.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Javier Sanoja 2B,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.34,0.36,0.426,0.786,9.0,6.0,0.149,1.04,0.17,-0.021,0.07%,0.77,0.9,0.0,1.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Otto Lopez 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.222,0.293,0.344,0.637,3.0,3.0,-0.001,0.03,0.0,-0.001,0%,0.02,-0.1,0.0,1.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Cal Quantrill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Ronny Henriquez P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SEA202504250,MIA,https://www.baseball-reference.com/boxes/SEA/SEA202504250.shtml,MiamiMarlinsbatting,Team Totals,37.0,8.0,10.0,8.0,0.0,8.0,37.0,0.27,0.27,0.486,0.757,125.0,84.0,0.432,0.73,0.825,-0.395,0.19%,0.54,4.0,27.0,6.0,

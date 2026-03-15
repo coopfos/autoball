@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202409190,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,HoustonAstrospitching,Yusei Kikuchi,6,5,1,1,1,9,1,4.19,24,101,61,31,12,18,5,9,2,0,66.0,,,0.221,0.99,0.07%,0.5,1.9
+HOU202409190,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,HoustonAstrospitching,Héctor Neris,1,0,0,0,0,1,0,3.56,3,9,8,5,1,2,2,0,0,0,,0.0,0.0,0.086,1.15,0.03%,0.58,0.5
+HOU202409190,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,HoustonAstrospitching,"Bryan Abreu, W (3-3)",1,1,0,0,0,0,0,3.13,4,13,10,6,0,4,2,2,1,0,,0.0,0.0,0.104,2.27,0.03%,1.14,0.5
+HOU202409190,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,HoustonAstrospitching,"Josh Hader, S (32)",1,0,0,0,0,1,0,3.21,3,7,6,2,3,1,0,2,0,0,,0.0,0.0,0.071,0.93,0.02%,0.47,0.5
+HOU202409190,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202409190.shtml,HoustonAstrospitching,Team Totals,9,6,1,1,1,11,1,1.0,34,130,85,44,16,25,9,13,3,0,66.0,0.0,0.0,0.482,1.14,0.14%,0.57,3.3

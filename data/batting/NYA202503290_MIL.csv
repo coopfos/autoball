@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Jackson Chourio LF-RF,6.0,1.0,2.0,1.0,0.0,0.0,6.0,0.182,0.182,0.273,0.455,20.0,15.0,0.005,0.29,0.029,-0.024,0.00%,0.26,0.3,3.0,0.0,2B
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.143,0.333,0.143,0.476,15.0,8.0,0.131,0.88,0.133,-0.002,0.07%,0.76,1.9,0.0,0.0,SB
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Isaac Collins PH-DH-LF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.5,0.5,0.75,1.25,9.0,6.0,0.0,0.0,0.0,0.0,0%,0.0,-0.0,1.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.125,0.125,0.125,0.25,18.0,12.0,-0.09,0.84,0.002,-0.092,-0.05%,0.72,-0.4,4.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Eric Haase C,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.5,0.5,0.5,1.0,9.0,5.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,1.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.167,0.375,0.167,0.542,9.0,7.0,-0.037,0.4,0.004,-0.041,-0.02%,0.34,-0.0,6.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Jake Bauers 1B-P,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,1.2,0.0,0.0,2B
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Sal Frelick RF-3B,3.0,1.0,1.0,0.0,1.0,0.0,5.0,0.429,0.556,0.429,0.984,16.0,8.0,0.051,0.25,0.052,-0.001,0.03%,0.22,0.4,4.0,0.0,HBP
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.222,0.222,0.222,0.444,15.0,11.0,-0.055,0.47,0.0,-0.055,-0.03%,0.4,-1.9,3.0,3.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Garrett Mitchell CF,4.0,2.0,2.0,0.0,0.0,1.0,5.0,0.333,0.429,0.333,0.762,18.0,8.0,0.044,0.29,0.045,-0.001,0.02%,0.25,0.6,0.0,0.0,HBP
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Vinny Capra 3B,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.333,0.333,0.833,1.167,10.0,7.0,0.041,0.92,0.071,-0.031,0.02%,0.79,1.0,1.0,2.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Oliver Dunn 3B-1B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.0,4.0,0.0,0.01,0.0,0.0,0%,0.01,-0.6,0.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,5.0,3.0,1.0,2.0,0.0,1.0,5.0,0.25,0.222,0.625,0.847,16.0,9.0,0.017,0.39,0.019,-0.001,0.01%,0.33,2.2,1.0,1.0,HR
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Nestor Cortes P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Connor Thomas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Elvis Peguero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Chad Patrick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202503290,MIL,https://www.baseball-reference.com/boxes/NYA/NYA202503290.shtml,MilwaukeeBrewersbatting,Team Totals,44.0,9.0,13.0,7.0,2.0,9.0,48.0,0.295,0.354,0.409,0.763,165.0,103.0,0.107,0.42,0.355,-0.248,0.06%,0.36,4.6,24.0,7.0,

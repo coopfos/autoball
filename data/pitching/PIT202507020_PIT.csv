@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202507020,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202507020.shtml,PittsburghPiratespitching,"Mitch Keller, W (3-10)",7,5,0,0,1,7,0,3.64,28,97,61,37,8,16,12,7,3,0,73.0,,,0.466,1.26,0.02%,0.08,3.6
+PIT202507020,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202507020.shtml,PittsburghPiratespitching,Dennis Santana,1,0,0,0,1,0,0,1.46,4,16,11,6,1,4,0,3,0,0,,0.0,0.0,0.012,0.25,0.00%,0.01,0.5
+PIT202507020,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202507020.shtml,PittsburghPiratespitching,Isaac Mattson,1,1,0,0,1,1,0,1.62,5,19,12,7,2,3,0,3,2,0,,0.0,0.0,0.006,0.1,0.00%,0.0,0.5
+PIT202507020,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202507020.shtml,PittsburghPiratespitching,Team Totals,9,6,0,0,3,8,0,0.0,37,132,84,50,11,23,12,13,5,0,73.0,0.0,0.0,0.484,0.99,0.02%,0.06,4.6

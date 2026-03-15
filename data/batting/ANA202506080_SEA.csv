@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,J.P. Crawford SS,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.28,0.394,0.39,0.784,21.0,11.0,-0.103,1.22,0.036,-0.139,-0.07%,1.31,-1.0,1.0,2.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Julio Rodríguez CF,5.0,1.0,0.0,0.0,0.0,1.0,5.0,0.249,0.316,0.412,0.728,14.0,11.0,-0.074,1.04,0.034,-0.108,-0.05%,1.11,-0.6,1.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Randy Arozarena LF,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.228,0.344,0.386,0.73,10.0,10.0,0.239,1.05,0.269,-0.029,0.15%,1.12,2.3,0.0,0.0,"2·2B,SB"
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Mitch Garver C,5.0,1.0,1.0,0.0,0.0,3.0,5.0,0.198,0.314,0.248,0.561,23.0,17.0,-0.048,1.13,0.068,-0.117,-0.03%,1.21,-0.8,18.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Dylan Moore RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.245,0.301,0.446,0.747,18.0,13.0,-0.213,1.7,0.0,-0.213,-0.14%,1.83,-2.0,2.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Miles Mastrobuoni PH-RF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.248,0.328,0.305,0.632,6.0,4.0,0.018,0.54,0.027,-0.009,0.01%,0.57,0.2,1.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Jorge Polanco DH,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.259,0.306,0.476,0.782,12.0,8.0,0.1,1.57,0.173,-0.073,0.07%,1.68,0.7,0.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Donovan Solano 1B,2.0,0.0,1.0,1.0,0.0,1.0,3.0,0.175,0.221,0.2,0.421,10.0,5.0,0.16,1.55,0.183,-0.023,0.10%,1.66,1.3,2.0,0.0,HBP
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Rowdy Tellez PH-1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.204,0.252,0.415,0.667,1.0,1.0,-0.026,0.93,0.0,-0.026,-0.02%,1.0,-0.2,1.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Ben Williamson 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.259,0.291,0.323,0.614,23.0,17.0,0.001,1.26,0.072,-0.071,0.00%,1.35,-0.1,1.0,0.0,2B
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Cole Young 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.148,0.179,0.185,0.364,15.0,10.0,-0.116,1.68,0.024,-0.141,-0.07%,1.8,-1.2,0.0,1.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,George Kirby P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Matt Brash P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202506080,SEA,https://www.baseball-reference.com/boxes/ANA/ANA202506080.shtml,SeattleMarinersbatting,Team Totals,39.0,3.0,11.0,3.0,1.0,11.0,41.0,0.282,0.317,0.359,0.676,153.0,107.0,-0.062,1.26,0.886,-0.949,-0.04%,1.35,-1.5,27.0,3.0,

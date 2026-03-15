@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202505270,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202505270.shtml,HoustonAstrospitching,"Hunter Brown, W (7-3)",6,6,1,1,0,8,1,2.0,21,88,59,31,11,17,9,4,4,0,64.0,,,0.139,0.4,0.09%,0.44,1.9
+HOU202505270,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202505270.shtml,HoustonAstrospitching,Steven Okert,1,0,0,0,0,1,0,1.82,3,6,6,2,3,1,0,2,1,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.5
+HOU202505270,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202505270.shtml,HoustonAstrospitching,Forrest Whitley,2,1,0,0,0,1,0,5.79,7,19,13,9,2,2,3,3,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,1.0
+HOU202505270,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202505270.shtml,HoustonAstrospitching,Team Totals,9,7,1,1,0,10,1,1.0,31,113,78,42,16,20,12,9,6,0,64.0,0.0,0.0,0.14,0.27,0.09%,0.3,3.4

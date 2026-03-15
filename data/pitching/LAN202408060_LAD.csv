@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202408060,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408060.shtml,LosAngelesDodgerspitching,"Clayton Kershaw, L (0-2)",4.2,5,1,1,0,5,0,4.38,19,81,55,34,10,11,5,8,4,0,55.0,,,0.064,1.26,0.05%,1.76,0.9
+LAN202408060,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408060.shtml,LosAngelesDodgerspitching,Joe Kelly,0.1,0,0,0,0,0,0,4.12,1,5,3,2,0,1,0,1,1,0,,2.0,0.0,0.052,2.02,0.04%,2.81,0.5
+LAN202408060,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408060.shtml,LosAngelesDodgerspitching,Brusdar Graterol,0.1,1,2,2,1,0,0,54.0,3,9,4,4,0,0,0,2,1,0,,0.0,0.0,-0.039,0.97,-0.03%,1.36,-0.4
+LAN202408060,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408060.shtml,LosAngelesDodgerspitching,Brent Honeywell Jr.,3.2,8,3,3,1,1,2,2.29,19,67,43,31,4,8,7,9,3,0,,2.0,2.0,-0.226,0.59,-0.19%,0.83,-2.7
+LAN202408060,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408060.shtml,LosAngelesDodgerspitching,Team Totals,9.0,14,6,6,2,6,2,6.0,42,162,105,71,14,20,12,20,9,0,55.0,4.0,2.0,-0.149,0.97,-0.12%,1.35,-1.7

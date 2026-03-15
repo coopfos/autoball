@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.241,0.331,0.327,0.658,19.0,10.0,0.028,0.69,0.067,-0.039,0.01%,0.43,0.9,0.0,1.0,SB
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Seiya Suzuki RF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.263,0.339,0.439,0.778,20.0,12.0,0.084,0.83,0.157,-0.072,0.03%,0.52,0.5,3.0,0.0,CS
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Cody Bellinger DH,5.0,2.0,2.0,1.0,0.0,1.0,5.0,0.272,0.332,0.436,0.768,21.0,13.0,0.018,0.97,0.094,-0.075,0.01%,0.61,-0.3,0.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Christopher Morel 3B,4.0,0.0,1.0,0.0,1.0,2.0,5.0,0.204,0.305,0.393,0.698,29.0,16.0,0.023,0.97,0.079,-0.056,0.01%,0.61,-0.1,0.0,1.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,David Bote 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.304,0.333,0.348,0.681,,,,,,,,,,0.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Ian Happ LF,3.0,0.0,0.0,1.0,2.0,1.0,5.0,0.229,0.337,0.401,0.737,21.0,11.0,0.101,1.01,0.12,-0.019,0.04%,0.63,0.6,2.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Dansby Swanson SS,3.0,0.0,2.0,1.0,2.0,0.0,5.0,0.219,0.295,0.376,0.671,25.0,13.0,0.03,1.05,0.108,-0.079,0.01%,0.66,1.2,1.0,2.0,2B
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Michael Busch 1B,5.0,0.0,1.0,1.0,0.0,3.0,5.0,0.259,0.352,0.45,0.802,21.0,14.0,0.01,1.35,0.107,-0.097,0.00%,0.84,-0.7,4.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Tomás Nido C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.217,0.247,0.348,0.595,20.0,15.0,-0.152,1.37,0.0,-0.152,-0.06%,0.85,-2.0,10.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.207,0.252,0.306,0.558,10.0,8.0,-0.062,1.18,0.046,-0.107,-0.02%,0.74,-0.3,6.0,0.0,3B
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Justin Steele P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Tyson Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Colten Brewer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Drew Smyly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202406240,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406240.shtml,ChicagoCubsbatting,Team Totals,36.0,4.0,10.0,4.0,7.0,12.0,43.0,0.278,0.395,0.361,0.756,186.0,112.0,0.08,1.02,0.778,-0.696,0.03%,0.64,-0.2,26.0,4.0,

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Mookie Betts SS,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.346,0.452,0.551,1.003,17.0,11.0,0.078,1.08,0.115,-0.037,0.06%,1.42,0.3,1.0,1.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.359,0.427,0.679,1.106,12.0,9.0,0.237,1.72,0.29,-0.053,0.19%,2.25,1.1,0.0,0.0,2B
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,0.0,1.0,1.0,0.0,2.0,4.0,0.301,0.41,0.452,0.862,12.0,10.0,-0.065,1.74,0.041,-0.107,-0.05%,2.27,-0.6,6.0,1.0,SF
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Will Smith C,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.323,0.384,0.496,0.88,13.0,9.0,-0.092,1.83,0.026,-0.118,-0.07%,2.4,-0.7,13.0,0.0,IW
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Max Muncy 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.248,0.352,0.537,0.889,16.0,11.0,-0.26,1.73,0.0,-0.26,-0.20%,2.26,-1.6,0.0,2.0,GDP
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.258,0.325,0.497,0.822,14.0,10.0,-0.111,1.32,0.013,-0.124,-0.09%,1.73,-0.5,0.0,0.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Andy Pages RF,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.3,0.337,0.513,0.85,21.0,11.0,0.011,1.1,0.07,-0.058,0.01%,1.45,0.2,1.0,0.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.183,0.248,0.237,0.484,13.0,10.0,-0.166,1.66,0.0,-0.166,-0.13%,2.17,-1.1,2.0,4.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,James Outman CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.158,0.252,0.284,0.537,12.0,9.0,-0.094,1.17,0.0,-0.094,-0.07%,1.53,-0.6,1.0,0.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Tyler Glasnow P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Blake Treinen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Michael Grove P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405100,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202405100.shtml,LosAngelesDodgersbatting,Team Totals,30.0,1.0,4.0,1.0,4.0,11.0,35.0,0.133,0.229,0.167,0.395,130.0,90.0,-0.462,1.49,0.555,-1.017,-0.36%,1.96,-3.6,25.0,9.0,

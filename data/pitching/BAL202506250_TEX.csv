@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202506250,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202506250.shtml,TexasRangerspitching,"Jacob deGrom, W (8-2)",7,1,0,0,2,7,0,2.08,24,89,59,35,10,14,7,8,0,0,80.0,,,0.232,0.42,0.11%,0.34,2.9
+BAL202506250,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202506250.shtml,TexasRangerspitching,Jacob Webb,1,0,0,0,0,1,0,4.0,3,6,5,2,2,1,0,2,0,0,,1.0,0.0,0.007,0.09,0.00%,0.07,0.9
+BAL202506250,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202506250.shtml,TexasRangerspitching,Cole Winn,1,0,0,0,0,1,0,0.0,3,10,7,2,2,3,2,0,0,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.5
+BAL202506250,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202506250.shtml,TexasRangerspitching,Team Totals,9,1,0,0,2,9,0,0.0,30,105,71,39,14,18,9,10,0,0,80.0,1.0,0.0,0.24,0.35,0.11%,0.28,4.3

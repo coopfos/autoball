@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Oneil Cruz CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.223,0.344,0.442,0.786,22.0,14.0,-0.056,0.84,0.013,-0.069,-0.00%,0.06,-0.6,0.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.262,0.348,0.412,0.76,18.0,12.0,0.057,0.75,0.1,-0.043,0.00%,0.05,0.4,0.0,0.0,2B
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Bryan Reynolds RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.222,0.295,0.36,0.655,4.0,3.0,-0.01,0.4,0.0,-0.01,0%,0.03,-0.1,0.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Alexander Canario RF,3.0,0.0,1.0,2.0,0.0,0.0,3.0,0.211,0.271,0.316,0.587,10.0,4.0,0.048,1.17,0.129,-0.081,0.00%,0.08,0.2,3.0,0.0,CS
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Spencer Horwitz 1B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.228,0.297,0.326,0.623,20.0,11.0,-0.001,0.62,0.038,-0.039,0%,0.04,-0.0,5.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.229,0.269,0.375,0.644,12.0,7.0,-0.076,0.79,0.0,-0.076,-0.00%,0.06,-0.8,2.0,1.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Joey Bart C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.235,0.341,0.302,0.643,14.0,9.0,0.008,1.21,0.068,-0.06,0%,0.08,0.3,7.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Adam Frazier LF,3.0,0.0,0.0,1.0,0.0,0.0,3.0,0.25,0.311,0.338,0.649,10.0,8.0,-0.02,1.21,0.022,-0.042,-0.00%,0.08,-0.1,2.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.226,0.28,0.282,0.562,7.0,5.0,-0.075,0.94,0.0,-0.075,-0.00%,0.06,-0.7,2.0,3.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa SS,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.284,0.332,0.358,0.69,12.0,8.0,0.014,0.73,0.043,-0.029,0.00%,0.05,-0.0,2.0,1.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Bailey Falter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Carmen Mlodzinski P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Chase Shugart P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506170,PIT,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,PittsburghPiratesbatting,Team Totals,32.0,3.0,5.0,3.0,0.0,6.0,32.0,0.156,0.156,0.188,0.344,129.0,81.0,-0.111,0.89,0.413,-0.524,-0.00%,0.06,-1.4,24.0,5.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Lawrence Butler RF,4.0,3.0,2.0,0.0,2.0,2.0,6.0,0.267,0.338,0.467,0.805,29.0,15.0,0.034,0.17,0.038,-0.004,0.00%,0.02,1.2,2.0,0.0,SB
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Jacob Wilson SS,5.0,3.0,3.0,1.0,1.0,0.0,6.0,0.363,0.402,0.523,0.925,18.0,9.0,0.093,0.29,0.093,0.0,0.01%,0.04,1.4,4.0,3.0,HR
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Brent Rooker LF,4.0,3.0,3.0,3.0,1.0,0.0,5.0,0.272,0.342,0.48,0.822,21.0,10.0,0.097,0.42,0.097,0.0,0.01%,0.05,2.4,1.0,0.0,2B
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Drew Avans LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.133,0.133,0.133,0.267,,,,,,,,,,0.0,0.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Tyler Soderstrom 1B,5.0,2.0,2.0,6.0,0.0,1.0,5.0,0.257,0.333,0.485,0.819,14.0,11.0,0.013,0.43,0.057,-0.044,0.00%,0.05,3.3,6.0,1.0,2·HR
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Shea Langeliers DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.237,0.3,0.43,0.73,21.0,14.0,-0.039,0.43,0.0,-0.039,-0.00%,0.06,-0.7,0.0,0.0,2B
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Logan Davidson PH-DH-DH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.188,0.316,0.25,0.566,8.0,4.0,0.0,0.0,0.0,0.0,0%,0.0,0.1,0.0,0.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Max Muncy 3B,5.0,1.0,2.0,3.0,0.0,1.0,5.0,0.195,0.225,0.325,0.55,21.0,13.0,0.209,0.3,0.211,-0.002,0.02%,0.04,2.0,0.0,1.0,HR
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Willie MacIver C,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.308,0.357,0.385,0.742,19.0,11.0,-0.005,0.04,0.0,-0.005,0%,0.01,0.5,7.0,0.0,2B
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Max Schuemann 2B,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.234,0.347,0.344,0.69,14.0,10.0,-0.01,0.09,0.0,-0.011,-0.00%,0.01,-0.3,1.0,4.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Denzel Clarke CF,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.205,0.239,0.295,0.535,19.0,13.0,-0.008,0.05,0.0,-0.008,-0.00%,0.01,0.3,5.0,0.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Mitch Spence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Sean Newcomb P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Michael Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ATH202506050,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202506050.shtml,Athleticsbatting,Team Totals,41.0,14.0,17.0,14.0,6.0,9.0,47.0,0.415,0.489,0.78,1.27,184.0,110.0,0.384,0.23,0.496,-0.113,0.03%,0.03,10.1,27.0,10.0,

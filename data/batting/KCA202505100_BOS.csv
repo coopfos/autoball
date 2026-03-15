@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Jarren Duran LF,5.0,2.0,2.0,1.0,0.0,2.0,5.0,0.256,0.305,0.386,0.692,16.0,13.0,0.08,0.75,0.111,-0.031,0.05%,0.76,-0.0,0.0,0.0,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Rafael Devers DH,4.0,1.0,4.0,3.0,1.0,0.0,5.0,0.273,0.39,0.468,0.858,20.0,13.0,0.259,0.76,0.259,0.0,0.16%,0.78,3.2,0.0,0.0,2B
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Alex Bregman 3B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.319,0.392,0.581,0.974,16.0,12.0,0.004,0.84,0.065,-0.06,0.00%,0.86,0.2,1.0,2.0,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Kristian Campbell 2B,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.264,0.356,0.419,0.774,22.0,13.0,-0.083,0.72,0.0,-0.083,-0.05%,0.74,-1.5,2.0,1.0,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Trevor Story SS,5.0,1.0,1.0,3.0,0.0,4.0,5.0,0.244,0.285,0.372,0.657,25.0,17.0,0.015,0.68,0.081,-0.066,0.01%,0.69,1.4,1.0,2.0,HR
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Wilyer Abreu RF,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.265,0.37,0.523,0.893,27.0,18.0,-0.022,0.41,0.026,-0.048,-0.01%,0.42,-0.6,2.0,0.0,CS
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Nick Sogard 1B,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.25,0.4,0.25,0.65,19.0,11.0,-0.066,0.55,0.001,-0.067,-0.04%,0.57,-0.2,6.0,0.0,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Carlos Narváez C,4.0,2.0,3.0,2.0,1.0,0.0,5.0,0.245,0.304,0.426,0.729,29.0,16.0,0.019,0.42,0.044,-0.025,0.01%,0.43,2.0,11.0,1.0,HR
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,5.0,2.0,2.0,0.0,0.0,1.0,5.0,0.246,0.301,0.377,0.678,11.0,10.0,0.086,0.54,0.115,-0.029,0.05%,0.56,1.0,4.0,0.0,"3B,2B"
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Garrett Crochet P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Liam Hendriks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Brennan Bernardino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202505100,BOS,https://www.baseball-reference.com/boxes/KCA/KCA202505100.shtml,BostonRedSoxbatting,Team Totals,41.0,10.0,15.0,10.0,4.0,12.0,45.0,0.366,0.422,0.61,1.032,185.0,123.0,0.292,0.62,0.702,-0.409,0.18%,0.64,5.6,27.0,6.0,

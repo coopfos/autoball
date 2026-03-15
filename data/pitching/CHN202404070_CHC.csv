@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202404070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404070.shtml,ChicagoCubspitching,Shota Imanaga,4,2,0,0,0,3,0,0.0,14,43,32,19,6,7,2,9,2,0,61.0,,,0.148,0.64,0.09%,0.64,2.0
+CHN202404070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404070.shtml,ChicagoCubspitching,"Yency Almonte, W (1-0)",1,0,0,0,0,2,0,9.0,3,13,8,4,2,2,0,1,0,0,,0.0,0.0,0.009,0.12,0.01%,0.12,0.5
+CHN202404070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404070.shtml,ChicagoCubspitching,Mark Leiter Jr.,1,1,0,0,0,1,0,0.0,4,11,6,3,1,2,2,1,1,0,,0.0,0.0,0.007,0.1,0.00%,0.1,0.5
+CHN202404070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404070.shtml,ChicagoCubspitching,"Daniel Palencia, S (1)",3,1,1,1,2,2,0,3.0,12,48,29,17,6,6,3,5,3,0,,0.0,0.0,0.004,0.03,0.00%,0.03,0.5
+CHN202404070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404070.shtml,ChicagoCubspitching,Team Totals,9,4,1,1,2,8,0,1.0,33,115,75,43,15,17,7,16,6,0,61.0,0.0,0.0,0.168,0.3,0.10%,0.3,3.4

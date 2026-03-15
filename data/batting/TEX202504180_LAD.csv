@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Tommy Edman 2B,4.0,2.0,3.0,1.0,0.0,1.0,4.0,0.288,0.326,0.6,0.926,16.0,10.0,0.111,0.9,0.186,-0.075,0.07%,0.96,1.2,4.0,4.0,"HR,CS"
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Mookie Betts SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.254,0.367,0.463,0.83,18.0,10.0,-0.025,0.65,0.012,-0.037,-0.02%,0.69,-0.4,0.0,1.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.303,0.395,0.667,1.061,11.0,9.0,-0.04,0.73,0.006,-0.046,-0.03%,0.77,-0.2,7.0,3.0,IW
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Chris Taylor PR-LF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.25,0.5,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.264,0.289,0.514,0.803,14.0,11.0,-0.007,0.88,0.047,-0.053,-0.00%,0.93,0.2,0.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.2,0.351,0.367,0.718,21.0,10.0,-0.035,0.67,0.016,-0.051,-0.02%,0.7,0.1,1.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Tanner Scott P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Will Smith C,3.0,0.0,0.0,1.0,0.0,2.0,4.0,0.346,0.446,0.519,0.965,20.0,15.0,-0.025,0.54,0.011,-0.036,-0.02%,0.57,-0.4,11.0,3.0,SF
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Max Muncy 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.197,0.306,0.262,0.568,11.0,7.0,-0.037,0.58,0.011,-0.048,-0.02%,0.62,-0.7,0.0,3.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Eddie Rosario DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,3.0,-0.036,0.7,0.0,-0.036,-0.02%,0.75,-0.4,0.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Enrique Hernández PH-DH-DH-1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.122,0.185,0.367,0.553,3.0,1.0,-0.015,0.61,0.0,-0.015,-0.01%,0.65,-0.1,1.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Andy Pages CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.167,0.286,0.283,0.569,15.0,9.0,-0.042,0.57,0.0,-0.042,-0.03%,0.61,-0.4,0.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Yoshinobu Yamamoto P,,,,,,,,,,,,,,,,,,,,,3.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Kirby Yates P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202504180,LAD,https://www.baseball-reference.com/boxes/TEX/TEX202504180.shtml,LosAngelesDodgersbatting,Team Totals,30.0,3.0,5.0,3.0,3.0,8.0,34.0,0.167,0.235,0.267,0.502,135.0,85.0,-0.151,0.7,0.289,-0.439,-0.10%,0.74,-1.1,27.0,14.0,

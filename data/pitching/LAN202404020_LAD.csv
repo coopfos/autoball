@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202404020,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202404020.shtml,LosAngelesDodgerspitching,Ryan Brasier,1.0,0,0,0,1,1,0,2.25,4,12,8,3,1,4,0,2,0,0,53.0,,,0.047,0.67,0.03%,0.79,0.5
+LAN202404020,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202404020.shtml,LosAngelesDodgerspitching,"Ryan Yarbrough, W (1-0)",4.1,7,4,4,1,1,1,4.0,20,75,51,35,3,13,6,12,6,0,,0.0,0.0,-0.234,1.26,-0.17%,1.49,-2.1
+LAN202404020,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202404020.shtml,LosAngelesDodgerspitching,"Alex Vesia, H (1)",0.2,0,0,0,0,1,0,3.0,2,7,5,3,1,1,0,1,0,0,,1.0,0.0,0.084,1.65,0.06%,1.95,0.5
+LAN202404020,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202404020.shtml,LosAngelesDodgerspitching,"Michael Grove, H (1)",1.2,1,0,0,1,2,0,13.5,7,32,19,11,2,6,2,2,1,0,,0.0,0.0,0.108,2.44,0.08%,2.89,0.5
+LAN202404020,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202404020.shtml,LosAngelesDodgerspitching,"Evan Phillips, S (3)",1.1,1,0,0,0,2,0,0.0,5,17,14,8,1,5,1,2,1,0,,2.0,0.0,0.262,2.63,0.19%,3.11,0.9
+LAN202404020,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202404020.shtml,LosAngelesDodgerspitching,Team Totals,9.0,9,4,4,3,7,1,4.0,38,143,97,60,8,29,9,19,8,0,53.0,3.0,0.0,0.267,1.6,0.19%,1.9,0.3

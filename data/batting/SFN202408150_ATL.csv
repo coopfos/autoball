@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.249,0.293,0.364,0.657,11.0,9.0,0.007,0.63,0.045,-0.038,0.01%,0.92,-0.4,1.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.26,0.325,0.47,0.795,12.0,10.0,0.047,0.7,0.072,-0.025,0.04%,1.02,0.0,0.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.298,0.37,0.579,0.949,22.0,13.0,-0.068,0.79,0.009,-0.078,-0.06%,1.15,-0.6,0.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.23,0.308,0.427,0.735,23.0,16.0,-0.137,0.94,0.0,-0.137,-0.12%,1.38,-1.5,8.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Travis d'Arnaud C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.252,0.309,0.479,0.788,11.0,9.0,-0.05,0.67,0.0,-0.05,-0.04%,0.97,-0.6,9.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Orlando Arcia SS,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.228,0.274,0.355,0.629,8.0,5.0,-0.032,0.43,0.0,-0.032,-0.03%,0.63,-0.5,1.0,5.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Jarred Kelenic LF,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.236,0.288,0.404,0.693,11.0,9.0,0.028,0.5,0.041,-0.013,0.03%,0.72,0.1,3.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Ramón Laureano RF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.213,0.283,0.367,0.65,15.0,8.0,-0.111,0.98,0.001,-0.112,-0.10%,1.42,-0.8,1.0,0.0,GDP
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Whit Merrifield 2B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.21,0.304,0.3,0.604,8.0,5.0,-0.028,0.43,0.002,-0.03,-0.02%,0.63,0.0,1.0,2.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Max Fried P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Jesse Chavez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Aaron Bummer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SFN202408150,ATL,https://www.baseball-reference.com/boxes/SFN/SFN202408150.shtml,AtlantaBravesbatting,Team Totals,30.0,0.0,4.0,0.0,1.0,8.0,31.0,0.133,0.161,0.133,0.295,121.0,84.0,-0.344,0.69,0.17,-0.515,-0.30%,1.0,-4.2,24.0,8.0,

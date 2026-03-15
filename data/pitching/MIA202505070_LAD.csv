@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202505070,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505070.shtml,LosAngelesDodgerspitching,"Landon Knack, W (2-0)",5,4,0,0,1,5,0,4.61,20,75,49,32,7,10,6,8,4,0,63.0,,,0.136,1.11,0.09%,1.27,1.7
+MIA202505070,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505070.shtml,LosAngelesDodgerspitching,"Matt Sauer, S (1)",4,1,1,0,1,4,0,1.69,14,42,31,17,7,7,6,3,0,0,,2.0,0.0,0.255,0.42,0.18%,0.48,2.2
+MIA202505070,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505070.shtml,LosAngelesDodgerspitching,Team Totals,9,5,1,0,2,9,0,0.0,34,117,80,49,14,17,12,11,4,0,63.0,2.0,0.0,0.391,0.83,0.27%,0.95,3.9

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.282,0.339,0.427,0.766,17.0,12.0,-0.013,0.69,0.04,-0.052,-0.01%,0.88,-0.4,2.0,3.0,2B
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.249,0.373,0.578,0.951,19.0,11.0,-0.099,0.85,0.0,-0.099,-0.08%,1.09,-1.2,0.0,0.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.259,0.36,0.496,0.856,15.0,9.0,-0.029,0.28,0.0,-0.029,-0.02%,0.35,0.5,6.0,1.0,HR
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.258,0.297,0.416,0.713,19.0,11.0,0.012,0.51,0.04,-0.028,0.01%,0.65,-0.2,1.0,0.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.272,0.336,0.421,0.757,11.0,8.0,-0.057,0.77,0.0,-0.057,-0.04%,0.99,-0.7,4.0,0.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Edmundo Sosa 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.269,0.305,0.425,0.729,8.0,7.0,-0.069,0.6,0.0,-0.069,-0.05%,0.77,-0.9,0.0,3.0,GDP
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Max Kepler LF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.206,0.296,0.366,0.663,7.0,6.0,-0.047,0.69,0.004,-0.051,-0.04%,0.88,-0.2,3.0,0.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.24,0.315,0.352,0.667,12.0,9.0,-0.04,0.52,0.0,-0.04,-0.03%,0.67,-0.7,3.0,1.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Rafael Marchán C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.192,0.289,0.26,0.549,8.0,5.0,-0.002,0.31,0.013,-0.015,-0.00%,0.39,-0.2,4.0,1.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Ranger Suárez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Joe Ross P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Max Lazar P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202508120,PHI,https://www.baseball-reference.com/boxes/CIN/CIN202508120.shtml,PhiladelphiaPhilliesbatting,Team Totals,31.0,1.0,5.0,1.0,0.0,10.0,31.0,0.161,0.161,0.29,0.452,116.0,78.0,-0.344,0.58,0.097,-0.44,-0.26%,0.74,-4.0,24.0,9.0,

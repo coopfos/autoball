@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202406090,DET,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,DetroitTigerspitching,"Tarik Skubal, W (8-1)",6.2,5,1,1,2,10,0,1.92,27,95,65,28,15,22,9,5,2,0,68.0,,,0.263,0.8,0.10%,0.5,2.1
+DET202406090,DET,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,DetroitTigerspitching,Will Vest,0.1,0,0,0,0,0,0,3.0,1,2,1,1,0,0,1,0,0,0,,1.0,0.0,0.001,0.02,0.00%,0.01,0.4
+DET202406090,DET,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,DetroitTigerspitching,Joey Wentz,1.0,0,0,0,0,1,0,6.08,3,10,6,2,2,2,1,1,0,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.5
+DET202406090,DET,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,DetroitTigerspitching,Mason Englert,1.0,2,1,1,0,0,0,4.35,5,16,12,11,1,0,1,4,2,0,,0.0,0.0,0.0,0.0,0.00%,0.0,-0.5
+DET202406090,DET,https://www.baseball-reference.com/boxes/DET/DET202406090.shtml,DetroitTigerspitching,Team Totals,9.0,7,2,2,2,11,0,2.0,36,123,84,42,18,24,12,10,4,0,68.0,1.0,0.0,0.265,0.6,0.10%,0.38,2.4

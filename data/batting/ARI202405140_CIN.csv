@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Will Benson CF-LF,4.0,1.0,1.0,2.0,0.0,0.0,5.0,0.193,0.288,0.393,0.68,11.0,7.0,0.189,0.79,0.24,-0.05,0.06%,0.44,1.5,2.0,0.0,"HR,HBP"
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.26,0.362,0.5,0.862,18.0,12.0,-0.072,0.53,0.004,-0.076,-0.02%,0.3,-0.7,1.0,3.0,SB
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Mike Ford 1B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.208,0.24,0.417,0.657,18.0,12.0,0.002,0.36,0.03,-0.028,0.00%,0.2,-0.6,8.0,0.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Tyler Stephenson C,5.0,2.0,3.0,0.0,0.0,0.0,5.0,0.245,0.33,0.429,0.759,16.0,10.0,0.101,0.64,0.129,-0.028,0.03%,0.36,1.4,7.0,0.0,2B
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Jake Fraley RF,4.0,1.0,2.0,1.0,0.0,0.0,5.0,0.314,0.375,0.395,0.77,14.0,10.0,-0.002,0.81,0.041,-0.043,-0.00%,0.46,-0.7,4.0,0.0,"SF,GDP"
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Jeimer Candelario 3B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.229,0.297,0.405,0.701,16.0,8.0,0.085,0.82,0.134,-0.048,0.03%,0.47,0.7,1.0,0.0,2B
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Jonathan India 2B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.228,0.338,0.309,0.646,26.0,15.0,-0.047,1.07,0.04,-0.087,-0.02%,0.6,-1.0,3.0,1.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Conner Capel DH,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.333,0.333,0.333,0.667,6.0,5.0,0.01,1.41,0.047,-0.038,0.00%,0.79,0.0,0.0,0.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Santiago Espinal PH-DH,2.0,0.0,1.0,1.0,0.0,0.0,2.0,0.196,0.25,0.25,0.5,6.0,3.0,0.086,0.7,0.089,-0.004,0.03%,0.4,0.8,0.0,0.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Jacob Hurtubise LF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,9.0,6.0,-0.076,1.62,0.0,-0.076,-0.03%,0.92,-0.7,1.0,0.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Stuart Fairchild PH-CF,2.0,0.0,1.0,1.0,0.0,0.0,2.0,0.197,0.282,0.289,0.572,4.0,2.0,0.05,0.51,0.053,-0.003,0.02%,0.28,0.8,0.0,0.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Hunter Greene P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Brent Suter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Buck Farmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202405140,CIN,https://www.baseball-reference.com/boxes/ARI/ARI202405140.shtml,CincinnatiRedsbatting,Team Totals,38.0,6.0,13.0,6.0,1.0,5.0,41.0,0.342,0.366,0.474,0.84,144.0,90.0,0.326,0.77,0.807,-0.481,0.11%,0.43,1.4,27.0,6.0,

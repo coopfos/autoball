@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202507022,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202507022.shtml,SanDiegoPadrespitching,"Dylan Cease, L (3-8)",6.0,8,4,4,0,4,2,4.62,26,103,66,42,10,14,7,15,5,0,44.0,,,-0.188,0.88,-0.13%,1.03,-0.9
+PHI202507022,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202507022.shtml,SanDiegoPadrespitching,Yuki Matsui,0.2,0,1,1,1,1,0,4.91,3,14,8,5,3,0,0,1,0,0,,0.0,0.0,0.007,0.16,0.01%,0.19,0.3
+PHI202507022,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202507022.shtml,SanDiegoPadrespitching,Eduarniel Núñez,0.1,1,0,0,2,0,0,0.0,4,21,11,6,1,4,0,2,1,0,,1.0,1.0,-0.031,0.18,-0.02%,0.21,-1.2
+PHI202507022,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202507022.shtml,SanDiegoPadrespitching,Wandy Peralta,1.0,1,0,0,1,1,0,3.58,5,12,8,4,0,4,3,0,0,0,,1.0,0.0,0.005,0.1,0.00%,0.12,0.9
+PHI202507022,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202507022.shtml,SanDiegoPadrespitching,Team Totals,8.0,10,5,5,4,6,2,5.62,38,150,93,57,14,22,10,18,6,0,44.0,2.0,1.0,-0.207,0.64,-0.14%,0.74,-0.8

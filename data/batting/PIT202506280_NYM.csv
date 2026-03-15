@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.261,0.331,0.453,0.784,23.0,14.0,-0.004,0.99,0.077,-0.081,-0.00%,1.41,0.1,1.0,2.0,2B
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Mark Vientos 3B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.224,0.29,0.367,0.658,21.0,14.0,-0.119,1.0,0.0,-0.119,-0.10%,1.41,-1.0,0.0,3.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Juan Soto RF,5.0,0.0,1.0,1.0,0.0,3.0,5.0,0.258,0.394,0.508,0.902,18.0,13.0,-0.044,1.03,0.054,-0.099,-0.04%,1.46,-0.4,2.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.294,0.384,0.547,0.932,12.0,10.0,0.041,1.07,0.089,-0.049,0.03%,1.52,0.6,6.0,1.0,"2B,SB"
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.255,0.317,0.453,0.77,17.0,13.0,0.055,1.12,0.109,-0.054,0.05%,1.59,0.4,3.0,1.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Starling Marte DH,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.252,0.345,0.374,0.719,17.0,9.0,0.016,1.61,0.109,-0.093,0.01%,2.29,-0.3,0.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Tyrone Taylor CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.219,0.276,0.32,0.596,17.0,14.0,-0.282,1.81,0.0,-0.282,-0.24%,2.56,-1.7,2.0,0.0,GDP
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Brett Baty 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.233,0.284,0.418,0.702,16.0,8.0,0.086,1.03,0.128,-0.042,0.07%,1.47,0.7,2.0,1.0,2B
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Luis Torrens C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.213,0.288,0.312,0.601,12.0,9.0,-0.11,1.08,0.012,-0.122,-0.09%,1.53,-1.1,8.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Paul Blackburn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,José Buttó P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Brandon Waddell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Huascar Brazobán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Colin Poche P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506280,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202506280.shtml,NewYorkMetsbatting,Team Totals,36.0,2.0,10.0,2.0,3.0,9.0,39.0,0.278,0.333,0.361,0.694,153.0,104.0,-0.361,1.18,0.578,-0.941,-0.31%,1.67,-2.7,24.0,8.0,

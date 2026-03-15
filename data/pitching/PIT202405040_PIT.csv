@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202405040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405040.shtml,PittsburghPiratespitching,Jared Jones,7,1,0,0,0,10,0,2.63,22,96,67,33,17,17,4,8,1,0,85.0,,,0.447,0.95,0.18%,0.63,3.6
+PIT202405040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405040.shtml,PittsburghPiratespitching,Colin Holderman,1,0,0,0,0,0,0,1.04,3,9,6,5,0,1,1,2,0,0,,0.0,0.0,0.108,1.41,0.04%,0.94,0.5
+PIT202405040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405040.shtml,PittsburghPiratespitching,"David Bednar, W (2-2)",1,0,0,0,0,1,0,10.5,3,10,7,3,3,1,0,2,1,0,,0.0,0.0,0.14,1.83,0.06%,1.22,0.5
+PIT202405040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202405040.shtml,PittsburghPiratespitching,Team Totals,9,1,0,0,0,11,0,0.0,28,115,80,41,20,19,5,12,2,0,85.0,0.0,0.0,0.695,1.09,0.28%,0.73,4.6

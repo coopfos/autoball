@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,1.0,0.0,0.0,1.0,0.0,5.0,0.23,0.336,0.429,0.765,29.0,21.0,0.002,1.22,0.091,-0.089,0%,0.32,-0.2,3.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Michael Busch 1B,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.259,0.348,0.449,0.797,26.0,16.0,-0.054,0.71,0.024,-0.079,-0.01%,0.19,-0.8,6.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Seiya Suzuki RF,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.268,0.343,0.477,0.819,18.0,10.0,0.023,0.66,0.065,-0.042,0.00%,0.17,0.3,3.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Cody Bellinger DH,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.272,0.333,0.421,0.754,17.0,12.0,0.07,1.05,0.114,-0.044,0.01%,0.28,1.3,0.0,0.0,HR
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Isaac Paredes 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.243,0.353,0.431,0.784,16.0,9.0,-0.159,1.4,0.0,-0.159,-0.03%,0.37,-1.4,1.0,2.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.25,0.325,0.341,0.666,13.0,10.0,-0.06,0.8,0.012,-0.071,-0.01%,0.21,-0.4,1.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Dansby Swanson SS,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.219,0.292,0.345,0.637,16.0,11.0,-0.015,0.66,0.034,-0.049,-0.00%,0.17,-0.3,0.0,2.0,2B
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.188,0.235,0.304,0.539,13.0,12.0,-0.081,0.72,0.0,-0.081,-0.01%,0.19,-0.9,1.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Miguel Amaya C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.215,0.279,0.298,0.576,8.0,5.0,-0.02,0.61,0.02,-0.039,-0.00%,0.16,-0.1,9.0,1.0,2B
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Mike Tauchman PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.243,0.341,0.351,0.692,4.0,0.0,0.045,1.18,0.045,0.0,0.01%,0.31,0.6,0.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Justin Steele P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Jorge López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Ethan Roberts P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubsbatting,Team Totals,34.0,3.0,7.0,2.0,5.0,7.0,39.0,0.206,0.308,0.353,0.661,160.0,106.0,-0.249,0.9,0.405,-0.653,-0.04%,0.24,-1.8,24.0,5.0,

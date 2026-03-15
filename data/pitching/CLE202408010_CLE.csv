@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202408010,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202408010.shtml,ClevelandGuardianspitching,"Ben Lively, W (10-6)",6,4,2,2,1,4,1,3.42,22,90,58,33,8,17,6,11,3,0,59.0,,,0.126,0.78,0.07%,0.77,0.9
+CLE202408010,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202408010.shtml,ClevelandGuardianspitching,"Cade Smith, H (17)",1,0,0,0,0,1,0,1.92,3,12,9,6,1,2,0,2,1,0,,0.0,0.0,0.045,0.6,0.03%,0.59,0.5
+CLE202408010,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202408010.shtml,ClevelandGuardianspitching,Tim Herrin,1,1,1,1,0,2,0,1.44,6,19,13,6,5,2,1,2,1,0,,0.0,0.0,0.001,0.05,0.00%,0.05,-0.5
+CLE202408010,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202408010.shtml,ClevelandGuardianspitching,Nick Sandlin,1,0,0,0,1,2,0,3.66,4,20,11,7,2,2,1,0,0,0,,0.0,0.0,0.001,0.03,0.00%,0.03,0.5
+CLE202408010,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202408010.shtml,ClevelandGuardianspitching,Team Totals,9,5,3,3,2,9,1,3.0,35,141,91,52,16,23,8,15,5,0,59.0,0.0,0.0,0.173,0.55,0.10%,0.55,1.4

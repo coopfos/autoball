@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202404110,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PittsburghPiratespitching,"Jared Jones, L (1-2)",6.1,6,3,3,0,8,2,4.0,24,85,59,29,14,16,5,11,4,0,57.0,,,0.021,0.9,0.01%,1.0,0.2
+PHI202404110,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PittsburghPiratespitching,Colin Holderman,0.2,1,2,1,0,0,1,13.5,4,9,8,6,1,1,1,3,0,0,,0.0,0.0,-0.046,0.15,-0.03%,0.17,-1.7
+PHI202404110,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PittsburghPiratespitching,Hunter Stratton,1.0,0,0,0,0,2,0,1.5,3,13,9,4,4,1,1,0,0,0,,0.0,0.0,0.001,0.02,0.00%,0.02,0.5
+PHI202404110,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PittsburghPiratespitching,Team Totals,8.0,7,5,4,0,10,3,4.5,31,107,76,39,19,18,7,14,4,0,57.0,0.0,0.0,-0.024,0.72,-0.01%,0.8,-1.0

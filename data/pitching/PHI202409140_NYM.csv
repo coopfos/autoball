@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202409140,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409140.shtml,NewYorkMetspitching,Luis Severino,6.0,3,3,3,1,5,2,3.77,22,86,55,32,11,12,6,10,1,0,58.0,,,0.03,0.66,0.03%,1.0,0.0
+PHI202409140,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409140.shtml,NewYorkMetspitching,"Danny Young, H (7), L (4-1)",0.1,2,2,2,0,0,0,3.67,3,5,5,4,0,1,1,2,1,0,,0.0,0.0,-0.189,2.91,-0.17%,4.4,-0.9
+PHI202409140,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409140.shtml,NewYorkMetspitching,"Reed Garrett, BS (5)",0.2,1,0,0,1,2,0,3.31,4,23,12,5,4,3,0,1,1,0,,2.0,2.0,-0.199,2.56,-0.18%,3.87,-0.6
+PHI202409140,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409140.shtml,NewYorkMetspitching,Ryne Stanek,1.0,2,1,1,0,2,0,4.99,5,13,11,6,3,2,0,3,1,0,,0.0,0.0,-0.058,0.5,-0.05%,0.76,-0.5
+PHI202409140,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409140.shtml,NewYorkMetspitching,Team Totals,8.0,8,6,6,2,9,2,6.75,34,127,83,47,18,18,7,16,4,0,58.0,2.0,2.0,-0.416,1.06,-0.38%,1.6,-2.0

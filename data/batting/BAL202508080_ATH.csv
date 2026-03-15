@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Carlos Cortes RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.294,0.324,0.382,0.707,8.0,6.0,-0.174,1.14,0.0,-0.174,-0.00%,0.02,-1.7,0.0,0.0,GDP
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Brent Rooker DH,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.272,0.346,0.492,0.838,12.0,8.0,-0.068,1.09,0.014,-0.082,-0.00%,0.02,-0.5,0.0,0.0,HBP
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Nick Kurtz 1B,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.307,0.389,0.639,1.028,15.0,10.0,0.026,0.94,0.08,-0.054,0%,0.01,-0.1,8.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Shea Langeliers C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.269,0.316,0.531,0.847,12.0,7.0,-0.119,1.31,0.0,-0.119,-0.00%,0.02,-0.9,10.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Tyler Soderstrom LF,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.261,0.333,0.464,0.798,13.0,8.0,0.087,0.91,0.115,-0.028,0.00%,0.01,0.8,0.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Darell Hernaiz SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.29,0.361,0.548,0.909,13.0,7.0,-0.113,1.25,0.011,-0.124,-0.00%,0.02,-0.6,2.0,2.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Lawrence Butler CF,2.0,1.0,1.0,0.0,1.0,0.0,3.0,0.233,0.304,0.406,0.71,15.0,7.0,0.098,0.96,0.118,-0.019,0.00%,0.01,0.8,4.0,0.0,2B
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Colby Thomas PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.152,0.237,0.303,0.54,3.0,3.0,-0.072,2.84,0.0,-0.072,-0.00%,0.04,-0.2,0.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Gio Urshela 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.234,0.287,0.323,0.611,12.0,8.0,-0.092,1.67,0.036,-0.128,-0.00%,0.03,-0.3,0.0,3.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Luis Urías 2B,3.0,0.0,1.0,1.0,0.0,0.0,4.0,0.24,0.323,0.357,0.681,14.0,8.0,-0.016,1.47,0.062,-0.078,0%,0.02,0.4,0.0,2.0,SF
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,J.T. Ginn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Ben Bowden P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Tyler Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Elvis Alvarado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508080,ATH,https://www.baseball-reference.com/boxes/BAL/BAL202508080.shtml,Athleticsbatting,Team Totals,32.0,2.0,7.0,2.0,2.0,5.0,36.0,0.219,0.278,0.25,0.528,117.0,72.0,-0.443,1.25,0.436,-0.878,-0.01%,0.02,-2.3,24.0,7.0,

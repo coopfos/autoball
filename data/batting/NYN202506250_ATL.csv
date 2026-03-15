@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,3.0,0.0,1.0,2.0,2.0,2.0,5.0,0.383,0.5,0.682,1.182,28.0,16.0,0.011,0.53,0.043,-0.032,0.00%,0.27,1.7,1.0,0.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Matt Olson 1B,3.0,0.0,1.0,0.0,2.0,1.0,5.0,0.257,0.366,0.479,0.845,28.0,12.0,0.015,0.59,0.052,-0.037,0.01%,0.3,0.2,6.0,0.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Marcell Ozuna DH,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.247,0.379,0.406,0.785,22.0,14.0,-0.083,0.73,0.0,-0.083,-0.03%,0.38,-1.4,0.0,0.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.272,0.325,0.432,0.757,14.0,12.0,-0.078,0.72,0.0,-0.078,-0.02%,0.37,-1.2,1.0,2.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Drake Baldwin C,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.288,0.358,0.487,0.846,19.0,9.0,0.128,0.53,0.151,-0.024,0.04%,0.27,1.1,6.0,0.0,HR
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Ozzie Albies 2B,2.0,1.0,1.0,0.0,2.0,0.0,4.0,0.224,0.298,0.326,0.624,20.0,11.0,0.042,0.56,0.059,-0.016,0.01%,0.29,0.5,1.0,4.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Alex Verdugo LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.245,0.3,0.298,0.598,17.0,12.0,-0.076,0.83,0.007,-0.082,-0.02%,0.43,-0.4,2.0,0.0,GDP
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.217,0.243,0.327,0.57,10.0,7.0,-0.064,0.62,0.0,-0.064,-0.02%,0.32,-0.7,4.0,0.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Nick Allen SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.234,0.304,0.268,0.573,11.0,10.0,-0.032,0.47,0.009,-0.041,-0.01%,0.24,-1.0,3.0,2.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Didier Fuentes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Aaron Bummer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Austin Cox P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202506250,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202506250.shtml,AtlantaBravesbatting,Team Totals,32.0,3.0,6.0,3.0,7.0,7.0,39.0,0.188,0.333,0.281,0.615,169.0,103.0,-0.137,0.62,0.321,-0.457,-0.04%,0.32,-1.2,24.0,8.0,

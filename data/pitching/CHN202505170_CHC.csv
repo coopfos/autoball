@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202505170,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505170.shtml,ChicagoCubspitching,"Matthew Boyd, W (4-2)",6,4,3,3,0,8,2,2.98,22,92,59,37,8,14,4,10,1,0,60.0,,,-0.003,0.84,-0.00%,0.98,-0.2
+CHN202505170,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505170.shtml,ChicagoCubspitching,"Brad Keller, H (5)",1,0,0,0,1,1,0,3.05,4,20,10,5,2,3,2,0,0,0,,0.0,0.0,0.043,0.6,0.03%,0.7,0.5
+CHN202505170,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505170.shtml,ChicagoCubspitching,"Daniel Palencia, H (5)",1,1,0,0,0,2,0,1.2,4,17,11,6,3,2,1,1,0,0,,0.0,0.0,0.039,0.74,0.03%,0.86,0.5
+CHN202505170,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505170.shtml,ChicagoCubspitching,Porter Hodge,1,1,0,0,0,1,0,5.12,4,18,12,8,2,2,0,3,1,0,,0.0,0.0,0.013,0.26,0.01%,0.3,0.5
+CHN202505170,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505170.shtml,ChicagoCubspitching,Team Totals,9,6,3,3,1,12,2,3.0,34,147,92,56,15,21,7,14,2,0,60.0,0.0,0.0,0.092,0.74,0.06%,0.85,1.2

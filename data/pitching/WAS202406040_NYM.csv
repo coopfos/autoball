@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202406040,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406040.shtml,NewYorkMetspitching,"David Peterson, W (1-0)",6.2,5,2,2,2,2,0,3.09,28,81,52,34,8,10,13,9,5,0,56.0,,,0.19,0.9,0.04%,0.31,1.0
+WAS202406040,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406040.shtml,NewYorkMetspitching,"Dedniel Núñez, H (2)",1.1,0,0,0,0,1,0,2.31,4,15,11,6,3,2,1,2,0,0,,2.0,0.0,0.098,0.97,0.02%,0.33,0.9
+WAS202406040,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406040.shtml,NewYorkMetspitching,Reed Garrett,1.0,1,1,1,2,2,0,3.19,6,31,16,7,2,7,1,1,0,0,,0.0,0.0,0.017,0.61,0.00%,0.21,-0.5
+WAS202406040,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406040.shtml,NewYorkMetspitching,Team Totals,9.0,6,3,3,4,5,0,3.0,38,127,79,47,13,19,15,12,5,0,56.0,2.0,0.0,0.305,0.85,0.06%,0.29,1.4

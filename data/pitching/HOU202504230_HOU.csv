@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202504230,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202504230.shtml,HoustonAstrospitching,"Ryan Gusto, W (3-1)",5.2,3,1,1,1,6,0,2.78,21,80,47,29,11,7,7,7,2,0,64.0,,,0.205,0.89,0.13%,0.93,1.7
+HOU202504230,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202504230.shtml,HoustonAstrospitching,"Bryan King, H (7)",1.1,0,0,0,0,0,0,1.5,4,8,7,4,0,3,2,2,0,0,,1.0,0.0,0.099,0.95,0.06%,0.99,0.7
+HOU202504230,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202504230.shtml,HoustonAstrospitching,"Bryan Abreu, H (8)",1.0,1,0,0,0,1,0,2.31,4,15,10,5,2,3,1,2,2,0,,0.0,0.0,0.073,1.02,0.04%,1.06,0.5
+HOU202504230,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202504230.shtml,HoustonAstrospitching,"Josh Hader, S (7)",1.0,1,0,0,1,2,0,0.69,5,23,16,8,6,2,0,2,1,0,,0.0,0.0,0.072,2.45,0.04%,2.54,0.5
+HOU202504230,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202504230.shtml,HoustonAstrospitching,Team Totals,9.0,5,1,1,2,9,0,1.0,34,126,80,46,19,15,10,13,5,0,64.0,1.0,0.0,0.449,1.14,0.28%,1.18,3.4

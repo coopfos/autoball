@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Oneil Cruz CF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.227,0.352,0.459,0.811,15.0,7.0,0.011,0.7,0.049,-0.038,0.00%,0.07,-0.5,2.0,0.0,2B
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,5.0,2.0,3.0,1.0,0.0,0.0,5.0,0.264,0.358,0.391,0.749,17.0,11.0,0.098,0.74,0.113,-0.016,0.01%,0.07,1.9,0.0,0.0,2B
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Bryan Reynolds RF,5.0,0.0,2.0,3.0,0.0,0.0,5.0,0.238,0.311,0.385,0.696,18.0,13.0,0.113,0.69,0.16,-0.047,0.01%,0.07,1.7,2.0,0.0,"3B,GDP"
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Alexander Canario LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.213,0.27,0.323,0.593,,,,,,,,,,0.0,0.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Spencer Horwitz 1B,4.0,2.0,1.0,1.0,1.0,1.0,5.0,0.214,0.286,0.314,0.6,22.0,14.0,-0.01,0.4,0.037,-0.048,-0.00%,0.04,0.1,8.0,1.0,2B
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.231,0.25,0.5,0.75,12.0,12.0,-0.014,0.43,0.035,-0.049,-0.00%,0.04,0.2,1.0,1.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Adam Frazier LF-RF,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.264,0.332,0.363,0.694,20.0,14.0,0.019,0.38,0.039,-0.02,0.00%,0.03,0.9,1.0,0.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.226,0.285,0.274,0.559,13.0,9.0,0.007,0.47,0.044,-0.037,0%,0.05,0.7,1.0,1.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Brett Sullivan C,2.0,1.0,1.0,2.0,1.0,1.0,4.0,0.5,0.5,0.5,1.0,18.0,12.0,0.039,0.36,0.047,-0.008,0.00%,0.04,1.1,10.0,1.0,SF
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Jared Triolo SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.189,0.269,0.302,0.571,14.0,7.0,0.102,0.52,0.109,-0.007,0.01%,0.05,-0.1,1.0,3.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Mike Burrows P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Chase Shugart P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Caleb Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Kyle Nicolas P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202506090,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506090.shtml,PittsburghPiratesbatting,Team Totals,38.0,10.0,15.0,8.0,3.0,6.0,42.0,0.395,0.429,0.526,0.955,149.0,99.0,0.365,0.52,0.633,-0.27,0.02%,0.05,6.0,27.0,7.0,

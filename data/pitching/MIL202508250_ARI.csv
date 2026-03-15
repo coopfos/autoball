@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202508250,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508250.shtml,ArizonaDiamondbackspitching,"Eduardo Rodríguez, L (5-8)",2.1,6,5,5,1,1,0,5.67,14,65,38,28,2,8,8,4,4,0,25.0,,,-0.299,0.91,-0.04%,0.19,-4.9
+MIL202508250,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508250.shtml,ArizonaDiamondbackspitching,Bryce Jarvis,5.2,4,2,2,1,6,2,4.05,22,88,57,28,6,23,2,13,2,0,,2.0,0.0,0.053,0.41,0.01%,0.09,1.9
+MIL202508250,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508250.shtml,ArizonaDiamondbackspitching,Team Totals,8.0,10,7,7,2,7,2,7.88,36,153,95,56,8,31,10,17,6,0,25.0,2.0,0.0,-0.246,0.6,-0.03%,0.12,-3.0

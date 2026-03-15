@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,4.0,0.0,1.0,0.0,0.0,1.0,5.0,0.286,0.384,0.437,0.821,20.0,11.0,0.084,1.65,0.2,-0.116,0.01%,0.33,0.5,3.0,3.0,"2B,SB,SH"
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,4.0,1.0,2.0,2.0,1.0,0.0,5.0,0.289,0.393,0.545,0.937,20.0,14.0,0.504,1.57,0.549,-0.046,0.06%,0.31,1.5,1.0,3.0,"HR,SB"
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.248,0.321,0.554,0.875,17.0,13.0,-0.174,1.38,0.0,-0.174,-0.02%,0.28,-1.3,2.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.244,0.292,0.401,0.693,18.0,10.0,-0.093,1.79,0.016,-0.109,-0.01%,0.36,-0.6,1.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Adrian Del Castillo DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.241,0.276,0.37,0.646,20.0,11.0,-0.066,2.11,0.104,-0.17,-0.01%,0.42,-0.7,0.0,0.0,2B
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Tyler Locklear 1B,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.22,0.319,0.366,0.685,21.0,11.0,-0.053,1.39,0.061,-0.115,-0.01%,0.28,-0.1,10.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.252,0.299,0.39,0.689,11.0,9.0,-0.156,1.57,0.0,-0.156,-0.02%,0.32,-1.0,4.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Blaze Alexander 3B,3.0,1.0,1.0,1.0,0.0,2.0,4.0,0.273,0.366,0.477,0.844,18.0,13.0,0.097,1.37,0.173,-0.076,0.01%,0.28,1.0,0.0,2.0,"HR,HBP"
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,José Herrera C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.19,0.288,0.247,0.535,13.0,11.0,-0.014,1.9,0.124,-0.137,-0.00%,0.38,-0.3,6.0,1.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Anthony DeSclafani P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Jake Woodford P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Juan Morillo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202508120,ARI,https://www.baseball-reference.com/boxes/TEX/TEX202508120.shtml,ArizonaDiamondbacksbatting,Team Totals,35.0,3.0,8.0,3.0,2.0,11.0,39.0,0.229,0.289,0.457,0.747,158.0,103.0,0.129,1.63,1.227,-1.099,0.02%,0.33,-0.9,27.0,9.0,

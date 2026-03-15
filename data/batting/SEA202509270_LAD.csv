@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Tommy Edman DH,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.225,0.274,0.382,0.655,13.0,10.0,-0.121,0.98,0.0,-0.121,-0.01%,0.08,-1.2,0.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.26,0.328,0.409,0.736,12.0,8.0,-0.125,1.25,0.0,-0.125,-0.01%,0.1,-0.8,1.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Hyeseong Kim SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.28,0.315,0.369,0.685,,,,,,,,,,0.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,2.0,0.0,1.0,0.0,2.0,0.0,4.0,0.294,0.366,0.496,0.863,16.0,5.0,0.056,0.86,0.081,-0.025,0.00%,0.07,0.5,4.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Andy Pages CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.272,0.313,0.463,0.776,22.0,14.0,-0.176,1.26,0.0,-0.176,-0.01%,0.11,-1.2,2.0,0.0,GDP
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,2.0,1.0,0.0,1.0,0.0,4.0,0.2,0.303,0.334,0.637,21.0,13.0,0.3,1.8,0.335,-0.035,0.01%,0.15,1.3,1.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Alex Call RF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.267,0.361,0.385,0.746,16.0,8.0,0.006,2.06,0.117,-0.111,0%,0.17,-0.1,2.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Miguel Rojas 2B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.262,0.318,0.397,0.715,21.0,14.0,0.015,1.85,0.08,-0.065,0.00%,0.15,-0.0,1.0,3.0,2B
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,4.0,0.0,3.0,2.0,0.0,1.0,4.0,0.206,0.259,0.373,0.632,13.0,10.0,0.295,2.12,0.342,-0.046,0.01%,0.17,1.8,1.0,1.0,2·2B
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Dalton Rushing C,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.2,0.255,0.314,0.569,12.0,8.0,0.142,1.42,0.26,-0.118,0.01%,0.12,0.8,15.0,0.0,HR
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Tyler Glasnow P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Andrew Heaney P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Blake Treinen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Edgardo Henriquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202509270,LAD,https://www.baseball-reference.com/boxes/SEA/SEA202509270.shtml,LosAngelesDodgersbatting,Team Totals,33.0,5.0,7.0,4.0,4.0,6.0,37.0,0.212,0.297,0.394,0.691,146.0,90.0,0.392,1.5,1.215,-0.822,0.02%,0.13,0.9,27.0,5.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Anthony Volpe SS,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.324,0.41,0.471,0.881,22.0,14.0,-0.306,1.95,0.0,-0.306,-0.23%,2.43,-1.8,2.0,4.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Juan Soto RF,3.0,1.0,3.0,2.0,2.0,0.0,5.0,0.352,0.478,0.577,1.055,21.0,10.0,0.263,1.67,0.263,0.0,0.20%,2.08,2.9,1.0,1.0,"HR,2B"
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Aaron Judge CF,5.0,0.0,1.0,2.0,0.0,3.0,5.0,0.183,0.33,0.38,0.71,24.0,14.0,0.215,2.46,0.394,-0.179,0.16%,3.05,0.2,2.0,0.0,GDP
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Anthony Rizzo 1B,5.0,0.0,1.0,0.0,0.0,3.0,5.0,0.24,0.313,0.307,0.62,23.0,17.0,-0.057,0.75,0.02,-0.077,-0.04%,0.93,-0.7,13.0,0.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.254,0.302,0.559,0.861,20.0,11.0,0.066,1.29,0.118,-0.052,0.05%,1.61,0.9,0.0,0.0,HR
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.208,0.318,0.236,0.554,23.0,15.0,0.009,1.77,0.115,-0.106,0.01%,2.2,-0.6,1.0,3.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Alex Verdugo LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.242,0.338,0.424,0.762,16.0,11.0,0.257,1.93,0.335,-0.078,0.19%,2.4,0.5,0.0,0.0,2B
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.309,0.35,0.545,0.895,24.0,19.0,-0.055,1.83,0.124,-0.179,-0.04%,2.28,0.1,1.0,3.0,2B
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Austin Wells C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.097,0.25,0.097,0.347,16.0,8.0,-0.131,1.32,0.023,-0.153,-0.10%,1.64,-0.7,6.0,0.0,"SB,GDP"
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Jose Trevino PH-C,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.233,0.324,0.333,0.657,2.0,1.0,0.241,4.88,0.241,0.0,0.18%,6.07,0.8,0.0,0.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Marcus Stroman P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Caleb Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Ian Hamilton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Victor González P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404170,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202404170.shtml,NewYorkYankeesbatting,Team Totals,36.0,6.0,11.0,6.0,4.0,11.0,40.0,0.306,0.375,0.556,0.931,191.0,120.0,0.502,1.75,1.633,-1.13,0.37%,2.17,1.6,27.0,13.0,

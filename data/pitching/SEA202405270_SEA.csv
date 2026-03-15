@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202405270,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405270.shtml,SeattleMarinerspitching,"Bryce Miller, W (4-5)",6,5,2,2,2,6,0,3.48,25,93,62,37,11,14,4,13,6,0,58.0,,,0.107,1.23,0.07%,1.39,0.7
+SEA202405270,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405270.shtml,SeattleMarinerspitching,"Trent Thornton, H (6)",1,1,0,0,0,0,0,2.82,3,10,6,5,0,1,2,1,1,0,,0.0,0.0,0.091,1.76,0.06%,1.99,0.4
+SEA202405270,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405270.shtml,SeattleMarinerspitching,"Gabe Speier, H (6)",1,0,0,0,0,1,0,6.32,3,10,7,4,2,1,1,1,0,0,,0.0,0.0,0.114,1.55,0.08%,1.75,0.4
+SEA202405270,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405270.shtml,SeattleMarinerspitching,"Andrés Muñoz, S (11)",1,0,0,0,0,2,0,1.54,3,15,10,3,3,4,0,1,0,0,,0.0,0.0,0.15,2.03,0.10%,2.3,0.4
+SEA202405270,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202405270.shtml,SeattleMarinerspitching,Team Totals,9,6,2,2,2,9,0,2.0,34,128,85,49,16,20,7,16,7,0,58.0,0.0,0.0,0.462,1.38,0.31%,1.55,2.0

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202509150,CHC,https://www.baseball-reference.com/boxes/PIT/PIT202509150.shtml,ChicagoCubspitching,"Jameson Taillon, W (10-6)",6.0,2,0,0,2,3,0,3.93,22,88,59,37,5,17,7,10,2,0,69.0,,,0.303,0.73,0.07%,0.3,3.1
+PIT202509150,CHC,https://www.baseball-reference.com/boxes/PIT/PIT202509150.shtml,ChicagoCubspitching,Michael Soroka,2.0,0,0,0,2,2,0,4.75,9,39,22,14,2,6,3,1,0,0,,0.0,0.0,0.065,0.69,0.02%,0.28,1.0
+PIT202509150,CHC,https://www.baseball-reference.com/boxes/PIT/PIT202509150.shtml,ChicagoCubspitching,Porter Hodge,0.2,1,0,0,2,0,0,5.81,5,21,8,5,1,2,2,1,1,0,,0.0,0.0,-0.029,0.62,-0.01%,0.26,-0.3
+PIT202509150,CHC,https://www.baseball-reference.com/boxes/PIT/PIT202509150.shtml,ChicagoCubspitching,"Brad Keller, S (2)",0.1,0,0,0,0,1,0,2.19,1,4,3,1,2,0,0,0,0,0,,3.0,0.0,0.048,1.78,0.01%,0.74,0.8
+PIT202509150,CHC,https://www.baseball-reference.com/boxes/PIT/PIT202509150.shtml,ChicagoCubspitching,Team Totals,9.0,3,0,0,6,6,0,0.0,37,152,92,57,10,25,12,12,3,0,69.0,3.0,0.0,0.387,0.73,0.10%,0.3,4.6

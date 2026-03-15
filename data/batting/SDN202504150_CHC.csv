@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Ian Happ LF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.209,0.303,0.279,0.582,19.0,14.0,-0.157,1.71,0.04,-0.197,-0.10%,1.82,-0.8,3.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Kyle Tucker RF,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.313,0.427,0.6,1.027,22.0,14.0,-0.022,1.42,0.096,-0.117,-0.01%,1.51,-0.2,1.0,0.0,SB
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Justin Turner DH,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.156,0.3,0.156,0.456,26.0,13.0,-0.07,1.7,0.042,-0.112,-0.04%,1.81,-0.2,0.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Michael Busch 1B,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.302,0.38,0.603,0.983,8.0,7.0,0.012,1.99,0.184,-0.172,0.01%,2.12,-0.6,8.0,1.0,2B
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Dansby Swanson SS,5.0,2.0,1.0,0.0,0.0,4.0,5.0,0.177,0.233,0.367,0.6,20.0,15.0,-0.205,2.02,0.059,-0.265,-0.13%,2.15,-1.0,1.0,2.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Nico Hoerner 2B,5.0,0.0,3.0,1.0,0.0,0.0,5.0,0.328,0.371,0.391,0.762,15.0,10.0,0.33,2.14,0.438,-0.108,0.21%,2.28,1.7,3.0,2.0,3B
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,4.0,0.0,1.0,1.0,0.0,1.0,5.0,0.256,0.31,0.436,0.745,16.0,13.0,-0.013,1.59,0.115,-0.128,-0.01%,1.69,-0.1,3.0,0.0,"2B,SH"
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Miguel Amaya C,4.0,0.0,0.0,0.0,0.0,1.0,5.0,0.283,0.292,0.478,0.77,10.0,9.0,-0.204,2.05,0.0,-0.204,-0.13%,2.18,-1.4,10.0,1.0,SH
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Gage Workman 3B,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.273,0.333,0.364,0.697,5.0,4.0,-0.002,0.95,0.028,-0.03,-0.00%,1.02,0.0,0.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Jon Berti PH-3B,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.25,0.348,0.25,0.598,12.0,6.0,-0.143,1.89,0.052,-0.196,-0.09%,2.01,-1.1,0.0,4.0,SB
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Shota Imanaga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Daniel Palencia P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Julian Merryweather P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Porter Hodge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Ryan Pressly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202504150,CHC,https://www.baseball-reference.com/boxes/SDN/SDN202504150.shtml,ChicagoCubsbatting,Team Totals,40.0,2.0,10.0,2.0,3.0,8.0,45.0,0.25,0.302,0.35,0.652,153.0,105.0,-0.474,1.78,1.054,-1.529,-0.31%,1.89,-3.7,30.0,11.0,

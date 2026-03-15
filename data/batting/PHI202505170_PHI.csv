@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,5.0,2.0,2.0,3.0,0.0,1.0,5.0,0.263,0.329,0.397,0.727,24.0,15.0,0.144,0.53,0.169,-0.025,0.10%,0.64,1.5,1.0,5.0,"HR,SB"
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.299,0.358,0.384,0.742,30.0,20.0,-0.006,0.35,0.024,-0.031,-0.01%,0.43,-1.1,2.0,1.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,3.0,0.0,2.0,1.0,1.0,0.0,4.0,0.256,0.376,0.44,0.817,13.0,6.0,0.114,0.52,0.115,-0.001,0.08%,0.62,1.8,8.0,1.0,2B
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.262,0.395,0.573,0.968,16.0,11.0,0.077,0.72,0.106,-0.029,0.06%,0.87,0.3,0.0,0.0,2B
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.277,0.323,0.416,0.739,14.0,11.0,-0.053,0.51,0.025,-0.078,-0.04%,0.61,-0.9,1.0,0.0,2B
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Max Kepler LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.215,0.301,0.375,0.676,13.0,7.0,-0.081,0.76,0.004,-0.085,-0.06%,0.92,-1.0,2.0,0.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.245,0.327,0.396,0.723,11.0,6.0,-0.03,0.39,0.006,-0.036,-0.02%,0.47,0.3,11.0,0.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.261,0.305,0.348,0.652,24.0,16.0,-0.005,0.34,0.017,-0.022,-0.00%,0.41,-0.8,1.0,4.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh CF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.191,0.282,0.294,0.576,20.0,11.0,0.041,0.37,0.058,-0.017,0.03%,0.45,0.7,0.0,0.0,2B
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Zack Wheeler P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Matt Strahm P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Carlos Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Tanner Banks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202505170,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505170.shtml,PhiladelphiaPhilliesbatting,Team Totals,34.0,5.0,10.0,5.0,4.0,7.0,38.0,0.294,0.368,0.5,0.868,165.0,103.0,0.201,0.5,0.524,-0.324,0.15%,0.6,0.8,27.0,12.0,

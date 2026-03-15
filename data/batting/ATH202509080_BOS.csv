@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Jarren Duran LF,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.259,0.334,0.443,0.778,22.0,14.0,0.054,0.51,0.083,-0.029,0.03%,0.55,0.3,2.0,0.0,"2B,SB,GDP"
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Alex Bregman 3B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.279,0.361,0.476,0.837,22.0,16.0,-0.006,0.35,0.023,-0.029,-0.00%,0.37,0.5,0.0,1.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Trevor Story SS,4.0,2.0,2.0,1.0,0.0,0.0,4.0,0.263,0.31,0.444,0.754,19.0,12.0,0.092,0.28,0.108,-0.016,0.06%,0.31,1.6,1.0,1.0,"HR,2B"
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Nathaniel Lowe 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.224,0.299,0.387,0.686,18.0,10.0,-0.025,0.24,0.0,-0.025,-0.02%,0.26,-1.0,7.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Romy Gonzalez 2B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.306,0.34,0.489,0.829,11.0,8.0,-0.033,0.4,0.005,-0.038,-0.02%,0.43,0.1,1.0,2.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Masataka Yoshida DH,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.242,0.292,0.348,0.64,14.0,9.0,0.013,0.28,0.025,-0.012,0.01%,0.3,0.7,0.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.243,0.287,0.413,0.7,18.0,11.0,0.024,0.36,0.033,-0.009,0.01%,0.39,-0.3,3.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Nick Sogard RF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.254,0.321,0.338,0.659,16.0,10.0,0.073,0.6,0.089,-0.016,0.05%,0.65,0.1,1.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Nate Eaton RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.321,0.32,0.641,,,,,,,,,,1.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Carlos Narváez C,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.252,0.321,0.429,0.749,13.0,10.0,0.033,0.47,0.067,-0.034,0.02%,0.5,0.5,10.0,0.0,HR
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Garrett Crochet P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Zack Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Chris Murphy P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ATH202509080,BOS,https://www.baseball-reference.com/boxes/ATH/ATH202509080.shtml,BostonRedSoxbatting,Team Totals,37.0,7.0,12.0,7.0,1.0,8.0,38.0,0.324,0.342,0.541,0.883,153.0,100.0,0.225,0.39,0.433,-0.208,0.14%,0.42,2.5,27.0,4.0,

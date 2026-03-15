@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.241,0.362,0.328,0.69,20.0,13.0,-0.09,0.92,0.0,-0.09,-0.05%,0.87,-1.0,3.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Seiya Suzuki DH,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.305,0.368,0.525,0.893,15.0,10.0,0.007,0.55,0.053,-0.046,0.00%,0.52,0.1,0.0,0.0,"2B,CS"
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Cody Bellinger CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.172,0.269,0.293,0.562,13.0,9.0,0.051,0.71,0.089,-0.038,0.03%,0.67,0.3,1.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Christopher Morel 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.237,0.274,0.441,0.715,18.0,11.0,-0.057,0.6,0.0,-0.057,-0.03%,0.56,-0.8,1.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Nick Madrigal 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.278,0.278,0.389,0.667,,,,,,,,,,0.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.245,0.328,0.434,0.762,13.0,11.0,0.027,0.57,0.063,-0.036,0.01%,0.54,0.1,2.0,4.0,2B
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Michael Busch 1B,4.0,1.0,2.0,2.0,0.0,2.0,4.0,0.327,0.393,0.694,1.087,20.0,12.0,0.156,0.63,0.168,-0.012,0.09%,0.6,1.6,7.0,0.0,HR
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Nico Hoerner 2B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.182,0.351,0.205,0.555,14.0,11.0,-0.064,1.05,0.036,-0.1,-0.04%,0.99,-0.8,2.0,3.0,CS
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Mike Tauchman RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.192,0.382,0.269,0.652,20.0,11.0,-0.049,0.69,0.0,-0.049,-0.03%,0.65,-0.6,1.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Yan Gomes C,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.192,0.192,0.346,0.538,8.0,6.0,0.002,0.47,0.018,-0.017,0.00%,0.45,0.0,10.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Javier Assad P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Yency Almonte P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Héctor Neris P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Adbert Alzolay P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202404140,CHC,https://www.baseball-reference.com/boxes/SEA/SEA202404140.shtml,ChicagoCubsbatting,Team Totals,33.0,3.0,8.0,2.0,0.0,12.0,33.0,0.242,0.242,0.394,0.636,141.0,94.0,-0.017,0.69,0.427,-0.445,-0.01%,0.65,-1.0,27.0,8.0,

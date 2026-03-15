@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202408200,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408200.shtml,ColoradoRockiespitching,"Austin Gomber, W (4-8)",7,3,1,1,2,5,1,4.64,26,96,63,42,10,11,7,12,6,0,70.0,,,0.357,1.13,0.00%,0.0,2.4
+WAS202408200,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408200.shtml,ColoradoRockiespitching,"Tyler Kinley, H (14)",1,1,0,0,0,1,0,5.88,4,17,10,4,3,3,1,2,1,0,,0.0,0.0,0.086,1.74,0.00%,0.0,0.5
+WAS202408200,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408200.shtml,ColoradoRockiespitching,"Angel Chivilli, S (1)",1,1,0,0,1,1,0,4.7,5,19,14,5,4,5,1,2,0,0,,0.0,0.0,0.088,2.74,0.00%,0.0,0.5
+WAS202408200,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408200.shtml,ColoradoRockiespitching,Team Totals,9,5,1,1,3,7,1,1.0,35,132,87,51,17,19,9,16,7,0,70.0,0.0,0.0,0.531,1.43,0.00%,0.0,3.4

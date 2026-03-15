@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Josh Rojas 2B-3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.291,0.362,0.425,0.787,16.0,10.0,-0.06,0.59,0.0,-0.06,-0.04%,0.63,-0.7,2.0,6.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Julio Rodríguez CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.274,0.32,0.332,0.652,21.0,13.0,-0.044,0.74,0.022,-0.065,-0.03%,0.8,-0.4,2.0,0.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Cal Raleigh C,3.0,1.0,0.0,0.0,1.0,3.0,4.0,0.223,0.301,0.453,0.754,25.0,14.0,0.003,0.66,0.045,-0.043,0.00%,0.71,-0.0,3.0,2.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Luke Raley LF,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.301,0.333,0.437,0.77,14.0,9.0,0.191,0.96,0.203,-0.011,0.12%,1.03,1.9,0.0,0.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Mitch Haniger DH,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.217,0.282,0.366,0.649,10.0,8.0,0.057,1.84,0.141,-0.084,0.04%,1.97,-0.0,0.0,0.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Dylan Moore SS-2B,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.225,0.338,0.441,0.78,16.0,7.0,0.08,2.21,0.121,-0.041,0.05%,2.37,0.4,5.0,5.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Dominic Canzone RF,3.0,1.0,1.0,2.0,0.0,0.0,4.0,0.227,0.286,0.545,0.831,7.0,6.0,-0.007,2.69,0.095,-0.103,-0.01%,2.88,-0.1,4.0,0.0,"HR,SF,GDP"
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Ty France 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.236,0.284,0.357,0.641,12.0,7.0,0.261,1.95,0.333,-0.072,0.17%,2.09,0.3,10.0,1.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Luis Urías 3B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.158,0.273,0.329,0.602,7.0,6.0,-0.032,0.64,0.0,-0.032,-0.02%,0.68,-0.3,0.0,2.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,J.P. Crawford PH-SS,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.193,0.29,0.295,0.585,12.0,7.0,-0.045,0.88,0.0,-0.045,-0.03%,0.94,-0.5,0.0,0.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Logan Gilbert P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Kirby Snead P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Eduard Bazardo P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202405200,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202405200.shtml,SeattleMarinersbatting,Team Totals,32.0,5.0,7.0,4.0,3.0,7.0,36.0,0.219,0.278,0.313,0.59,140.0,87.0,0.404,1.38,0.96,-0.556,0.26%,1.48,0.5,27.0,17.0,

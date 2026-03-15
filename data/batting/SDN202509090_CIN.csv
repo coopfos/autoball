@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,TJ Friedl CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.264,0.363,0.38,0.743,23.0,16.0,-0.085,0.83,0.0,-0.085,-0.03%,0.42,-0.8,3.0,0.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Sal Stewart 1B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.2,0.2,0.5,0.7,13.0,11.0,0.024,0.87,0.098,-0.073,0.01%,0.43,0.5,9.0,1.0,HR
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.267,0.335,0.442,0.777,10.0,7.0,0.025,1.2,0.109,-0.084,0.01%,0.61,0.2,1.0,1.0,SB
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Austin Hays LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.265,0.315,0.467,0.782,13.0,9.0,-0.145,1.26,0.011,-0.156,-0.04%,0.64,-0.9,4.0,0.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Gavin Lux DH,2.0,1.0,0.0,0.0,2.0,2.0,4.0,0.267,0.35,0.369,0.719,20.0,7.0,-0.029,1.18,0.051,-0.08,-0.01%,0.59,-0.2,0.0,0.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Tyler Stephenson C,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.225,0.311,0.401,0.712,13.0,8.0,0.4,1.41,0.484,-0.084,0.12%,0.71,1.1,7.0,1.0,HR
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Will Benson RF,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0.226,0.274,0.426,0.7,7.0,4.0,0.078,0.64,0.097,-0.019,0.02%,0.32,0.8,2.0,0.0,HR
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Noelvi Marte PH-RF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.279,0.321,0.486,0.806,10.0,6.0,-0.034,0.67,0.0,-0.034,-0.01%,0.34,-0.3,1.0,0.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Ke'Bryan Hayes 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.244,0.295,0.321,0.616,12.0,7.0,-0.051,0.67,0.0,-0.051,-0.02%,0.34,-0.5,0.0,2.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Matt McLain 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.228,0.308,0.354,0.663,10.0,7.0,-0.07,0.91,0.0,-0.07,-0.02%,0.46,-0.5,0.0,2.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Zack Littell P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Zach Maxwell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Connor Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Emilio Pagán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509090,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509090.shtml,CincinnatiRedsbatting,Team Totals,32.0,4.0,5.0,4.0,2.0,9.0,34.0,0.156,0.206,0.438,0.643,131.0,82.0,0.113,1.02,0.85,-0.736,0.03%,0.51,-0.7,27.0,8.0,

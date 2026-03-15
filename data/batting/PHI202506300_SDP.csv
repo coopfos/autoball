@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Luis Arráez 1B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.286,0.318,0.403,0.72,14.0,11.0,0.014,0.64,0.05,-0.036,0.01%,0.77,0.2,10.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.293,0.354,0.477,0.831,15.0,10.0,-0.041,0.73,0.019,-0.06,-0.03%,0.88,-0.4,0.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.289,0.344,0.443,0.787,13.0,11.0,-0.09,0.88,0.0,-0.09,-0.06%,1.05,-1.2,5.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.258,0.348,0.443,0.791,12.0,7.0,-0.037,0.61,0.015,-0.053,-0.03%,0.74,-0.4,0.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Gavin Sheets DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.264,0.322,0.464,0.786,19.0,13.0,-0.071,0.68,0.0,-0.071,-0.05%,0.82,-1.0,0.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Xander Bogaerts SS,4.0,0.0,3.0,0.0,0.0,0.0,4.0,0.258,0.332,0.371,0.703,10.0,7.0,0.069,0.45,0.085,-0.016,0.05%,0.54,0.8,0.0,1.0,2B
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.234,0.35,0.404,0.754,16.0,10.0,0.014,0.85,0.065,-0.051,0.01%,1.02,-0.3,2.0,5.0,HBP
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Bryce Johnson LF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.333,0.412,0.4,0.812,13.0,8.0,-0.1,1.23,0.0,-0.1,-0.07%,1.47,-1.0,2.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Martín Maldonado C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.18,0.222,0.315,0.538,1.0,1.0,-0.027,1.03,0.0,-0.027,-0.02%,1.23,-0.2,3.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Trenton Brooks PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.154,0.214,0.462,0.676,2.0,1.0,-0.092,2.14,0.0,-0.092,-0.07%,2.56,-0.9,0.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Elias Díaz C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.212,0.28,0.318,0.597,1.0,1.0,-0.014,0.51,0.0,-0.014,-0.01%,0.61,-0.2,2.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Matt Waldron P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,David Morgan P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+PHI202506300,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202506300.shtml,SanDiegoPadresbatting,Team Totals,33.0,0.0,7.0,0.0,0.0,10.0,34.0,0.212,0.235,0.242,0.478,116.0,80.0,-0.375,0.78,0.234,-0.61,-0.27%,0.93,-4.7,24.0,9.0,

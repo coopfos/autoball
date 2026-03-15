@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202509280,PIT,https://www.baseball-reference.com/boxes/ATL/ATL202509280.shtml,PittsburghPiratespitching,"Johan Oviedo, L (2-1)",5,3,2,2,3,3,1,3.57,19,71,45,23,6,16,4,9,3,0,53.0,,,-0.018,0.58,0.00%,0.0,0.5
+ATL202509280,PIT,https://www.baseball-reference.com/boxes/ATL/ATL202509280.shtml,PittsburghPiratespitching,Hunter Barco,2,1,0,0,0,3,0,0.0,7,27,20,10,4,6,1,3,0,0,,0.0,0.0,0.09,0.85,0.00%,0.0,1.0
+ATL202509280,PIT,https://www.baseball-reference.com/boxes/ATL/ATL202509280.shtml,PittsburghPiratespitching,Yohan Ramírez,1,2,2,1,1,1,0,5.4,6,28,15,8,2,5,1,3,3,0,,0.0,0.0,-0.098,0.47,0.00%,0.0,-1.5
+ATL202509280,PIT,https://www.baseball-reference.com/boxes/ATL/ATL202509280.shtml,PittsburghPiratespitching,Team Totals,8,6,4,3,4,7,1,3.38,32,126,80,41,12,27,6,15,6,0,53.0,0.0,0.0,-0.026,0.62,0.00%,0.0,0.0

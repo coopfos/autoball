@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,Luis Castillo,5,5,0,0,2,6,0,2.12,21,102,63,36,14,13,8,5,2,0,61.0,,,0.216,1.34,0.11%,1.11,1.9
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,Eduard Bazardo,1,0,0,0,0,1,0,4.7,2,11,6,2,2,2,1,0,0,0,,1.0,0.0,0.125,1.43,0.06%,1.19,0.8
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,Collin Snider,1,1,1,0,0,1,0,5.79,5,22,14,10,2,2,3,1,0,0,,0.0,0.0,-0.158,1.62,-0.08%,1.35,-0.5
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,Gabe Speier,1,0,0,0,0,0,0,0.0,3,11,9,6,1,2,1,2,0,0,,0.0,0.0,0.101,1.37,0.05%,1.15,0.5
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,Carlos Vargas,1,0,0,0,0,1,0,3.52,3,11,6,2,1,3,2,0,0,0,,0.0,0.0,0.128,1.73,0.06%,1.45,0.5
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,Andrés Muñoz,1,1,0,0,0,1,0,0.0,4,9,7,3,3,1,1,2,1,0,,0.0,0.0,0.303,4.7,0.15%,3.91,1.1
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,"Jesse Hahn, L (0-1)",2,1,1,0,3,2,0,0.0,9,21,13,6,3,4,4,0,0,0,,0.0,0.0,0.23,3.99,0.11%,3.33,1.1
+SEA202504080,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202504080.shtml,SeattleMarinerspitching,Team Totals,12,8,2,0,5,12,0,0.0,47,187,118,65,26,27,20,10,3,0,61.0,1.0,0.0,0.945,2.24,0.47%,1.87,5.3

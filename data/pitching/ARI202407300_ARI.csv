@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ARI202407300,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202407300.shtml,ArizonaDiamondbackspitching,"Ryne Nelson, W (8-6)",7,2,0,0,2,9,0,4.53,24,106,77,46,8,23,7,6,1,0,80.0,,,0.107,0.31,0.08%,0.37,3.6
+ARI202407300,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202407300.shtml,ArizonaDiamondbackspitching,Bryce Jarvis,1,2,0,0,0,2,0,3.19,5,24,16,8,1,7,1,2,2,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+ARI202407300,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202407300.shtml,ArizonaDiamondbackspitching,Justin Martinez,1,0,0,0,0,1,0,2.14,3,12,8,4,2,2,2,0,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+ARI202407300,ARI,https://www.baseball-reference.com/boxes/ARI/ARI202407300.shtml,ArizonaDiamondbackspitching,Team Totals,9,4,0,0,2,12,0,0.0,32,142,101,58,11,32,10,8,3,0,80.0,0.0,0.0,0.107,0.23,0.08%,0.28,4.6

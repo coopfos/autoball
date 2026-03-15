@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,5.0,2.0,2.0,0.0,0.0,0.0,5.0,0.284,0.344,0.428,0.772,19.0,15.0,0.019,0.67,0.069,-0.05,0.01%,0.8,0.4,11.0,0.0,2B
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Trent Grisham CF,5.0,0.0,3.0,0.0,0.0,0.0,5.0,0.254,0.353,0.473,0.826,12.0,9.0,0.121,0.68,0.132,-0.011,0.09%,0.82,0.9,4.0,0.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Aaron Judge RF,4.0,1.0,1.0,3.0,0.0,1.0,5.0,0.36,0.468,0.734,1.202,23.0,14.0,0.002,0.86,0.064,-0.063,0.00%,1.02,0.3,2.0,0.0,"HR,SF"
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.222,0.323,0.315,0.637,21.0,13.0,0.015,0.55,0.063,-0.048,0.01%,0.65,-0.1,0.0,0.0,2B
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Cody Bellinger LF,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.272,0.33,0.468,0.799,14.0,7.0,0.059,0.7,0.082,-0.023,0.04%,0.83,0.9,1.0,1.0,2B
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,1.0,0.0,1.0,0.0,2.0,4.0,0.219,0.296,0.398,0.695,19.0,12.0,-0.054,0.88,0.014,-0.068,-0.04%,1.05,-1.1,1.0,3.0,SB
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,DJ LeMahieu 2B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.266,0.338,0.336,0.674,21.0,14.0,0.004,0.56,0.037,-0.033,0.00%,0.67,-0.1,2.0,2.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.22,0.28,0.448,0.729,17.0,13.0,0.14,0.78,0.147,-0.008,0.10%,0.93,1.2,6.0,1.0,HR
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Oswald Peraza 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.154,0.225,0.262,0.487,16.0,12.0,-0.055,0.54,0.0,-0.055,-0.04%,0.64,-0.8,0.0,2.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Max Fried P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Jonathan Loáisiga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Devin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202507060,NYY,https://www.baseball-reference.com/boxes/NYN/NYN202507060.shtml,NewYorkYankeesbatting,Team Totals,38.0,6.0,12.0,6.0,1.0,8.0,40.0,0.316,0.325,0.553,0.878,162.0,109.0,0.251,0.7,0.608,-0.359,0.18%,0.83,1.6,27.0,10.0,

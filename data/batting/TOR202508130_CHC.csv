@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Michael Busch 1B,3.0,1.0,1.0,2.0,0.0,0.0,4.0,0.264,0.347,0.504,0.851,20.0,11.0,0.094,0.7,0.125,-0.031,0.05%,0.65,0.5,8.0,0.0,"HR,SF"
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Seiya Suzuki DH,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.249,0.318,0.502,0.82,21.0,11.0,0.034,0.6,0.066,-0.033,0.02%,0.55,0.6,0.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Kyle Tucker RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.267,0.38,0.461,0.842,13.0,10.0,-0.054,0.52,0.0,-0.054,-0.03%,0.47,-0.8,2.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.227,0.324,0.386,0.71,16.0,10.0,-0.063,0.61,0.0,-0.063,-0.03%,0.56,-0.8,4.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.254,0.291,0.518,0.808,8.0,7.0,-0.062,0.61,0.0,-0.062,-0.03%,0.56,-0.8,1.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.291,0.338,0.375,0.714,12.0,8.0,0.0,0.44,0.03,-0.03,0%,0.41,0.4,1.0,2.0,2·SB
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.251,0.298,0.412,0.71,10.0,8.0,-0.077,0.71,0.0,-0.077,-0.04%,0.66,-1.0,0.0,3.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Matt Shaw 3B,3.0,2.0,1.0,1.0,1.0,0.0,4.0,0.228,0.296,0.401,0.696,11.0,5.0,0.153,0.84,0.184,-0.031,0.08%,0.77,1.1,0.0,1.0,"HR,SB"
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Miguel Amaya C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.281,0.314,0.5,0.814,8.0,6.0,0.028,0.79,0.059,-0.031,0.01%,0.73,0.4,10.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Reese McGuire PR-C,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.235,0.25,0.459,0.709,,,0.0,,0.0,0.0,0%,,0.0,1.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Cade Horton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Andrew Kittredge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Brad Keller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Daniel Palencia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202508130,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508130.shtml,ChicagoCubsbatting,Team Totals,32.0,4.0,6.0,4.0,2.0,6.0,35.0,0.188,0.229,0.375,0.604,119.0,76.0,0.053,0.64,0.464,-0.412,0.03%,0.59,-0.6,27.0,6.0,

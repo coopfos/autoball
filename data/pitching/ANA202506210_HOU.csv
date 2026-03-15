@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202506210,HOU,https://www.baseball-reference.com/boxes/ANA/ANA202506210.shtml,HoustonAstrospitching,"Brandon Walter, L (0-1)",6,9,7,7,1,6,2,3.8,30,99,66,41,12,13,12,10,5,0,31.0,,,-0.315,0.44,-0.28%,0.65,-4.1
+ANA202506210,HOU,https://www.baseball-reference.com/boxes/ANA/ANA202506210.shtml,HoustonAstrospitching,Kaleb Ort,1,1,2,2,1,2,1,5.48,5,26,15,9,3,3,0,2,0,0,,0.0,0.0,-0.005,0.01,-0.00%,0.02,-1.5
+ANA202506210,HOU,https://www.baseball-reference.com/boxes/ANA/ANA202506210.shtml,HoustonAstrospitching,Nick Hernandez,1,1,0,0,1,1,0,9.0,5,23,12,5,3,4,2,1,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+ANA202506210,HOU,https://www.baseball-reference.com/boxes/ANA/ANA202506210.shtml,HoustonAstrospitching,Team Totals,8,11,9,9,3,9,3,10.12,40,148,93,55,18,20,14,13,6,0,31.0,0.0,0.0,-0.32,0.33,-0.28%,0.49,-5.1

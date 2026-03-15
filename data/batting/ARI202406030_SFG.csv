@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Brett Wisely 2B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.35,0.341,0.475,0.816,9.0,8.0,0.063,0.98,0.111,-0.048,0.03%,0.83,0.5,1.0,2.0,2B
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.28,0.336,0.441,0.776,20.0,11.0,-0.15,1.69,0.0,-0.15,-0.08%,1.42,-0.9,9.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.238,0.307,0.411,0.718,8.0,7.0,0.099,1.46,0.17,-0.07,0.05%,1.23,0.8,1.0,0.0,2B
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Michael Conforto LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.272,0.323,0.476,0.799,15.0,10.0,-0.186,1.82,0.0,-0.186,-0.09%,1.53,-1.1,3.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Heliot Ramos RF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.295,0.361,0.477,0.838,13.0,8.0,0.214,1.42,0.271,-0.058,0.11%,1.19,0.8,3.0,0.0,HR
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Jorge Soler DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.216,0.293,0.369,0.662,8.0,5.0,-0.127,1.95,0.052,-0.179,-0.06%,1.64,-0.4,0.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.209,0.275,0.366,0.641,9.0,5.0,-0.152,1.28,0.0,-0.152,-0.08%,1.08,-1.1,3.0,0.0,GDP
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Casey Schmitt SS,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.242,0.242,0.455,0.697,4.0,3.0,0.036,1.03,0.068,-0.032,0.02%,0.87,0.1,1.0,3.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Trenton Brooks 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.111,0.273,0.111,0.384,10.0,6.0,-0.199,1.56,0.0,-0.199,-0.10%,1.31,-1.1,4.0,0.0,GDP
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Erik Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Spencer Howard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Sean Hjelle P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Randy Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202406030,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202406030.shtml,SanFranciscoGiantsbatting,Team Totals,33.0,2.0,8.0,2.0,0.0,2.0,33.0,0.242,0.242,0.394,0.636,96.0,63.0,-0.402,1.48,0.672,-1.074,-0.20%,1.25,-2.6,25.0,5.0,

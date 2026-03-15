@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Colt Keith DH,5.0,1.0,3.0,1.0,0.0,0.0,5.0,0.258,0.339,0.416,0.755,15.0,10.0,0.154,0.53,0.167,-0.013,0.11%,0.66,1.0,0.0,0.0,HR
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Gleyber Torres 2B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.277,0.374,0.433,0.807,15.0,12.0,0.0,0.7,0.058,-0.058,0%,0.88,0.6,3.0,0.0,HR
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Kerry Carpenter RF,3.0,1.0,1.0,1.0,0.0,2.0,3.0,0.264,0.294,0.525,0.819,12.0,9.0,0.042,1.02,0.105,-0.063,0.03%,1.27,0.2,0.0,0.0,HR
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Matt Vierling PH-CF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.216,0.306,0.243,0.549,12.0,8.0,-0.003,0.17,0.003,-0.007,-0.00%,0.21,0.1,0.0,0.0,
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Riley Greene LF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.271,0.318,0.514,0.832,19.0,11.0,-0.08,0.59,0.0,-0.08,-0.06%,0.74,-1.5,3.0,0.0,GDP
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Spencer Torkelson 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.234,0.327,0.474,0.801,16.0,11.0,-0.075,0.72,0.0,-0.075,-0.06%,0.9,-1.0,6.0,1.0,
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Wenceel Pérez CF-RF,4.0,0.0,3.0,0.0,0.0,1.0,4.0,0.264,0.313,0.483,0.796,19.0,12.0,0.035,0.56,0.065,-0.029,0.03%,0.7,0.4,1.0,0.0,CS
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Zach McKinstry 3B,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.265,0.347,0.445,0.792,18.0,13.0,-0.061,0.78,0.014,-0.076,-0.04%,0.97,-0.7,0.0,4.0,SB
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Dillon Dingler C,3.0,2.0,0.0,0.0,1.0,1.0,4.0,0.275,0.317,0.425,0.742,19.0,13.0,-0.016,0.73,0.028,-0.044,-0.01%,0.91,0.0,13.0,1.0,
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Javier Báez SS,4.0,1.0,2.0,4.0,0.0,1.0,4.0,0.267,0.298,0.433,0.731,15.0,11.0,0.167,0.92,0.211,-0.045,0.12%,1.15,3.0,0.0,1.0,"HR,3B"
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Tarik Skubal P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Will Vest P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Kyle Finnegan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202508020,DET,https://www.baseball-reference.com/boxes/PHI/PHI202508020.shtml,DetroitTigersbatting,Team Totals,38.0,7.0,12.0,7.0,2.0,12.0,40.0,0.316,0.35,0.684,1.034,160.0,110.0,0.163,0.68,0.651,-0.49,0.12%,0.85,2.2,27.0,7.0,

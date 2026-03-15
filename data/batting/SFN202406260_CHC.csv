@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Nico Hoerner 2B,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.242,0.331,0.325,0.656,15.0,11.0,-0.148,1.61,0.041,-0.19,-0.04%,0.78,-0.5,2.0,1.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Michael Busch 1B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.26,0.352,0.445,0.797,17.0,10.0,0.0,1.09,0.067,-0.067,0%,0.53,0.1,1.0,1.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Cody Bellinger RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.273,0.333,0.432,0.765,20.0,11.0,-0.006,1.45,0.088,-0.094,-0.00%,0.7,-0.4,2.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Seiya Suzuki DH,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.263,0.336,0.446,0.782,19.0,12.0,-0.102,1.83,0.15,-0.253,-0.03%,0.89,-0.4,0.0,0.0,"HR,GDP"
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Ian Happ LF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.227,0.334,0.398,0.732,19.0,10.0,-0.064,1.56,0.099,-0.164,-0.02%,0.76,-0.3,2.0,0.0,"2B,CS"
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Christopher Morel 3B,1.0,0.0,1.0,0.0,3.0,0.0,4.0,0.204,0.313,0.391,0.704,23.0,9.0,0.041,1.61,0.104,-0.063,0.01%,0.78,0.3,0.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.217,0.292,0.369,0.66,12.0,8.0,0.028,2.16,0.148,-0.119,0.01%,1.05,-0.5,1.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.205,0.254,0.299,0.553,13.0,9.0,-0.02,2.2,0.131,-0.151,-0.01%,1.06,0.6,3.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Miguel Amaya C,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.194,0.254,0.267,0.521,10.0,4.0,0.019,1.43,0.107,-0.088,0.01%,0.7,0.3,12.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Miles Mastrobuoni PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.116,0.208,0.14,0.348,2.0,1.0,-0.089,3.83,0.0,-0.089,-0.03%,1.86,-0.3,0.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Hayden Wesneski P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Drew Smyly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Porter Hodge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Keegan Thompson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202406260,CHC,https://www.baseball-reference.com/boxes/SFN/SFN202406260.shtml,ChicagoCubsbatting,Team Totals,32.0,3.0,9.0,3.0,5.0,7.0,37.0,0.281,0.378,0.406,0.785,150.0,85.0,-0.341,1.72,0.935,-1.278,-0.10%,0.84,-1.2,24.0,2.0,

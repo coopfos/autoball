@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202404250,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202404250.shtml,SeattleMarinerspitching,"Luis Castillo, W (2-4)",6.0,4,2,2,2,6,2,4.15,23,102,62,28,14,20,4,11,5,0,60.0,,,0.119,1.19,0.08%,1.32,0.9
+TEX202404250,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202404250.shtml,SeattleMarinerspitching,"Ryne Stanek, H (4)",0.2,2,1,0,0,2,0,2.0,5,27,20,14,1,5,2,1,1,0,,0.0,0.0,-0.147,1.76,-0.10%,1.96,-1.0
+TEX202404250,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202404250.shtml,SeattleMarinerspitching,"Gabe Speier, H (4)",1.1,1,0,0,0,1,0,0.9,5,23,17,11,1,5,1,3,1,0,,2.0,0.0,0.246,2.38,0.16%,2.65,1.0
+TEX202404250,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202404250.shtml,SeattleMarinerspitching,"Andrés Muñoz, S (3)",1.0,0,0,0,0,0,0,2.89,3,8,5,4,0,1,2,1,0,0,,0.0,0.0,0.193,2.58,0.13%,2.87,0.5
+TEX202404250,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202404250.shtml,SeattleMarinerspitching,Team Totals,9.0,7,3,2,2,9,2,2.0,36,160,104,57,16,31,9,16,7,0,60.0,2.0,0.0,0.411,1.54,0.28%,1.71,1.3

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Brendan Donovan 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.279,0.35,0.405,0.755,19.0,12.0,-0.119,1.17,0.0,-0.119,-0.03%,0.52,-1.0,0.0,6.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Iván Herrera DH,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.31,0.389,0.491,0.879,21.0,11.0,0.29,0.84,0.327,-0.037,0.08%,0.37,1.1,0.0,0.0,"HR,SB"
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Alec Burleson LF-1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.281,0.337,0.456,0.792,15.0,8.0,-0.092,0.91,0.0,-0.092,-0.03%,0.4,-0.8,1.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Willson Contreras 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.256,0.341,0.443,0.785,13.0,10.0,0.011,1.25,0.082,-0.071,0.00%,0.55,-0.2,10.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Garrett Hampson PR-LF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.162,0.278,0.191,0.47,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Lars Nootbaar RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.226,0.328,0.376,0.705,14.0,9.0,0.165,1.48,0.229,-0.064,0.04%,0.66,0.4,4.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Masyn Winn SS,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.27,0.325,0.395,0.719,19.0,10.0,-0.034,1.32,0.132,-0.166,-0.01%,0.58,0.4,2.0,1.0,HR
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Thomas Saggese 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.231,0.27,0.327,0.597,18.0,12.0,-0.219,2.02,0.023,-0.242,-0.06%,0.9,-0.9,0.0,2.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Pedro Pagés C,2.0,0.0,0.0,0.0,1.0,2.0,3.0,0.2,0.245,0.319,0.564,12.0,7.0,-0.012,0.91,0.033,-0.044,-0.00%,0.4,0.1,8.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Yohel Pozo PH-C,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.275,0.302,0.442,0.743,3.0,1.0,0.336,4.97,0.336,0.0,0.09%,2.2,1.0,1.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Victor Scott II CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.225,0.311,0.314,0.626,9.0,8.0,-0.157,1.56,0.0,-0.157,-0.04%,0.69,-1.5,1.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Sonny Gray P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Riley O'Brien P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,JoJo Romero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalsbatting,Team Totals,34.0,3.0,7.0,3.0,2.0,9.0,36.0,0.206,0.25,0.382,0.632,143.0,88.0,0.169,1.37,1.162,-0.992,0.04%,0.61,-1.6,27.0,9.0,

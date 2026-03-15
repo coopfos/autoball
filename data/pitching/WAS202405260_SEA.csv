@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202405260,SEA,https://www.baseball-reference.com/boxes/WAS/WAS202405260.shtml,SeattleMarinerspitching,Bryan Woo,6,5,3,3,0,1,1,1.66,24,70,49,32,2,15,11,11,2,0,51.0,,,0.103,0.87,0.06%,0.78,0.9
+WAS202405260,SEA,https://www.baseball-reference.com/boxes/WAS/WAS202405260.shtml,SeattleMarinerspitching,"Ryne Stanek, BS (1)",1,2,2,2,0,2,1,4.5,5,13,10,4,5,1,0,3,0,0,,2.0,2.0,-0.501,2.77,-0.27%,2.5,-2.5
+WAS202405260,SEA,https://www.baseball-reference.com/boxes/WAS/WAS202405260.shtml,SeattleMarinerspitching,"Austin Voth, W (2-0)",1,0,0,0,0,2,0,3.8,3,11,8,2,3,3,0,1,0,0,,0.0,0.0,0.139,1.84,0.07%,1.66,0.5
+WAS202405260,SEA,https://www.baseball-reference.com/boxes/WAS/WAS202405260.shtml,SeattleMarinerspitching,Andrés Muñoz,1,1,0,0,0,1,0,1.61,4,14,12,5,3,4,0,3,2,0,,0.0,0.0,0.017,0.23,0.01%,0.2,0.5
+WAS202405260,SEA,https://www.baseball-reference.com/boxes/WAS/WAS202405260.shtml,SeattleMarinerspitching,Team Totals,9,8,5,5,0,6,2,5.0,36,108,79,43,13,23,11,18,4,0,51.0,2.0,2.0,-0.242,1.14,-0.13%,1.02,-0.6

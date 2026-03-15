@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202404140,DET,https://www.baseball-reference.com/boxes/DET/DET202404140.shtml,DetroitTigerspitching,Jack Flaherty,6.1,6,3,3,2,8,1,4.91,28,100,67,30,15,22,6,11,5,0,55.0,,,-0.09,0.75,-0.06%,0.81,-0.1
+DET202404140,DET,https://www.baseball-reference.com/boxes/DET/DET202404140.shtml,DetroitTigerspitching,"Will Vest, W (1-0)",1.2,0,0,0,0,0,0,2.35,5,12,9,7,1,1,3,2,1,0,,1.0,0.0,0.035,0.27,0.02%,0.3,1.0
+DET202404140,DET,https://www.baseball-reference.com/boxes/DET/DET202404140.shtml,DetroitTigerspitching,"Jason Foley, S (4)",1.0,0,0,0,2,0,0,0.0,5,27,14,9,1,4,2,1,0,0,,0.0,0.0,0.16,2.91,0.10%,3.16,0.5
+DET202404140,DET,https://www.baseball-reference.com/boxes/DET/DET202404140.shtml,DetroitTigerspitching,Team Totals,9.0,6,3,3,4,8,1,3.0,38,139,90,46,17,27,11,14,6,0,55.0,1.0,0.0,0.105,0.97,0.07%,1.05,1.4

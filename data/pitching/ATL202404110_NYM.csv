@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202404110,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404110.shtml,NewYorkMetspitching,"Jose Quintana, W (1-1)",5.1,5,3,3,2,4,0,3.45,23,100,60,39,9,12,7,10,3,0,48.0,,,0.069,0.52,0.04%,0.48,-0.5
+ATL202404110,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404110.shtml,NewYorkMetspitching,Drew Smith,1.2,0,0,0,0,2,0,0.0,5,22,15,12,2,1,1,2,0,0,,1.0,0.0,0.047,0.36,0.03%,0.34,1.0
+ATL202404110,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404110.shtml,NewYorkMetspitching,Tyler Jay,2.0,5,1,1,1,1,0,4.5,12,39,25,15,4,6,6,4,2,0,,0.0,0.0,0.001,0.02,0.00%,0.02,0.0
+ATL202404110,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404110.shtml,NewYorkMetspitching,Team Totals,9.0,10,4,4,3,7,0,4.0,40,161,100,66,15,19,14,16,5,0,48.0,1.0,0.0,0.117,0.35,0.07%,0.32,0.6

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Brenton Doyle CF,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.258,0.322,0.378,0.701,13.0,10.0,-0.078,0.79,0.0,-0.078,0%,0.0,-0.6,5.0,0.0,SF
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.287,0.317,0.483,0.8,13.0,11.0,0.037,0.52,0.057,-0.02,0%,0.0,-0.0,1.0,3.0,2B
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.277,0.353,0.476,0.83,22.0,16.0,-0.086,0.83,0.0,-0.086,0%,0.01,-0.9,0.0,3.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.279,0.313,0.399,0.712,15.0,10.0,-0.085,0.82,0.0,-0.085,0%,0.01,-0.8,4.0,4.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Michael Toglia 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.19,0.24,0.44,0.68,18.0,12.0,-0.07,0.7,0.0,-0.07,0%,0.0,-0.6,8.0,0.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Jacob Stallings C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.286,0.368,0.454,0.821,13.0,9.0,-0.046,0.61,0.0,-0.046,0%,0.0,-0.4,5.0,1.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Nolan Jones LF,2.0,1.0,1.0,0.0,1.0,1.0,3.0,0.194,0.303,0.306,0.61,15.0,10.0,0.013,0.58,0.038,-0.025,0%,0.0,0.4,1.0,0.0,2B
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Jake Cave RF,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.252,0.304,0.333,0.637,9.0,8.0,-0.046,0.88,0.018,-0.063,0%,0.0,0.6,0.0,0.0,2B
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Elehuris Montero DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.206,0.268,0.305,0.573,14.0,9.0,-0.054,0.74,0.0,-0.054,0%,0.0,-0.9,0.0,0.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Ryan Feltner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Ty Blach P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202406260,COL,https://www.baseball-reference.com/boxes/HOU/HOU202406260.shtml,ColoradoRockiesbatting,Team Totals,30.0,1.0,4.0,1.0,1.0,14.0,32.0,0.133,0.156,0.233,0.39,132.0,95.0,-0.415,0.72,0.113,-0.527,0.00%,0.0,-3.3,24.0,11.0,

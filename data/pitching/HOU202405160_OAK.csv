@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202405160,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405160.shtml,OaklandAthleticspitching,"Joey Estes, L (1-1)",3.2,8,8,8,4,4,1,9.35,23,89,56,32,7,17,2,13,7,0,13.0,,,-0.317,1.22,-0.11%,0.72,-5.4
+HOU202405160,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405160.shtml,OaklandAthleticspitching,Hogan Harris,3.1,0,0,0,2,3,0,4.15,12,49,26,14,2,10,4,2,0,0,,1.0,1.0,-0.004,0.05,-0.00%,0.03,0.8
+HOU202405160,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405160.shtml,OaklandAthleticspitching,Tyler Ferguson,1.0,0,0,0,0,1,0,0.0,3,15,12,9,1,2,0,2,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+HOU202405160,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405160.shtml,OaklandAthleticspitching,Team Totals,8.0,8,8,8,6,8,1,9.0,38,153,94,55,10,29,6,17,8,0,13.0,1.0,1.0,-0.321,0.73,-0.11%,0.43,-4.2

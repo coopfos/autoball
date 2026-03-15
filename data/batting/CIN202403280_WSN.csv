@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,17.0,12.0,-0.04,0.39,0.0,-0.04,-0.02%,0.37,-0.8,3.0,2.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Lane Thomas RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,20.0,13.0,-0.027,0.26,0.0,-0.027,-0.01%,0.26,-0.7,3.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Jesse Winker LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.25,0.5,15.0,10.0,-0.018,0.17,0.0,-0.018,-0.01%,0.17,-0.6,1.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Joey Meneses DH,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.5,0.5,0.5,1.0,13.0,9.0,-0.016,0.29,0.009,-0.025,-0.01%,0.28,0.1,0.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Joey Gallo 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,21.0,12.0,-0.028,0.28,0.0,-0.028,-0.02%,0.27,-0.9,6.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Keibert Ruiz C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.333,0.333,0.333,0.667,9.0,6.0,0.004,0.26,0.013,-0.009,0.00%,0.25,-0.4,8.0,1.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Eddie Rosario CF,3.0,1.0,1.0,2.0,0.0,0.0,3.0,0.333,0.333,1.333,1.667,18.0,12.0,-0.015,0.35,0.013,-0.028,-0.01%,0.34,1.5,1.0,0.0,HR
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Ildemaro Vargas 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.333,0.333,0.333,0.667,9.0,6.0,-0.021,0.35,0.004,-0.025,-0.01%,0.34,-0.1,1.0,1.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,14.0,9.0,-0.028,0.37,0.0,-0.028,-0.02%,0.35,-0.8,1.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Josiah Gray P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Matt Barnes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202403280,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202403280.shtml,WashingtonNationalsbatting,Team Totals,32.0,2.0,6.0,2.0,0.0,9.0,32.0,0.188,0.188,0.281,0.469,136.0,89.0,-0.189,0.3,0.039,-0.228,-0.11%,0.29,-2.8,24.0,5.0,

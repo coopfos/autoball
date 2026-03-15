@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.278,0.338,0.392,0.729,20.0,9.0,-0.059,1.77,0.054,-0.112,-0.04%,2.06,-0.6,2.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Angel Martínez CF,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.231,0.267,0.379,0.646,20.0,13.0,-0.128,2.0,0.077,-0.204,-0.09%,2.32,-0.6,2.0,0.0,2B
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,2.0,1.0,2.0,2.0,1.0,5.0,0.291,0.365,0.518,0.884,13.0,7.0,0.232,1.79,0.318,-0.086,0.16%,2.08,2.1,0.0,3.0,"HR,IW"
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,David Fry DH,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.173,0.229,0.364,0.592,7.0,3.0,0.004,1.04,0.037,-0.034,0.00%,1.21,0.1,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Kyle Manzardo PH-DH-DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.235,0.319,0.47,0.789,4.0,2.0,-0.177,3.46,0.0,-0.177,-0.12%,4.02,-1.0,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Carlos Santana 1B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.226,0.319,0.334,0.653,15.0,13.0,-0.044,1.46,0.102,-0.146,-0.03%,1.7,-0.1,9.0,1.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.228,0.283,0.377,0.66,15.0,10.0,-0.016,1.33,0.061,-0.078,-0.01%,1.54,-0.3,1.0,3.0,SB
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Nolan Jones RF,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.214,0.308,0.297,0.605,19.0,11.0,0.071,1.24,0.145,-0.074,0.05%,1.43,0.7,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Brayan Rocchio 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.233,0.288,0.344,0.632,15.0,8.0,-0.093,1.5,0.027,-0.12,-0.06%,1.74,-0.9,4.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Austin Hedges C,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.144,0.237,0.246,0.483,14.0,7.0,0.11,1.51,0.166,-0.056,0.08%,1.75,0.8,5.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Bo Naylor PR-C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.181,0.28,0.362,0.642,,,,,,,,,,1.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Tanner Bibee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Erik Sabrowski P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Nic Enright P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Jakob Junis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508190,CLE,https://www.baseball-reference.com/boxes/ARI/ARI202508190.shtml,ClevelandGuardiansbatting,Team Totals,35.0,5.0,8.0,5.0,6.0,5.0,41.0,0.229,0.341,0.343,0.684,142.0,83.0,-0.1,1.64,0.987,-1.087,-0.07%,1.9,0.3,24.0,7.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,TJ Friedl CF,4.0,0.0,0.0,0.0,0.0,2.0,5.0,0.182,0.217,0.227,0.445,14.0,11.0,-0.068,0.74,0.012,-0.079,-0.03%,0.5,-0.9,2.0,0.0,HBP
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,3.0,1.0,1.0,1.0,0.0,0.0,4.0,0.272,0.373,0.537,0.91,19.0,12.0,0.065,0.89,0.099,-0.034,0.03%,0.6,1.0,0.0,1.0,"HR,HBP"
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Mike Ford DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.1,0.182,0.1,0.282,7.0,5.0,-0.031,0.62,0.0,-0.031,-0.01%,0.42,-0.3,0.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Stuart Fairchild PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.194,0.256,0.292,0.548,5.0,3.0,-0.078,3.1,0.0,-0.078,-0.03%,2.11,-0.7,0.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Conner Capel PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,-0.012,0.46,0.0,-0.012,-0.01%,0.31,-0.2,0.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Spencer Steer 1B-LF,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.248,0.362,0.416,0.778,18.0,12.0,0.042,0.59,0.065,-0.022,0.02%,0.4,0.3,7.0,0.0,HBP
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Jake Fraley RF,4.0,0.0,3.0,0.0,0.0,0.0,4.0,0.304,0.368,0.392,0.76,8.0,6.0,-0.025,0.77,0.029,-0.054,-0.01%,0.52,-0.0,3.0,0.0,SB
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Tyler Stephenson C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.216,0.314,0.398,0.711,15.0,11.0,-0.086,0.85,0.0,-0.086,-0.03%,0.58,-1.1,9.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Jeimer Candelario 3B-1B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.212,0.288,0.39,0.678,20.0,10.0,-0.009,0.66,0.039,-0.048,-0.00%,0.45,-0.4,1.0,4.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Will Benson LF,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.202,0.288,0.395,0.683,7.0,6.0,-0.052,1.11,0.0,-0.052,-0.02%,0.76,-0.6,2.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Santiago Espinal PH-3B,1.0,0.0,1.0,0.0,1.0,0.0,2.0,0.173,0.237,0.235,0.471,15.0,9.0,0.05,0.55,0.05,0.0,0.02%,0.37,0.6,0.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Jonathan India 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.21,0.322,0.298,0.62,16.0,9.0,-0.057,0.91,0.041,-0.097,-0.02%,0.62,-0.8,0.0,1.0,GDP
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Nick Lodolo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Brent Suter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Buck Farmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202405110,CIN,https://www.baseball-reference.com/boxes/SFN/SFN202405110.shtml,CincinnatiRedsbatting,Team Totals,31.0,1.0,8.0,1.0,3.0,7.0,37.0,0.258,0.378,0.355,0.733,147.0,97.0,-0.261,0.82,0.335,-0.593,-0.11%,0.56,-3.2,24.0,6.0,

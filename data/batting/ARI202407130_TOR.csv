@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,George Springer RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.222,0.308,0.373,0.681,14.0,8.0,-0.113,0.71,0.0,-0.113,-0.01%,0.1,-1.4,3.0,0.0,GDP
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Steward Berroa RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Spencer Horwitz 2B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.317,0.417,0.485,0.902,13.0,9.0,-0.042,0.56,0.042,-0.084,-0.00%,0.07,-0.3,1.0,3.0,2B
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.285,0.357,0.444,0.802,16.0,11.0,-0.05,0.48,0.0,-0.05,-0.00%,0.07,-1.0,3.0,1.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Justin Turner DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.23,0.334,0.343,0.678,16.0,9.0,-0.049,0.48,0.0,-0.049,-0.00%,0.07,-0.8,0.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Daulton Varsho CF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.199,0.283,0.399,0.682,18.0,10.0,0.07,0.43,0.086,-0.015,0.01%,0.06,0.4,4.0,0.0,3B
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,2.0,0.0,1.0,1.0,1.0,0.0,4.0,0.234,0.308,0.323,0.631,14.0,6.0,0.038,0.68,0.048,-0.009,0.00%,0.09,0.4,4.0,0.0,SF
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Davis Schneider LF,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.218,0.314,0.391,0.704,16.0,6.0,-0.049,0.66,0.013,-0.061,-0.00%,0.09,-0.3,4.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Ernie Clement 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.258,0.275,0.425,0.699,10.0,7.0,-0.043,0.4,0.0,-0.043,-0.00%,0.05,-1.2,2.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Leo Jimenez SS,2.0,0.0,1.0,0.0,0.0,1.0,3.0,0.304,0.407,0.348,0.755,10.0,6.0,0.031,0.48,0.043,-0.011,0.00%,0.07,0.5,3.0,2.0,HBP
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,José Berríos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Bowden Francis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Zach Pop P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Nate Pearson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202407130,TOR,https://www.baseball-reference.com/boxes/ARI/ARI202407130.shtml,TorontoBlueJaysbatting,Team Totals,29.0,1.0,5.0,1.0,4.0,5.0,35.0,0.172,0.286,0.276,0.562,127.0,72.0,-0.207,0.54,0.232,-0.435,-0.02%,0.07,-3.6,24.0,6.0,

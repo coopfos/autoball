@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Luis Arráez 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.322,0.357,0.385,0.742,10.0,7.0,-0.055,0.72,0.0,-0.055,-0.03%,0.63,-0.6,7.0,2.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Luis Campusano PH-1B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.237,0.286,0.364,0.65,5.0,3.0,0.0,0.01,0.0,0.0,0%,0.01,-0.1,2.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.273,0.348,0.458,0.806,13.0,8.0,0.011,0.49,0.03,-0.019,0.01%,0.43,-0.0,2.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,José Azocar LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.214,0.267,0.243,0.51,3.0,3.0,-0.001,0.03,0.0,-0.001,0%,0.03,-0.2,0.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Jurickson Profar LF,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.321,0.421,0.488,0.909,10.0,7.0,-0.064,0.63,0.005,-0.07,-0.03%,0.55,-0.2,2.0,0.0,GDP
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,David Peralta RF,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.25,0.333,0.3,0.633,1.0,1.0,0.001,0.01,0.001,0.0,0%,0.01,0.3,1.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.249,0.306,0.366,0.672,10.0,8.0,0.09,0.52,0.096,-0.006,0.05%,0.46,0.1,0.0,4.0,GDP
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Donovan Solano DH,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.286,0.359,0.429,0.788,15.0,10.0,-0.092,1.02,0.01,-0.102,-0.05%,0.89,0.2,0.0,0.0,"2B,GDP"
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,3.0,0.0,0.0,1.0,0.0,0.0,3.0,0.255,0.322,0.436,0.759,8.0,6.0,-0.016,0.63,0.003,-0.018,-0.01%,0.55,-0.3,2.0,1.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Tyler Wade 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.333,0.275,0.608,,,,,,,,,,0.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,2.0,0.0,1.0,0.0,1.0,0.0,3.0,0.22,0.334,0.388,0.722,10.0,5.0,0.026,0.74,0.056,-0.03,0.01%,0.65,-0.0,2.0,5.0,CS
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Jackson Merrill CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.278,0.314,0.407,0.72,15.0,11.0,-0.067,0.89,0.0,-0.067,-0.03%,0.78,-0.8,1.0,1.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Kyle Higashioka C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.167,0.189,0.403,0.592,11.0,9.0,-0.043,0.59,0.0,-0.043,-0.02%,0.52,-0.7,4.0,1.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Randy Vásquez P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Jhony Brito P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202406170,SDP,https://www.baseball-reference.com/boxes/PHI/PHI202406170.shtml,SanDiegoPadresbatting,Team Totals,30.0,2.0,7.0,2.0,1.0,6.0,31.0,0.233,0.258,0.267,0.525,111.0,78.0,-0.21,0.6,0.201,-0.411,-0.11%,0.53,-2.5,24.0,14.0,

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJayspitching,Chris Bassitt,6.0,5,2,2,2,6,0,4.1,25,107,63,32,12,19,8,9,2,0,58.0,,,0.015,0.83,0.01%,1.11,0.9
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJayspitching,Yariel Rodríguez,2.0,2,0,0,0,2,0,3.2,8,32,21,11,7,3,1,5,3,0,,1.0,0.0,0.113,0.81,0.09%,1.07,1.5
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJayspitching,"Tommy Nance, H (3)",0.1,2,2,2,0,0,0,1.61,3,13,9,6,1,2,0,3,2,0,,0.0,0.0,-0.109,2.76,-0.09%,3.66,-0.4
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJayspitching,"Brendon Little, BS (3), L (4-2)",0.0,2,1,1,0,0,0,3.22,2,9,4,4,0,0,1,1,1,0,,2.0,2.0,-0.789,5.28,-0.63%,7.0,-2.6
+CIN202509010,TOR,https://www.baseball-reference.com/boxes/CIN/CIN202509010.shtml,TorontoBlueJayspitching,Team Totals,8.1,11,5,5,2,8,0,5.4,38,161,97,53,20,24,10,18,8,0,58.0,3.0,2.0,-0.77,1.21,-0.61%,1.61,-0.6

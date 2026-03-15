@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Zach Neto SS,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.286,0.318,0.595,0.913,16.0,11.0,-0.059,1.1,0.032,-0.091,-0.03%,0.96,-0.8,1.0,3.0,CS
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.25,0.336,0.385,0.722,19.0,6.0,0.082,0.84,0.108,-0.026,0.04%,0.73,0.5,11.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Mike Trout RF,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.179,0.264,0.462,0.727,6.0,4.0,0.019,0.94,0.036,-0.018,0.01%,0.82,0.2,1.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Jo Adell PH-RF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.19,0.236,0.31,0.545,12.0,10.0,0.037,1.51,0.089,-0.052,0.02%,1.32,0.1,0.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Jorge Soler DH,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.243,0.304,0.456,0.761,8.0,8.0,0.056,1.65,0.129,-0.073,0.03%,1.44,0.3,0.0,0.0,HR
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.27,0.301,0.551,0.852,19.0,11.0,0.031,1.43,0.169,-0.138,0.02%,1.25,0.7,6.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.233,0.259,0.311,0.57,9.0,7.0,-0.217,2.0,0.0,-0.217,-0.11%,1.75,-1.6,0.0,1.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Gustavo Campero LF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.333,0.5,0.333,0.833,19.0,11.0,0.073,0.91,0.106,-0.033,0.04%,0.79,0.6,2.0,0.0,SB
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Kyren Paris CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.219,0.296,0.479,0.776,21.0,17.0,-0.117,1.13,0.0,-0.117,-0.06%,0.98,-1.1,0.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Kevin Newman 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.143,0.143,0.143,0.286,10.0,5.0,0.034,0.92,0.086,-0.051,0.02%,0.81,0.1,3.0,3.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Reid Detmers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Ryan Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Jake Eder P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202504300,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202504300.shtml,LosAngelesAngelsbatting,Team Totals,36.0,3.0,10.0,3.0,3.0,4.0,39.0,0.278,0.333,0.361,0.694,139.0,90.0,-0.061,1.23,0.755,-0.816,-0.03%,1.07,-1.1,24.0,8.0,

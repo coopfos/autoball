@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Masyn Winn SS,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.294,0.343,0.416,0.759,19.0,13.0,-0.022,0.54,0.028,-0.05,-0.01%,0.61,0.1,2.0,5.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Alec Burleson RF,3.0,1.0,2.0,0.0,0.0,0.0,4.0,0.281,0.318,0.455,0.773,13.0,9.0,0.101,0.87,0.116,-0.015,0.07%,0.98,1.4,0.0,0.0,SB
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Michael Siani PR-CF,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.227,0.262,0.308,0.57,4.0,3.0,-0.003,0.11,0.0,-0.003,-0.00%,0.12,-0.5,1.0,0.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Willson Contreras DH,5.0,2.0,2.0,3.0,0.0,1.0,5.0,0.271,0.399,0.529,0.928,15.0,11.0,0.092,0.88,0.162,-0.07,0.06%,0.98,1.6,0.0,0.0,"HR,SB,GDP"
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Paul Goldschmidt 1B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.226,0.292,0.359,0.651,17.0,11.0,-0.009,0.66,0.076,-0.085,-0.01%,0.74,-0.3,10.0,0.0,2B
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,5.0,0.0,2.0,2.0,0.0,1.0,5.0,0.27,0.322,0.379,0.701,31.0,19.0,0.063,0.76,0.131,-0.069,0.04%,0.85,0.9,1.0,5.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Brendan Donovan LF,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.268,0.34,0.405,0.745,21.0,13.0,-0.027,0.48,0.019,-0.046,-0.02%,0.54,-0.6,0.0,0.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Nolan Gorman 2B,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.206,0.282,0.423,0.705,26.0,14.0,0.224,0.6,0.241,-0.017,0.15%,0.67,1.6,2.0,2.0,2B
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Dylan Carlson CF-RF,5.0,0.0,1.0,1.0,0.0,3.0,5.0,0.198,0.27,0.243,0.513,22.0,15.0,0.059,0.46,0.092,-0.032,0.04%,0.51,-0.2,0.0,0.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Pedro Pagés C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.2,0.258,0.325,0.583,27.0,20.0,-0.044,0.45,0.002,-0.046,-0.03%,0.5,-0.4,11.0,2.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Kyle Gibson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Ryan Fernandez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,John King P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Chris Roycroft P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202407070,STL,https://www.baseball-reference.com/boxes/WAS/WAS202407070.shtml,StLouisCardinalsbatting,Team Totals,40.0,8.0,13.0,8.0,3.0,8.0,44.0,0.325,0.372,0.45,0.822,195.0,128.0,0.434,0.62,0.867,-0.433,0.29%,0.7,3.6,27.0,14.0,

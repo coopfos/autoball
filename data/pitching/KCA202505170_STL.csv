@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+KCA202505170,STL,https://www.baseball-reference.com/boxes/KCA/KCA202505170.shtml,StLouisCardinalspitching,"Miles Mikolas, W (3-2)",6,2,0,0,2,4,0,3.77,22,76,50,29,5,16,5,11,4,0,70.0,,,0.364,1.06,0.26%,1.25,2.9
+KCA202505170,STL,https://www.baseball-reference.com/boxes/KCA/KCA202505170.shtml,StLouisCardinalspitching,"Kyle Leahy, H (10)",2,2,0,0,0,0,0,1.01,7,22,14,8,0,6,3,4,2,0,,0.0,0.0,0.246,2.54,0.17%,2.98,1.0
+KCA202505170,STL,https://www.baseball-reference.com/boxes/KCA/KCA202505170.shtml,StLouisCardinalspitching,"Ryan Helsley, S (9)",1,0,0,0,0,0,0,2.81,3,12,10,7,2,1,2,1,0,0,,0.0,0.0,0.195,2.59,0.14%,3.05,0.5
+KCA202505170,STL,https://www.baseball-reference.com/boxes/KCA/KCA202505170.shtml,StLouisCardinalspitching,Team Totals,9,4,0,0,2,4,0,0.0,32,110,74,44,7,23,10,16,6,0,70.0,0.0,0.0,0.805,1.53,0.57%,1.79,4.4

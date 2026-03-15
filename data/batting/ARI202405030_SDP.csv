@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Jurickson Profar LF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.333,0.425,0.509,0.934,26.0,17.0,0.016,0.6,0.043,-0.027,0.01%,0.54,-0.3,2.0,0.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,José Azocar LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3,0.333,0.325,0.658,2.0,2.0,-0.002,0.07,0.0,-0.002,-0.00%,0.06,-0.5,1.0,0.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,5.0,2.0,3.0,3.0,0.0,2.0,5.0,0.246,0.333,0.455,0.789,18.0,12.0,0.194,0.59,0.21,-0.016,0.10%,0.53,2.1,0.0,0.0,HR
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Jake Cronenworth 1B,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.279,0.353,0.516,0.869,20.0,14.0,0.074,0.29,0.091,-0.017,0.04%,0.26,1.9,8.0,0.0,"HR,2·2B"
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Manny Machado DH,4.0,2.0,1.0,2.0,1.0,1.0,5.0,0.25,0.306,0.403,0.709,18.0,10.0,0.035,0.39,0.064,-0.029,0.02%,0.35,0.9,0.0,0.0,HR
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Xander Bogaerts 2B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.216,0.281,0.291,0.572,29.0,19.0,-0.028,0.33,0.002,-0.03,-0.01%,0.3,-1.1,0.0,3.0,2B
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.269,0.322,0.352,0.674,14.0,10.0,0.045,0.32,0.059,-0.015,0.02%,0.28,0.3,4.0,0.0,2B
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Luis Campusano C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.267,0.3,0.39,0.69,8.0,7.0,-0.041,0.32,0.001,-0.042,-0.02%,0.29,-0.5,10.0,0.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.211,0.319,0.374,0.693,20.0,12.0,-0.035,0.33,0.0,-0.035,-0.02%,0.29,-1.0,1.0,2.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Tyler Wade 3B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.246,0.338,0.262,0.599,16.0,12.0,0.009,0.27,0.023,-0.013,0.01%,0.24,0.6,1.0,1.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Dylan Cease P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Jhony Brito P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202405030,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202405030.shtml,SanDiegoPadresbatting,Team Totals,39.0,7.0,12.0,7.0,2.0,9.0,41.0,0.308,0.341,0.641,0.982,171.0,115.0,0.267,0.37,0.493,-0.226,0.14%,0.33,2.4,27.0,6.0,

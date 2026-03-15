@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Jordan Westburg 2B,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.412,0.474,0.941,1.415,17.0,10.0,0.01,0.61,0.052,-0.042,0.01%,0.59,-0.3,1.0,2.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Adley Rutschman C,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.286,0.348,0.619,0.967,18.0,10.0,-0.012,0.72,0.055,-0.068,-0.01%,0.7,-0.7,13.0,0.0,GDP
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Tyler O'Neill LF,4.0,2.0,4.0,1.0,0.0,0.0,4.0,0.571,0.588,0.857,1.445,11.0,8.0,0.163,0.9,0.163,0.0,0.10%,0.87,2.0,1.0,0.0,2B
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,3.0,2.0,2.0,1.0,1.0,0.0,4.0,0.25,0.294,0.313,0.607,12.0,7.0,0.18,1.21,0.212,-0.032,0.10%,1.17,2.9,7.0,1.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Heston Kjerstad DH,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.143,0.222,0.143,0.365,14.0,10.0,-0.072,0.99,0.028,-0.1,-0.04%,0.96,-0.5,0.0,0.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Jorge Mateo PR-DH-DH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.002,0.26,0.002,0.0,0.00%,0.25,0.1,0.0,0.0,SB
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Ramón Laureano RF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.0,4.0,-0.129,1.4,0.0,-0.129,-0.07%,1.36,-1.6,1.0,0.0,GDP
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Dylan Carlson PH-RF,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.5,0.0,0.5,10.0,4.0,-0.012,0.42,0.002,-0.014,-0.01%,0.41,0.2,1.0,0.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,4.0,0.0,2.0,4.0,0.0,0.0,4.0,0.35,0.409,0.7,1.109,7.0,4.0,0.105,0.72,0.135,-0.03,0.06%,0.7,2.6,1.0,0.0,2B
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Ramón Urías 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.4,0.471,0.467,0.937,16.0,12.0,0.036,0.44,0.049,-0.013,0.02%,0.43,0.0,1.0,1.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Jackson Holliday SS,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.316,0.35,0.474,0.824,10.0,6.0,-0.083,0.77,0.027,-0.11,-0.05%,0.75,-0.3,0.0,2.0,"CS,GDP"
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Cade Povich P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Matt Bowman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Keegan Akin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Félix Bautista P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202503310,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202503310.shtml,BaltimoreOriolesbatting,Team Totals,35.0,8.0,15.0,8.0,3.0,7.0,38.0,0.429,0.474,0.486,0.959,121.0,75.0,0.188,0.79,0.725,-0.538,0.11%,0.76,4.4,27.0,8.0,

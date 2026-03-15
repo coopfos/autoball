@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202509120,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202509120.shtml,SanDiegoPadrespitching,"JP Sears, L (8-11)",4.1,5,4,4,1,8,2,5.12,19,72,47,29,11,7,4,6,3,0,44.0,,,-0.256,1.09,-0.08%,0.59,-2.1
+SDN202509120,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202509120.shtml,SanDiegoPadrespitching,Ron Marinaccio,3.0,3,0,0,0,1,0,0.0,12,33,27,16,8,3,4,7,1,0,,1.0,0.0,0.087,0.41,0.03%,0.22,1.7
+SDN202509120,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202509120.shtml,SanDiegoPadrespitching,Wandy Peralta,1.2,1,0,0,0,2,0,3.27,6,16,13,6,5,2,3,1,0,0,,1.0,0.0,0.025,0.18,0.01%,0.1,1.1
+SDN202509120,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202509120.shtml,SanDiegoPadrespitching,Team Totals,9.0,9,4,4,1,11,2,4.0,37,121,87,51,24,12,11,14,4,0,44.0,2.0,0.0,-0.144,0.72,-0.05%,0.39,0.7

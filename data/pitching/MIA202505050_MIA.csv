@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202505050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,MiamiMarlinspitching,"Sandy Alcantara, L (2-4)",5,6,5,5,1,4,2,8.42,22,87,59,36,11,12,5,12,5,0,38.0,,,-0.205,0.66,-0.06%,0.32,-2.3
+MIA202505050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,MiamiMarlinspitching,Tyler Phillips,2,6,2,2,0,2,0,4.43,11,43,30,10,8,12,2,7,4,0,,0.0,0.0,-0.028,0.15,-0.01%,0.07,-0.9
+MIA202505050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,MiamiMarlinspitching,George Soriano,2,1,0,0,0,2,0,8.35,7,26,20,9,3,8,2,3,2,0,,0.0,0.0,0.012,0.1,0.00%,0.05,1.1
+MIA202505050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,MiamiMarlinspitching,Team Totals,9,13,7,7,1,8,2,7.0,40,156,109,55,22,32,9,22,11,0,38.0,0.0,0.0,-0.221,0.43,-0.07%,0.21,-2.1

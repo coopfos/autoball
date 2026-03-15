@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.235,0.306,0.361,0.667,16.0,11.0,-0.085,0.88,0.0,-0.085,-0.07%,1.25,-0.9,0.0,1.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.271,0.375,0.6,0.975,15.0,10.0,0.004,0.69,0.043,-0.039,0.00%,0.97,-0.2,0.0,0.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.302,0.373,0.481,0.854,11.0,9.0,0.072,0.78,0.086,-0.014,0.06%,1.11,0.5,7.0,0.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.251,0.288,0.449,0.737,16.0,10.0,-0.149,1.3,0.04,-0.189,-0.13%,1.85,-1.5,1.0,0.0,GDP
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.195,0.306,0.343,0.65,15.0,11.0,-0.074,1.03,0.0,-0.074,-0.06%,1.46,-0.8,2.0,0.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Andy Pages CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.276,0.316,0.465,0.782,10.0,8.0,-0.078,0.74,0.0,-0.078,-0.07%,1.05,-0.8,0.0,0.0,GDP
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Alex Freeland 3B,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.444,0.545,0.444,0.99,12.0,9.0,-0.019,0.51,0.012,-0.031,-0.02%,0.73,-0.2,0.0,5.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Dalton Rushing C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.193,0.261,0.265,0.526,15.0,9.0,-0.052,0.65,0.0,-0.052,-0.04%,0.92,-0.6,13.0,0.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Miguel Rojas 2B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.252,0.315,0.411,0.726,7.0,4.0,0.022,0.55,0.041,-0.019,0.02%,0.77,0.1,1.0,2.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Blake Snell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Alexis Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Anthony Banda P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TBA202508020,LAD,https://www.baseball-reference.com/boxes/TBA/TBA202508020.shtml,LosAngelesDodgersbatting,Team Totals,31.0,0.0,6.0,0.0,0.0,11.0,31.0,0.194,0.194,0.194,0.387,117.0,81.0,-0.359,0.81,0.222,-0.581,-0.30%,1.15,-4.4,24.0,9.0,

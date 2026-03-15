@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Manuel Margot RF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.234,0.296,0.33,0.626,17.0,11.0,0.03,0.94,0.072,-0.042,0.02%,1.28,0.4,0.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.276,0.328,0.507,0.835,15.0,10.0,-0.1,1.09,0.0,-0.1,-0.08%,1.48,-1.2,4.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Royce Lewis DH,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.296,0.352,0.694,1.046,13.0,7.0,0.126,0.87,0.182,-0.056,0.10%,1.18,1.6,0.0,0.0,"HR,2B"
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,José Miranda 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.324,0.364,0.517,0.882,10.0,10.0,-0.01,0.66,0.036,-0.045,-0.01%,0.9,-0.4,2.0,2.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.246,0.332,0.432,0.765,14.0,9.0,-0.003,0.66,0.036,-0.038,-0.00%,0.9,-0.3,5.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Willi Castro 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.258,0.348,0.408,0.755,9.0,9.0,-0.08,0.81,0.0,-0.08,-0.07%,1.09,-1.0,1.0,2.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.231,0.315,0.448,0.763,13.0,10.0,-0.071,0.66,0.0,-0.071,-0.06%,0.9,-0.8,11.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Brooks Lee SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.26,0.313,0.356,0.669,10.0,9.0,-0.082,0.81,0.0,-0.082,-0.07%,1.11,-0.7,0.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Austin Martin LF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.24,0.307,0.336,0.643,14.0,7.0,-0.015,0.77,0.026,-0.041,-0.01%,1.05,-0.0,1.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Joe Ryan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Brock Stewart P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Steven Okert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Josh Staumont P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202407270,MIN,https://www.baseball-reference.com/boxes/DET/DET202407270.shtml,MinnesotaTwinsbatting,Team Totals,33.0,2.0,6.0,2.0,2.0,9.0,35.0,0.182,0.229,0.303,0.532,115.0,82.0,-0.205,0.81,0.352,-0.555,-0.17%,1.1,-2.4,24.0,4.0,

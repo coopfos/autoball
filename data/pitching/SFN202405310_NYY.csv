@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202405310,NYY,https://www.baseball-reference.com/boxes/SFN/SFN202405310.shtml,NewYorkYankeespitching,"Marcus Stroman, W (5-2)",7.1,5,2,1,2,2,0,2.6,26,91,55,31,4,20,10,12,3,0,62.0,,,0.197,0.83,0.12%,0.83,1.5
+SFN202405310,NYY,https://www.baseball-reference.com/boxes/SFN/SFN202405310.shtml,NewYorkYankeespitching,Luke Weaver,1.2,1,0,0,0,1,0,2.78,6,20,14,8,1,5,2,3,1,0,,0.0,0.0,0.027,0.29,0.02%,0.29,0.7
+SFN202405310,NYY,https://www.baseball-reference.com/boxes/SFN/SFN202405310.shtml,NewYorkYankeespitching,Team Totals,9.0,6,2,1,2,3,0,1.0,32,111,69,39,5,25,12,15,4,0,62.0,0.0,0.0,0.224,0.73,0.13%,0.73,2.2

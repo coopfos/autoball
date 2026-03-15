@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.238,0.29,0.375,0.665,15.0,11.0,-0.031,0.51,0.025,-0.056,-0.02%,0.6,-0.2,0.0,2.0,SB
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.305,0.372,0.524,0.896,16.0,9.0,-0.025,0.37,0.01,-0.035,-0.02%,0.44,0.0,0.0,3.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Salvador Perez 1B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.329,0.388,0.555,0.942,15.0,12.0,0.058,0.5,0.086,-0.028,0.04%,0.59,-0.2,6.0,0.0,2B
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Nelson Velázquez DH,3.0,1.0,2.0,0.0,0.0,1.0,3.0,0.225,0.295,0.342,0.637,15.0,9.0,0.06,0.8,0.083,-0.022,0.04%,0.95,0.6,0.0,0.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,MJ Melendez PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.193,0.25,0.378,0.628,6.0,3.0,-0.017,0.73,0.0,-0.017,-0.01%,0.87,-0.5,0.0,0.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Freddy Fermin C,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.242,0.299,0.323,0.621,19.0,14.0,0.014,0.94,0.063,-0.049,0.01%,1.12,-0.2,13.0,0.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Dairon Blanco LF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.289,0.357,0.447,0.805,15.0,10.0,0.056,0.74,0.079,-0.023,0.04%,0.88,0.8,1.0,0.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Hunter Renfroe RF,4.0,0.0,2.0,2.0,0.0,0.0,4.0,0.153,0.223,0.261,0.484,10.0,8.0,0.092,0.72,0.117,-0.026,0.07%,0.86,0.7,3.0,0.0,GDP
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Michael Massey 2B,3.0,0.0,1.0,1.0,0.0,1.0,4.0,0.246,0.25,0.42,0.67,13.0,9.0,-0.023,0.45,0.004,-0.027,-0.02%,0.54,-0.4,0.0,1.0,SH
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Garrett Hampson CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.25,0.294,0.292,0.586,11.0,7.0,-0.049,0.46,0.0,-0.049,-0.03%,0.55,-1.1,4.0,0.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Seth Lugo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,James McArthur P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202405120,KCR,https://www.baseball-reference.com/boxes/ANA/ANA202405120.shtml,KansasCityRoyalsbatting,Team Totals,38.0,4.0,11.0,4.0,0.0,8.0,39.0,0.289,0.289,0.316,0.605,135.0,92.0,0.135,0.6,0.467,-0.332,0.10%,0.71,-0.4,27.0,6.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Zach Neto SS,5.0,2.0,2.0,0.0,0.0,2.0,5.0,0.3,0.347,0.543,0.89,21.0,15.0,-0.001,0.77,0.055,-0.056,0%,0.54,-0.2,1.0,1.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,1.0,2.0,0.0,1.0,1.0,5.0,0.256,0.341,0.372,0.712,23.0,12.0,0.101,0.87,0.138,-0.036,0.04%,0.61,0.8,5.0,1.0,2B
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Taylor Ward LF,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.181,0.224,0.391,0.616,9.0,8.0,0.107,1.24,0.209,-0.102,0.04%,0.87,1.6,4.0,0.0,HR
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Jorge Soler DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.231,0.292,0.431,0.722,12.0,9.0,0.075,1.09,0.106,-0.031,0.03%,0.77,0.3,0.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,3.0,0.0,1.0,1.0,0.0,1.0,4.0,0.284,0.319,0.541,0.86,12.0,10.0,-0.075,1.51,0.012,-0.087,-0.03%,1.06,-0.5,12.0,1.0,SF
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Yoán Moncada 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.219,0.359,0.469,0.828,14.0,10.0,-0.133,1.21,0.0,-0.133,-0.06%,0.85,-1.1,0.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Kyren Paris CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.219,0.299,0.458,0.757,19.0,11.0,-0.076,0.75,0.0,-0.076,-0.03%,0.53,-0.8,2.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Jo Adell RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.184,0.223,0.347,0.57,15.0,10.0,0.03,0.59,0.079,-0.048,0.01%,0.42,0.5,1.0,0.0,HR
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Tim Anderson 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.203,0.239,0.219,0.458,14.0,11.0,-0.01,0.37,0.016,-0.026,-0.00%,0.26,-0.1,2.0,2.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,José Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Ryan Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,José Fermin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Connor Brogdon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505080,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202505080.shtml,LosAngelesAngelsbatting,Team Totals,37.0,5.0,9.0,4.0,1.0,13.0,39.0,0.243,0.256,0.432,0.689,139.0,96.0,0.018,0.94,0.615,-0.595,0.01%,0.66,0.6,27.0,5.0,

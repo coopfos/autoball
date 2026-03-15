@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Matt Vierling RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.257,0.295,0.451,0.746,17.0,10.0,-0.062,0.6,0.0,-0.062,-0.02%,0.3,-0.6,2.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Andy Ibáñez 1B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.273,0.302,0.394,0.696,14.0,10.0,-0.038,1.22,0.052,-0.091,-0.01%,0.62,-0.3,7.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Mark Canha DH,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.249,0.352,0.382,0.734,13.0,6.0,0.177,1.31,0.197,-0.02,0.05%,0.67,1.2,0.0,0.0,2B
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Riley Greene CF,2.0,0.0,1.0,1.0,2.0,0.0,4.0,0.254,0.349,0.481,0.83,17.0,8.0,0.143,1.61,0.165,-0.022,0.04%,0.82,1.1,1.0,0.0,IW
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Gio Urshela 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.279,0.323,0.361,0.683,24.0,16.0,-0.132,1.89,0.032,-0.164,-0.04%,0.96,-1.0,0.0,3.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Justyn-Henry Malloy LF,2.0,0.0,0.0,0.0,1.0,2.0,3.0,0.176,0.31,0.382,0.692,18.0,9.0,-0.036,1.63,0.027,-0.064,-0.01%,0.83,-0.4,0.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Akil Baddoo LF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.133,0.27,0.333,0.604,4.0,3.0,-0.091,3.52,0.0,-0.091,-0.03%,1.8,-0.4,1.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Colt Keith 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.227,0.275,0.304,0.579,16.0,11.0,-0.238,2.24,0.0,-0.238,-0.07%,1.14,-1.7,2.0,2.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Jake Rogers C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.206,0.26,0.353,0.613,15.0,11.0,-0.135,1.33,0.0,-0.135,-0.04%,0.68,-0.9,9.0,1.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Ryan Kreidler SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.167,0.286,0.167,0.452,10.0,7.0,-0.058,0.77,0.0,-0.058,-0.02%,0.39,-0.5,2.0,1.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Wenceel Pérez PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.258,0.317,0.396,0.712,6.0,4.0,-0.037,1.43,0.0,-0.037,-0.01%,0.73,-0.1,0.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Reese Olson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Will Vest P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202406170,DET,https://www.baseball-reference.com/boxes/ATL/ATL202406170.shtml,DetroitTigersbatting,Team Totals,32.0,1.0,5.0,1.0,4.0,11.0,36.0,0.156,0.25,0.188,0.438,154.0,95.0,-0.507,1.47,0.473,-0.982,-0.16%,0.75,-3.6,24.0,7.0,

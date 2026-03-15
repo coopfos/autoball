@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,J.P. Crawford SS,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.286,0.385,0.378,0.764,23.0,14.0,-0.063,0.93,0.036,-0.099,-0.05%,1.17,-0.3,1.0,2.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Julio Rodríguez CF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.247,0.305,0.39,0.695,19.0,14.0,-0.095,0.95,0.001,-0.096,-0.07%,1.21,0.4,5.0,0.0,2B
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Cal Raleigh C,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.268,0.383,0.646,1.029,13.0,7.0,-0.012,0.82,0.043,-0.055,-0.01%,1.04,1.1,9.0,1.0,HR
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Randy Arozarena LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.246,0.351,0.441,0.792,17.0,13.0,-0.09,0.9,0.0,-0.09,-0.07%,1.14,-0.9,0.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Jorge Polanco DH,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.251,0.309,0.445,0.754,20.0,7.0,-0.003,0.7,0.034,-0.037,-0.00%,0.9,0.1,0.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Luke Raley 1B,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.239,0.351,0.372,0.722,6.0,4.0,0.031,0.92,0.047,-0.016,0.02%,1.17,0.2,2.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Donovan Solano PH-1B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.246,0.286,0.333,0.619,8.0,5.0,-0.073,1.42,0.0,-0.073,-0.06%,1.8,-1.0,1.0,0.0,GDP
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Dominic Canzone RF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.286,0.313,0.558,0.871,4.0,2.0,-0.056,1.18,0.0,-0.056,-0.04%,1.49,-0.5,2.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Dylan Moore PH-RF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.217,0.279,0.404,0.682,11.0,8.0,-0.006,0.12,0.0,-0.006,-0.01%,0.14,-0.5,0.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Ben Williamson 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.256,0.293,0.317,0.61,12.0,8.0,0.019,0.68,0.047,-0.029,0.01%,0.86,-0.2,1.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Cole Young 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.233,0.279,0.272,0.551,18.0,13.0,-0.022,0.67,0.028,-0.051,-0.02%,0.85,-0.0,3.0,3.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Logan Gilbert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Casey Legumina P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Juan Burgos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202507080,SEA,https://www.baseball-reference.com/boxes/NYA/NYA202507080.shtml,SeattleMarinersbatting,Team Totals,33.0,3.0,7.0,3.0,4.0,6.0,37.0,0.212,0.297,0.333,0.631,151.0,95.0,-0.37,0.83,0.236,-0.608,-0.28%,1.05,-1.5,24.0,6.0,

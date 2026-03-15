@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Jurickson Profar LF,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.232,0.304,0.376,0.68,22.0,13.0,0.07,0.75,0.123,-0.053,0%,0.0,0.6,4.0,0.0,3B
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.26,0.36,0.452,0.813,16.0,12.0,-0.147,1.06,0.0,-0.147,0%,0.0,-1.6,5.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Austin Riley 3B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.26,0.309,0.428,0.737,6.0,4.0,-0.01,0.4,0.0,-0.01,0%,0.0,-0.1,1.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Luke Williams PH-3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.12,0.148,0.2,0.348,12.0,9.0,-0.093,1.12,0.0,-0.093,0%,0.0,-1.0,1.0,3.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Drake Baldwin DH,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.282,0.35,0.465,0.814,21.0,13.0,0.009,0.83,0.056,-0.048,0%,0.0,0.3,0.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Sean Murphy C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.228,0.326,0.481,0.807,15.0,9.0,-0.087,0.91,0.0,-0.087,0%,0.0,-1.0,6.0,1.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.238,0.262,0.373,0.636,15.0,11.0,-0.024,0.7,0.037,-0.061,0%,0.0,-0.5,5.0,0.0,"2B,GDP"
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Ozzie Albies 2B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.228,0.306,0.332,0.638,10.0,6.0,-0.047,0.82,0.022,-0.069,0%,0.0,-0.6,3.0,1.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Eli White RF,4.0,2.0,2.0,4.0,0.0,1.0,4.0,0.254,0.292,0.408,0.7,16.0,9.0,0.375,0.98,0.405,-0.03,0%,0.0,3.3,1.0,0.0,2·HR
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Nick Allen SS,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.227,0.298,0.258,0.556,14.0,7.0,0.006,0.44,0.03,-0.024,0%,0.0,0.0,1.0,2.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Austin Cox P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Hurston Waldrep P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Pierce Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Dylan Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Raisel Iglesias P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202508020,ATL,https://www.baseball-reference.com/boxes/CIN/CIN202508020.shtml,AtlantaBravesbatting,Team Totals,36.0,4.0,10.0,4.0,1.0,11.0,37.0,0.278,0.297,0.528,0.825,147.0,93.0,0.052,0.83,0.673,-0.622,0.00%,0.0,-0.5,27.0,7.0,

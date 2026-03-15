@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Ian Happ LF,2.0,1.0,1.0,0.0,2.0,1.0,4.0,0.283,0.375,0.391,0.766,20.0,9.0,0.089,0.57,0.089,0.0,0.07%,0.74,1.4,0.0,0.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Justin Turner PH-3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.156,0.273,0.156,0.428,2.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,1.0,0.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Kyle Tucker RF,4.0,2.0,2.0,1.0,1.0,0.0,5.0,0.285,0.394,0.562,0.955,16.0,9.0,0.144,0.59,0.144,0.0,0.11%,0.77,2.0,1.0,0.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Seiya Suzuki DH,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.291,0.359,0.607,0.966,20.0,15.0,-0.021,0.56,0.04,-0.061,-0.02%,0.72,-0.5,0.0,0.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Carson Kelly C,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.364,0.5,0.818,1.318,17.0,8.0,0.039,0.54,0.067,-0.029,0.03%,0.7,-0.2,8.0,0.0,2B
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Michael Busch 1B,5.0,1.0,1.0,4.0,0.0,0.0,5.0,0.278,0.366,0.528,0.894,14.0,11.0,0.046,0.57,0.08,-0.034,0.04%,0.74,1.5,8.0,0.0,HR
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Nico Hoerner 2B,5.0,0.0,2.0,1.0,0.0,1.0,5.0,0.289,0.336,0.351,0.687,19.0,13.0,0.084,0.33,0.086,-0.002,0.07%,0.43,0.6,0.0,1.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,5.0,2.0,2.0,2.0,0.0,0.0,5.0,0.271,0.309,0.55,0.859,17.0,12.0,-0.02,0.27,0.013,-0.033,-0.01%,0.35,1.0,7.0,0.0,2·HR
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.214,0.262,0.405,0.667,17.0,11.0,0.026,0.18,0.027,-0.001,0.02%,0.23,-0.1,1.0,4.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Vidal Bruján LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.286,0.286,0.429,0.714,,,,,,,,,,0.0,0.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Nicky Lopez 3B-SS,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.0,0.071,0.0,0.071,22.0,15.0,0.039,0.29,0.041,-0.001,0.03%,0.37,-0.0,1.0,4.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Ben Brown P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Chris Flexen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202505020,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202505020.shtml,ChicagoCubsbatting,Team Totals,39.0,10.0,12.0,10.0,4.0,8.0,43.0,0.308,0.372,0.564,0.936,164.0,104.0,0.426,0.43,0.587,-0.161,0.33%,0.56,5.6,27.0,9.0,

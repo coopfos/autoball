@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202507130,TEX,https://www.baseball-reference.com/boxes/HOU/HOU202507130.shtml,TexasRangerspitching,"Nathan Eovaldi, W (7-3)",7.2,5,1,1,1,8,1,1.58,27,102,73,41,12,20,9,9,1,0,72.0,,,0.3,0.82,0.14%,0.63,2.9
+HOU202507130,TEX,https://www.baseball-reference.com/boxes/HOU/HOU202507130.shtml,TexasRangerspitching,Shawn Armstrong,1.1,1,0,0,0,1,0,3.21,5,21,14,9,2,3,3,1,0,0,,0.0,0.0,0.022,0.27,0.01%,0.21,0.6
+HOU202507130,TEX,https://www.baseball-reference.com/boxes/HOU/HOU202507130.shtml,TexasRangerspitching,Team Totals,9.0,6,1,1,1,9,1,1.0,32,123,87,50,14,23,12,10,1,0,72.0,0.0,0.0,0.322,0.74,0.15%,0.57,3.6

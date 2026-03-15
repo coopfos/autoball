@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Michael Busch 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.263,0.345,0.505,0.85,15.0,9.0,-0.051,1.11,0.036,-0.086,-0.02%,0.82,-0.2,8.0,0.0,
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Kyle Tucker RF,4.0,2.0,2.0,0.0,0.0,1.0,4.0,0.265,0.377,0.454,0.832,10.0,7.0,0.068,1.59,0.17,-0.103,0.03%,1.18,-0.1,1.0,0.0,"SB,GDP"
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Seiya Suzuki DH,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.251,0.32,0.502,0.822,10.0,7.0,0.176,1.36,0.224,-0.048,0.08%,1.01,1.0,0.0,0.0,
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,1.0,0.0,0.0,0.0,1.0,1.0,4.0,0.259,0.299,0.522,0.821,13.0,6.0,0.079,1.19,0.103,-0.024,0.03%,0.88,0.4,2.0,0.0,"HBP,SH"
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Carson Kelly C,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.269,0.364,0.466,0.831,10.0,6.0,0.034,1.73,0.162,-0.128,0.01%,1.29,-0.1,11.0,0.0,SB
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Ian Happ LF,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.225,0.324,0.383,0.707,12.0,6.0,-0.053,1.65,0.02,-0.073,-0.02%,1.23,-0.3,3.0,0.0,IW
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.294,0.34,0.379,0.719,14.0,9.0,-0.038,2.02,0.112,-0.15,-0.02%,1.5,0.3,0.0,3.0,2B
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.248,0.295,0.407,0.702,18.0,14.0,-0.118,1.2,0.0,-0.118,-0.05%,0.9,-1.4,2.0,2.0,
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Matt Shaw 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.229,0.294,0.4,0.694,7.0,6.0,-0.051,1.1,0.032,-0.084,-0.02%,0.82,-0.4,0.0,2.0,GDP
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Shota Imanaga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Andrew Kittredge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Brad Keller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202508160,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202508160.shtml,ChicagoCubsbatting,Team Totals,30.0,3.0,9.0,3.0,3.0,6.0,35.0,0.3,0.382,0.333,0.716,109.0,70.0,0.046,1.46,0.859,-0.814,0.02%,1.09,-0.7,27.0,7.0,

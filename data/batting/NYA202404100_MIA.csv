@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Luis Arráez 2B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.25,0.339,0.327,0.666,24.0,14.0,0.029,0.74,0.072,-0.042,0.01%,0.34,0.1,1.0,1.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Josh Bell 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.188,0.304,0.271,0.574,12.0,7.0,-0.065,0.84,0.024,-0.089,-0.02%,0.39,-1.4,7.0,0.0,GDP
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Emmanuel Rivera 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.143,0.25,0.143,0.393,,,,,,,,,,2.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Jake Burger 3B,4.0,1.0,1.0,3.0,0.0,2.0,4.0,0.26,0.291,0.48,0.771,13.0,9.0,0.165,0.86,0.203,-0.038,0.05%,0.4,1.7,0.0,3.0,HR
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. CF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.22,0.36,0.415,0.775,21.0,12.0,-0.015,0.4,0.018,-0.033,-0.00%,0.18,-0.2,2.0,0.0,SB
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.16,0.25,0.16,0.41,20.0,11.0,0.053,0.67,0.071,-0.018,0.01%,0.31,0.4,2.0,0.0,SB
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Tim Anderson SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.28,0.308,0.3,0.608,14.0,8.0,-0.112,0.61,0.011,-0.123,-0.03%,0.28,-1.1,3.0,4.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Bryan De La Cruz DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.255,0.268,0.327,0.595,21.0,13.0,-0.041,0.4,0.0,-0.041,-0.01%,0.18,-1.0,0.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Nick Gordon LF,2.0,1.0,1.0,0.0,2.0,1.0,4.0,0.217,0.269,0.522,0.791,25.0,14.0,0.052,0.45,0.064,-0.012,0.01%,0.21,0.4,3.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,1.0,1.0,1.0,0.0,0.0,4.0,0.1,0.143,0.15,0.293,9.0,8.0,0.126,0.74,0.135,-0.01,0.03%,0.34,1.7,7.0,0.0,"CS,SH"
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Ryan Weathers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Bryan Hoeing P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Andrew Nardi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Anthony Bender P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202404100,MIA,https://www.baseball-reference.com/boxes/NYA/NYA202404100.shtml,MiamiMarlinsbatting,Team Totals,30.0,5.0,6.0,5.0,6.0,8.0,37.0,0.2,0.333,0.3,0.633,159.0,96.0,0.192,0.63,0.598,-0.406,0.05%,0.29,0.6,27.0,8.0,

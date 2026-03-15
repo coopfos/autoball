@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202409060,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202409060.shtml,PhiladelphiaPhilliespitching,"Zack Wheeler, W (14-6)",6,2,1,1,1,7,0,2.59,21,84,56,33,15,8,7,6,2,0,70.0,,,0.086,0.3,0.05%,0.28,2.2
+MIA202409060,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202409060.shtml,PhiladelphiaPhilliespitching,José Alvarado,1,1,0,0,0,3,0,4.14,4,17,12,4,7,1,0,1,1,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.5
+MIA202409060,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202409060.shtml,PhiladelphiaPhilliespitching,Nick Nelson,2,2,1,1,2,3,0,5.06,11,42,27,16,5,6,1,4,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.1
+MIA202409060,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202409060.shtml,PhiladelphiaPhilliespitching,Team Totals,9,5,2,2,3,13,0,2.0,36,143,95,53,27,15,8,11,4,0,70.0,0.0,0.0,0.087,0.17,0.05%,0.16,2.9

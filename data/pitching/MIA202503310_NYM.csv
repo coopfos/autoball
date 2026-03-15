@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202503310,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,NewYorkMetspitching,"David Peterson, W (1-0)",6,5,2,2,3,9,2,3.0,25,89,57,28,10,19,5,8,5,0,60.0,,,0.127,0.76,0.07%,0.74,1.2
+MIA202503310,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,NewYorkMetspitching,Huascar Brazobán,2,1,0,0,0,2,0,0.0,8,28,19,8,4,7,3,2,1,0,,0.0,0.0,0.006,0.06,0.00%,0.06,1.1
+MIA202503310,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,NewYorkMetspitching,Danny Young,1,3,2,2,1,1,0,9.0,7,26,13,8,2,3,4,1,1,0,,0.0,0.0,0.001,0.02,0.00%,0.02,-1.5
+MIA202503310,NYM,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,NewYorkMetspitching,Team Totals,9,9,4,4,4,12,2,4.0,40,143,89,44,16,29,12,11,7,0,60.0,0.0,0.0,0.134,0.48,0.08%,0.47,0.9

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Willi Castro 2B,3.0,1.0,1.0,0.0,0.0,0.0,4.0,0.277,0.361,0.46,0.821,11.0,8.0,0.055,0.96,0.093,-0.038,0.04%,1.1,0.4,0.0,1.0,HBP
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.312,0.381,0.506,0.888,13.0,9.0,0.273,1.22,0.314,-0.041,0.19%,1.4,1.4,0.0,2.0,HR
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Trevor Larnach LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.248,0.297,0.422,0.72,20.0,13.0,-0.123,1.06,0.0,-0.123,-0.08%,1.21,-1.2,1.0,0.0,GDP
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Austin Martin LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.267,0.333,0.376,0.71,,,,,,,,,,0.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Royce Lewis DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.301,0.366,0.711,1.076,17.0,9.0,-0.111,1.11,0.0,-0.111,-0.08%,1.27,-0.7,0.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.25,0.329,0.439,0.768,13.0,8.0,-0.087,0.89,0.0,-0.087,-0.06%,1.02,-0.5,8.0,1.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,José Miranda 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.294,0.339,0.491,0.83,10.0,6.0,-0.045,0.96,0.037,-0.082,-0.03%,1.1,-0.2,1.0,3.0,SB
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Max Kepler RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.245,0.301,0.405,0.706,11.0,9.0,-0.131,1.67,0.025,-0.156,-0.09%,1.91,-0.6,3.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Manuel Margot CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.238,0.306,0.329,0.635,19.0,11.0,-0.107,1.61,0.031,-0.138,-0.07%,1.83,-0.7,1.0,0.0,2B
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Christian Vázquez C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.183,0.21,0.255,0.465,13.0,9.0,-0.213,2.08,0.0,-0.213,-0.15%,2.37,-1.1,13.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Bailey Ober P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Jorge Alcala P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Griffin Jax P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Jhoan Duran P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202406280,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202406280.shtml,MinnesotaTwinsbatting,Team Totals,35.0,2.0,6.0,2.0,0.0,4.0,36.0,0.171,0.194,0.286,0.48,127.0,82.0,-0.489,1.28,0.5,-0.989,-0.33%,1.46,-3.1,28.0,8.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.246,0.369,0.425,0.794,20.0,11.0,0.113,0.93,0.132,-0.02,0.07%,0.9,1.8,0.0,0.0,"HR,SB"
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Edmundo Sosa SS,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.306,0.379,0.565,0.944,16.0,14.0,-0.131,0.93,0.0,-0.131,-0.08%,0.9,-2.2,1.0,4.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,5.0,0.0,1.0,1.0,0.0,3.0,5.0,0.266,0.373,0.516,0.888,27.0,18.0,-0.07,0.61,0.008,-0.078,-0.04%,0.59,-0.1,9.0,0.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 3B,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.308,0.366,0.493,0.859,20.0,9.0,0.022,0.34,0.048,-0.025,0.01%,0.33,0.4,0.0,3.0,2B
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,5.0,2.0,3.0,2.0,0.0,1.0,5.0,0.208,0.271,0.333,0.605,16.0,13.0,0.141,0.45,0.147,-0.005,0.08%,0.43,1.1,2.0,0.0,"HR,2B"
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.249,0.35,0.391,0.74,18.0,14.0,0.072,0.76,0.081,-0.01,0.04%,0.73,0.5,2.0,3.0,SB
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Whit Merrifield LF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.184,0.266,0.286,0.552,22.0,13.0,-0.093,0.67,0.019,-0.112,-0.05%,0.65,-1.1,1.0,0.0,"2B,CS"
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Garrett Stubbs C,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.17,0.25,0.17,0.42,14.0,8.0,-0.003,0.56,0.037,-0.041,-0.00%,0.54,0.5,8.0,0.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Cristian Pache CF,4.0,0.0,2.0,1.0,0.0,2.0,4.0,0.22,0.31,0.28,0.59,12.0,8.0,0.126,0.78,0.14,-0.014,0.07%,0.75,0.8,4.0,0.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Cristopher Sánchez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Spencer Turnbull P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202405290,PHI,https://www.baseball-reference.com/boxes/SFN/SFN202405290.shtml,PhiladelphiaPhilliesbatting,Team Totals,40.0,6.0,14.0,6.0,4.0,11.0,44.0,0.35,0.409,0.575,0.984,165.0,108.0,0.177,0.68,0.612,-0.436,0.10%,0.65,1.8,27.0,10.0,

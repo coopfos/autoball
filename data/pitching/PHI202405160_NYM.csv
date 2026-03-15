@@ -1,0 +1,8 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202405160,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405160.shtml,NewYorkMetspitching,Jose Quintana,5.1,4,2,2,0,4,0,5.21,21,81,49,26,11,12,7,9,2,0,56.0,,,0.222,0.98,0.09%,0.66,2.1
+PHI202405160,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405160.shtml,NewYorkMetspitching,"Reed Garrett, BS (2)",1.2,2,1,1,1,2,0,0.79,8,23,14,5,6,3,2,3,1,0,,2.0,2.0,-0.341,1.72,-0.14%,1.16,-1.6
+PHI202405160,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405160.shtml,NewYorkMetspitching,"Adam Ottavino, H (7)",1.0,1,0,0,0,0,0,3.12,4,13,10,6,1,3,2,2,1,0,,0.0,0.0,0.141,2.83,0.06%,1.9,0.5
+PHI202405160,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405160.shtml,NewYorkMetspitching,"Edwin Díaz, BS (3)",1.0,1,1,1,1,2,0,3.57,5,25,17,8,4,5,1,1,1,0,,0.0,0.0,-0.3,4.01,-0.12%,2.69,-0.5
+PHI202405160,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405160.shtml,NewYorkMetspitching,"Jorge López, W (1-0)",1.0,0,0,0,1,0,0,2.53,3,6,4,3,0,1,1,1,1,0,,0.0,0.0,0.311,3.5,0.12%,2.35,1.1
+PHI202405160,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405160.shtml,NewYorkMetspitching,"Jake Diekman, S (1)",1.0,1,1,0,1,1,0,3.21,5,22,14,5,5,4,2,1,1,0,,0.0,0.0,0.198,5.57,0.08%,3.74,0.1
+PHI202405160,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405160.shtml,NewYorkMetspitching,Team Totals,11.0,9,5,4,4,9,0,3.27,46,170,108,53,27,28,15,17,7,0,56.0,2.0,2.0,0.231,2.4,0.09%,1.61,1.7

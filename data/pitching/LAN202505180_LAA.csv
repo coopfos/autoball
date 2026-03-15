@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202505180,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505180.shtml,LosAngelesAngelspitching,Yusei Kikuchi,5.2,3,1,1,4,7,0,3.5,24,98,57,29,10,18,4,9,3,0,62.0,,,0.199,0.9,0.07%,0.55,1.9
+LAN202505180,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505180.shtml,LosAngelesAngelspitching,"Brock Burke, H (5)",0.2,1,2,2,0,1,0,6.35,4,16,9,7,2,0,2,0,0,0,,0.0,0.0,-0.046,1.21,-0.02%,0.74,-0.3
+LAN202505180,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505180.shtml,LosAngelesAngelspitching,"Shaun Anderson, BS (1), W (1-0)",2.2,1,1,1,0,3,1,2.45,9,38,24,13,5,6,2,4,2,0,,2.0,2.0,-0.085,1.62,-0.03%,1.0,-1.1
+LAN202505180,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505180.shtml,LosAngelesAngelspitching,Team Totals,9.0,5,4,4,4,11,1,4.0,37,152,90,49,17,24,8,13,5,0,62.0,2.0,2.0,0.068,1.1,0.02%,0.68,0.5

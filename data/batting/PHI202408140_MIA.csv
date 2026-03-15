@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Xavier Edwards SS,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.358,0.437,0.432,0.869,24.0,14.0,0.013,0.79,0.072,-0.059,0%,0.0,0.4,2.0,6.0,SB
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Jake Burger DH,4.0,2.0,2.0,0.0,0.0,0.0,5.0,0.253,0.304,0.475,0.779,14.0,8.0,0.064,0.98,0.119,-0.056,0%,0.0,0.8,0.0,0.0,HBP
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.242,0.295,0.42,0.715,17.0,12.0,0.05,1.12,0.128,-0.078,0%,0.0,0.2,2.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Jonah Bride 1B,4.0,1.0,2.0,4.0,0.0,1.0,5.0,0.276,0.381,0.471,0.852,18.0,12.0,0.265,1.31,0.304,-0.039,0%,0.0,2.0,11.0,0.0,"HR,SF"
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Kyle Stowers LF,5.0,0.0,1.0,0.0,0.0,3.0,5.0,0.198,0.233,0.284,0.517,19.0,12.0,-0.086,0.91,0.015,-0.101,0%,0.0,-0.7,0.0,1.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Otto Lopez 2B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.229,0.262,0.3,0.563,24.0,14.0,0.0,1.16,0.086,-0.086,0%,0.0,-0.2,3.0,5.0,SB
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Derek Hill CF,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.256,0.286,0.442,0.728,15.0,10.0,-0.075,1.06,0.031,-0.106,0%,0.0,-0.2,0.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.211,0.294,0.268,0.562,16.0,11.0,-0.11,1.03,0.0,-0.11,0%,0.0,-1.4,1.0,4.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Ali Sánchez C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.152,0.211,0.167,0.378,7.0,6.0,-0.088,1.11,0.0,-0.088,0%,0.0,-0.8,4.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,David Hensley PH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.182,0.357,0.273,0.63,2.0,1.0,0.018,0.28,0.018,0.0,0%,0.0,0.4,0.0,0.0,2B
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Jhonny Pereda C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.214,0.214,0.214,0.429,,,,,,,,,,1.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Edward Cabrera P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Kent Emanuel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Declan Cronin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Brett de Geus P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202408140,MIA,https://www.baseball-reference.com/boxes/PHI/PHI202408140.shtml,MiamiMarlinsbatting,Team Totals,38.0,5.0,11.0,5.0,2.0,11.0,42.0,0.289,0.333,0.395,0.728,156.0,100.0,0.051,1.03,0.773,-0.723,0.00%,0.0,0.5,24.0,16.0,

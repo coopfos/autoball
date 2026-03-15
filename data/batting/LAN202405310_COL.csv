@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Charlie Blackmon RF,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.242,0.317,0.376,0.693,12.0,8.0,-0.006,0.48,0.043,-0.049,-0.00%,0.1,-0.4,1.0,0.0,CS
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,2.0,3.0,1.0,0.0,0.0,4.0,0.294,0.328,0.481,0.808,11.0,7.0,0.145,0.68,0.152,-0.007,0.02%,0.14,1.5,1.0,2.0,HR
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.282,0.367,0.474,0.84,23.0,12.0,-0.019,0.88,0.041,-0.06,-0.00%,0.17,-0.4,0.0,2.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Elias Díaz C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.294,0.341,0.424,0.764,14.0,7.0,0.0,1.15,0.061,-0.06,0%,0.23,-0.3,5.0,0.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Kris Bryant DH,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.177,0.301,0.278,0.58,21.0,12.0,0.043,1.2,0.125,-0.082,0.01%,0.23,-0.0,0.0,0.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.266,0.305,0.354,0.66,13.0,9.0,0.104,1.21,0.181,-0.077,0.01%,0.23,0.9,4.0,6.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Elehuris Montero 1B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.221,0.287,0.319,0.606,9.0,4.0,-0.027,0.53,0.006,-0.033,-0.00%,0.1,-0.5,10.0,0.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Brenton Doyle CF,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.268,0.349,0.418,0.766,15.0,5.0,-0.01,0.47,0.029,-0.039,-0.00%,0.09,-0.5,3.0,0.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Jake Cave LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.256,0.298,0.321,0.618,12.0,10.0,-0.064,0.47,0.004,-0.068,-0.01%,0.09,-0.6,3.0,0.0,"3B,GDP"
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Dakota Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202405310,COL,https://www.baseball-reference.com/boxes/LAN/LAN202405310.shtml,ColoradoRockiesbatting,Team Totals,31.0,4.0,7.0,3.0,6.0,8.0,37.0,0.226,0.351,0.387,0.738,130.0,74.0,0.166,0.76,0.642,-0.475,0.02%,0.15,-0.3,27.0,11.0,

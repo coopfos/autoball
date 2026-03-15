@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.312,0.373,0.433,0.805,14.0,8.0,0.005,0.44,0.045,-0.04,0.00%,0.49,-0.1,2.0,0.0,GDP
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Angel Martínez CF,5.0,1.0,1.0,2.0,0.0,2.0,5.0,0.252,0.271,0.39,0.661,14.0,10.0,0.126,0.51,0.155,-0.03,0.08%,0.58,0.7,1.0,0.0,HR
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,José Ramírez 3B,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.327,0.382,0.55,0.932,26.0,18.0,0.018,0.36,0.046,-0.028,0.01%,0.41,-0.4,1.0,3.0,2B
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Carlos Santana DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.262,0.366,0.4,0.766,16.0,10.0,-0.007,0.47,0.016,-0.023,-0.01%,0.53,-0.1,0.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Kyle Manzardo 1B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.211,0.3,0.443,0.744,7.0,5.0,-0.028,0.56,0.039,-0.067,-0.02%,0.63,-0.0,10.0,0.0,HR
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.254,0.338,0.463,0.8,10.0,8.0,0.088,0.57,0.101,-0.013,0.06%,0.65,1.4,1.0,4.0,"2·2B,SB"
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,4.0,0.0,0.0,0.0,0.0,4.0,4.0,0.234,0.3,0.354,0.655,19.0,14.0,-0.058,0.57,0.0,-0.058,-0.04%,0.65,-1.3,1.0,2.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Bo Naylor C,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.177,0.285,0.376,0.661,6.0,5.0,-0.027,0.53,0.007,-0.034,-0.02%,0.6,-0.5,7.0,1.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Jhonkensy Noel PH-RF,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.155,0.178,0.237,0.415,2.0,2.0,0.002,0.05,0.002,0.0,0.00%,0.06,0.4,0.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Nolan Jones RF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.215,0.292,0.313,0.604,16.0,12.0,-0.01,0.4,0.013,-0.023,-0.01%,0.45,-0.0,1.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,David Fry PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0.2,0.2,0.4,4.0,3.0,-0.002,0.08,0.0,-0.002,-0.00%,0.09,-0.4,0.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Austin Hedges C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.113,0.217,0.283,0.5,,,,,,,,,,3.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Luis Ortiz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202506040,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202506040.shtml,ClevelandGuardiansbatting,Team Totals,38.0,4.0,12.0,4.0,1.0,12.0,39.0,0.316,0.333,0.553,0.886,134.0,95.0,0.107,0.47,0.424,-0.318,0.07%,0.53,-0.4,27.0,11.0,

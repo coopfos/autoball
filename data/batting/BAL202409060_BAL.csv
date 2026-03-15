@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.282,0.368,0.543,0.911,17.0,11.0,0.126,0.77,0.15,-0.024,0.11%,1.08,1.0,1.0,1.0,HR
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.257,0.324,0.403,0.727,13.0,8.0,-0.075,0.79,0.0,-0.075,-0.06%,1.12,-1.0,12.0,1.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Ryan O'Hearn 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.265,0.34,0.43,0.771,20.0,14.0,-0.061,0.62,0.0,-0.061,-0.05%,0.89,-0.8,7.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Anthony Santander RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.241,0.31,0.516,0.827,17.0,14.0,-0.056,0.72,0.0,-0.056,-0.05%,1.02,-0.5,0.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Colton Cowser LF,2.0,1.0,1.0,0.0,1.0,0.0,3.0,0.246,0.326,0.443,0.77,13.0,7.0,0.09,0.94,0.106,-0.016,0.08%,1.33,0.9,0.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Eloy Jiménez DH,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.248,0.301,0.35,0.651,9.0,7.0,-0.068,0.98,0.0,-0.068,-0.06%,1.39,-0.8,0.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,1.0,0.0,0.0,0.0,2.0,0.0,3.0,0.23,0.301,0.397,0.698,12.0,4.0,0.075,1.02,0.087,-0.011,0.06%,1.44,0.5,2.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,2.0,0.0,0.0,1.0,0.0,0.0,3.0,0.176,0.23,0.32,0.551,13.0,8.0,0.0,1.56,0.047,-0.047,0%,2.2,-0.4,4.0,4.0,SF
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Nick Maton 3B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,13.0,7.0,-0.088,1.25,0.0,-0.088,-0.07%,1.77,-0.8,0.0,2.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Emmanuel Rivera 3B,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.218,0.3,0.291,0.591,1.0,1.0,0.008,0.21,0.008,0.0,0.01%,0.3,0.4,1.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Dean Kremer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Cionel Pérez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409060,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,BaltimoreOriolesbatting,Team Totals,26.0,2.0,4.0,2.0,3.0,5.0,30.0,0.154,0.233,0.269,0.503,128.0,81.0,-0.049,0.88,0.398,-0.446,-0.04%,1.25,-1.6,27.0,9.0,

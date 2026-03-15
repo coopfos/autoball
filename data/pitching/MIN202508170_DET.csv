@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIN202508170,DET,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,DetroitTigerspitching,"Chris Paddack, L (4-11)",5.2,9,8,8,3,4,3,5.1,28,91,55,35,11,9,5,16,7,0,20.0,,,-0.414,0.6,-0.27%,0.66,-5.3
+MIN202508170,DET,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,DetroitTigerspitching,Bailey Horn,2.1,0,0,0,2,3,0,1.5,9,38,23,9,3,11,2,2,1,0,,1.0,0.0,0.002,0.01,0.00%,0.01,1.4
+MIN202508170,DET,https://www.baseball-reference.com/boxes/MIN/MIN202508170.shtml,DetroitTigerspitching,Team Totals,8.0,9,8,8,5,7,3,9.0,37,129,78,44,14,20,7,18,8,0,20.0,1.0,0.0,-0.412,0.46,-0.27%,0.51,-3.9

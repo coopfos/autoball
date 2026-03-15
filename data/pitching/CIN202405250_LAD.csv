@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202405250,LAD,https://www.baseball-reference.com/boxes/CIN/CIN202405250.shtml,LosAngelesDodgerspitching,"Walker Buehler, L (1-2)",5.2,6,3,3,1,4,2,4.26,21,91,61,38,4,19,7,9,5,0,48.0,,,-0.042,0.74,-0.03%,0.88,0.1
+CIN202405250,LAD,https://www.baseball-reference.com/boxes/CIN/CIN202405250.shtml,LosAngelesDodgerspitching,Ryan Yarbrough,1.2,3,0,0,1,0,0,2.97,8,30,17,13,0,4,4,3,3,0,,0.0,0.0,0.024,0.46,0.02%,0.54,0.2
+CIN202405250,LAD,https://www.baseball-reference.com/boxes/CIN/CIN202405250.shtml,LosAngelesDodgerspitching,Blake Treinen,0.2,0,0,0,0,2,0,0.0,2,10,6,3,1,2,0,0,0,0,,2.0,0.0,0.025,0.51,0.02%,0.61,0.9
+CIN202405250,LAD,https://www.baseball-reference.com/boxes/CIN/CIN202405250.shtml,LosAngelesDodgerspitching,Team Totals,8.0,9,3,3,2,6,2,3.38,31,131,84,54,5,25,11,12,8,0,48.0,2.0,0.0,0.007,0.65,0.01%,0.78,1.3

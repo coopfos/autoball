@@ -1,0 +1,22 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH-DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.277,0.386,0.603,0.989,13.0,7.0,-0.126,1.22,0.022,-0.149,-0.09%,1.51,-0.9,0.0,0.0,GDP
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.25,0.322,0.38,0.702,20.0,13.0,-0.026,1.21,0.051,-0.077,-0.02%,1.49,-0.4,1.0,0.0,2B
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.296,0.369,0.496,0.865,9.0,7.0,0.129,1.39,0.21,-0.081,0.10%,1.71,0.9,8.0,1.0,HR
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.244,0.281,0.444,0.726,16.0,12.0,-0.144,1.47,0.0,-0.144,-0.11%,1.82,-1.0,2.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.19,0.297,0.326,0.624,23.0,14.0,-0.031,1.11,0.043,-0.074,-0.02%,1.37,-0.1,1.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Andy Pages CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.272,0.314,0.46,0.774,16.0,11.0,-0.071,1.1,0.018,-0.089,-0.05%,1.36,-0.5,3.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Hyeseong Kim 2B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.292,0.325,0.389,0.713,5.0,3.0,-0.025,0.99,0.0,-0.025,-0.02%,1.22,-0.2,0.0,1.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Enrique Hernández PH-3B,2.0,0.0,1.0,0.0,1.0,0.0,3.0,0.2,0.26,0.353,0.612,14.0,7.0,0.008,1.87,0.065,-0.058,0.01%,2.31,0.3,0.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Dalton Rushing C,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.19,0.254,0.298,0.551,7.0,6.0,-0.105,2.12,0.0,-0.105,-0.08%,2.62,-0.9,5.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Alex Call PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.268,0.365,0.382,0.747,6.0,4.0,-0.065,2.54,0.0,-0.065,-0.05%,3.14,-0.4,0.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Ben Rortvedt C,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.092,0.181,0.108,0.288,6.0,3.0,-0.044,1.77,0.0,-0.044,-0.03%,2.19,-0.2,5.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Miguel Rojas 3B-2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.258,0.319,0.386,0.705,17.0,11.0,-0.01,1.12,0.061,-0.071,-0.01%,1.39,0.2,0.0,3.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Shohei Ohtani P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Anthony Banda P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Ben Casparius P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Blake Treinen P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202509050,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509050.shtml,LosAngelesDodgersbatting,Team Totals,32.0,1.0,5.0,1.0,4.0,8.0,36.0,0.156,0.25,0.281,0.531,152.0,98.0,-0.51,1.37,0.47,-0.982,-0.38%,1.7,-3.4,26.0,7.0,

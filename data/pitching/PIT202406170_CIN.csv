@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202406170,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202406170.shtml,CincinnatiRedspitching,"Carson Spiers, L (0-1)",6,7,4,4,1,5,0,3.2,26,104,74,46,12,16,9,11,8,0,46.0,,,-0.211,0.65,-0.10%,0.49,-0.9
+PIT202406170,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202406170.shtml,CincinnatiRedspitching,Brent Suter,2,1,0,0,0,2,0,3.46,8,25,16,9,5,2,4,2,0,0,,0.0,0.0,0.02,0.12,0.01%,0.09,1.0
+PIT202406170,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202406170.shtml,CincinnatiRedspitching,Team Totals,8,8,4,4,1,7,0,4.5,34,129,90,55,17,18,13,13,8,0,46.0,0.0,0.0,-0.191,0.52,-0.09%,0.4,0.1

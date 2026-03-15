@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalspitching,"Seth Lugo, L (11-4)",5,10,5,5,1,6,1,2.48,25,93,59,34,8,17,9,9,6,0,32.0,,,-0.223,0.89,-0.18%,1.21,-2.4
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalspitching,Kris Bubic,2,1,0,0,0,2,0,0.0,6,21,16,7,4,5,4,0,0,0,,0.0,0.0,0.009,0.06,0.01%,0.08,1.0
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalspitching,Nick Anderson,1,1,0,0,0,2,0,4.04,4,18,14,6,2,6,0,2,2,0,,0.0,0.0,0.001,0.03,0.00%,0.04,0.5
+BOS202407130,KCR,https://www.baseball-reference.com/boxes/BOS/BOS202407130.shtml,KansasCityRoyalspitching,Team Totals,8,12,5,5,1,10,1,5.62,35,132,89,47,14,28,13,11,8,0,32.0,0.0,0.0,-0.213,0.63,-0.17%,0.86,-0.8

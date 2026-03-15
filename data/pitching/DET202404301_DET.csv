@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigerspitching,Jack Flaherty,6.2,2,0,0,1,14,0,4.0,23,93,66,26,21,19,4,4,2,0,83.0,,,0.409,0.94,0.26%,0.97,3.2
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigerspitching,"Andrew Chafin, H (4)",0.2,1,0,0,0,0,0,1.59,3,11,9,5,2,2,0,3,0,0,,1.0,0.0,0.038,1.77,0.02%,1.84,0.2
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigerspitching,"Jason Foley, H (1)",0.2,1,0,0,0,0,0,1.32,3,9,5,3,0,2,2,1,0,0,,1.0,0.0,0.126,3.9,0.08%,4.05,0.5
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigerspitching,"Shelby Miller, BS (2), L (3-3)",1.0,3,2,2,0,1,0,3.14,6,20,15,8,3,4,3,2,1,0,,0.0,0.0,-0.644,3.46,-0.40%,3.59,-1.5
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigerspitching,Team Totals,9.0,7,2,2,1,15,0,2.0,35,133,95,42,26,27,9,10,3,0,83.0,2.0,0.0,-0.071,1.7,-0.04%,1.76,2.4

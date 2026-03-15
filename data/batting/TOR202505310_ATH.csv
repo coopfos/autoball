@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Lawrence Butler RF,4.0,1.0,2.0,0.0,1.0,2.0,5.0,0.258,0.32,0.448,0.767,27.0,14.0,-0.039,1.03,0.086,-0.125,-0.01%,0.33,-0.2,2.0,0.0,CS
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Jacob Wilson SS,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.345,0.387,0.495,0.883,16.0,12.0,-0.014,1.03,0.057,-0.071,-0.00%,0.33,-0.0,0.0,3.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Brent Rooker DH,4.0,2.0,3.0,2.0,1.0,0.0,5.0,0.264,0.329,0.485,0.815,14.0,8.0,0.136,1.02,0.149,-0.013,0.03%,0.32,3.0,0.0,0.0,HR
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Tyler Soderstrom 1B,4.0,1.0,2.0,3.0,1.0,0.0,5.0,0.263,0.336,0.473,0.809,19.0,11.0,0.215,1.53,0.316,-0.1,0.04%,0.48,1.7,12.0,2.0,"HR,2B"
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Shea Langeliers C,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.238,0.304,0.43,0.734,21.0,16.0,-0.253,1.9,0.0,-0.253,-0.05%,0.6,-1.8,2.0,0.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Miguel Andujar LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.299,0.328,0.407,0.735,14.0,9.0,-0.069,0.67,0.0,-0.069,-0.01%,0.21,-0.7,1.0,0.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Luis Urías 2B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.244,0.333,0.407,0.741,22.0,14.0,-0.022,0.86,0.04,-0.062,-0.00%,0.28,-0.2,1.0,4.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Max Schuemann 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.259,0.365,0.389,0.754,17.0,9.0,0.006,0.79,0.05,-0.044,0.00%,0.25,-0.1,1.0,4.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Denzel Clarke CF,3.0,1.0,1.0,2.0,0.0,0.0,3.0,0.16,0.192,0.28,0.472,10.0,6.0,0.093,1.28,0.189,-0.095,0.02%,0.41,1.0,4.0,1.0,"HR,GDP"
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Drew Avans PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.143,0.143,0.143,0.286,5.0,3.0,-0.019,0.74,0.0,-0.019,-0.00%,0.23,-0.2,0.0,0.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Gunnar Hoglund P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Tyler Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505310,ATH,https://www.baseball-reference.com/boxes/TOR/TOR202505310.shtml,Athleticsbatting,Team Totals,36.0,7.0,11.0,7.0,5.0,7.0,41.0,0.306,0.39,0.583,0.974,165.0,102.0,0.034,1.13,0.887,-0.851,0.01%,0.36,2.6,24.0,14.0,

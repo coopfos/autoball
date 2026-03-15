@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Byron Buxton DH,3.0,1.0,1.0,0.0,2.0,1.0,5.0,0.258,0.31,0.503,0.813,24.0,10.0,0.091,0.87,0.122,-0.031,0.05%,0.81,0.5,0.0,0.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Trevor Larnach RF,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.244,0.32,0.41,0.73,12.0,9.0,-0.027,1.26,0.183,-0.21,-0.01%,1.17,0.3,1.0,0.0,"HR,GDP"
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,0.0,2.0,0.0,1.0,1.0,5.0,0.257,0.347,0.385,0.732,24.0,14.0,0.034,0.7,0.068,-0.034,0.02%,0.66,0.4,6.0,1.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Brooks Lee SS,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.26,0.311,0.427,0.738,18.0,10.0,-0.078,1.04,0.029,-0.107,-0.04%,0.97,-0.1,1.0,3.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Willi Castro 2B-LF,4.0,2.0,2.0,1.0,1.0,1.0,5.0,0.226,0.301,0.355,0.656,12.0,8.0,0.328,1.74,0.372,-0.044,0.18%,1.62,1.0,4.0,1.0,"HR,SB,GDP"
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Harrison Bader CF,2.0,0.0,1.0,1.0,0.0,0.0,2.0,0.3,0.384,0.464,0.848,11.0,6.0,0.09,1.78,0.099,-0.009,0.05%,1.66,0.8,0.0,0.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.087,0.16,0.087,0.247,7.0,3.0,0.059,1.59,0.073,-0.014,0.03%,1.49,0.3,0.0,3.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Kody Clemens 1B-2B,4.0,1.0,2.0,4.0,0.0,1.0,4.0,0.179,0.281,0.464,0.746,17.0,11.0,0.278,2.11,0.378,-0.1,0.15%,1.97,1.4,1.0,3.0,HR
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Jonah Bride 3B-1B,3.0,1.0,0.0,0.0,0.0,2.0,4.0,0.169,0.241,0.169,0.41,13.0,10.0,-0.029,0.83,0.033,-0.062,-0.02%,0.77,-0.2,9.0,1.0,HBP
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,DaShawn Keirsey Jr. LF-CF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.086,0.086,0.086,0.171,14.0,11.0,-0.073,0.77,0.0,-0.073,-0.04%,0.71,-0.7,4.0,0.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Simeon Woods Richardson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Jorge Alcala P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Kody Funderburk P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Justin Topa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505142,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202505142.shtml,MinnesotaTwinsbatting,Team Totals,34.0,8.0,10.0,8.0,6.0,11.0,41.0,0.294,0.415,0.559,0.973,152.0,92.0,0.673,1.24,1.357,-0.684,0.38%,1.15,3.8,27.0,13.0,

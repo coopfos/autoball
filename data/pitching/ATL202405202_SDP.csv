@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202405202,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405202.shtml,SanDiegoPadrespitching,"Randy Vásquez, L (0-3)",6,10,3,3,0,2,1,5.82,26,101,68,46,9,13,11,13,7,0,42.0,,,-0.071,0.79,-0.04%,0.8,0.1
+ATL202405202,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405202.shtml,SanDiegoPadrespitching,Enyel De Los Santos,1,0,0,0,1,0,0,2.95,4,19,13,9,2,2,1,2,0,0,,0.0,0.0,0.009,0.16,0.01%,0.16,0.1
+ATL202405202,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405202.shtml,SanDiegoPadrespitching,Wandy Peralta,1,1,0,0,0,1,0,3.26,4,15,9,4,2,3,2,1,1,0,,1.0,0.0,0.011,0.18,0.01%,0.18,0.9
+ATL202405202,SDP,https://www.baseball-reference.com/boxes/ATL/ATL202405202.shtml,SanDiegoPadrespitching,Team Totals,8,11,3,3,1,3,1,3.38,34,135,90,59,13,18,14,16,8,0,42.0,1.0,0.0,-0.051,0.65,-0.03%,0.66,1.1

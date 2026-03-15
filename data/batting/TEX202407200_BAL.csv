@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,5.0,0.0,0.0,0.0,1.0,2.0,6.0,0.289,0.375,0.579,0.954,32.0,17.0,-0.038,0.46,0.01,-0.048,-0.03%,0.55,-1.3,1.0,3.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Adley Rutschman C,6.0,0.0,1.0,0.0,0.0,0.0,6.0,0.273,0.337,0.445,0.782,27.0,20.0,-0.037,0.52,0.041,-0.077,-0.03%,0.62,-1.3,13.0,0.0,2B
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Anthony Santander DH,4.0,0.0,1.0,1.0,1.0,0.0,6.0,0.242,0.308,0.518,0.826,25.0,12.0,0.034,0.52,0.081,-0.047,0.03%,0.63,0.7,0.0,0.0,"SB,HBP"
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Ryan O'Hearn 1B,2.0,2.0,1.0,1.0,2.0,1.0,6.0,0.275,0.344,0.468,0.811,32.0,14.0,0.038,0.44,0.053,-0.015,0.03%,0.54,1.6,6.0,1.0,"HR,2·HBP"
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Heston Kjerstad RF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.302,0.413,0.509,0.922,6.0,5.0,-0.056,1.02,0.004,-0.06,-0.04%,1.23,-0.7,0.0,0.0,IW
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Austin Hays PH-LF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.25,0.301,0.395,0.696,8.0,7.0,-0.022,0.29,0.0,-0.022,-0.02%,0.35,-1.1,1.0,0.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Jordan Westburg 2B,5.0,2.0,3.0,2.0,0.0,0.0,5.0,0.273,0.318,0.5,0.818,14.0,10.0,0.091,0.59,0.132,-0.041,0.07%,0.72,2.0,0.0,1.0,HR
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Colton Cowser LF-RF,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.221,0.31,0.426,0.736,21.0,11.0,0.063,0.47,0.08,-0.017,0.05%,0.57,0.3,2.0,0.0,"SB,GDP"
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,4.0,2.0,2.0,1.0,1.0,2.0,5.0,0.215,0.258,0.38,0.638,23.0,13.0,0.21,0.66,0.233,-0.023,0.15%,0.8,2.0,3.0,0.0,HR
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Ramón Urías 3B,4.0,1.0,3.0,2.0,1.0,1.0,5.0,0.247,0.319,0.387,0.706,15.0,9.0,0.086,0.46,0.1,-0.014,0.06%,0.55,1.6,0.0,1.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Grayson Rodriguez P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Jacob Webb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Cionel Pérez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407200,BAL,https://www.baseball-reference.com/boxes/TEX/TEX202407200.shtml,BaltimoreOriolesbatting,Team Totals,38.0,8.0,12.0,7.0,9.0,9.0,50.0,0.316,0.48,0.579,1.059,203.0,118.0,0.369,0.53,0.734,-0.364,0.27%,0.64,3.7,27.0,6.0,

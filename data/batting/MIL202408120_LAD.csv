@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,3.0,2.0,1.0,2.0,1.0,0.0,4.0,0.298,0.386,0.621,1.007,18.0,7.0,0.047,0.89,0.135,-0.087,0.04%,1.35,1.0,0.0,0.0,"HR,SB"
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Mookie Betts RF,4.0,1.0,2.0,3.0,0.0,1.0,4.0,0.307,0.406,0.498,0.904,23.0,16.0,0.254,0.74,0.278,-0.024,0.23%,1.12,2.3,2.0,0.0,"HR,SB"
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.286,0.39,0.493,0.882,14.0,11.0,-0.041,0.38,0.0,-0.041,-0.04%,0.58,-0.7,8.0,0.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.272,0.336,0.507,0.843,18.0,12.0,-0.053,0.52,0.0,-0.053,-0.05%,0.79,-0.8,0.0,0.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.243,0.302,0.357,0.659,17.0,11.0,-0.042,0.41,0.0,-0.042,-0.04%,0.63,-0.7,0.0,3.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Will Smith C,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.245,0.327,0.43,0.757,22.0,12.0,0.014,0.28,0.023,-0.009,0.01%,0.43,-0.0,11.0,2.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Miguel Rojas SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.269,0.314,0.394,0.708,15.0,8.0,-0.01,0.45,0.021,-0.032,-0.01%,0.69,-0.3,1.0,1.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.215,0.28,0.337,0.617,9.0,6.0,0.012,0.91,0.071,-0.059,0.01%,1.38,-0.3,1.0,1.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Kevin Kiermaier CF,3.0,1.0,1.0,0.0,0.0,0.0,4.0,0.19,0.235,0.296,0.531,9.0,8.0,-0.006,0.71,0.027,-0.034,-0.01%,1.09,-0.1,4.0,0.0,SH
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Clayton Kershaw P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Joe Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Daniel Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202408120,LAD,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,LosAngelesDodgersbatting,Team Totals,32.0,5.0,6.0,5.0,3.0,7.0,36.0,0.188,0.257,0.375,0.632,145.0,91.0,0.175,0.61,0.555,-0.381,0.16%,0.93,0.4,27.0,9.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Trent Grisham CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.255,0.359,0.478,0.838,16.0,8.0,0.014,0.87,0.067,-0.053,0.01%,1.45,0.1,2.0,0.0,2B
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Aaron Judge RF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.349,0.456,0.719,1.176,19.0,13.0,-0.085,1.28,0.011,-0.097,-0.08%,2.12,-0.8,2.0,0.0,IW
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.25,0.345,0.5,0.845,12.0,6.0,0.029,1.09,0.087,-0.058,0.03%,1.8,0.2,2.0,2.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.284,0.376,0.506,0.883,15.0,9.0,0.009,1.5,0.123,-0.115,0.01%,2.48,-0.1,0.0,0.0,HR
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Jasson Domínguez LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.254,0.329,0.398,0.727,11.0,9.0,-0.111,1.09,0.0,-0.111,-0.11%,1.81,-1.2,4.0,0.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.289,0.347,0.431,0.777,17.0,14.0,-0.045,0.65,0.013,-0.058,-0.04%,1.08,-0.5,9.0,0.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.219,0.276,0.439,0.714,13.0,10.0,-0.07,0.66,0.0,-0.07,-0.07%,1.09,-0.8,4.0,0.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Anthony Volpe SS,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.214,0.286,0.394,0.68,6.0,4.0,-0.065,0.85,0.0,-0.065,-0.07%,1.41,-0.6,1.0,1.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Ben Rice PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.235,0.328,0.467,0.795,5.0,4.0,-0.004,0.15,0.0,-0.004,-0.00%,0.25,-0.1,0.0,0.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Oswald Peraza 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.15,0.212,0.242,0.454,6.0,6.0,0.017,0.66,0.043,-0.026,0.02%,1.09,0.1,0.0,6.0,SB
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Scott Effross P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,JT Brubaker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202507210,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202507210.shtml,NewYorkYankeesbatting,Team Totals,32.0,1.0,5.0,1.0,3.0,12.0,35.0,0.156,0.229,0.281,0.51,120.0,83.0,-0.311,0.94,0.344,-0.657,-0.31%,1.56,-3.6,24.0,9.0,

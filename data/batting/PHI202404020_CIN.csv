@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Jonathan India 2B,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.25,0.375,0.4,0.775,24.0,13.0,-0.102,0.84,0.008,-0.11,-0.06%,0.85,-0.2,1.0,1.0,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Will Benson CF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.316,0.381,0.684,1.065,18.0,11.0,0.056,0.91,0.115,-0.06,0.03%,0.92,0.2,3.0,0.0,2B
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Christian Encarnacion-Strand 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.182,0.182,0.364,0.545,19.0,12.0,-0.046,0.73,0.022,-0.067,-0.03%,0.73,-0.6,8.0,1.0,2B
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Jeimer Candelario 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.15,0.19,0.35,0.54,15.0,11.0,-0.079,0.74,0.0,-0.079,-0.05%,0.75,-1.0,0.0,1.0,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Jake Fraley RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.5,0.5,0.583,1.083,14.0,9.0,-0.077,0.78,0.001,-0.078,-0.05%,0.79,-0.2,3.0,0.0,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.25,0.286,0.4,0.686,10.0,7.0,-0.048,0.54,0.005,-0.053,-0.03%,0.55,0.7,0.0,2.0,2B
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Spencer Steer LF,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.474,0.524,0.737,1.261,24.0,16.0,0.083,0.72,0.094,-0.011,0.05%,0.73,1.4,2.0,0.0,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Nick Martini DH,3.0,0.0,0.0,1.0,0.0,3.0,4.0,0.364,0.385,1.0,1.385,15.0,11.0,-0.118,1.17,0.0,-0.118,-0.07%,1.18,-1.1,0.0,0.0,SF
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Tyler Stephenson C,4.0,2.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.333,0.583,17.0,12.0,0.006,0.66,0.051,-0.045,0.00%,0.67,0.5,6.0,0.0,2B
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Graham Ashcraft P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Brent Suter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Buck Farmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404020,CIN,https://www.baseball-reference.com/boxes/PHI/PHI202404020.shtml,CincinnatiRedsbatting,Team Totals,36.0,4.0,8.0,3.0,0.0,11.0,37.0,0.222,0.216,0.333,0.55,156.0,102.0,-0.325,0.79,0.296,-0.621,-0.20%,0.8,-0.5,24.0,6.0,

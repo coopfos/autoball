@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,TJ Friedl CF,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.268,0.343,0.383,0.726,17.0,8.0,0.001,1.19,0.056,-0.055,0.00%,1.0,-0.0,1.0,0.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Matt McLain 2B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.165,0.289,0.278,0.567,17.0,9.0,-0.091,1.4,0.023,-0.114,-0.05%,1.17,-0.7,1.0,2.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.252,0.331,0.381,0.712,17.0,11.0,-0.111,1.09,0.0,-0.111,-0.06%,0.92,-1.1,1.0,2.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Austin Hays DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.357,0.419,0.679,1.098,15.0,11.0,-0.045,0.81,0.022,-0.067,-0.02%,0.68,-0.4,0.0,0.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Gavin Lux LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.29,0.385,0.403,0.788,16.0,9.0,-0.064,0.83,0.012,-0.076,-0.03%,0.7,-0.6,3.0,0.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Spencer Steer 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.189,0.259,0.291,0.55,18.0,11.0,-0.04,0.6,0.013,-0.053,-0.02%,0.5,-0.4,9.0,1.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Tyler Stephenson C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.192,0.323,0.423,0.746,19.0,11.0,-0.054,0.85,0.026,-0.079,-0.03%,0.71,-0.3,7.0,0.0,2B
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Rece Hinds RF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.2,0.273,0.6,0.873,15.0,11.0,-0.09,0.87,0.0,-0.09,-0.04%,0.73,-0.9,0.0,0.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Santiago Espinal 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.306,0.364,0.357,0.722,14.0,9.0,0.04,0.64,0.06,-0.021,0.02%,0.54,0.1,1.0,1.0,SB
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Nick Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Brent Suter P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+HOU202505090,CIN,https://www.baseball-reference.com/boxes/HOU/HOU202505090.shtml,CincinnatiRedsbatting,Team Totals,31.0,0.0,4.0,0.0,5.0,15.0,36.0,0.129,0.25,0.161,0.411,148.0,90.0,-0.454,0.92,0.212,-0.666,-0.23%,0.77,-4.4,24.0,8.0,

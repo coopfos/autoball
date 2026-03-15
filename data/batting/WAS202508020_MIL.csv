@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,2.0,1.0,2.0,0.0,0.0,0.0,2.0,0.296,0.353,0.412,0.765,6.0,5.0,0.097,0.79,0.097,0.0,0.07%,0.95,1.3,0.0,0.0,2B
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Brandon Lockridge PH-RF,1.0,0.0,0.0,1.0,1.0,1.0,3.0,0.221,0.272,0.263,0.535,15.0,7.0,-0.002,0.48,0.018,-0.02,-0.00%,0.59,-0.2,1.0,0.0,SF
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.258,0.354,0.379,0.732,20.0,14.0,-0.027,0.72,0.031,-0.058,-0.02%,0.88,-1.3,9.0,0.0,GDP
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Andrew Vaughn 1B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.235,0.275,0.417,0.692,21.0,12.0,-0.064,0.63,0.013,-0.077,-0.05%,0.76,-0.8,4.0,1.0,
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,4.0,3.0,3.0,2.0,1.0,1.0,5.0,0.26,0.338,0.449,0.787,16.0,10.0,0.148,0.66,0.16,-0.012,0.11%,0.81,2.3,0.0,0.0,HR
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Isaac Collins LF,5.0,0.0,2.0,2.0,0.0,0.0,5.0,0.277,0.376,0.405,0.781,16.0,10.0,0.047,0.64,0.09,-0.043,0.03%,0.78,1.1,1.0,0.0,"2B,GDP"
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.297,0.35,0.595,0.945,18.0,14.0,0.06,0.5,0.091,-0.032,0.04%,0.6,0.6,4.0,0.0,"2B,GDP"
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,5.0,1.0,3.0,1.0,0.0,0.0,5.0,0.275,0.342,0.371,0.714,24.0,15.0,0.03,0.4,0.047,-0.017,0.02%,0.48,1.0,2.0,1.0,2·2B
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Anthony Seigler 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.194,0.235,0.194,0.429,13.0,8.0,-0.05,0.53,0.01,-0.06,-0.04%,0.65,-0.3,1.0,0.0,SB
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.215,0.266,0.312,0.578,8.0,8.0,0.033,0.46,0.052,-0.02,0.02%,0.56,0.1,4.0,2.0,2B
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Brandon Woodruff P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Jared Koenig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Abner Uribe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Nick Mears P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+WAS202508020,MIL,https://www.baseball-reference.com/boxes/WAS/WAS202508020.shtml,MilwaukeeBrewersbatting,Team Totals,39.0,8.0,15.0,7.0,3.0,5.0,43.0,0.385,0.419,0.615,1.034,157.0,103.0,0.272,0.57,0.609,-0.339,0.20%,0.7,3.6,27.0,6.0,

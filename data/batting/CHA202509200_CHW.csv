@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Chase Meidroth 2B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.267,0.343,0.338,0.681,14.0,11.0,-0.042,0.84,0.028,-0.07,0%,0.0,-0.6,2.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Kyle Teel C,3.0,0.0,1.0,1.0,1.0,2.0,4.0,0.277,0.375,0.429,0.804,21.0,12.0,0.116,0.86,0.14,-0.024,0%,0.0,1.0,9.0,0.0,2B
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Colson Montgomery SS,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.22,0.294,0.493,0.787,11.0,6.0,-0.049,0.83,0.019,-0.068,0%,0.0,-0.5,0.0,1.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 3B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.23,0.31,0.4,0.71,9.0,9.0,0.113,0.87,0.159,-0.046,0%,0.0,0.9,1.0,4.0,2B
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Mike Tauchman RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.263,0.356,0.4,0.756,12.0,9.0,-0.091,0.97,0.033,-0.123,0%,0.0,-0.9,6.0,1.0,GDP
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Edgar Quero DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.275,0.34,0.37,0.709,20.0,14.0,-0.066,0.68,0.0,-0.066,0%,0.0,-0.9,0.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.261,0.291,0.428,0.719,23.0,17.0,-0.091,0.71,0.001,-0.092,0%,0.0,0.1,7.0,0.0,"HR,GDP"
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Will Robertson LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.153,0.206,0.169,0.376,18.0,14.0,0.003,0.51,0.033,-0.03,0%,0.0,0.0,0.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Michael A. Taylor CF,2.0,0.0,0.0,0.0,0.0,2.0,3.0,0.201,0.259,0.363,0.622,10.0,7.0,-0.048,0.9,0.0,-0.048,0%,0.0,-0.5,2.0,0.0,SH
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Yoendrys Gómez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Fraser Ellard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Steven Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Cam Booser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Wikelman González P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509200,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202509200.shtml,ChicagoWhiteSoxbatting,Team Totals,32.0,3.0,8.0,3.0,2.0,8.0,35.0,0.25,0.294,0.406,0.7,138.0,99.0,-0.155,0.8,0.413,-0.567,0.00%,0.0,-1.4,27.0,6.0,

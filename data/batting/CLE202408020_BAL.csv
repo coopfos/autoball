@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Colton Cowser LF,5.0,0.0,1.0,1.0,0.0,3.0,5.0,0.249,0.33,0.46,0.79,15.0,12.0,-0.087,1.02,0.028,-0.115,-0.07%,1.36,-0.1,2.0,0.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Anthony Santander RF,3.0,0.0,0.0,1.0,0.0,2.0,4.0,0.246,0.311,0.534,0.846,17.0,12.0,-0.07,0.77,0.0,-0.07,-0.06%,1.03,-0.4,4.0,0.0,SF
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.285,0.373,0.556,0.929,23.0,15.0,-0.063,0.61,0.0,-0.063,-0.05%,0.81,-0.7,2.0,1.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Ryan O'Hearn DH,2.0,1.0,0.0,0.0,2.0,1.0,4.0,0.269,0.345,0.449,0.794,22.0,13.0,0.025,0.62,0.052,-0.027,0.02%,0.82,0.1,0.0,0.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.26,0.328,0.418,0.746,14.0,10.0,0.054,0.77,0.095,-0.041,0.04%,1.02,0.5,5.0,0.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,4.0,0.0,0.0,1.0,0.0,1.0,4.0,0.267,0.308,0.437,0.745,13.0,11.0,-0.059,0.77,0.0,-0.059,-0.05%,1.02,-0.9,4.0,1.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.221,0.278,0.391,0.669,14.0,8.0,-0.052,0.58,0.003,-0.054,-0.04%,0.78,-0.4,4.0,0.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Coby Mayo 3B,2.0,1.0,0.0,0.0,2.0,2.0,4.0,0.0,0.5,0.0,0.5,23.0,12.0,0.006,0.4,0.023,-0.017,0.01%,0.53,0.3,0.0,1.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,3.0,1.0,2.0,1.0,1.0,1.0,4.0,0.114,0.188,0.182,0.369,17.0,9.0,0.01,0.79,0.042,-0.032,0.01%,1.05,1.2,2.0,1.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Dean Kremer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Jacob Webb P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202408020,BAL,https://www.baseball-reference.com/boxes/CLE/CLE202408020.shtml,BaltimoreOriolesbatting,Team Totals,30.0,4.0,4.0,4.0,6.0,13.0,37.0,0.133,0.27,0.133,0.404,158.0,102.0,-0.236,0.71,0.243,-0.478,-0.19%,0.95,-0.4,24.0,5.0,

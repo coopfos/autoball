@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Jonathan India 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.238,0.318,0.32,0.639,21.0,13.0,-0.061,0.59,0.0,-0.061,-0.03%,0.41,-0.9,0.0,3.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.285,0.345,0.485,0.829,17.0,11.0,0.05,0.41,0.059,-0.009,0.02%,0.28,0.7,3.0,2.0,2B
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.313,0.372,0.493,0.864,13.0,11.0,-0.075,0.67,0.0,-0.075,-0.03%,0.47,-1.2,1.0,2.0,GDP
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.27,0.33,0.418,0.748,15.0,9.0,0.187,0.55,0.203,-0.016,0.08%,0.38,1.7,8.0,0.0,"HR,IW"
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Salvador Perez DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.237,0.278,0.392,0.67,11.0,8.0,-0.053,0.52,0.0,-0.053,-0.02%,0.35,-0.9,0.0,0.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Jac Caglianone RF,4.0,2.0,2.0,2.0,0.0,0.0,4.0,0.218,0.232,0.364,0.596,10.0,7.0,0.105,0.38,0.12,-0.015,0.04%,0.26,1.8,1.0,0.0,2·HR
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,John Rave RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.242,0.267,0.509,,,,,,,,,,1.0,0.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Freddy Fermin C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.256,0.306,0.328,0.634,19.0,10.0,-0.018,0.32,0.007,-0.025,-0.01%,0.22,-0.5,6.0,1.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Drew Waters LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.256,0.295,0.339,0.634,15.0,9.0,-0.006,0.31,0.012,-0.018,-0.00%,0.22,-0.2,4.0,0.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Kyle Isbel CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.257,0.277,0.377,0.654,16.0,12.0,-0.022,0.39,0.012,-0.033,-0.01%,0.27,-0.4,3.0,0.0,2B
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Michael Wacha P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,John Schreiber P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Angel Zerpa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Carlos Estévez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202506190,KCR,https://www.baseball-reference.com/boxes/TEX/TEX202506190.shtml,KansasCityRoyalsbatting,Team Totals,32.0,4.0,6.0,4.0,4.0,2.0,36.0,0.188,0.278,0.531,0.809,137.0,90.0,0.107,0.46,0.413,-0.305,0.04%,0.32,-0.0,27.0,8.0,

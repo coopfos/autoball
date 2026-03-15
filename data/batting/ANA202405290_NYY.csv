@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Anthony Volpe SS,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.288,0.357,0.442,0.8,21.0,18.0,0.048,1.25,0.159,-0.112,0.03%,1.37,0.3,1.0,4.0,3B
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Juan Soto RF,3.0,0.0,1.0,0.0,2.0,1.0,5.0,0.312,0.412,0.578,0.99,26.0,13.0,0.064,0.87,0.104,-0.04,0.04%,0.96,0.8,1.0,0.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Aaron Judge CF,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.275,0.407,0.613,1.02,24.0,10.0,0.058,1.05,0.109,-0.052,0.04%,1.16,0.6,3.0,0.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.23,0.28,0.481,0.761,15.0,5.0,-0.25,1.16,0.008,-0.258,-0.17%,1.27,-2.8,0.0,0.0,GDP
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Alex Verdugo LF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.26,0.321,0.439,0.76,12.0,11.0,0.017,1.29,0.126,-0.11,0.01%,1.43,-0.2,2.0,0.0,HR
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.227,0.308,0.324,0.631,26.0,16.0,0.021,0.92,0.069,-0.048,0.01%,1.01,0.3,0.0,1.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Anthony Rizzo 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.245,0.309,0.368,0.677,16.0,11.0,-0.057,1.05,0.026,-0.083,-0.04%,1.15,-0.6,8.0,1.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Jose Trevino C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.275,0.324,0.422,0.746,11.0,6.0,0.007,1.02,0.064,-0.057,0.01%,1.12,0.0,9.0,0.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,DJ LeMahieu 3B,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.167,0.375,0.167,0.542,16.0,12.0,-0.089,1.28,0.019,-0.108,-0.06%,1.41,-0.8,2.0,3.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Luis Gil P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202405290,NYY,https://www.baseball-reference.com/boxes/ANA/ANA202405290.shtml,NewYorkYankeesbatting,Team Totals,31.0,2.0,6.0,1.0,9.0,7.0,40.0,0.194,0.375,0.355,0.73,167.0,102.0,-0.181,1.1,0.684,-0.868,-0.12%,1.21,-2.4,27.0,9.0,

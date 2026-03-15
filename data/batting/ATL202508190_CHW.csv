@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Mike Tauchman RF,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.273,0.365,0.427,0.791,15.0,10.0,0.061,1.01,0.087,-0.027,0%,0.0,0.5,2.0,0.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 1B,4.0,3.0,2.0,1.0,1.0,1.0,5.0,0.233,0.31,0.4,0.71,16.0,10.0,0.051,1.75,0.157,-0.106,0%,0.0,0.8,8.0,2.0,2B
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Kyle Teel DH,5.0,1.0,2.0,4.0,0.0,0.0,5.0,0.274,0.363,0.411,0.774,21.0,16.0,0.105,1.66,0.266,-0.162,0%,0.0,2.4,0.0,0.0,"HR,2B"
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.273,0.301,0.447,0.748,23.0,15.0,0.065,1.15,0.159,-0.094,0%,0.0,0.4,3.0,3.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.229,0.295,0.405,0.699,12.0,7.0,-0.027,0.93,0.013,-0.04,0%,0.0,-0.5,1.0,0.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,0.0,1.0,3.0,0.0,1.0,4.0,0.219,0.298,0.36,0.658,18.0,11.0,0.204,1.02,0.231,-0.028,0%,0.0,2.1,1.0,0.0,2B
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Edgar Quero C,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.279,0.347,0.38,0.727,18.0,9.0,0.032,0.47,0.044,-0.012,0%,0.0,0.3,5.0,1.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Brooks Baldwin 3B,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.239,0.29,0.399,0.689,14.0,11.0,0.018,1.17,0.065,-0.048,0%,0.0,-0.1,0.0,1.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Curtis Mead PH-3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.237,0.324,0.322,0.646,2.0,2.0,-0.023,0.9,0.0,-0.023,0%,0.0,-0.2,1.0,0.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Chase Meidroth SS,3.0,1.0,1.0,0.0,0.0,0.0,4.0,0.255,0.335,0.322,0.657,10.0,8.0,0.003,1.03,0.036,-0.033,0%,0.0,-0.2,1.0,3.0,SH
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Shane Smith P,,,,,,,,,,,,,,,,,,,,,2.0,1.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Tyler Gilbert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Elvis Peguero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Tyler Alexander P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Steven Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202508190,CHW,https://www.baseball-reference.com/boxes/ATL/ATL202508190.shtml,ChicagoWhiteSoxbatting,Team Totals,36.0,10.0,11.0,10.0,3.0,6.0,40.0,0.306,0.359,0.472,0.831,149.0,99.0,0.489,1.15,1.058,-0.573,0.00%,0.0,5.5,24.0,12.0,

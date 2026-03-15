@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202508150,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202508150.shtml,BaltimoreOriolespitching,"Brandon Young, W (1-6)",8,1,0,0,0,6,0,5.68,25,93,61,36,9,16,11,8,2,0,86.0,,,0.367,0.58,0.01%,0.03,4.0
+HOU202508150,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202508150.shtml,BaltimoreOriolespitching,Yaramil Hiraldo,1,0,0,0,0,1,0,3.86,3,10,8,3,3,2,0,2,0,0,,0.0,0.0,0.001,0.01,0.00%,0.0,0.5
+HOU202508150,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202508150.shtml,BaltimoreOriolespitching,Team Totals,9,1,0,0,0,7,0,0.0,28,103,69,39,12,18,11,10,2,0,86.0,0.0,0.0,0.368,0.52,0.01%,0.03,4.5

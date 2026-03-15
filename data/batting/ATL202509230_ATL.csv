@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Jurickson Profar LF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.257,0.36,0.454,0.814,20.0,10.0,-0.008,0.82,0.038,-0.046,0%,0.0,0.2,1.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.275,0.369,0.485,0.854,22.0,12.0,-0.092,1.09,0.0,-0.092,0%,0.0,-1.0,8.0,2.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.285,0.414,0.514,0.928,15.0,10.0,0.12,0.82,0.189,-0.069,0%,0.0,0.2,3.0,0.0,HR
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Drake Baldwin C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.275,0.343,0.46,0.803,13.0,9.0,-0.045,0.63,0.012,-0.056,0%,0.0,-0.5,10.0,1.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Ha-Seong Kim SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.25,0.32,0.372,0.692,19.0,14.0,-0.088,0.84,0.0,-0.088,0%,0.0,-0.8,1.0,2.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Michael Harris II CF,3.0,2.0,2.0,2.0,0.0,1.0,3.0,0.246,0.266,0.404,0.67,10.0,9.0,0.24,0.8,0.257,-0.017,0%,0.0,1.8,1.0,0.0,2·HR
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Marcell Ozuna DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.232,0.355,0.398,0.753,13.0,10.0,-0.043,0.57,0.0,-0.043,0%,0.0,-0.5,0.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Brett Wisely 2B,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.204,0.278,0.347,0.625,11.0,5.0,-0.011,0.83,0.017,-0.027,0%,0.0,-0.1,1.0,4.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Eli White PH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.233,0.27,0.395,0.665,3.0,3.0,0.011,0.31,0.011,0.0,0%,0.0,0.3,0.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Nick Allen 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.221,0.283,0.248,0.531,,,,,,,,,,0.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Nacho Alvarez Jr. 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.246,0.307,0.349,0.656,11.0,8.0,-0.058,0.81,0.0,-0.058,0%,0.0,-0.6,0.0,2.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Hurston Waldrep P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Dylan Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Raisel Iglesias P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202509230,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202509230.shtml,AtlantaBravesbatting,Team Totals,30.0,3.0,6.0,3.0,2.0,7.0,32.0,0.2,0.25,0.5,0.75,137.0,90.0,0.026,0.79,0.524,-0.496,0.00%,0.0,-1.0,27.0,11.0,

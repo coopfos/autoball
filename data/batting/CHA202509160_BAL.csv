@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.253,0.324,0.394,0.718,22.0,13.0,-0.068,0.6,0.01,-0.078,0%,0.0,-0.6,2.0,3.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Jeremiah Jackson 3B,4.0,2.0,2.0,1.0,1.0,2.0,5.0,0.29,0.327,0.476,0.803,19.0,14.0,0.153,0.64,0.168,-0.016,0%,0.0,2.0,1.0,1.0,2·2B
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Luis Vázquez 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.17,0.22,0.255,0.475,,,,,,,,,,0.0,0.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,5.0,1.0,3.0,2.0,0.0,0.0,5.0,0.272,0.348,0.44,0.788,18.0,15.0,0.102,0.69,0.152,-0.051,0%,0.0,0.1,5.0,2.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Jordan Westburg DH,3.0,1.0,0.0,0.0,2.0,1.0,5.0,0.273,0.327,0.469,0.795,20.0,9.0,-0.004,0.64,0.046,-0.05,0%,0.0,-0.1,0.0,0.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Dylan Beavers RF,5.0,1.0,2.0,3.0,0.0,1.0,5.0,0.275,0.42,0.438,0.858,21.0,12.0,0.033,0.81,0.11,-0.078,0%,0.0,2.2,1.0,0.0,"HR,3B"
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Colton Cowser CF,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.199,0.267,0.387,0.654,22.0,14.0,-0.094,0.61,0.004,-0.098,0%,0.0,-1.5,1.0,0.0,SB
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Coby Mayo 1B,5.0,1.0,3.0,0.0,0.0,0.0,5.0,0.201,0.281,0.363,0.644,19.0,13.0,0.033,0.48,0.054,-0.021,0%,0.0,0.5,5.0,1.0,2B
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Samuel Basallo C,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.188,0.25,0.365,0.615,15.0,11.0,0.163,0.87,0.215,-0.052,0%,0.0,0.7,9.0,0.0,HR
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Dylan Carlson LF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.208,0.278,0.344,0.622,20.0,12.0,0.057,0.43,0.072,-0.015,0%,0.0,0.4,2.0,0.0,2B
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Dean Kremer P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Yaramil Hiraldo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Chayce McDermott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Rico Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Keegan Akin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202509160,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509160.shtml,BaltimoreOriolesbatting,Team Totals,39.0,8.0,13.0,8.0,4.0,11.0,43.0,0.333,0.395,0.641,1.036,176.0,113.0,0.375,0.64,0.831,-0.459,0.00%,0.0,3.6,27.0,7.0,

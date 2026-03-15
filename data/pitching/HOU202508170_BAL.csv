@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202508170,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202508170.shtml,BaltimoreOriolespitching,"Dean Kremer, W (9-9)",7,3,0,0,1,7,0,3.97,24,114,72,38,21,13,11,5,1,0,77.0,,,0.282,0.67,0.01%,0.03,3.5
+HOU202508170,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202508170.shtml,BaltimoreOriolespitching,Grant Wolfram,1,1,0,0,0,3,0,6.32,4,15,13,6,3,4,0,1,1,0,,0.0,0.0,0.0,0.01,0.00%,0.0,0.5
+HOU202508170,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202508170.shtml,BaltimoreOriolespitching,Corbin Martin,1,2,0,0,0,2,0,6.75,5,15,12,5,5,2,1,2,2,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+HOU202508170,BAL,https://www.baseball-reference.com/boxes/HOU/HOU202508170.shtml,BaltimoreOriolespitching,Team Totals,9,6,0,0,1,12,0,0.0,33,144,97,49,29,19,12,8,4,0,77.0,0.0,0.0,0.282,0.47,0.01%,0.02,4.5

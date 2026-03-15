@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202509110,PIT,https://www.baseball-reference.com/boxes/BAL/BAL202509110.shtml,PittsburghPiratespitching,Johan Oviedo,5.2,5,2,2,3,5,0,2.81,25,85,51,31,11,9,4,13,6,0,53.0,,,0.054,1.32,0.00%,0.0,0.4
+BAL202509110,PIT,https://www.baseball-reference.com/boxes/BAL/BAL202509110.shtml,PittsburghPiratespitching,"Colin Holderman, L (0-2)",1.0,1,1,1,2,1,0,7.01,6,24,13,5,1,7,0,3,2,0,,2.0,0.0,0.088,2.56,0.00%,0.0,0.5
+BAL202509110,PIT,https://www.baseball-reference.com/boxes/BAL/BAL202509110.shtml,PittsburghPiratespitching,Evan Sisk,1.1,1,0,0,0,2,0,3.86,5,18,12,3,4,5,2,1,0,0,,2.0,1.0,-0.149,1.1,0.00%,0.0,-0.1
+BAL202509110,PIT,https://www.baseball-reference.com/boxes/BAL/BAL202509110.shtml,PittsburghPiratespitching,Team Totals,8.0,7,3,3,5,8,0,3.38,36,127,76,39,16,21,6,17,8,0,53.0,4.0,1.0,-0.007,1.52,0.00%,0.0,0.9

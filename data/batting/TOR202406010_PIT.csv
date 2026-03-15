@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,4.0,3.0,1.0,1.0,1.0,0.0,5.0,0.237,0.338,0.401,0.739,16.0,10.0,0.047,0.47,0.067,-0.019,0.02%,0.31,-0.0,0.0,0.0,
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Bryan Reynolds LF,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.252,0.322,0.415,0.736,19.0,14.0,-0.032,0.5,0.017,-0.049,-0.01%,0.33,1.4,2.0,0.0,HR
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Connor Joe 1B-RF,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.281,0.353,0.454,0.807,15.0,7.0,0.103,0.45,0.112,-0.009,0.04%,0.29,1.3,8.0,0.0,2B
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Edward Olivares RF,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.229,0.285,0.39,0.674,16.0,13.0,-0.021,0.58,0.0,-0.021,-0.01%,0.39,-1.0,1.0,0.0,"SF,GDP"
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Rowdy Tellez 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.177,0.239,0.223,0.463,,,,,,,,,,0.0,0.0,
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,4.0,2.0,2.0,2.0,0.0,1.0,4.0,0.245,0.323,0.338,0.661,16.0,12.0,0.154,0.43,0.168,-0.014,0.06%,0.28,1.7,2.0,1.0,HR
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Nick Gonzales SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.315,0.37,0.521,0.891,14.0,10.0,-0.008,0.22,0.008,-0.016,-0.00%,0.14,0.2,0.0,2.0,
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Yasmani Grandal C,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.182,0.194,0.318,0.512,13.0,9.0,-0.02,0.27,0.001,-0.02,-0.01%,0.17,-0.5,11.0,0.0,SH
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Jared Triolo 2B,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.215,0.295,0.287,0.582,13.0,9.0,0.06,0.28,0.06,0.0,0.02%,0.18,2.0,0.0,0.0,2B
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Michael A. Taylor CF,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.198,0.246,0.254,0.5,8.0,7.0,-0.028,0.4,0.0,-0.028,-0.01%,0.26,-1.5,3.0,0.0,SH
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Mitch Keller P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Luis Ortiz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406010,PIT,https://www.baseball-reference.com/boxes/TOR/TOR202406010.shtml,PittsburghPiratesbatting,Team Totals,34.0,8.0,11.0,7.0,2.0,5.0,39.0,0.324,0.351,0.559,0.91,130.0,91.0,0.255,0.41,0.433,-0.176,0.10%,0.27,3.6,27.0,4.0,

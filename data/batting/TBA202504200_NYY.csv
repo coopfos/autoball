@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Trent Grisham CF,4.0,1.0,1.0,1.0,0.0,3.0,4.0,0.32,0.393,0.7,1.093,16.0,10.0,0.045,0.68,0.102,-0.057,0.03%,0.82,0.3,3.0,1.0,HR
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Aaron Judge DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.39,0.495,0.707,1.202,24.0,15.0,0.013,0.64,0.047,-0.034,0.01%,0.78,-0.0,0.0,0.0,
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Cody Bellinger RF,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.179,0.237,0.313,0.55,12.0,10.0,0.091,0.77,0.109,-0.018,0.07%,0.93,0.9,2.0,0.0,"HR,SB"
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.361,0.407,0.458,0.864,14.0,11.0,-0.038,0.4,0.007,-0.045,-0.03%,0.48,-0.4,9.0,1.0,SB
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.157,0.255,0.398,0.653,21.0,13.0,-0.054,0.54,0.0,-0.054,-0.04%,0.65,-0.9,5.0,4.0,
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.213,0.304,0.425,0.729,10.0,9.0,0.029,0.33,0.044,-0.015,0.02%,0.4,0.2,4.0,6.0,2B
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Austin Wells C,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.197,0.282,0.459,0.741,11.0,6.0,-0.014,0.5,0.028,-0.042,-0.01%,0.6,0.6,3.0,0.0,HR
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Jasson Domínguez LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.231,0.324,0.354,0.678,17.0,11.0,-0.057,0.53,0.0,-0.057,-0.04%,0.64,-0.9,0.0,0.0,
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.286,0.364,0.367,0.731,18.0,12.0,0.037,0.45,0.06,-0.023,0.03%,0.55,0.1,0.0,0.0,2B
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Max Fried P,,,,,,,,,,,,,,,,,,,,,1.0,3.0,
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202504200,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202504200.shtml,NewYorkYankeesbatting,Team Totals,35.0,4.0,9.0,4.0,1.0,10.0,36.0,0.257,0.278,0.571,0.849,143.0,97.0,0.052,0.54,0.397,-0.345,0.04%,0.65,-0.2,27.0,15.0,

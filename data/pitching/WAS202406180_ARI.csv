@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202406180,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202406180.shtml,ArizonaDiamondbackspitching,"Slade Cecconi, W (2-5)",6,3,0,0,0,6,0,5.9,20,70,52,26,5,21,7,7,4,0,72.0,,,0.276,0.7,0.14%,0.58,2.9
+WAS202406180,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202406180.shtml,ArizonaDiamondbackspitching,Justin Martinez,1,1,0,0,0,1,0,0.67,3,7,5,2,2,1,2,0,0,0,,0.0,0.0,0.019,0.43,0.01%,0.36,0.5
+WAS202406180,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202406180.shtml,ArizonaDiamondbackspitching,Bryce Jarvis,2,0,0,0,0,1,0,3.7,6,19,15,10,2,3,2,3,1,0,,0.0,0.0,0.021,0.14,0.01%,0.12,1.0
+WAS202406180,ARI,https://www.baseball-reference.com/boxes/WAS/WAS202406180.shtml,ArizonaDiamondbackspitching,Team Totals,9,4,0,0,0,8,0,0.0,29,96,72,38,9,25,11,10,5,0,72.0,0.0,0.0,0.316,0.56,0.16%,0.47,4.4

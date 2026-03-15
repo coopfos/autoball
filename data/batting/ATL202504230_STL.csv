@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Lars Nootbaar LF,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.239,0.381,0.402,0.783,19.0,8.0,0.027,0.67,0.07,-0.043,0.01%,0.48,0.2,3.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Willson Contreras DH,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.2,0.269,0.305,0.574,13.0,7.0,-0.012,1.21,0.094,-0.105,-0.01%,0.85,-0.5,0.0,0.0,"SB,GDP"
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Nolan Gorman 2B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.231,0.311,0.41,0.721,17.0,10.0,-0.108,1.29,0.022,-0.13,-0.05%,0.91,-0.8,1.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.267,0.37,0.43,0.8,18.0,11.0,-0.006,1.33,0.1,-0.106,-0.00%,0.94,0.2,0.0,0.0,2B
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Alec Burleson 1B,4.0,0.0,3.0,0.0,0.0,1.0,4.0,0.276,0.329,0.316,0.645,15.0,13.0,0.058,1.11,0.081,-0.023,0.03%,0.79,0.4,7.0,2.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Jordan Walker RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.198,0.266,0.279,0.545,21.0,13.0,-0.181,1.76,0.0,-0.181,-0.08%,1.25,-1.4,4.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Yohel Pozo C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.304,0.333,0.565,0.899,13.0,12.0,-0.043,0.73,0.023,-0.066,-0.02%,0.52,-0.5,5.0,2.0,2B
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Victor Scott II CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.275,0.337,0.4,0.737,14.0,8.0,-0.084,0.8,0.0,-0.084,-0.04%,0.56,-0.9,1.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Masyn Winn SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.231,0.317,0.288,0.605,18.0,13.0,-0.043,0.53,0.009,-0.052,-0.02%,0.38,-0.3,2.0,3.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Miles Mikolas P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,John King P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Kyle Leahy P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,JoJo Romero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Ryan Fernandez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202504230,STL,https://www.baseball-reference.com/boxes/ATL/ATL202504230.shtml,StLouisCardinalsbatting,Team Totals,33.0,1.0,7.0,1.0,4.0,5.0,37.0,0.212,0.297,0.273,0.57,148.0,95.0,-0.392,1.04,0.399,-0.79,-0.17%,0.73,-3.5,24.0,9.0,

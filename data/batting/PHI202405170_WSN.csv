@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.261,0.322,0.491,0.813,15.0,12.0,-0.052,0.79,0.019,-0.071,-0.03%,0.67,-0.4,0.0,0.0,2B
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Eddie Rosario RF,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.179,0.248,0.368,0.616,23.0,14.0,-0.002,0.82,0.082,-0.084,-0.00%,0.69,0.3,3.0,0.0,2B
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Joey Meneses DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.22,0.29,0.267,0.557,16.0,11.0,-0.09,0.89,0.0,-0.09,-0.05%,0.75,-0.7,0.0,0.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Joey Gallo 1B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.128,0.284,0.321,0.605,20.0,13.0,-0.008,0.91,0.059,-0.068,-0.00%,0.77,-0.2,7.0,1.0,2B
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Ildemaro Vargas 2B,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.3,0.402,0.414,0.817,12.0,6.0,-0.058,0.96,0.027,-0.085,-0.03%,0.81,-0.4,1.0,1.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Jesse Winker LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.223,0.343,0.367,0.71,11.0,6.0,-0.09,1.07,0.012,-0.102,-0.05%,0.9,-0.7,1.0,0.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Keibert Ruiz C,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.147,0.19,0.221,0.411,10.0,6.0,0.073,0.83,0.116,-0.043,0.04%,0.7,0.7,4.0,0.0,2B
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Nick Senzel 3B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.2,0.312,0.413,0.724,8.0,4.0,-0.026,0.88,0.011,-0.037,-0.01%,0.74,-0.2,2.0,5.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Víctor Robles CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.105,0.28,0.105,0.385,9.0,8.0,-0.096,1.26,0.0,-0.096,-0.05%,1.06,-0.8,5.0,0.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Jake Irvin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Jacob Barnes P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Jordan Weems P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202405170,WSN,https://www.baseball-reference.com/boxes/PHI/PHI202405170.shtml,WashingtonNationalsbatting,Team Totals,30.0,2.0,4.0,2.0,3.0,6.0,33.0,0.133,0.212,0.267,0.479,124.0,80.0,-0.349,0.93,0.326,-0.676,-0.18%,0.78,-2.5,24.0,7.0,

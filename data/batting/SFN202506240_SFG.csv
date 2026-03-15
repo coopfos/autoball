@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.25,0.349,0.388,0.736,20.0,12.0,-0.014,0.76,0.038,-0.052,-0.01%,0.96,-0.2,3.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Rafael Devers DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.268,0.393,0.492,0.884,16.0,9.0,-0.069,1.12,0.024,-0.093,-0.05%,1.42,-0.4,0.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Heliot Ramos LF,3.0,0.0,1.0,0.0,0.0,2.0,4.0,0.286,0.363,0.476,0.839,17.0,9.0,-0.048,1.12,0.041,-0.089,-0.04%,1.42,-0.3,1.0,0.0,"2B,HBP"
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Wilmer Flores 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.249,0.323,0.398,0.721,22.0,14.0,-0.054,1.16,0.065,-0.118,-0.04%,1.47,-0.7,10.0,0.0,GDP
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.253,0.318,0.408,0.726,14.0,7.0,0.057,1.3,0.11,-0.053,0.04%,1.65,0.2,4.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Willy Adames SS,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.206,0.293,0.344,0.637,27.0,15.0,-0.129,1.65,0.038,-0.167,-0.10%,2.09,-0.7,0.0,4.0,SB
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Casey Schmitt 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.284,0.364,0.453,0.817,18.0,12.0,-0.146,1.74,0.044,-0.19,-0.11%,2.19,-0.7,0.0,0.0,GDP
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.188,0.255,0.267,0.522,9.0,6.0,-0.111,1.49,0.0,-0.111,-0.08%,1.89,-0.9,7.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Christian Koss 2B,3.0,1.0,1.0,2.0,0.0,1.0,3.0,0.224,0.272,0.303,0.574,12.0,8.0,0.142,1.08,0.19,-0.048,0.11%,1.37,1.4,2.0,5.0,HR
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Justin Verlander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Sean Hjelle P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Ryan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Spencer Bivens P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Joey Lucchesi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202506240,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202506240.shtml,SanFranciscoGiantsbatting,Team Totals,29.0,2.0,5.0,2.0,4.0,10.0,34.0,0.172,0.294,0.31,0.604,155.0,92.0,-0.372,1.28,0.55,-0.921,-0.28%,1.62,-2.2,27.0,9.0,

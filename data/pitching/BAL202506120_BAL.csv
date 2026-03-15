@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202506120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506120.shtml,BaltimoreOriolespitching,Keegan Akin,1,1,0,0,1,2,0,2.79,5,27,17,11,3,3,1,1,0,0,52.0,,,0.047,1.23,0.01%,0.24,0.5
+BAL202506120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506120.shtml,BaltimoreOriolespitching,"Dean Kremer, L (5-7)",7,5,4,4,2,8,2,4.99,27,105,69,41,17,11,4,13,6,0,,0.0,0.0,-0.221,0.52,-0.03%,0.1,-0.7
+BAL202506120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506120.shtml,BaltimoreOriolespitching,Andrew Kittredge,1,1,0,0,0,0,0,1.17,4,10,8,5,1,2,3,1,1,0,,0.0,0.0,0.007,0.15,0.00%,0.03,0.5
+BAL202506120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202506120.shtml,BaltimoreOriolespitching,Team Totals,9,7,4,4,3,10,2,4.0,36,142,94,57,21,16,8,15,7,0,52.0,0.0,0.0,-0.167,0.57,-0.02%,0.11,0.2

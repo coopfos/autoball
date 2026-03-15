@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,2.0,0.0,0.0,1.0,2.0,6.0,0.274,0.353,0.387,0.74,27.0,13.0,-0.001,0.39,0.035,-0.037,-0.00%,0.44,-0.8,0.0,3.0,HBP
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Juan Soto RF,3.0,2.0,1.0,0.0,2.0,0.0,5.0,0.324,0.443,0.581,1.024,22.0,12.0,0.035,0.47,0.058,-0.023,0.02%,0.54,1.0,1.0,0.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Taylor Trammell PR-RF,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.143,0.143,0.143,0.286,2.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,0.6,0.0,0.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Aaron Judge CF,4.0,2.0,2.0,2.0,1.0,1.0,5.0,0.19,0.328,0.39,0.719,19.0,9.0,-0.006,0.55,0.046,-0.052,-0.00%,0.62,0.7,5.0,0.0,"HR,GDP"
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Jahmai Jones 3B,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.2,0.2,0.2,0.4,2.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,0.8,0.0,0.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Alex Verdugo LF,5.0,2.0,3.0,4.0,0.0,0.0,6.0,0.274,0.368,0.463,0.832,19.0,11.0,0.181,0.55,0.214,-0.033,0.12%,0.62,1.8,2.0,0.0,"HR,SF"
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,5.0,2.0,2.0,3.0,1.0,3.0,6.0,0.241,0.298,0.506,0.804,31.0,15.0,0.036,0.26,0.042,-0.006,0.02%,0.3,2.2,0.0,0.0,HR
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Anthony Rizzo 1B,4.0,3.0,3.0,2.0,0.0,1.0,4.0,0.25,0.314,0.38,0.693,13.0,10.0,0.038,0.6,0.056,-0.018,0.03%,0.68,2.4,3.0,0.0,HR
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Trent Grisham CF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.063,0.211,0.25,0.461,3.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.4,0.0,0.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,6.0,0.0,3.0,3.0,0.0,0.0,6.0,0.21,0.294,0.238,0.532,25.0,17.0,0.12,0.44,0.134,-0.015,0.08%,0.5,2.5,0.0,4.0,2B
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Austin Wells C,5.0,0.0,2.0,0.0,1.0,0.0,6.0,0.159,0.328,0.182,0.509,18.0,9.0,0.009,0.25,0.027,-0.019,0.01%,0.28,-0.0,9.0,1.0,2B
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B-1B,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.258,0.295,0.404,0.699,20.0,12.0,-0.01,0.39,0.029,-0.039,-0.01%,0.44,-0.4,6.0,2.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Luke Weaver P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Jose Trevino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202404270,NYY,https://www.baseball-reference.com/boxes/MIL/MIL202404270.shtml,NewYorkYankeesbatting,Team Totals,45.0,15.0,19.0,15.0,6.0,7.0,53.0,0.422,0.491,0.733,1.224,201.0,115.0,0.402,0.39,0.641,-0.242,0.27%,0.44,10.4,27.0,10.0,

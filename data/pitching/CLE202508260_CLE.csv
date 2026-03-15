@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202508260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202508260.shtml,ClevelandGuardianspitching,"Parker Messick, W (1-0)",7,4,0,0,0,6,0,0.66,24,98,66,30,16,20,8,10,6,0,75.0,,,0.323,0.82,0.10%,0.41,3.5
+CLE202508260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202508260.shtml,ClevelandGuardianspitching,"Hunter Gaddis, H (28)",1,0,0,0,0,1,0,3.11,3,9,7,5,2,0,0,2,1,0,,0.0,0.0,0.043,0.56,0.01%,0.28,0.5
+CLE202508260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202508260.shtml,ClevelandGuardianspitching,"Cade Smith, S (8)",1,1,0,0,0,1,0,3.09,4,14,10,7,2,1,1,2,1,0,,0.0,0.0,0.033,0.43,0.01%,0.21,0.5
+CLE202508260,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202508260.shtml,ClevelandGuardianspitching,Team Totals,9,5,0,0,0,8,0,0.0,31,121,83,42,20,21,9,14,8,0,75.0,0.0,0.0,0.399,0.75,0.12%,0.37,4.5

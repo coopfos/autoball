@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,J.P. Crawford SS,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.278,0.385,0.389,0.774,16.0,9.0,0.072,0.45,0.103,-0.031,0.05%,0.52,1.1,4.0,3.0,HR
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Jorge Polanco DH,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.324,0.372,0.649,1.021,10.0,6.0,0.008,0.55,0.032,-0.024,0.01%,0.64,0.0,0.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Mitch Garver PH-DH-DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.197,0.346,0.258,0.603,10.0,7.0,-0.005,0.1,0.0,-0.005,-0.00%,0.12,-0.8,0.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Julio Rodríguez CF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.236,0.318,0.408,0.726,16.0,11.0,0.035,0.72,0.065,-0.03,0.02%,0.84,0.2,3.0,0.0,GDP
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Cal Raleigh C,3.0,2.0,1.0,2.0,1.0,1.0,4.0,0.25,0.371,0.571,0.941,20.0,12.0,0.005,0.76,0.097,-0.092,0.00%,0.89,0.5,9.0,0.0,"HR,GDP"
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Randy Arozarena LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.236,0.382,0.41,0.792,13.0,10.0,-0.057,0.65,0.006,-0.063,-0.04%,0.75,-0.4,3.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Rowdy Tellez 1B,2.0,1.0,1.0,2.0,0.0,0.0,2.0,0.194,0.248,0.452,0.699,6.0,3.0,0.175,0.83,0.196,-0.021,0.12%,0.96,1.6,5.0,0.0,HR
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Donovan Solano PH-1B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.133,0.145,0.15,0.295,7.0,6.0,-0.007,0.14,0.0,-0.007,-0.01%,0.17,-0.5,2.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Leody Taveras RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.215,0.234,0.299,0.533,17.0,12.0,-0.027,0.26,0.0,-0.027,-0.02%,0.3,-0.8,1.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Miles Mastrobuoni 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.205,0.276,0.244,0.519,6.0,5.0,-0.022,0.43,0.0,-0.022,-0.01%,0.51,-0.3,0.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Dylan Moore PH-2B,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.29,0.346,0.538,0.884,8.0,6.0,0.003,0.05,0.003,-0.001,0.00%,0.06,0.0,0.0,1.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Ben Williamson 3B,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.237,0.267,0.309,0.577,16.0,8.0,-0.016,0.39,0.013,-0.03,-0.01%,0.45,-0.3,0.0,2.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Logan Evans P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Carlos Vargas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Casey Legumina P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Collin Snider P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202505160,SEA,https://www.baseball-reference.com/boxes/SDN/SDN202505160.shtml,SeattleMarinersbatting,Team Totals,35.0,5.0,10.0,5.0,3.0,9.0,38.0,0.286,0.342,0.543,0.885,145.0,95.0,0.164,0.48,0.515,-0.353,0.11%,0.55,0.5,27.0,6.0,

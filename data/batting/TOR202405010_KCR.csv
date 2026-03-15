@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.226,0.274,0.379,0.653,15.0,11.0,-0.06,0.9,0.0,-0.06,-0.04%,1.02,-0.7,1.0,2.0,SH
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.32,0.367,0.547,0.914,10.0,8.0,0.059,1.08,0.102,-0.042,0.04%,1.23,0.5,1.0,2.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,3.0,2.0,2.0,0.0,1.0,0.0,4.0,0.221,0.325,0.404,0.729,13.0,8.0,0.102,0.77,0.122,-0.019,0.07%,0.88,1.2,6.0,2.0,2B
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Salvador Perez C,3.0,0.0,1.0,1.0,0.0,0.0,4.0,0.355,0.418,0.591,1.009,18.0,11.0,0.048,0.99,0.092,-0.044,0.03%,1.12,0.2,11.0,0.0,HBP
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Michael Massey 2B,4.0,1.0,1.0,4.0,0.0,1.0,4.0,0.216,0.216,0.405,0.622,15.0,10.0,0.091,1.06,0.142,-0.051,0.06%,1.21,2.4,1.0,1.0,HR
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Nelson Velázquez DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.216,0.289,0.341,0.63,16.0,10.0,-0.064,0.61,0.0,-0.064,-0.04%,0.7,-0.8,0.0,0.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,MJ Melendez LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.172,0.245,0.355,0.6,12.0,8.0,-0.041,0.54,0.0,-0.041,-0.03%,0.62,-0.5,0.0,0.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Garrett Hampson PH-LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.206,0.229,0.235,0.464,2.0,1.0,-0.001,0.02,0.0,-0.001,0%,0.02,-0.2,1.0,0.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Adam Frazier RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.176,0.3,0.206,0.506,12.0,10.0,-0.046,0.6,0.0,-0.046,-0.03%,0.69,-0.5,1.0,0.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Hunter Renfroe RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.148,0.216,0.259,0.475,4.0,3.0,-0.001,0.02,0.0,-0.001,0%,0.02,-0.2,1.0,0.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Kyle Isbel CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.218,0.253,0.379,0.632,18.0,11.0,0.072,0.56,0.094,-0.022,0.05%,0.64,0.3,3.0,0.0,2B
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Seth Lugo P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Chris Stratton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Nick Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalsbatting,Team Totals,33.0,6.0,7.0,6.0,1.0,7.0,36.0,0.212,0.257,0.364,0.621,135.0,91.0,0.159,0.76,0.552,-0.391,0.11%,0.86,1.6,27.0,8.0,

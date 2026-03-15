@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Alex Verdugo LF,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.236,0.298,0.367,0.665,20.0,14.0,-0.097,0.85,0.003,-0.101,-0.07%,1.06,-1.0,2.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Juan Soto RF,4.0,3.0,3.0,4.0,1.0,0.0,5.0,0.306,0.434,0.608,1.042,21.0,9.0,0.324,0.6,0.339,-0.015,0.24%,0.75,4.0,1.0,0.0,3·HR
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Aaron Judge CF,3.0,0.0,2.0,0.0,2.0,1.0,5.0,0.332,0.466,0.699,1.165,20.0,10.0,0.032,0.35,0.044,-0.011,0.02%,0.43,1.1,5.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Austin Wells C,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.25,0.343,0.41,0.752,17.0,12.0,-0.077,0.52,0.0,-0.077,-0.06%,0.65,-2.5,11.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.243,0.298,0.487,0.785,19.0,9.0,-0.04,0.5,0.006,-0.046,-0.03%,0.62,-0.5,0.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Ben Rice 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.191,0.29,0.397,0.687,12.0,8.0,-0.045,0.59,0.0,-0.045,-0.03%,0.73,-0.6,4.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,DJ LeMahieu PH-1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.198,0.274,0.263,0.537,6.0,3.0,-0.003,0.12,0.0,-0.003,-0.00%,0.15,-0.2,1.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.238,0.31,0.352,0.663,12.0,8.0,-0.012,0.35,0.013,-0.025,-0.01%,0.45,-0.4,0.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.245,0.292,0.375,0.667,15.0,10.0,-0.023,0.38,0.01,-0.033,-0.02%,0.48,-0.4,2.0,2.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Anthony Volpe SS,2.0,0.0,0.0,0.0,1.0,1.0,4.0,0.249,0.301,0.388,0.689,15.0,7.0,0.047,0.49,0.056,-0.008,0.04%,0.61,0.3,1.0,1.0,HBP
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Nestor Cortes P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Tommy Kahnle P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Jake Cousins P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408130,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202408130.shtml,NewYorkYankeesbatting,Team Totals,34.0,4.0,9.0,4.0,5.0,7.0,40.0,0.265,0.375,0.529,0.904,157.0,90.0,0.106,0.51,0.471,-0.364,0.08%,0.64,-0.3,27.0,4.0,

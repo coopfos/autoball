@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,4.0,1.0,1.0,0.0,1.0,2.0,5.0,0.222,0.31,0.396,0.706,26.0,14.0,0.008,0.85,0.063,-0.055,0.01%,1.02,0.0,2.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Jake McCarthy CF,5.0,2.0,1.0,2.0,0.0,1.0,5.0,0.304,0.376,0.457,0.833,14.0,12.0,0.058,1.01,0.146,-0.088,0.04%,1.2,0.3,1.0,0.0,HR
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Joc Pederson DH,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.292,0.406,0.553,0.959,15.0,5.0,0.061,0.72,0.096,-0.035,0.04%,0.85,0.6,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Josh Bell 1B,2.0,1.0,1.0,1.0,2.0,1.0,5.0,0.237,0.306,0.408,0.714,23.0,10.0,0.072,1.12,0.139,-0.067,0.05%,1.33,1.0,10.0,1.0,"CS,HBP"
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Kevin Newman PR-1B,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.275,0.307,0.373,0.68,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Pavin Smith LF,2.0,0.0,0.0,1.0,0.0,1.0,3.0,0.25,0.303,0.456,0.759,14.0,9.0,-0.05,1.4,0.0,-0.05,-0.03%,1.66,-0.6,0.0,0.0,SF
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Randal Grichuk PH,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.266,0.327,0.422,0.749,4.0,0.0,0.053,2.48,0.053,0.0,0.04%,2.95,0.3,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,José Herrera C,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.231,0.322,0.308,0.63,5.0,3.0,0.113,0.93,0.113,0.0,0.08%,1.11,1.4,6.0,0.0,3B
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Adrian Del Castillo C,3.0,0.0,2.0,0.0,0.0,1.0,3.0,0.361,0.425,0.667,1.092,14.0,7.0,0.018,0.94,0.067,-0.049,0.01%,1.12,0.2,4.0,1.0,CS
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. PH-LF,2.0,0.0,2.0,4.0,0.0,0.0,2.0,0.274,0.312,0.418,0.73,5.0,4.0,0.456,1.77,0.456,0.0,0.33%,2.11,3.3,1.0,0.0,"2B,SB"
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.23,0.303,0.416,0.719,27.0,16.0,-0.09,1.02,0.025,-0.115,-0.06%,1.22,-1.1,0.0,2.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Luis Guillorme 2B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.217,0.282,0.287,0.569,24.0,13.0,-0.094,0.79,0.003,-0.098,-0.07%,0.94,-0.7,3.0,2.0,SB
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,5.0,2.0,2.0,1.0,0.0,1.0,5.0,0.281,0.343,0.38,0.723,28.0,18.0,0.127,0.86,0.197,-0.071,0.09%,1.02,0.4,0.0,4.0,"HR,2B"
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Jordan Montgomery P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Kevin Ginkel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Joe Mantiply P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Justin Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408210,ARI,https://www.baseball-reference.com/boxes/MIA/MIA202408210.shtml,ArizonaDiamondbacksbatting,Team Totals,36.0,10.0,12.0,10.0,7.0,9.0,45.0,0.333,0.444,0.611,1.056,199.0,111.0,0.732,1.02,1.358,-0.628,0.52%,1.22,5.1,27.0,10.0,

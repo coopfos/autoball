@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202407110,OAK,https://www.baseball-reference.com/boxes/BOS/BOS202407110.shtml,OaklandAthleticspitching,"Luis Medina, L (2-4)",5,7,6,6,2,7,2,5.18,23,94,58,36,8,14,7,7,5,0,34.0,,,-0.258,0.66,-0.00%,0.0,-2.8
+BOS202407110,OAK,https://www.baseball-reference.com/boxes/BOS/BOS202407110.shtml,OaklandAthleticspitching,Kyle Muller,2,2,1,1,0,4,1,3.53,7,30,20,8,6,6,2,1,0,0,,1.0,1.0,-0.013,0.04,0.00%,0.0,-0.6
+BOS202407110,OAK,https://www.baseball-reference.com/boxes/BOS/BOS202407110.shtml,OaklandAthleticspitching,Michel Otañez,1,1,0,0,0,2,0,0.0,4,18,15,7,3,5,0,2,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+BOS202407110,OAK,https://www.baseball-reference.com/boxes/BOS/BOS202407110.shtml,OaklandAthleticspitching,Team Totals,8,10,7,7,2,13,3,7.88,34,142,93,51,17,25,9,10,6,0,34.0,1.0,1.0,-0.271,0.46,-0.00%,0.0,-2.8

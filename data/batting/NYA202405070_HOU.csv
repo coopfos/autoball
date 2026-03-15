@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Jose Altuve 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.336,0.399,0.545,0.944,16.0,11.0,-0.043,0.56,0.0,-0.043,-0.01%,0.22,-0.5,2.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Jacob Amaya 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,4.0,-0.001,0.03,0.0,-0.001,0%,0.01,-0.4,2.0,2.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Kyle Tucker RF,2.0,1.0,1.0,1.0,1.0,1.0,3.0,0.279,0.396,0.566,0.962,16.0,7.0,0.108,0.43,0.115,-0.006,0.03%,0.17,0.9,3.0,0.0,HR
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Joey Loperfido RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,0.294,0.25,0.544,2.0,1.0,0.0,0.02,0.0,0.0,0%,0.01,-0.3,1.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Yordan Alvarez DH,1.0,0.0,0.0,0.0,2.0,0.0,3.0,0.248,0.333,0.436,0.769,16.0,7.0,0.015,0.54,0.029,-0.014,0.00%,0.22,0.3,0.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Yainer Diaz PH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.272,0.308,0.4,0.708,6.0,5.0,0.0,0.01,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Alex Bregman 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.195,0.275,0.26,0.536,17.0,12.0,-0.063,0.62,0.0,-0.063,-0.01%,0.25,-1.1,1.0,1.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Jeremy Peña SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.313,0.357,0.433,0.789,17.0,10.0,-0.05,0.5,0.0,-0.05,-0.01%,0.2,-0.9,0.0,3.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Jon Singleton 1B,1.0,1.0,0.0,0.0,3.0,0.0,4.0,0.254,0.351,0.429,0.78,23.0,9.0,0.016,0.34,0.031,-0.015,0.00%,0.14,0.6,5.0,1.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Victor Caratini C,4.0,1.0,0.0,0.0,0.0,0.0,4.0,0.239,0.286,0.435,0.72,12.0,7.0,-0.047,0.45,0.0,-0.047,-0.01%,0.18,-0.8,3.0,0.0,GDP
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Trey Cabbage LF,4.0,0.0,1.0,2.0,0.0,1.0,4.0,0.25,0.25,0.375,0.625,8.0,8.0,-0.035,0.26,0.0,-0.035,-0.01%,0.1,1.2,1.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Jake Meyers CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.233,0.303,0.45,0.753,11.0,7.0,-0.031,0.32,0.001,-0.032,-0.01%,0.12,-0.3,4.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Justin Verlander P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Tayler Scott P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Brandon Bielak P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Seth Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202405070,HOU,https://www.baseball-reference.com/boxes/NYA/NYA202405070.shtml,HoustonAstrosbatting,Team Totals,30.0,3.0,3.0,3.0,6.0,5.0,36.0,0.1,0.25,0.2,0.45,149.0,88.0,-0.131,0.4,0.176,-0.306,-0.03%,0.16,-1.4,24.0,8.0,

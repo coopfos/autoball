@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Francisco Lindor SS,5.0,2.0,2.0,1.0,0.0,0.0,5.0,0.234,0.3,0.416,0.716,13.0,9.0,-0.01,0.51,0.067,-0.077,-0.00%,0.19,0.4,2.0,3.0,"HR,2B"
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Harrison Bader CF,5.0,2.0,2.0,2.0,0.0,1.0,5.0,0.266,0.317,0.38,0.697,22.0,16.0,0.092,0.6,0.133,-0.041,0.02%,0.22,1.1,5.0,0.0,HR
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,J.D. Martinez DH,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.265,0.323,0.43,0.754,19.0,12.0,0.034,0.6,0.08,-0.046,0.01%,0.22,0.0,0.0,0.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Pete Alonso 1B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.235,0.315,0.463,0.777,23.0,13.0,-0.041,0.46,0.01,-0.051,-0.01%,0.17,-0.7,8.0,0.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Starling Marte RF,4.0,2.0,2.0,2.0,1.0,1.0,5.0,0.288,0.338,0.437,0.774,23.0,11.0,0.117,0.34,0.135,-0.018,0.03%,0.13,2.0,2.0,0.0,HR
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Tyrone Taylor LF,5.0,1.0,4.0,0.0,0.0,0.0,5.0,0.25,0.276,0.367,0.643,14.0,8.0,0.088,0.46,0.088,0.0,0.02%,0.17,1.3,0.0,0.0,2B
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Mark Vientos 3B,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.321,0.386,0.577,0.963,11.0,6.0,0.126,1.1,0.139,-0.013,0.03%,0.41,1.9,0.0,0.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.226,0.273,0.339,0.611,9.0,7.0,0.063,0.99,0.101,-0.038,0.01%,0.37,0.3,7.0,1.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,1.0,0.0,0.0,0.0,2.0,4.0,0.226,0.293,0.316,0.609,17.0,12.0,0.031,0.57,0.059,-0.028,0.01%,0.21,-0.1,3.0,5.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,David Peterson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Dedniel Núñez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Jake Diekman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202406120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202406120.shtml,NewYorkMetsbatting,Team Totals,40.0,10.0,14.0,9.0,2.0,5.0,42.0,0.35,0.381,0.625,1.006,151.0,94.0,0.5,0.62,0.812,-0.312,0.11%,0.23,6.2,27.0,9.0,

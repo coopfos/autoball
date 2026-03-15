@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewerspitching,"Quinn Priester, W (12-2)",7,6,2,2,1,6,0,3.25,28,96,60,36,7,17,11,9,8,0,62.0,,,0.222,1.21,0.07%,0.62,1.6
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewerspitching,"Jared Koenig, H (25)",1,0,0,0,0,2,0,3.26,3,17,11,4,2,5,0,1,1,0,,0.0,0.0,0.091,1.19,0.03%,0.6,0.5
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewerspitching,"Abner Uribe, S (5)",1,0,0,0,0,0,0,1.84,3,8,6,3,1,2,3,0,0,0,,0.0,0.0,0.043,0.55,0.01%,0.28,0.5
+PIT202509050,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202509050.shtml,MilwaukeeBrewerspitching,Team Totals,9,6,2,2,1,8,0,2.0,34,121,77,43,10,24,14,10,9,0,62.0,0.0,0.0,0.356,1.16,0.11%,0.59,2.7

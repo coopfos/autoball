@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202404230,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404230.shtml,MilwaukeeBrewerspitching,"Tobias Myers, L (0-1)",5,4,1,1,1,4,1,1.8,19,83,58,39,8,11,6,8,3,0,58.0,,,0.13,0.82,0.10%,1.05,1.6
+PIT202404230,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404230.shtml,MilwaukeeBrewerspitching,Jared Koenig,2,3,1,1,0,1,0,1.59,9,28,20,12,2,6,4,4,2,0,,0.0,0.0,-0.051,0.84,-0.04%,1.08,0.0
+PIT202404230,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404230.shtml,MilwaukeeBrewerspitching,Abner Uribe,1,0,0,0,1,1,0,3.97,3,13,7,1,2,4,1,0,0,0,,0.0,0.0,0.032,0.55,0.02%,0.71,0.5
+PIT202404230,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404230.shtml,MilwaukeeBrewerspitching,Team Totals,8,7,2,2,2,6,1,2.25,31,124,85,52,12,21,11,12,5,0,58.0,0.0,0.0,0.111,0.8,0.09%,1.03,2.1

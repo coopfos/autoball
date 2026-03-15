@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Charlie Blackmon DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.252,0.321,0.391,0.712,15.0,11.0,-0.006,0.53,0.029,-0.035,0%,0.0,-0.4,0.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.272,0.296,0.456,0.753,17.0,14.0,-0.082,0.58,0.0,-0.082,0%,0.0,-0.9,2.0,2.0,GDP
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.271,0.331,0.471,0.801,19.0,12.0,0.015,0.24,0.03,-0.015,0%,0.0,0.4,3.0,1.0,2B
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.247,0.335,0.408,0.743,10.0,7.0,-0.038,0.5,0.009,-0.047,0%,0.0,-0.4,1.0,2.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.279,0.325,0.419,0.744,9.0,6.0,0.055,0.42,0.064,-0.009,0%,0.0,1.2,2.0,4.0,2B
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Michael Toglia 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.217,0.3,0.489,0.789,15.0,8.0,-0.034,0.67,0.02,-0.054,0%,0.0,-0.7,7.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Nolan Jones LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.2,0.305,0.306,0.61,10.0,10.0,-0.06,0.83,0.0,-0.06,0%,0.0,-1.0,3.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Jordan Beck RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.208,0.243,0.307,0.55,9.0,7.0,-0.046,0.57,0.0,-0.046,0%,0.0,-0.8,3.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Drew Romo C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.091,0.091,0.091,0.182,14.0,10.0,-0.042,0.54,0.0,-0.042,0%,0.0,-0.7,3.0,1.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Tanner Gordon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Noah Davis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Jeff Criswell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Anthony Molina P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202408210,COL,https://www.baseball-reference.com/boxes/WAS/WAS202408210.shtml,ColoradoRockiesbatting,Team Totals,32.0,1.0,6.0,1.0,1.0,7.0,33.0,0.188,0.212,0.25,0.462,118.0,85.0,-0.238,0.52,0.152,-0.39,0.00%,0.0,-3.4,24.0,10.0,

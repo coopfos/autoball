@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Estevan Florial LF-RF,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.206,0.28,0.426,0.706,21.0,13.0,0.046,1.24,0.146,-0.1,0.04%,1.67,0.4,3.0,0.0,2B
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.263,0.333,0.353,0.687,19.0,12.0,-0.133,1.1,0.036,-0.169,-0.11%,1.48,-1.1,6.0,3.0,"SB,GDP"
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,José Ramírez 3B,4.0,1.0,3.0,2.0,0.0,0.0,4.0,0.245,0.29,0.448,0.738,12.0,7.0,0.269,1.34,0.299,-0.029,0.22%,1.81,2.3,0.0,3.0,2B
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,3.0,2.0,1.0,2.0,1.0,0.0,4.0,0.276,0.364,0.553,0.916,16.0,9.0,0.098,1.27,0.213,-0.115,0.08%,1.71,1.0,10.0,0.0,HR
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Will Brennan RF,3.0,0.0,1.0,2.0,0.0,0.0,3.0,0.247,0.288,0.423,0.711,11.0,7.0,0.112,1.29,0.198,-0.086,0.09%,1.74,1.3,1.0,0.0,"2B,GDP"
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,David Fry PH-LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.321,0.449,0.453,0.902,1.0,1.0,-0.018,0.73,0.0,-0.018,-0.01%,0.99,-0.3,0.0,0.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Tyler Freeman CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.196,0.291,0.333,0.624,11.0,8.0,-0.103,0.98,0.0,-0.103,-0.08%,1.32,-1.0,0.0,0.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Bo Naylor C,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.176,0.272,0.286,0.558,12.0,8.0,-0.019,0.79,0.037,-0.056,-0.02%,1.07,-0.2,7.0,0.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Kyle Manzardo DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,17.0,11.0,-0.071,0.73,0.0,-0.071,-0.06%,0.99,-0.7,0.0,0.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,2.0,1.0,1.0,0.0,2.0,0.0,4.0,0.212,0.313,0.293,0.606,19.0,9.0,0.052,0.8,0.091,-0.038,0.04%,1.09,0.8,0.0,7.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Logan Allen P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Pedro Avila P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Scott Barlow P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202405070,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202405070.shtml,ClevelandGuardiansbatting,Team Totals,33.0,7.0,8.0,7.0,4.0,5.0,37.0,0.242,0.324,0.424,0.749,139.0,85.0,0.233,1.04,1.02,-0.785,0.19%,1.41,2.6,27.0,15.0,

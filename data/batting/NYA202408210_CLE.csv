@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Steven Kwan LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.311,0.372,0.459,0.831,7.0,5.0,-0.041,0.54,0.0,-0.041,-0.03%,0.75,-0.6,1.0,1.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Will Brennan LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.247,0.297,0.384,0.681,1.0,1.0,-0.001,0.04,0.0,-0.001,-0.00%,0.06,-0.2,0.0,0.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Lane Thomas CF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.231,0.312,0.368,0.68,19.0,12.0,-0.028,0.28,0.0,-0.028,-0.02%,0.39,-0.7,2.0,0.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,José Ramírez 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.274,0.329,0.531,0.86,20.0,14.0,-0.019,0.25,0.0,-0.019,-0.02%,0.35,-0.4,0.0,0.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.209,0.297,0.319,0.616,2.0,2.0,0.0,0.01,0.0,0.0,0%,0.01,-0.2,0.0,1.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,David Fry 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.266,0.364,0.448,0.812,19.0,14.0,0.032,0.29,0.038,-0.006,0.03%,0.41,-0.1,7.0,2.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Josh Naylor DH,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.24,0.319,0.469,0.788,12.0,8.0,-0.081,0.57,0.0,-0.081,-0.07%,0.79,-1.0,0.0,0.0,GDP
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Jhonkensy Noel RF,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.257,0.321,0.594,0.915,17.0,10.0,-0.006,0.15,0.004,-0.01,-0.01%,0.21,1.0,1.0,0.0,HR
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.253,0.304,0.331,0.635,13.0,10.0,-0.022,0.38,0.004,-0.026,-0.02%,0.53,-0.3,1.0,6.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Tyler Freeman SS-3B,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.211,0.307,0.328,0.635,6.0,4.0,-0.023,0.34,0.002,-0.025,-0.02%,0.47,-0.3,1.0,2.0,HBP
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Austin Hedges C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.154,0.204,0.212,0.415,10.0,6.0,-0.016,0.21,0.0,-0.016,-0.01%,0.3,-0.6,10.0,1.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Joey Cantillo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Pedro Avila P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Eli Morgan P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYA202408210,CLE,https://www.baseball-reference.com/boxes/NYA/NYA202408210.shtml,ClevelandGuardiansbatting,Team Totals,30.0,1.0,4.0,1.0,0.0,5.0,31.0,0.133,0.161,0.233,0.395,126.0,86.0,-0.205,0.31,0.048,-0.253,-0.17%,0.43,-3.5,24.0,13.0,

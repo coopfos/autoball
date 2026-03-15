@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202506150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202506150.shtml,BostonRedSoxpitching,"Brayan Bello, W (3-1)",7.0,3,0,0,3,8,0,3.49,26,114,72,40,13,19,9,6,1,0,76.0,,,0.423,1.03,0.25%,1.01,3.5
+BOS202506150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202506150.shtml,BostonRedSoxpitching,"Brennan Bernardino, H (2)",0.1,2,0,0,0,1,0,3.33,3,10,7,3,0,4,0,2,2,0,,0.0,0.0,-0.076,2.63,-0.04%,2.57,-0.4
+BOS202506150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202506150.shtml,BostonRedSoxpitching,"Garrett Whitlock, S (1)",1.2,0,0,0,0,2,0,2.97,4,14,11,5,4,2,2,0,0,0,,2.0,0.0,0.223,1.6,0.13%,1.56,1.4
+BOS202506150,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202506150.shtml,BostonRedSoxpitching,Team Totals,9.0,5,0,0,3,11,0,0.0,33,138,90,48,17,25,11,8,3,0,76.0,2.0,0.0,0.57,1.24,0.33%,1.21,4.5

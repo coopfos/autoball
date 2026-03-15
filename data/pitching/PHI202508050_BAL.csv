@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202508050,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508050.shtml,BaltimoreOriolespitching,"Dean Kremer, L (8-8)",6,8,4,4,1,6,1,4.35,26,103,68,38,15,15,6,13,6,0,45.0,,,-0.171,0.56,-0.01%,0.05,-0.8
+PHI202508050,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508050.shtml,BaltimoreOriolespitching,Grant Wolfram,1,1,0,0,0,2,0,7.82,4,20,12,5,3,4,1,1,0,0,,0.0,0.0,0.007,0.1,0.00%,0.01,0.5
+PHI202508050,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508050.shtml,BaltimoreOriolespitching,Yaramil Hiraldo,1,1,1,1,0,1,1,4.05,4,15,11,5,4,2,0,3,0,0,,0.0,0.0,-0.006,0.04,0.00%,0.0,-0.5
+PHI202508050,BAL,https://www.baseball-reference.com/boxes/PHI/PHI202508050.shtml,BaltimoreOriolespitching,Team Totals,8,10,5,5,1,9,2,5.62,34,138,91,48,22,21,7,17,6,0,45.0,0.0,0.0,-0.17,0.45,-0.01%,0.04,-0.7

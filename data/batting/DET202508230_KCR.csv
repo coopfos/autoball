@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Mike Yastrzemski DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.23,0.33,0.385,0.714,16.0,12.0,-0.168,1.38,0.0,-0.168,-0.10%,1.37,-1.2,0.0,0.0,GDP
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,4.0,2.0,3.0,1.0,0.0,0.0,4.0,0.298,0.354,0.506,0.86,8.0,4.0,0.282,1.29,0.298,-0.016,0.17%,1.27,1.9,1.0,3.0,HR
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.263,0.324,0.475,0.798,12.0,9.0,-0.001,1.62,0.122,-0.122,0%,1.6,0.3,5.0,0.0,2B
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.298,0.361,0.462,0.823,13.0,8.0,-0.193,1.7,0.0,-0.193,-0.11%,1.69,-1.2,2.0,1.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Salvador Perez C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.247,0.293,0.449,0.741,17.0,12.0,-0.072,1.08,0.026,-0.098,-0.04%,1.07,-0.4,6.0,0.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Adam Frazier RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.265,0.32,0.357,0.677,15.0,11.0,-0.071,1.34,0.038,-0.109,-0.04%,1.32,-0.3,1.0,0.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Jonathan India 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.235,0.325,0.347,0.672,17.0,9.0,-0.002,1.25,0.101,-0.103,-0.00%,1.24,-0.4,2.0,2.0,GDP
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Randal Grichuk LF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.243,0.293,0.438,0.731,8.0,4.0,-0.005,1.8,0.069,-0.074,-0.00%,1.78,-0.2,3.0,1.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Kyle Isbel CF,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0.265,0.307,0.377,0.684,9.0,3.0,-0.013,1.21,0.028,-0.041,-0.01%,1.19,-0.0,3.0,0.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Nick Loftin PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.204,0.277,0.359,0.636,2.0,1.0,-0.17,3.77,0.0,-0.17,-0.10%,3.73,-0.9,0.0,0.0,GDP
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,John Rave CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.199,0.286,0.324,0.609,,,,,,,,,,1.0,0.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Michael Wacha P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Taylor Clarke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Sam Long P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202508230,KCR,https://www.baseball-reference.com/boxes/DET/DET202508230.shtml,KansasCityRoyalsbatting,Team Totals,32.0,2.0,8.0,2.0,2.0,5.0,34.0,0.25,0.294,0.375,0.669,117.0,73.0,-0.413,1.47,0.682,-1.094,-0.24%,1.46,-2.6,24.0,8.0,

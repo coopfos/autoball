@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Xavier Edwards SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.167,0.273,0.222,0.495,11.0,8.0,-0.059,0.73,0.0,-0.059,-0.04%,0.78,-1.0,2.0,3.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Griffin Conine LF,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.25,0.25,0.5,0.75,10.0,5.0,0.0,0.01,0.0,-0.001,0%,0.01,0.2,1.0,0.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Otto Lopez 2B,5.0,1.0,3.0,2.0,0.0,1.0,5.0,0.4,0.478,0.7,1.178,21.0,12.0,0.076,0.27,0.1,-0.024,0.05%,0.29,2.1,2.0,4.0,HR
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Eric Wagaman DH,5.0,1.0,2.0,2.0,0.0,2.0,5.0,0.25,0.25,0.438,0.688,13.0,10.0,-0.023,0.24,0.006,-0.029,-0.01%,0.25,1.4,0.0,0.0,HR
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Derek Hill CF,3.0,0.0,0.0,0.0,1.0,2.0,5.0,0.278,0.381,0.389,0.77,22.0,12.0,0.029,0.34,0.044,-0.015,0.02%,0.37,-0.3,5.0,0.0,HBP
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Jonah Bride 1B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.111,0.273,0.111,0.384,19.0,11.0,-0.008,0.66,0.034,-0.043,-0.01%,0.71,-0.2,12.0,0.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Dane Myers RF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.4,0.438,0.533,0.971,12.0,6.0,0.116,0.72,0.122,-0.005,0.07%,0.77,0.5,0.0,0.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Liam Hicks C,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.111,0.0,0.111,10.0,7.0,-0.144,0.94,0.0,-0.144,-0.09%,1.01,-1.8,4.0,0.0,"SH,GDP"
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Javier Sanoja LF-SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.125,0.125,0.125,0.25,11.0,8.0,-0.077,0.41,0.0,-0.077,-0.05%,0.44,-1.5,1.0,1.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Graham Pauley 3B,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.333,0.4,0.556,0.956,14.0,10.0,-0.044,0.49,0.01,-0.054,-0.03%,0.52,-0.2,0.0,3.0,2B
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Cal Quantrill P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Luarbert Arias P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202503310,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202503310.shtml,MiamiMarlinsbatting,Team Totals,34.0,4.0,9.0,4.0,4.0,12.0,40.0,0.265,0.359,0.471,0.83,143.0,89.0,-0.134,0.48,0.316,-0.451,-0.09%,0.51,-0.9,27.0,13.0,

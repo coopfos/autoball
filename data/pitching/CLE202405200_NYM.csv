@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202405200,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405200.shtml,NewYorkMetspitching,"Tylor Megill, L (0-2)",5,4,3,2,2,7,0,3.0,21,86,53,35,9,9,4,8,2,0,54.0,,,-0.116,0.76,-0.04%,0.48,-0.6
+CLE202405200,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405200.shtml,NewYorkMetspitching,Josh Walker,2,0,0,0,0,1,0,2.57,6,21,14,7,2,5,2,3,0,0,,0.0,0.0,0.051,0.33,0.02%,0.21,1.0
+CLE202405200,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405200.shtml,NewYorkMetspitching,Jorge López,1,0,0,0,0,0,0,2.38,3,12,7,4,1,2,2,1,0,0,,0.0,0.0,0.014,0.17,0.01%,0.11,0.5
+CLE202405200,NYM,https://www.baseball-reference.com/boxes/CLE/CLE202405200.shtml,NewYorkMetspitching,Team Totals,8,4,3,2,2,8,0,2.25,30,119,74,46,12,16,8,12,2,0,54.0,0.0,0.0,-0.051,0.62,-0.02%,0.39,0.9

@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadrespitching,"Yu Darvish, W (5-3)",5.0,7,2,2,0,5,2,3.52,20,63,46,23,12,11,6,9,3,0,50.0,,,0.058,1.16,0.04%,1.39,0.2
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadrespitching,"Jeremiah Estrada, H (13)",1.0,0,0,0,0,0,0,3.13,3,6,5,4,1,0,3,0,0,0,,0.0,0.0,0.048,0.66,0.03%,0.79,0.4
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadrespitching,Tanner Scott,0.1,2,1,1,2,1,0,1.55,5,29,15,7,3,5,1,1,0,0,,0.0,0.0,-0.124,1.2,-0.09%,1.44,-2.1
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadrespitching,"Jason Adam, H (25)",1.1,0,0,0,2,1,0,1.91,5,28,15,5,5,5,1,1,1,0,,3.0,0.0,0.126,0.84,0.09%,1.01,1.5
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadrespitching,"Robert Suarez, S (32)",1.1,1,0,0,0,2,0,2.48,5,18,12,7,5,0,0,3,3,0,,2.0,0.0,0.036,0.33,0.03%,0.39,0.9
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadrespitching,Team Totals,9.0,10,3,3,4,9,2,3.0,38,144,93,46,26,21,11,14,7,0,50.0,5.0,0.0,0.144,0.98,0.10%,1.17,1.0

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Chase Meidroth SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.276,0.36,0.333,0.693,18.0,13.0,-0.146,1.4,0.0,-0.146,-0.01%,0.08,-1.1,1.0,1.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Mike Tauchman DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.314,0.442,0.486,0.928,16.0,11.0,-0.009,0.92,0.059,-0.068,0%,0.05,-0.1,0.0,0.0,2B
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Vinny Capra PR-DH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.068,0.111,0.119,0.23,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.245,0.321,0.44,0.761,17.0,11.0,-0.04,0.97,0.04,-0.08,-0.00%,0.06,-0.3,4.0,1.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.236,0.312,0.436,0.748,17.0,11.0,0.082,1.3,0.135,-0.054,0.00%,0.07,0.9,1.0,0.0,2B
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Michael A. Taylor PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.192,0.254,0.337,0.591,,,,,,,,,,0.0,0.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.187,0.275,0.302,0.578,26.0,15.0,-0.081,2.15,0.029,-0.11,-0.00%,0.12,-0.7,3.0,0.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Joshua Palacios RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.214,0.314,0.34,0.653,19.0,11.0,-0.229,2.23,0.0,-0.229,-0.01%,0.12,-1.1,3.0,0.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Edgar Quero C,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.257,0.341,0.312,0.653,10.0,7.0,-0.11,1.6,0.052,-0.163,-0.00%,0.09,-0.9,10.0,0.0,CS
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,3.0,0.0,2.0,0.0,0.0,0.0,3.0,0.286,0.304,0.402,0.706,8.0,7.0,0.083,1.28,0.106,-0.024,0.00%,0.07,0.7,2.0,3.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Josh Rojas 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.15,0.25,0.183,0.433,11.0,7.0,-0.116,1.24,0.0,-0.116,-0.00%,0.07,-0.9,0.0,0.0,GDP
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Jared Shuster P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Sean Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Dan Altavilla P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505300,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202505300.shtml,ChicagoWhiteSoxbatting,Team Totals,31.0,1.0,6.0,1.0,2.0,9.0,33.0,0.194,0.242,0.258,0.5,142.0,93.0,-0.566,1.47,0.421,-0.99,-0.02%,0.08,-3.4,24.0,6.0,

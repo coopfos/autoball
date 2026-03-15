@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202506190,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506190.shtml,PhiladelphiaPhilliespitching,"Cristopher Sánchez, W (6-2)",8,5,1,1,0,4,0,2.87,28,91,70,38,12,20,19,5,3,0,72.0,,,0.408,1.08,0.32%,1.43,3.2
+MIA202506190,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506190.shtml,PhiladelphiaPhilliespitching,"Orion Kerkering, S (2)",1,1,0,0,0,0,0,2.37,5,13,10,5,1,4,1,4,2,0,,0.0,0.0,0.206,4.35,0.16%,5.74,0.5
+MIA202506190,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506190.shtml,PhiladelphiaPhilliespitching,Team Totals,9,6,1,1,0,4,0,1.0,33,104,80,43,13,24,20,9,5,0,72.0,0.0,0.0,0.614,1.58,0.48%,2.08,3.7

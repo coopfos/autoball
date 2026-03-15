@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Charlie Blackmon RF,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.242,0.315,0.379,0.693,13.0,10.0,0.116,1.16,0.181,-0.065,0.01%,0.23,0.9,3.0,0.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,5.0,1.0,2.0,0.0,0.0,2.0,5.0,0.286,0.318,0.464,0.782,14.0,11.0,0.005,1.24,0.125,-0.12,0.00%,0.24,0.3,3.0,7.0,2B
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,5.0,0.0,1.0,1.0,0.0,4.0,5.0,0.286,0.366,0.483,0.849,24.0,15.0,0.041,1.22,0.162,-0.121,0.01%,0.24,-0.5,1.0,0.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Elias Díaz C,5.0,0.0,1.0,0.0,0.0,3.0,5.0,0.301,0.345,0.429,0.774,20.0,16.0,-0.149,1.16,0.002,-0.151,-0.02%,0.23,-1.1,4.0,0.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Kris Bryant 1B,4.0,1.0,1.0,2.0,1.0,2.0,5.0,0.173,0.303,0.28,0.583,19.0,13.0,0.178,0.98,0.23,-0.052,0.02%,0.19,1.1,12.0,0.0,"HR,GDP"
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.266,0.308,0.342,0.65,19.0,13.0,-0.04,1.14,0.047,-0.087,-0.01%,0.22,-0.5,2.0,4.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.263,0.333,0.416,0.749,11.0,8.0,-0.118,1.12,0.0,-0.118,-0.01%,0.22,-1.1,1.0,0.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Sean Bouchard LF,2.0,2.0,1.0,0.0,2.0,1.0,4.0,0.226,0.351,0.371,0.722,23.0,13.0,0.109,1.03,0.135,-0.026,0.01%,0.2,1.0,0.0,0.0,SB
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Elehuris Montero DH,3.0,2.0,1.0,2.0,1.0,1.0,4.0,0.223,0.283,0.325,0.608,18.0,10.0,0.292,1.51,0.335,-0.043,0.03%,0.3,2.0,0.0,0.0,HR
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Ryan Feltner P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Peter Lambert P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Matt Carasiti P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202405280,COL,https://www.baseball-reference.com/boxes/COL/COL202405280.shtml,ColoradoRockiesbatting,Team Totals,36.0,7.0,10.0,6.0,5.0,14.0,41.0,0.278,0.366,0.472,0.838,161.0,109.0,0.434,1.17,1.217,-0.783,0.05%,0.23,2.1,27.0,12.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Yandy Díaz DH,4.0,0.0,0.0,1.0,0.0,0.0,5.0,0.111,0.105,0.167,0.272,13.0,11.0,-0.065,0.74,0.002,-0.067,-0.04%,0.69,-1.2,0.0,0.0,SF
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Brandon Lowe 2B,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.235,0.278,0.412,0.69,20.0,13.0,-0.078,0.71,0.008,-0.086,-0.04%,0.66,-1.1,1.0,4.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Junior Caminero 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.429,0.429,0.5,0.929,16.0,11.0,0.012,0.58,0.043,-0.031,0.01%,0.54,-0.7,0.0,1.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Taylor Walls SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.222,0.364,0.222,0.586,,,,,,,,,,0.0,0.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Jonathan Aranda 1B,3.0,1.0,2.0,0.0,1.0,1.0,4.0,0.556,0.583,1.0,1.583,10.0,6.0,0.158,0.73,0.163,-0.005,0.09%,0.69,1.5,9.0,1.0,2B
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Christopher Morel LF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.333,0.455,0.333,0.788,16.0,11.0,-0.002,0.84,0.08,-0.082,-0.00%,0.79,-0.3,4.0,0.0,GDP
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Jonny DeLuca CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.444,0.545,0.444,0.99,,,,,,,,,,0.0,0.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Kameron Misner CF-LF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.364,0.364,0.727,1.091,19.0,13.0,0.061,0.47,0.076,-0.015,0.03%,0.44,0.7,1.0,0.0,2B
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Danny Jansen C,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.0,0.182,0.0,0.182,18.0,11.0,-0.059,0.51,0.002,-0.06,-0.03%,0.47,-0.7,10.0,0.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Jake Mangum RF,4.0,1.0,4.0,2.0,0.0,0.0,4.0,0.571,0.625,0.714,1.339,12.0,8.0,0.128,0.55,0.128,0.0,0.07%,0.51,3.0,1.0,0.0,"2B,2·SB"
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,José Caballero SS-3B,2.0,0.0,1.0,1.0,2.0,1.0,4.0,0.5,0.667,0.667,1.333,17.0,6.0,0.047,0.52,0.049,-0.003,0.03%,0.48,1.0,0.0,3.0,2B
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Drew Rasmussen P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Hunter Bigge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Mason Englert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Manuel Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202503310,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202503310.shtml,TampaBayRaysbatting,Team Totals,32.0,6.0,10.0,6.0,5.0,10.0,38.0,0.312,0.395,0.438,0.832,141.0,90.0,0.202,0.63,0.551,-0.349,0.11%,0.59,2.2,27.0,9.0,

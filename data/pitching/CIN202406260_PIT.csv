@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202406260,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406260.shtml,PittsburghPiratespitching,"Luis Ortiz, W (4-2)",6,4,1,1,0,7,0,3.23,21,85,61,34,17,10,6,8,2,0,67.0,,,0.196,0.89,0.08%,0.63,2.2
+CIN202406260,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406260.shtml,PittsburghPiratespitching,Kyle Nicolas,2,0,0,0,1,1,0,4.7,7,28,17,9,3,5,1,4,2,0,,0.0,0.0,0.039,0.41,0.02%,0.29,1.1
+CIN202406260,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406260.shtml,PittsburghPiratespitching,Aroldis Chapman,1,0,0,0,0,2,0,3.86,3,10,8,3,1,4,0,1,0,0,,0.0,0.0,0.009,0.11,0.00%,0.08,0.5
+CIN202406260,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406260.shtml,PittsburghPiratespitching,Team Totals,9,4,1,1,1,10,0,1.0,31,123,86,46,21,19,7,13,4,0,67.0,0.0,0.0,0.244,0.71,0.10%,0.5,3.8

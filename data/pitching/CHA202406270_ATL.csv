@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravespitching,"Chris Sale, L (10-3)",7,4,1,1,1,11,1,2.79,24,105,71,40,14,17,5,7,2,0,75.0,,,0.203,0.76,0.13%,0.79,2.4
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravespitching,Daysbel Hernández,1,0,0,0,0,1,0,0.0,3,18,12,7,3,2,0,2,0,0,,0.0,0.0,0.029,0.39,0.02%,0.4,0.5
+CHA202406270,ATL,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,AtlantaBravespitching,Team Totals,8,4,1,1,1,12,1,1.12,27,123,83,47,17,19,5,9,2,0,75.0,0.0,0.0,0.232,0.72,0.15%,0.75,2.8

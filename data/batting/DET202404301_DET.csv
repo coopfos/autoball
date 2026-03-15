@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Riley Greene DH,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.24,0.379,0.48,0.859,12.0,8.0,0.08,0.77,0.13,-0.05,0.05%,0.8,0.4,0.0,0.0,HR
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Matt Vierling 3B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.278,0.305,0.418,0.723,13.0,10.0,-0.034,0.56,0.011,-0.046,-0.02%,0.58,-0.4,0.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Wenceel Pérez RF-CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.256,0.326,0.462,0.787,13.0,9.0,-0.054,0.52,0.0,-0.054,-0.03%,0.54,-0.6,1.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Kerry Carpenter LF-RF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.267,0.313,0.467,0.779,16.0,10.0,-0.093,1.38,0.028,-0.121,-0.06%,1.43,-0.2,2.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Spencer Torkelson 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.215,0.286,0.29,0.575,11.0,10.0,-0.061,1.31,0.04,-0.101,-0.04%,1.36,0.1,5.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Colt Keith 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.154,0.222,0.165,0.387,16.0,10.0,-0.076,1.15,0.006,-0.082,-0.05%,1.19,-0.6,1.0,1.0,SB
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Zach McKinstry SS,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.227,0.3,0.273,0.573,15.0,10.0,-0.07,1.0,0.012,-0.082,-0.04%,1.04,-0.8,1.0,3.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Carson Kelly C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.196,0.245,0.283,0.528,10.0,5.0,-0.031,1.05,0.009,-0.04,-0.02%,1.09,-0.2,15.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Parker Meadows CF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.088,0.195,0.221,0.415,9.0,5.0,-0.033,0.65,0.0,-0.033,-0.02%,0.67,-0.3,0.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Mark Canha PH-LF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.269,0.398,0.505,0.904,5.0,3.0,-0.057,2.28,0.0,-0.057,-0.03%,2.37,-0.8,2.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Jack Flaherty P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Andrew Chafin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Jason Foley P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202404301,DET,https://www.baseball-reference.com/boxes/DET/DET202404301.shtml,DetroitTigersbatting,Team Totals,31.0,1.0,4.0,1.0,2.0,13.0,33.0,0.129,0.182,0.226,0.408,120.0,80.0,-0.429,0.97,0.236,-0.666,-0.27%,1.01,-3.4,27.0,5.0,

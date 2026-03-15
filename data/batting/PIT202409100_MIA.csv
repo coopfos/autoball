@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Javier Sanoja SS,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.3,0.364,0.4,0.764,19.0,13.0,-0.077,1.13,0.046,-0.123,0%,0.0,-0.7,1.0,1.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.248,0.306,0.422,0.729,16.0,9.0,-0.081,0.92,0.019,-0.1,0%,0.0,-0.6,2.0,0.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Jake Burger 3B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.241,0.297,0.448,0.745,17.0,11.0,-0.029,0.82,0.04,-0.07,0%,0.0,0.1,0.0,3.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,José Devers PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.25,0.5,,,,,,,,,,0.0,0.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Otto Lopez 2B,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.256,0.297,0.349,0.646,17.0,10.0,-0.063,1.06,0.046,-0.109,0%,0.0,-0.1,3.0,3.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Griffin Conine LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.25,0.313,0.409,0.722,20.0,12.0,-0.036,0.99,0.038,-0.074,0%,0.0,-0.0,3.0,0.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Jonah Bride DH,3.0,0.0,1.0,1.0,0.0,0.0,4.0,0.257,0.354,0.407,0.761,18.0,12.0,-0.03,0.9,0.026,-0.056,0%,0.0,-0.1,0.0,0.0,SF
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Kyle Stowers CF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.209,0.261,0.333,0.594,13.0,8.0,0.029,1.1,0.098,-0.069,0%,0.0,0.6,4.0,0.0,2·2B
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,David Hensley 1B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.213,0.302,0.298,0.6,24.0,13.0,-0.078,1.24,0.019,-0.097,0%,0.0,-0.9,5.0,0.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Jhonny Pereda C,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.273,0.304,0.273,0.577,24.0,14.0,0.116,0.99,0.14,-0.024,0%,0.0,1.1,6.0,1.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Adam Oller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409100,MIA,https://www.baseball-reference.com/boxes/PIT/PIT202409100.shtml,MiamiMarlinsbatting,Team Totals,35.0,4.0,9.0,4.0,4.0,9.0,40.0,0.257,0.325,0.314,0.639,168.0,102.0,-0.249,1.01,0.472,-0.722,0.00%,0.0,-0.6,24.0,8.0,

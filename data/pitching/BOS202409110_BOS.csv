@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202409110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202409110.shtml,BostonRedSoxpitching,Nick Pivetta,6,4,1,1,1,9,1,4.24,23,94,66,34,10,22,8,5,2,0,68.0,,,0.25,0.98,0.06%,0.38,2.1
+BOS202409110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202409110.shtml,BostonRedSoxpitching,"Chris Martin, H (13)",1,1,0,0,0,1,0,3.52,4,18,15,11,4,0,2,1,1,0,,0.0,0.0,0.097,1.83,0.02%,0.71,0.5
+BOS202409110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202409110.shtml,BostonRedSoxpitching,"Justin Slaten, BS (4)",1,1,1,1,0,0,1,3.28,4,9,6,5,0,1,1,3,2,0,,0.0,0.0,-0.134,1.44,-0.03%,0.56,-0.5
+BOS202409110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202409110.shtml,BostonRedSoxpitching,Kenley Jansen,1,1,0,0,0,0,0,3.55,3,11,8,4,1,3,1,2,1,0,,0.0,0.0,0.141,2.41,0.03%,0.93,0.5
+BOS202409110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202409110.shtml,BostonRedSoxpitching,"Greg Weissert, W (4-2)",1,1,1,0,0,0,0,3.64,4,11,7,6,0,1,2,2,1,0,,0.0,0.0,-0.05,3.23,-0.01%,1.25,0.1
+BOS202409110,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202409110.shtml,BostonRedSoxpitching,Team Totals,10,8,3,2,1,10,2,1.8,38,143,102,60,15,27,14,13,7,0,68.0,0.0,0.0,0.304,1.47,0.07%,0.57,2.8

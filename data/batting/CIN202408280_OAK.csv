@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Lawrence Butler RF,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.248,0.306,0.471,0.776,14.0,7.0,0.102,0.57,0.124,-0.022,0%,0.0,0.7,4.0,0.0,"HR,SB"
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Brent Rooker DH,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.285,0.362,0.563,0.925,14.0,9.0,0.03,0.54,0.09,-0.06,0%,0.0,-0.0,0.0,0.0,HR
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,JJ Bleday CF,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.241,0.323,0.443,0.767,20.0,14.0,0.037,0.82,0.086,-0.05,0%,0.0,-0.3,2.0,0.0,
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Shea Langeliers C,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.221,0.287,0.439,0.726,13.0,8.0,0.222,1.18,0.25,-0.027,0%,0.0,0.9,8.0,1.0,2B
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Seth Brown 1B,4.0,2.0,2.0,4.0,0.0,2.0,4.0,0.229,0.294,0.389,0.683,16.0,10.0,0.347,1.22,0.381,-0.034,0%,0.0,2.0,9.0,0.0,2·HR
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Daz Cameron LF,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.203,0.278,0.373,0.651,13.0,10.0,-0.012,0.47,0.027,-0.039,0%,0.0,0.1,2.0,0.0,2B
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,2.0,2.0,0.0,0.0,0.0,4.0,0.205,0.271,0.369,0.641,4.0,4.0,0.024,0.43,0.053,-0.029,0%,0.0,1.0,1.0,3.0,2·SB
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Max Schuemann 3B,3.0,0.0,2.0,1.0,0.0,1.0,4.0,0.237,0.329,0.333,0.662,15.0,12.0,0.033,0.65,0.059,-0.025,0%,0.0,0.4,1.0,2.0,SF
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Jacob Wilson SS,2.0,0.0,0.0,1.0,1.0,1.0,4.0,0.286,0.333,0.286,0.619,13.0,7.0,-0.046,0.77,0.014,-0.059,0%,0.0,-0.7,0.0,1.0,"SF,GDP"
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Osvaldo Bido P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,T.J. McFarland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Michel Otañez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Tyler Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202408280,OAK,https://www.baseball-reference.com/boxes/CIN/CIN202408280.shtml,OaklandAthleticsbatting,Team Totals,36.0,9.0,13.0,9.0,1.0,10.0,39.0,0.361,0.359,0.75,1.109,122.0,81.0,0.737,0.71,1.084,-0.345,0.00%,0.0,4.2,27.0,7.0,

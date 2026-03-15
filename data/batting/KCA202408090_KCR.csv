@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Michael Massey 2B,4.0,1.0,3.0,2.0,0.0,1.0,5.0,0.265,0.29,0.48,0.771,13.0,8.0,0.118,1.06,0.137,-0.019,0.10%,1.53,0.9,4.0,2.0,SF
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.346,0.392,0.6,0.993,20.0,14.0,-0.05,1.13,0.057,-0.107,-0.04%,1.64,-0.7,1.0,4.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.267,0.321,0.457,0.778,15.0,11.0,-0.179,1.26,0.0,-0.179,-0.15%,1.82,-1.8,8.0,0.0,GDP
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Salvador Perez C,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.28,0.34,0.469,0.809,11.0,8.0,0.014,1.27,0.111,-0.097,0.01%,1.84,0.3,8.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Hunter Renfroe RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.233,0.307,0.397,0.704,16.0,13.0,-0.104,1.01,0.0,-0.104,-0.09%,1.46,-0.7,2.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,MJ Melendez LF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.199,0.264,0.399,0.663,17.0,10.0,0.041,0.95,0.079,-0.038,0.03%,1.38,0.1,2.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Dairon Blanco PR-LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.229,0.272,0.292,0.564,,,0.031,2.43,0.031,0.0,0.03%,3.52,0.1,0.0,0.0,SB
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Paul DeJong DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.228,0.276,0.428,0.704,14.0,10.0,-0.066,0.92,0.0,-0.066,-0.06%,1.34,-0.6,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Adam Frazier PH-DH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.192,0.279,0.278,0.557,6.0,2.0,0.023,3.49,0.023,0.0,0.02%,5.05,0.1,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,3.0,2.0,2.0,1.0,1.0,0.0,4.0,0.238,0.287,0.347,0.634,19.0,10.0,0.072,1.88,0.194,-0.122,0.06%,2.71,1.2,0.0,2.0,2B
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Kyle Isbel CF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.221,0.278,0.364,0.642,13.0,8.0,0.155,1.11,0.201,-0.046,0.13%,1.61,1.6,2.0,0.0,3B
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Michael Lorenzen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Sam Long P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Lucas Erceg P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Will Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Chris Stratton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Angel Zerpa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,James McArthur P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202408090,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202408090.shtml,KansasCityRoyalsbatting,Team Totals,35.0,5.0,10.0,5.0,3.0,7.0,39.0,0.286,0.333,0.371,0.705,144.0,94.0,0.055,1.27,0.833,-0.778,0.05%,1.84,0.5,27.0,8.0,

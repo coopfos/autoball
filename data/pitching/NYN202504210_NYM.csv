@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202504210,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202504210.shtml,NewYorkMetspitching,"Tylor Megill, W (3-2)",5.1,1,0,0,4,10,0,1.09,22,92,53,22,10,21,1,6,0,0,72.0,,,0.258,1.12,0.21%,1.53,2.4
+NYN202504210,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202504210.shtml,NewYorkMetspitching,"Reed Garrett, H (7)",0.2,1,0,0,0,1,0,0.0,3,12,8,3,3,2,0,2,1,0,,1.0,0.0,0.069,1.69,0.06%,2.32,0.5
+NYN202504210,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202504210.shtml,NewYorkMetspitching,"Max Kranick, H (1)",2.0,4,3,3,0,0,0,2.93,10,36,23,18,2,3,2,8,4,0,,0.0,0.0,0.018,0.45,0.01%,0.62,-1.0
+NYN202504210,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202504210.shtml,NewYorkMetspitching,"Edwin Díaz, S (6)",1.0,1,1,1,0,2,1,5.59,4,11,10,4,4,2,0,2,0,0,,2.0,2.0,0.067,1.49,0.06%,2.04,-1.5
+NYN202504210,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202504210.shtml,NewYorkMetspitching,Team Totals,9.0,7,4,4,4,13,1,4.0,39,151,94,47,19,28,3,18,5,0,72.0,3.0,2.0,0.412,1.03,0.34%,1.41,0.3

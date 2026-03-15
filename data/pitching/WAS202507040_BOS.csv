@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202507040,BOS,https://www.baseball-reference.com/boxes/WAS/WAS202507040.shtml,BostonRedSoxpitching,"Lucas Giolito, W (5-1)",7.2,4,1,1,3,7,0,3.66,29,108,75,43,11,21,5,14,8,0,71.0,,,0.219,0.46,0.10%,0.34,2.4
+WAS202507040,BOS,https://www.baseball-reference.com/boxes/WAS/WAS202507040.shtml,BostonRedSoxpitching,Justin Wilson,0.1,0,0,0,0,0,0,2.36,1,4,3,1,1,1,1,0,0,0,,2.0,0.0,0.0,0.01,0.00%,0.01,0.4
+WAS202507040,BOS,https://www.baseball-reference.com/boxes/WAS/WAS202507040.shtml,BostonRedSoxpitching,Garrett Whitlock,1.0,2,1,1,0,1,0,3.64,5,17,14,8,3,3,2,2,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,-0.5
+WAS202507040,BOS,https://www.baseball-reference.com/boxes/WAS/WAS202507040.shtml,BostonRedSoxpitching,Team Totals,9.0,6,2,2,3,8,0,2.0,35,129,92,52,15,25,8,16,9,0,71.0,2.0,0.0,0.219,0.39,0.10%,0.28,2.3

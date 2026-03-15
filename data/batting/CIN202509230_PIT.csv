@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Oneil Cruz CF,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.203,0.302,0.384,0.687,15.0,10.0,0.078,0.82,0.137,-0.059,0%,0.0,1.0,1.0,0.0,HR
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Jared Triolo 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.233,0.32,0.369,0.689,13.0,9.0,-0.008,0.59,0.038,-0.046,0%,0.0,0.0,0.0,1.0,2B
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Bryan Reynolds DH,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.243,0.315,0.401,0.716,12.0,6.0,-0.053,0.62,0.012,-0.065,0%,0.0,-0.8,0.0,0.0,HBP
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Spencer Horwitz 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.257,0.338,0.4,0.738,12.0,10.0,-0.032,0.7,0.027,-0.059,0%,0.0,-0.4,5.0,0.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Nick Gonzales SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.264,0.303,0.367,0.67,24.0,16.0,-0.083,0.79,0.0,-0.083,0%,0.0,-1.1,1.0,5.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Jack Suwinski LF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.135,0.274,0.241,0.515,17.0,12.0,-0.01,0.67,0.042,-0.052,0%,0.0,-0.4,0.0,0.0,2B
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Nick Yorke 2B,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.241,0.268,0.352,0.62,12.0,8.0,0.076,0.69,0.103,-0.027,0%,0.0,0.7,7.0,4.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Alexander Canario RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.225,0.282,0.349,0.631,21.0,13.0,0.037,0.73,0.104,-0.066,0%,0.0,0.2,4.0,0.0,"2B,GDP"
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Rafael Flores C,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.375,0.444,0.625,1.069,11.0,7.0,-0.013,0.73,0.028,-0.041,0%,0.0,-0.2,9.0,1.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Johan Oviedo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Dauri Moreta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Hunter Barco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Justin Lawrence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Isaac Mattson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Dennis Santana P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202509230,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509230.shtml,PittsburghPiratesbatting,Team Totals,34.0,4.0,8.0,4.0,0.0,7.0,35.0,0.235,0.257,0.412,0.669,137.0,91.0,-0.008,0.7,0.491,-0.498,0.00%,0.0,-1.0,27.0,11.0,

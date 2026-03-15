@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.05,0.0,0.05,14.0,10.0,-0.071,0.88,0.0,-0.071,-0.04%,0.82,-1.0,1.0,4.0,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Aaron Hicks RF,4.0,2.0,2.0,2.0,0.0,1.0,4.0,0.143,0.2,0.357,0.557,17.0,11.0,0.165,0.81,0.186,-0.022,0.09%,0.76,1.2,1.0,0.0,HR
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Mike Trout CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.278,0.316,0.778,1.094,11.0,8.0,0.032,0.72,0.065,-0.032,0.02%,0.67,0.5,4.0,1.0,SB
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.25,0.25,0.6,0.85,22.0,14.0,-0.027,0.72,0.053,-0.08,-0.01%,0.67,-0.7,1.0,0.0,CS
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.176,0.222,0.176,0.399,19.0,11.0,-0.033,0.62,0.009,-0.042,-0.02%,0.58,-0.0,0.0,3.0,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Miguel Sanó DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.1,0.1,0.1,0.2,18.0,11.0,-0.062,0.57,0.0,-0.062,-0.03%,0.54,-1.1,0.0,0.0,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.133,0.35,0.333,0.683,23.0,12.0,0.038,0.51,0.053,-0.015,0.02%,0.47,0.0,11.0,2.0,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,3.0,0.0,2.0,0.0,0.0,0.0,3.0,0.5,0.6,0.75,1.35,14.0,8.0,-0.1,0.93,0.011,-0.11,-0.06%,0.87,-0.8,6.0,0.0,"2B,GDP"
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Zach Neto SS,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.188,0.235,0.25,0.485,14.0,12.0,0.032,0.66,0.068,-0.036,0.02%,0.62,-0.0,0.0,4.0,2B
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,3.0,0.0,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Matt Moore P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404020,LAA,https://www.baseball-reference.com/boxes/MIA/MIA202404020.shtml,LosAngelesAngelsbatting,Team Totals,31.0,3.0,7.0,3.0,3.0,6.0,34.0,0.226,0.294,0.387,0.681,152.0,97.0,-0.026,0.71,0.445,-0.47,-0.01%,0.66,-1.9,27.0,14.0,

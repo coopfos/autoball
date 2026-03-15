@@ -1,0 +1,8 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinerspitching,"Bryce Miller, W (1-2)",5,3,0,0,2,8,0,3.43,18,78,51,24,7,20,2,6,3,0,67.0,,,0.263,0.77,0.14%,0.68,2.7
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinerspitching,Trent Thornton,1,1,0,0,0,2,0,4.15,4,18,12,6,3,3,1,1,1,0,,0.0,0.0,0.042,0.74,0.02%,0.65,0.5
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinerspitching,Troy Taylor,0,3,3,3,0,0,0,inf,3,13,7,5,0,2,1,2,2,0,,0.0,0.0,-0.164,0.94,-0.09%,0.83,-2.6
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinerspitching,"Carlos Vargas, H (2)",1,2,0,0,0,1,0,2.53,4,12,9,4,2,3,3,0,0,0,,1.0,1.0,0.063,2.17,0.03%,1.9,0.2
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinerspitching,"Gabe Speier, H (3)",1,1,0,0,0,1,0,0.0,3,5,5,2,2,1,1,1,0,0,,0.0,0.0,0.097,1.85,0.05%,1.62,0.5
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinerspitching,"Andrés Muñoz, S (7)",1,0,0,0,0,0,0,0.0,3,19,13,10,1,2,2,1,0,0,,0.0,0.0,0.101,1.29,0.05%,1.13,0.5
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinerspitching,Team Totals,9,10,3,3,2,12,0,3.0,35,145,97,51,15,31,10,11,6,0,67.0,1.0,1.0,0.402,1.06,0.21%,0.93,1.9

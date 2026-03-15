@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202504160,CLE,https://www.baseball-reference.com/boxes/BAL/BAL202504160.shtml,ClevelandGuardianspitching,"Gavin Williams, L (1-1)",6.2,4,5,5,4,4,2,4.58,27,102,54,29,13,12,6,13,5,0,46.0,,,-0.23,0.63,-0.16%,0.72,-1.9
+BAL202504160,CLE,https://www.baseball-reference.com/boxes/BAL/BAL202504160.shtml,ClevelandGuardianspitching,Joey Cantillo,0.1,0,0,0,0,1,0,1.74,1,5,3,0,1,2,0,0,0,0,,0.0,0.0,0.001,0.05,0.00%,0.06,0.1
+BAL202504160,CLE,https://www.baseball-reference.com/boxes/BAL/BAL202504160.shtml,ClevelandGuardianspitching,Triston McKenzie,1.0,3,4,4,1,0,1,11.12,7,27,12,8,2,2,2,4,1,0,,0.0,0.0,-0.01,0.02,-0.01%,0.03,-3.5
+BAL202504160,CLE,https://www.baseball-reference.com/boxes/BAL/BAL202504160.shtml,ClevelandGuardianspitching,Team Totals,8.0,7,9,9,5,5,3,10.12,35,134,69,37,16,16,8,17,6,0,46.0,0.0,0.0,-0.239,0.47,-0.16%,0.53,-5.4

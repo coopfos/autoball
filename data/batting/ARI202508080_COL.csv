@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Tyler Freeman DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.301,0.382,0.398,0.78,14.0,8.0,-0.019,0.85,0.058,-0.077,0%,0.0,-0.5,0.0,0.0,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.269,0.309,0.451,0.76,17.0,13.0,-0.087,0.73,0.0,-0.087,0%,0.0,-1.1,2.0,2.0,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Hunter Goodman C,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.282,0.33,0.529,0.859,20.0,10.0,-0.024,0.56,0.021,-0.045,0%,0.0,-0.2,6.0,0.0,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Jordan Beck LF,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.277,0.342,0.465,0.808,24.0,14.0,-0.03,0.64,0.01,-0.04,0%,0.0,-0.6,1.0,0.0,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Mickey Moniak RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.267,0.311,0.527,0.838,9.0,6.0,-0.066,0.73,0.008,-0.073,0%,0.0,-0.7,1.0,0.0,2B
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Warming Bernabel 1B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.354,0.367,0.688,1.055,15.0,12.0,0.019,0.53,0.053,-0.034,0%,0.0,-0.1,8.0,0.0,2B
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Brenton Doyle CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.226,0.274,0.343,0.617,12.0,7.0,-0.025,0.52,0.025,-0.05,0%,0.0,0.2,4.0,0.0,SB
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Kyle Karros 3B,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.333,0.5,0.333,0.833,19.0,10.0,0.085,0.74,0.108,-0.022,0%,0.0,0.3,0.0,5.0,GDP
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Adael Amador 2B,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.175,0.261,0.262,0.523,5.0,4.0,-0.09,1.09,0.0,-0.09,0%,0.0,-1.1,2.0,1.0,"SH,GDP"
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Austin Gomber P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Nick Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Juan Mejia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508080,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508080.shtml,ColoradoRockiesbatting,Team Totals,30.0,1.0,6.0,1.0,4.0,8.0,35.0,0.2,0.294,0.267,0.561,135.0,84.0,-0.237,0.69,0.283,-0.518,0.00%,0.0,-3.7,24.0,8.0,

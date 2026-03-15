@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. DH,3.0,2.0,1.0,0.0,2.0,2.0,5.0,0.249,0.323,0.407,0.73,26.0,12.0,-0.002,0.6,0.049,-0.052,0%,0.0,-0.4,0.0,0.0,SB
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Xavier Edwards SS,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.363,0.442,0.413,0.855,22.0,14.0,-0.048,0.84,0.023,-0.071,0%,0.0,-0.7,1.0,5.0,SB
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Bryan De La Cruz LF,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.243,0.287,0.417,0.704,12.0,8.0,0.243,0.9,0.279,-0.036,0%,0.0,2.7,2.0,1.0,HR
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Josh Bell 1B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.236,0.3,0.385,0.685,21.0,14.0,0.006,0.45,0.038,-0.032,0%,0.0,0.6,9.0,0.0,HR
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.21,0.298,0.248,0.547,,,,,,,,,,0.0,0.0,
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Jake Burger 3B-1B,5.0,1.0,2.0,1.0,0.0,3.0,5.0,0.231,0.273,0.397,0.671,14.0,11.0,0.077,0.38,0.103,-0.027,0%,0.0,0.7,1.0,1.0,HR
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.242,0.292,0.414,0.706,18.0,10.0,-0.023,0.39,0.018,-0.041,0%,0.0,-0.7,3.0,0.0,
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Otto Lopez 2B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.236,0.267,0.323,0.59,18.0,13.0,-0.087,0.5,0.0,-0.087,0%,0.0,-1.9,2.0,1.0,GDP
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Nick Gordon CF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.236,0.267,0.392,0.659,12.0,7.0,0.027,0.37,0.045,-0.017,0%,0.0,0.6,2.0,0.0,2B
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,1.0,2.0,0.0,0.0,1.0,4.0,0.197,0.224,0.263,0.487,10.0,8.0,0.026,0.42,0.035,-0.009,0%,0.0,0.5,7.0,1.0,SH
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Trevor Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Anthony Bender P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Huascar Brazobán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407260,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407260.shtml,MiamiMarlinsbatting,Team Totals,37.0,6.0,11.0,4.0,5.0,10.0,43.0,0.297,0.381,0.568,0.949,153.0,97.0,0.219,0.54,0.59,-0.372,0.00%,0.0,1.4,27.0,9.0,

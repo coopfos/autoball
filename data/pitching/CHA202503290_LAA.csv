@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHA202503290,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503290.shtml,LosAngelesAngelspitching,"José Soriano, W (1-0)",7,2,0,0,2,5,0,0.0,23,73,46,26,5,15,12,4,1,0,76.0,,,0.438,0.97,0.24%,0.88,3.4
+CHA202503290,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503290.shtml,LosAngelesAngelspitching,"Ben Joyce, H (1)",1,0,0,0,1,0,0,0.0,4,19,11,9,2,0,2,1,1,0,,0.0,0.0,0.139,2.93,0.08%,2.65,0.5
+CHA202503290,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503290.shtml,LosAngelesAngelspitching,"Kenley Jansen, S (1)",1,0,0,0,1,2,0,0.0,4,19,11,7,2,2,1,0,0,0,,0.0,0.0,0.195,2.81,0.11%,2.54,0.5
+CHA202503290,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503290.shtml,LosAngelesAngelspitching,Team Totals,9,2,0,0,4,7,0,0.0,31,111,68,42,9,17,15,5,2,0,76.0,0.0,0.0,0.772,1.5,0.42%,1.36,4.4

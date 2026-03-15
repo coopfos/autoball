@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Chase Meidroth 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.257,0.335,0.326,0.661,14.0,10.0,-0.096,0.95,0.0,-0.096,0%,0.0,-0.9,0.0,1.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Curtis Mead 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.234,0.3,0.322,0.623,20.0,15.0,-0.065,0.66,0.0,-0.065,0%,0.0,-0.6,0.0,1.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Colson Montgomery SS,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.231,0.305,0.508,0.813,17.0,8.0,0.121,0.7,0.133,-0.012,0%,0.0,0.8,0.0,0.0,2B
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Edgar Quero DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.272,0.336,0.363,0.699,14.0,9.0,-0.11,1.28,0.035,-0.144,0%,0.0,-0.9,0.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Korey Lee PR-DH-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.257,0.333,0.429,0.762,,,,,,,,,,0.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 1B,3.0,2.0,1.0,0.0,1.0,0.0,4.0,0.232,0.314,0.396,0.71,15.0,7.0,-0.046,1.6,0.07,-0.116,0%,0.0,-0.1,6.0,2.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Kyle Teel C,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.272,0.379,0.418,0.798,13.0,11.0,-0.048,1.47,0.062,-0.11,0%,0.0,-0.1,9.0,0.0,HBP
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Michael A. Taylor RF,1.0,1.0,1.0,2.0,0.0,0.0,2.0,0.2,0.257,0.369,0.626,5.0,4.0,0.23,1.57,0.237,-0.007,0%,0.0,1.8,0.0,0.0,"HR,SH"
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Brooks Baldwin PH-RF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.236,0.288,0.382,0.67,10.0,8.0,-0.067,1.33,0.0,-0.067,0%,0.0,-0.4,1.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Corey Julks LF,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.25,0.231,0.417,0.647,6.0,4.0,-0.014,1.04,0.0,-0.014,0%,0.0,-0.2,2.0,0.0,SF
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Will Robertson PH-LF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.132,0.181,0.147,0.328,9.0,7.0,-0.042,0.84,0.0,-0.042,0%,0.0,-0.3,0.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Derek Hill CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.208,0.27,0.323,0.593,8.0,6.0,-0.072,0.9,0.0,-0.072,0%,0.0,-0.7,3.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Davis Martin P,,,,,,,,,,,,,,,,,,,,,3.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Tyler Gilbert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Mike Vasil P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Cam Booser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509250,CHW,https://www.baseball-reference.com/boxes/NYA/NYA202509250.shtml,ChicagoWhiteSoxbatting,Team Totals,30.0,3.0,5.0,3.0,2.0,8.0,35.0,0.167,0.235,0.3,0.535,131.0,89.0,-0.209,1.11,0.537,-0.745,0.00%,0.0,-1.4,24.0,5.0,

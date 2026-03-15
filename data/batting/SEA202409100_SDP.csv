@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Luis Arráez DH,5.0,2.0,3.0,0.0,0.0,0.0,5.0,0.318,0.351,0.389,0.739,10.0,8.0,0.006,0.76,0.056,-0.05,0.00%,0.91,0.5,0.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,5.0,1.0,2.0,3.0,0.0,2.0,5.0,0.276,0.345,0.463,0.808,20.0,14.0,0.236,0.89,0.288,-0.052,0.17%,1.06,2.0,0.0,1.0,HR
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Jurickson Profar LF,4.0,1.0,2.0,0.0,1.0,1.0,5.0,0.279,0.382,0.458,0.839,23.0,15.0,0.072,0.51,0.088,-0.016,0.05%,0.62,0.5,1.0,0.0,2B
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Manny Machado 3B,5.0,1.0,2.0,4.0,0.0,1.0,5.0,0.276,0.329,0.472,0.801,17.0,14.0,0.163,0.71,0.197,-0.034,0.12%,0.85,2.4,1.0,2.0,HR
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.25,0.329,0.405,0.733,20.0,10.0,0.021,0.6,0.05,-0.029,0.01%,0.72,0.1,1.0,3.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Xander Bogaerts SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.263,0.307,0.375,0.682,13.0,10.0,-0.121,0.71,0.0,-0.121,-0.09%,0.85,-1.8,3.0,4.0,2·GDP
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.287,0.32,0.495,0.815,20.0,10.0,-0.027,0.27,0.0,-0.027,-0.02%,0.32,-0.4,0.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Donovan Solano 1B,3.0,2.0,2.0,0.0,1.0,0.0,4.0,0.292,0.351,0.407,0.758,24.0,15.0,0.089,0.56,0.09,-0.001,0.06%,0.67,1.0,12.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Kyle Higashioka C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.225,0.269,0.502,0.771,17.0,12.0,-0.084,0.94,0.0,-0.084,-0.06%,1.12,-1.2,9.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Yu Darvish P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Jason Adam P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Robert Suarez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202409100,SDP,https://www.baseball-reference.com/boxes/SEA/SEA202409100.shtml,SanDiegoPadresbatting,Team Totals,36.0,7.0,11.0,7.0,4.0,9.0,40.0,0.306,0.375,0.5,0.875,164.0,108.0,0.355,0.67,0.769,-0.414,0.26%,0.8,3.0,27.0,11.0,

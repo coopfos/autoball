@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Taylor Ward LF,3.0,1.0,1.0,1.0,0.0,0.0,4.0,0.238,0.31,0.403,0.714,11.0,8.0,0.053,1.05,0.087,-0.034,0%,0.0,0.3,2.0,0.0,"2B,SF"
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.256,0.321,0.452,0.773,16.0,10.0,-0.005,0.67,0.031,-0.036,0%,0.0,-0.3,2.0,1.0,2B
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.253,0.347,0.374,0.721,21.0,15.0,0.011,1.0,0.07,-0.059,0%,0.0,0.2,4.0,0.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Kevin Pillar CF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.252,0.307,0.408,0.715,14.0,10.0,-0.036,0.93,0.032,-0.068,0%,0.0,-0.3,3.0,0.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.246,0.304,0.413,0.717,28.0,18.0,-0.085,0.9,0.0,-0.085,0%,0.0,-0.9,12.0,0.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.229,0.317,0.274,0.591,15.0,9.0,-0.054,0.62,0.015,-0.069,0%,0.0,-0.4,0.0,2.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Brandon Drury DH,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.155,0.242,0.204,0.446,16.0,9.0,-0.052,0.61,0.007,-0.059,0%,0.0,-0.6,0.0,0.0,HBP
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Jo Adell RF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.212,0.282,0.405,0.686,11.0,9.0,0.097,0.65,0.131,-0.034,0%,0.0,0.2,1.0,0.0,3B
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Jack López 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,16.0,11.0,-0.08,0.72,0.0,-0.08,0%,0.0,-0.7,0.0,1.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Johnny Cueto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Ryan Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Ryan Zeferjahn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408270,LAA,https://www.baseball-reference.com/boxes/DET/DET202408270.shtml,LosAngelesAngelsbatting,Team Totals,31.0,2.0,5.0,2.0,2.0,7.0,35.0,0.161,0.229,0.29,0.519,148.0,99.0,-0.151,0.8,0.373,-0.524,0.00%,0.0,-2.4,24.0,4.0,

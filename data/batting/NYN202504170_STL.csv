@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Lars Nootbaar LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.268,0.402,0.437,0.839,20.0,13.0,-0.088,0.82,0.0,-0.088,-0.05%,0.79,-1.0,2.0,0.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Willson Contreras 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.139,0.195,0.222,0.417,14.0,7.0,-0.021,0.58,0.025,-0.045,-0.01%,0.56,-0.3,14.0,2.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Brendan Donovan SS,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.373,0.407,0.533,0.941,18.0,12.0,0.006,0.78,0.061,-0.055,0.00%,0.74,0.4,1.0,8.0,SB
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.284,0.385,0.463,0.847,21.0,9.0,0.013,0.78,0.046,-0.033,0.01%,0.74,0.1,1.0,3.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Alec Burleson DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.263,0.311,0.316,0.627,14.0,10.0,-0.045,1.07,0.038,-0.083,-0.03%,1.02,-0.5,0.0,0.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Jordan Walker RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.239,0.301,0.343,0.645,19.0,14.0,-0.101,1.05,0.0,-0.101,-0.06%,1.0,-1.1,1.0,1.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Nolan Gorman 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.263,0.375,0.526,0.901,20.0,12.0,-0.028,0.67,0.026,-0.053,-0.02%,0.64,-0.4,2.0,4.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Pedro Pagés C,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.25,0.267,0.409,0.676,22.0,16.0,-0.058,0.76,0.0,-0.058,-0.03%,0.72,-0.6,2.0,0.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Victor Scott II CF,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.267,0.338,0.383,0.722,10.0,8.0,0.004,0.81,0.045,-0.041,0.00%,0.77,0.2,0.0,0.0,SB
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Andre Pallante P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Matt Svanson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,John King P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYN202504170,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504170.shtml,StLouisCardinalsbatting,Team Totals,30.0,1.0,3.0,1.0,4.0,11.0,34.0,0.1,0.206,0.1,0.306,158.0,101.0,-0.318,0.81,0.241,-0.557,-0.18%,0.78,-3.2,24.0,19.0,

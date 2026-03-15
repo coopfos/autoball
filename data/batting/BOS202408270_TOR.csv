@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,George Springer RF,3.0,1.0,0.0,0.0,1.0,1.0,5.0,0.221,0.304,0.39,0.693,19.0,12.0,-0.098,0.81,0.071,-0.169,-0.01%,0.08,-0.9,1.0,0.0,HBP
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Daulton Varsho CF,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.221,0.3,0.415,0.715,23.0,15.0,-0.066,0.92,0.03,-0.096,-0.00%,0.09,0.4,2.0,0.0,HR
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. DH,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.322,0.398,0.558,0.956,13.0,11.0,0.021,0.87,0.079,-0.058,0.00%,0.08,0.2,0.0,0.0,2B
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Spencer Horwitz 1B,2.0,0.0,1.0,0.0,2.0,0.0,4.0,0.261,0.355,0.423,0.778,22.0,10.0,0.025,1.05,0.048,-0.023,0.00%,0.1,0.1,4.0,0.0,
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Addison Barger 3B,3.0,0.0,1.0,1.0,0.0,0.0,4.0,0.2,0.231,0.371,0.603,19.0,13.0,-0.064,1.51,0.026,-0.089,-0.00%,0.14,-0.8,0.0,1.0,SF
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.243,0.315,0.349,0.664,14.0,11.0,-0.08,1.29,0.034,-0.114,-0.01%,0.12,-0.8,9.0,0.0,
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Joey Loperfido LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.231,0.284,0.385,0.669,8.0,8.0,-0.047,0.79,0.02,-0.067,-0.00%,0.07,-0.4,4.0,0.0,
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Ernie Clement SS,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.261,0.286,0.419,0.705,8.0,6.0,-0.037,0.68,0.03,-0.067,-0.00%,0.07,-0.9,1.0,1.0,"HBP,GDP"
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Will Wagner 2B,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.326,0.356,0.512,0.867,18.0,12.0,0.095,0.65,0.124,-0.029,0.01%,0.06,1.4,2.0,3.0,"HR,2·2B"
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Yariel Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Tommy Nance P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Erik Swanson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202408270,TOR,https://www.baseball-reference.com/boxes/BOS/BOS202408270.shtml,TorontoBlueJaysbatting,Team Totals,33.0,3.0,11.0,3.0,3.0,2.0,39.0,0.333,0.41,0.606,1.016,144.0,98.0,-0.251,0.94,0.462,-0.712,-0.02%,0.09,-1.7,24.0,5.0,

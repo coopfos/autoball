@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202507230,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202507230.shtml,PittsburghPiratespitching,"Bailey Falter, W (7-5)",7,4,1,1,0,8,0,3.82,25,87,63,37,7,19,5,12,5,0,73.0,,,0.178,0.35,0.00%,0.0,2.6
+PIT202507230,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202507230.shtml,PittsburghPiratespitching,Carmen Mlodzinski,2,1,0,0,0,3,0,4.62,7,34,23,12,6,5,2,2,1,0,,0.0,0.0,0.019,0.18,0.00%,0.0,1.0
+PIT202507230,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202507230.shtml,PittsburghPiratespitching,Team Totals,9,5,1,1,0,11,0,1.0,32,121,86,49,13,24,7,14,6,0,73.0,0.0,0.0,0.197,0.32,0.00%,0.0,3.7

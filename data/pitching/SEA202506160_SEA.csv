@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202506160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,SeattleMarinerspitching,"Logan Gilbert, L (1-2)",5.0,3,2,2,1,10,1,2.55,19,84,57,29,19,9,2,6,1,0,62.0,,,-0.028,0.59,-0.02%,0.66,0.2
+SEA202506160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,SeattleMarinerspitching,Eduard Bazardo,1.0,0,0,0,1,0,0,3.31,3,15,11,8,0,3,1,1,0,0,,0.0,0.0,0.032,0.79,0.02%,0.89,0.4
+SEA202506160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,SeattleMarinerspitching,Zach Pop,1.1,1,0,0,0,0,0,0.0,5,14,9,6,1,2,5,0,0,0,,0.0,0.0,0.028,0.39,0.02%,0.43,0.4
+SEA202506160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,SeattleMarinerspitching,Trent Thornton,1.2,0,0,0,1,2,0,7.08,6,33,23,16,3,4,0,3,0,0,,1.0,0.0,0.038,0.33,0.03%,0.37,0.9
+SEA202506160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,SeattleMarinerspitching,Team Totals,9.0,4,2,2,3,12,1,2.0,33,146,100,59,23,18,8,10,1,0,62.0,1.0,0.0,0.07,0.53,0.05%,0.59,2.0

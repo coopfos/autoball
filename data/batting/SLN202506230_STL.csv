@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Brendan Donovan 2B,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.307,0.375,0.437,0.812,10.0,8.0,0.126,0.75,0.186,-0.06,0.10%,0.95,1.2,4.0,6.0,HR
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Masyn Winn SS,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.252,0.322,0.374,0.696,16.0,11.0,-0.038,0.47,0.005,-0.043,-0.03%,0.6,-0.5,2.0,5.0,
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Alec Burleson RF,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.307,0.344,0.474,0.818,11.0,8.0,0.05,0.39,0.08,-0.03,0.04%,0.49,1.4,2.0,0.0,HR
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Willson Contreras 1B,4.0,1.0,3.0,0.0,0.0,1.0,4.0,0.248,0.334,0.421,0.755,17.0,11.0,0.007,0.37,0.03,-0.023,0.01%,0.47,0.3,8.0,0.0,2·2B
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Lars Nootbaar LF,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.229,0.335,0.378,0.714,13.0,7.0,0.2,0.58,0.221,-0.021,0.15%,0.73,1.1,1.0,0.0,HR
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.251,0.313,0.405,0.718,13.0,10.0,-0.016,0.2,0.003,-0.019,-0.01%,0.26,-0.1,1.0,1.0,
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Nolan Gorman DH,4.0,1.0,1.0,2.0,0.0,2.0,4.0,0.211,0.311,0.387,0.699,13.0,9.0,-0.032,0.48,0.015,-0.047,-0.02%,0.61,1.0,0.0,0.0,HR
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Pedro Pagés C,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.221,0.272,0.354,0.625,15.0,8.0,0.006,0.34,0.024,-0.018,0.01%,0.44,0.4,5.0,0.0,
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Victor Scott II CF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.242,0.331,0.326,0.657,6.0,6.0,-0.004,0.65,0.025,-0.029,-0.00%,0.82,-0.9,4.0,0.0,"SB,GDP"
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Matthew Liberatore P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Riley O'Brien P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Roddery Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202506230,STL,https://www.baseball-reference.com/boxes/SLN/SLN202506230.shtml,StLouisCardinalsbatting,Team Totals,33.0,8.0,11.0,8.0,2.0,4.0,35.0,0.333,0.371,0.758,1.129,114.0,78.0,0.299,0.47,0.589,-0.29,0.23%,0.6,4.0,27.0,12.0,

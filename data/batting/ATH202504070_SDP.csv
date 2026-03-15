@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.381,0.449,0.548,0.997,10.0,8.0,0.131,0.62,0.165,-0.034,0.08%,0.66,0.8,2.0,0.0,HR
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Luis Arráez 1B,4.0,2.0,2.0,0.0,0.0,0.0,4.0,0.279,0.319,0.395,0.714,13.0,9.0,0.03,0.62,0.055,-0.024,0.02%,0.66,0.4,9.0,0.0,2B
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.333,0.378,0.452,0.83,10.0,8.0,0.115,1.01,0.172,-0.057,0.07%,1.07,1.6,0.0,5.0,2·2B
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.265,0.405,0.5,0.905,15.0,7.0,0.137,0.89,0.172,-0.035,0.09%,0.94,1.4,3.0,1.0,HR
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Gavin Sheets DH,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.345,0.367,0.517,0.884,10.0,7.0,-0.041,0.54,0.0,-0.041,-0.03%,0.58,-0.6,0.0,0.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Yuli Gurriel PH-DH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.071,0.133,0.071,0.205,6.0,4.0,-0.014,1.13,0.0,-0.014,-0.01%,1.2,-0.2,0.0,0.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Xander Bogaerts SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.243,0.364,0.324,0.688,17.0,12.0,-0.033,0.67,0.026,-0.058,-0.02%,0.71,-0.5,2.0,4.0,2B
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Jason Heyward LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.136,0.2,0.182,0.382,14.0,10.0,-0.063,0.72,0.023,-0.085,-0.04%,0.76,-0.7,1.0,0.0,CS
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Brandon Lockridge CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.214,0.313,0.357,0.67,13.0,11.0,-0.06,0.62,0.0,-0.06,-0.04%,0.66,-0.8,3.0,0.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Elias Díaz C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.208,0.296,0.208,0.505,14.0,9.0,-0.054,0.54,0.0,-0.054,-0.03%,0.57,-0.6,7.0,1.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Michael King P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Jason Adam P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Robert Suarez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504070,SDP,https://www.baseball-reference.com/boxes/ATH/ATH202504070.shtml,SanDiegoPadresbatting,Team Totals,35.0,5.0,9.0,5.0,1.0,5.0,36.0,0.257,0.278,0.543,0.821,122.0,85.0,0.148,0.71,0.613,-0.462,0.10%,0.76,0.8,27.0,12.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Tommy Pham RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.266,0.34,0.379,0.719,16.0,11.0,-0.068,0.87,0.0,-0.068,0%,0.0,-0.7,3.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn 1B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.234,0.283,0.376,0.659,10.0,8.0,-0.024,0.71,0.022,-0.046,0%,0.0,-0.3,5.0,1.0,2B
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.204,0.281,0.485,0.766,8.0,5.0,0.107,0.8,0.139,-0.033,0%,0.0,1.1,5.0,0.0,HR
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Eloy Jiménez DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.227,0.278,0.367,0.644,14.0,8.0,-0.095,0.8,0.0,-0.095,0%,0.0,-1.1,0.0,0.0,GDP
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Paul DeJong SS,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.233,0.279,0.447,0.726,13.0,10.0,-0.043,0.57,0.0,-0.043,0%,0.0,-0.5,0.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Corey Julks LF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.229,0.308,0.385,0.694,11.0,6.0,-0.044,0.78,0.033,-0.076,0%,0.0,-0.5,2.0,0.0,CS
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 3B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.21,0.248,0.303,0.551,11.0,8.0,-0.037,0.5,0.0,-0.037,0%,0.0,-0.5,0.0,3.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Danny Mendick 2B,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.198,0.238,0.31,0.548,13.0,9.0,0.046,0.83,0.057,-0.01,0%,0.0,0.5,2.0,2.0,SB
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Nicky Lopez PH-2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.242,0.297,0.274,0.571,8.0,5.0,-0.009,0.38,0.0,-0.009,0%,0.0,-0.2,0.0,1.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Martín Maldonado C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.085,0.137,0.128,0.265,19.0,13.0,-0.065,0.73,0.0,-0.065,0%,0.0,-0.8,8.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Chad Kuhl P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Justin Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Jared Shuster P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,John Brebbia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202406270,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202406270.shtml,ChicagoWhiteSoxbatting,Team Totals,26.0,1.0,4.0,1.0,1.0,12.0,27.0,0.154,0.185,0.308,0.493,123.0,83.0,-0.232,0.72,0.251,-0.482,0.00%,0.0,-2.8,27.0,7.0,

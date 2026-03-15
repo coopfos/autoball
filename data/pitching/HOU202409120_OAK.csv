@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202409120,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202409120.shtml,OaklandAthleticspitching,Mitch Spence,7.0,7,2,2,0,2,1,4.33,28,81,57,38,7,12,17,9,5,0,57.0,,,0.042,0.67,0.00%,0.0,1.4
+HOU202409120,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202409120.shtml,OaklandAthleticspitching,"T.J. McFarland, L (2-3)",0.1,2,2,2,0,0,0,3.78,3,9,7,5,0,2,1,2,1,0,,0.0,0.0,-0.064,1.85,0.00%,0.0,-0.4
+HOU202409120,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202409120.shtml,OaklandAthleticspitching,Grant Holman,0.2,3,2,2,1,0,0,5.4,6,12,7,6,0,1,1,4,2,0,,2.0,2.0,-0.318,1.64,0.00%,0.0,-3.1
+HOU202409120,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202409120.shtml,OaklandAthleticspitching,Team Totals,8.0,12,6,6,1,2,1,6.75,37,102,71,49,7,15,19,15,8,0,57.0,2.0,2.0,-0.34,0.92,0.00%,0.0,-2.2

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Mike Tauchman LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.249,0.35,0.378,0.728,11.0,8.0,-0.064,0.81,0.0,-0.064,-0.03%,0.66,-0.7,0.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Dansby Swanson PH-SS,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.221,0.292,0.363,0.655,4.0,2.0,-0.054,2.15,0.0,-0.054,-0.03%,1.75,-0.2,0.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Christopher Morel DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.205,0.314,0.393,0.708,15.0,10.0,-0.096,0.97,0.0,-0.096,-0.05%,0.79,-0.8,0.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Cody Bellinger 1B-LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.267,0.322,0.452,0.775,15.0,11.0,-0.045,0.67,0.012,-0.057,-0.02%,0.54,-0.3,11.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Seiya Suzuki RF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.265,0.33,0.465,0.795,22.0,13.0,-0.088,1.01,0.018,-0.106,-0.04%,0.82,-0.3,1.0,0.0,SB
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Michael Busch 2B-1B,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.253,0.35,0.442,0.792,17.0,9.0,0.08,1.28,0.129,-0.049,0.04%,1.04,0.1,0.0,1.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Nico Hoerner SS-2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.252,0.341,0.349,0.69,10.0,8.0,-0.126,1.75,0.072,-0.198,-0.06%,1.43,-0.3,2.0,6.0,GDP
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Patrick Wisdom 3B,1.0,0.0,0.0,0.0,1.0,1.0,3.0,0.197,0.293,0.408,0.701,11.0,5.0,0.012,0.96,0.024,-0.012,0.01%,0.78,0.2,1.0,1.0,SH
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.213,0.26,0.292,0.553,11.0,8.0,0.056,1.27,0.099,-0.043,0.03%,1.03,0.3,2.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Yan Gomes C,2.0,0.0,0.0,1.0,0.0,1.0,3.0,0.149,0.176,0.241,0.417,8.0,5.0,-0.004,1.19,0.037,-0.041,-0.00%,0.96,-0.3,7.0,0.0,SH
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Justin Steele P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Tyson Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Colten Brewer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202406130,CHC,https://www.baseball-reference.com/boxes/TBA/TBA202406130.shtml,ChicagoCubsbatting,Team Totals,28.0,2.0,3.0,1.0,3.0,11.0,33.0,0.107,0.194,0.107,0.301,124.0,79.0,-0.329,1.13,0.391,-0.72,-0.16%,0.92,-2.3,24.0,10.0,

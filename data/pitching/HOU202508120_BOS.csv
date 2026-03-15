@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxpitching,"Dustin May, W (7-8)",6,5,0,0,1,8,0,4.67,24,92,65,36,11,18,6,9,5,0,69.0,,,0.293,0.88,0.27%,1.36,3.0
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxpitching,Justin Wilson,1,1,0,0,0,0,0,2.75,3,8,7,6,0,1,1,2,1,0,,0.0,0.0,0.003,0.11,0.00%,0.17,0.5
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxpitching,Jovani Morán,2,3,1,1,1,2,0,4.5,10,34,22,11,5,6,2,5,2,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.0
+HOU202508120,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202508120.shtml,BostonRedSoxpitching,Team Totals,9,9,1,1,2,10,0,1.0,37,134,94,53,16,25,9,16,8,0,69.0,0.0,0.0,0.296,0.55,0.27%,0.85,3.5

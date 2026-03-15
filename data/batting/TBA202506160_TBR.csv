@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Josh Lowe RF,3.0,2.0,1.0,1.0,1.0,2.0,5.0,0.241,0.317,0.407,0.724,22.0,13.0,0.098,0.52,0.118,-0.02,0.07%,0.62,0.3,0.0,0.0,"HR,SH"
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Brandon Lowe 2B,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.26,0.311,0.457,0.768,8.0,7.0,0.113,0.6,0.154,-0.041,0.08%,0.72,1.1,3.0,6.0,HR
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Yandy Díaz DH,4.0,1.0,1.0,0.0,0.0,1.0,5.0,0.265,0.315,0.433,0.748,14.0,9.0,-0.042,0.4,0.024,-0.066,-0.03%,0.48,-0.7,0.0,0.0,"HBP,GDP"
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Jonathan Aranda 1B,3.0,1.0,2.0,0.0,1.0,1.0,4.0,0.324,0.416,0.498,0.914,13.0,7.0,0.061,0.39,0.063,-0.001,0.04%,0.47,1.0,7.0,0.0,2B
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Junior Caminero 3B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.25,0.295,0.504,0.799,9.0,7.0,-0.07,0.63,0.024,-0.094,-0.05%,0.76,0.1,1.0,1.0,"2B,GDP"
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Jake Mangum CF-LF,4.0,1.0,3.0,3.0,0.0,1.0,4.0,0.315,0.36,0.386,0.746,14.0,11.0,0.117,0.52,0.118,-0.001,0.08%,0.62,2.0,1.0,0.0,2B
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,José Caballero SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.233,0.326,0.35,0.676,10.0,8.0,-0.041,0.43,0.0,-0.041,-0.03%,0.52,-1.0,3.0,1.0,
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Danny Jansen C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.201,0.312,0.356,0.668,13.0,10.0,0.037,0.46,0.058,-0.021,0.03%,0.56,-0.4,11.0,0.0,
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Christopher Morel LF,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.219,0.292,0.39,0.682,15.0,9.0,0.047,0.56,0.061,-0.014,0.03%,0.67,0.8,1.0,0.0,2B
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Kameron Misner CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.214,0.277,0.353,0.63,,,,,,,,,,0.0,0.0,
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Ryan Pepiot P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Forrest Whitley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202506160,TBR,https://www.baseball-reference.com/boxes/TBA/TBA202506160.shtml,TampaBayRaysbatting,Team Totals,35.0,7.0,14.0,7.0,2.0,10.0,39.0,0.4,0.447,0.686,1.133,118.0,81.0,0.32,0.5,0.62,-0.299,0.23%,0.6,3.2,27.0,8.0,

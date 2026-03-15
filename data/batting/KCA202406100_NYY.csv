@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Anthony Volpe SS,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.275,0.337,0.42,0.757,18.0,10.0,-0.078,0.59,0.0,-0.078,-0.04%,0.52,-1.5,0.0,2.0,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Juan Soto DH,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.318,0.425,0.599,1.024,19.0,9.0,0.007,0.38,0.027,-0.021,0.00%,0.34,-0.0,0.0,0.0,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.23,0.303,0.335,0.638,17.0,12.0,0.015,0.48,0.035,-0.02,0.01%,0.42,-0.1,2.0,3.0,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Alex Verdugo LF,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.265,0.32,0.433,0.752,15.0,11.0,0.099,0.74,0.123,-0.025,0.05%,0.66,0.9,2.0,0.0,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,DJ LeMahieu 1B,3.0,1.0,1.0,1.0,0.0,1.0,4.0,0.229,0.357,0.229,0.586,10.0,8.0,0.026,0.66,0.039,-0.013,0.01%,0.58,0.0,6.0,1.0,SH
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Trent Grisham CF,3.0,1.0,0.0,0.0,0.0,1.0,4.0,0.094,0.258,0.264,0.522,12.0,7.0,-0.009,0.56,0.027,-0.036,-0.01%,0.49,-0.3,3.0,0.0,HBP
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Jahmai Jones RF,2.0,0.0,1.0,0.0,0.0,0.0,4.0,0.273,0.429,0.545,0.974,6.0,5.0,-0.033,0.75,0.038,-0.071,-0.02%,0.66,-0.3,6.0,0.0,"CS,HBP,SH"
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Jose Trevino C,3.0,0.0,2.0,2.0,0.0,0.0,4.0,0.264,0.316,0.388,0.704,10.0,7.0,0.141,0.66,0.149,-0.008,0.07%,0.58,1.6,7.0,1.0,SH
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.238,0.278,0.357,0.635,14.0,11.0,-0.045,0.47,0.011,-0.055,-0.02%,0.41,-0.8,0.0,2.0,GDP
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Ian Hamilton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Michael Tonkin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406100,NYY,https://www.baseball-reference.com/boxes/KCA/KCA202406100.shtml,NewYorkYankeesbatting,Team Totals,31.0,4.0,9.0,4.0,1.0,6.0,37.0,0.29,0.353,0.29,0.643,121.0,80.0,0.123,0.59,0.449,-0.327,0.06%,0.52,-0.5,27.0,9.0,

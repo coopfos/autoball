@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.283,0.392,0.621,1.013,16.0,9.0,-0.084,1.49,0.041,-0.125,-0.09%,2.6,-0.5,0.0,0.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.246,0.316,0.371,0.687,11.0,7.0,-0.041,1.38,0.083,-0.124,-0.04%,2.41,-0.7,1.0,7.0,GDP
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Will Smith C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.3,0.406,0.496,0.902,17.0,12.0,-0.172,1.74,0.0,-0.172,-0.18%,3.04,-0.9,5.0,2.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.303,0.374,0.491,0.865,18.0,11.0,0.012,1.43,0.085,-0.072,0.01%,2.5,-0.3,12.0,0.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.251,0.282,0.468,0.75,20.0,14.0,-0.215,1.95,0.0,-0.215,-0.23%,3.42,-0.9,1.0,0.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Michael Conforto LF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.185,0.293,0.317,0.61,15.0,7.0,0.043,1.28,0.087,-0.044,0.04%,2.25,0.0,0.0,0.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Justin Dean PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.039,2.9,0.039,0.0,0.04%,5.08,0.2,0.0,0.0,SB
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Andy Pages CF-LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.273,0.319,0.457,0.776,9.0,6.0,-0.129,1.79,0.0,-0.129,-0.14%,3.13,-0.8,1.0,0.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Alex Freeland 2B-3B,2.0,1.0,1.0,1.0,1.0,1.0,3.0,0.228,0.353,0.351,0.704,12.0,6.0,0.145,1.43,0.16,-0.015,0.15%,2.51,1.1,2.0,2.0,HR
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Buddy Kennedy 3B,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.077,0.172,0.115,0.288,4.0,2.0,-0.013,1.04,0.024,-0.037,-0.01%,1.82,0.0,2.0,1.0,HBP
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Dalton Rushing PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.184,0.246,0.272,0.517,6.0,4.0,-0.213,4.62,0.0,-0.213,-0.22%,8.09,-0.9,0.0,0.0,GDP
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Miguel Rojas 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.255,0.317,0.395,0.712,,,,,,,,,,0.0,1.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Blake Snell P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Edgardo Henriquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgersbatting,Team Totals,28.0,1.0,3.0,1.0,3.0,8.0,32.0,0.107,0.219,0.214,0.433,128.0,78.0,-0.628,1.67,0.519,-1.146,-0.66%,2.92,-3.7,24.0,15.0,

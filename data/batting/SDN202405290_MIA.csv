@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. CF,6.0,0.0,2.0,2.0,0.0,0.0,6.0,0.262,0.331,0.453,0.784,23.0,14.0,0.048,0.51,0.099,-0.051,0.00%,0.05,0.7,3.0,0.0,3B
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Dane Myers CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.278,0.372,0.444,0.817,,,,,,,,,,0.0,0.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Bryan De La Cruz DH,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.248,0.304,0.407,0.711,17.0,13.0,-0.06,0.45,0.0,-0.06,-0.00%,0.04,-1.6,0.0,0.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Josh Bell 1B,5.0,2.0,3.0,0.0,0.0,1.0,5.0,0.242,0.317,0.372,0.689,19.0,12.0,0.083,0.39,0.088,-0.004,0.01%,0.03,0.7,5.0,1.0,2B
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.215,0.302,0.258,0.56,,,,,,,,,,0.0,1.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.23,0.285,0.309,0.594,14.0,11.0,-0.011,0.59,0.048,-0.059,-0.00%,0.05,0.3,4.0,0.0,HR
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Jake Burger 3B-1B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.206,0.24,0.319,0.559,15.0,11.0,0.009,0.74,0.081,-0.072,0.00%,0.07,0.2,3.0,4.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Nick Gordon LF,4.0,2.0,2.0,0.0,1.0,1.0,5.0,0.23,0.26,0.374,0.634,19.0,12.0,0.104,0.65,0.106,-0.002,0.01%,0.06,1.1,3.0,1.0,2·SB
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Otto Lopez 2B,4.0,2.0,2.0,1.0,1.0,0.0,5.0,0.273,0.313,0.429,0.742,21.0,12.0,0.087,0.8,0.122,-0.035,0.00%,0.07,2.3,4.0,2.0,SB
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Vidal Bruján SS,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.255,0.325,0.377,0.702,20.0,13.0,-0.038,0.64,0.035,-0.073,-0.00%,0.06,-0.5,1.0,3.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Nick Fortes C,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.173,0.211,0.26,0.471,11.0,8.0,0.099,0.47,0.119,-0.02,0.01%,0.04,1.3,2.0,0.0,2B
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Braxton Garrett P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Anthony Bender P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,A.J. Puk P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SDN202405290,MIA,https://www.baseball-reference.com/boxes/SDN/SDN202405290.shtml,MiamiMarlinsbatting,Team Totals,44.0,9.0,16.0,8.0,2.0,6.0,46.0,0.364,0.391,0.523,0.914,159.0,106.0,0.321,0.59,0.698,-0.376,0.02%,0.05,4.4,27.0,13.0,

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.245,0.366,0.318,0.685,24.0,15.0,-0.097,1.16,0.0,-0.097,-0.07%,1.36,-0.7,3.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Ozzie Albies 2B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.333,0.391,0.512,0.903,9.0,8.0,0.067,1.02,0.099,-0.033,0.05%,1.2,0.7,1.0,1.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.226,0.299,0.365,0.664,13.0,10.0,0.196,1.56,0.262,-0.066,0.14%,1.83,0.9,0.0,1.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Matt Olson 1B,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.202,0.317,0.385,0.702,16.0,8.0,0.015,1.42,0.044,-0.029,0.01%,1.66,0.1,6.0,1.0,IW
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.327,0.4,0.636,1.036,15.0,10.0,-0.174,2.35,0.046,-0.22,-0.12%,2.75,-0.8,0.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Orlando Arcia SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.276,0.304,0.419,0.723,19.0,15.0,-0.257,2.7,0.0,-0.257,-0.18%,3.16,-1.5,0.0,1.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.304,0.339,0.452,0.791,20.0,15.0,-0.112,1.36,0.013,-0.124,-0.08%,1.59,-0.6,1.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Travis d'Arnaud C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.282,0.358,0.592,0.95,11.0,7.0,-0.041,1.21,0.051,-0.092,-0.03%,1.42,0.0,11.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Jarred Kelenic LF,4.0,1.0,0.0,0.0,0.0,1.0,4.0,0.288,0.347,0.348,0.696,16.0,10.0,-0.009,1.08,0.062,-0.071,-0.01%,1.27,-0.1,1.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Reynaldo López P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Jesse Chavez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Aaron Bummer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404300,ATL,https://www.baseball-reference.com/boxes/SEA/SEA202404300.shtml,AtlantaBravesbatting,Team Totals,34.0,2.0,6.0,1.0,2.0,10.0,36.0,0.176,0.222,0.176,0.399,143.0,98.0,-0.412,1.53,0.577,-0.989,-0.29%,1.8,-2.0,24.0,4.0,

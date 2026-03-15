@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202409080,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202409080.shtml,MiamiMarlinspitching,"Edward Cabrera, W (4-6)",7,3,0,0,1,6,0,4.88,24,97,61,34,13,14,7,10,5,0,76.0,,,0.155,0.27,0.00%,0.0,3.8
+MIA202409080,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202409080.shtml,MiamiMarlinspitching,Lake Bachar,1,0,0,0,0,3,0,0.0,3,16,11,5,4,2,0,0,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+MIA202409080,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202409080.shtml,MiamiMarlinspitching,Jonathan Bermúdez,1,2,1,1,1,1,0,5.79,6,26,14,8,1,5,2,2,1,0,,0.0,0.0,0.0,0.01,0.00%,0.0,-0.5
+MIA202409080,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202409080.shtml,MiamiMarlinspitching,Team Totals,9,5,1,1,2,10,0,1.0,33,139,86,47,18,21,9,12,6,0,76.0,0.0,0.0,0.155,0.2,0.00%,0.0,3.9

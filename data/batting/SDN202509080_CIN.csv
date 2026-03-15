@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,TJ Friedl CF,5.0,2.0,2.0,1.0,0.0,0.0,5.0,0.266,0.366,0.383,0.748,18.0,11.0,-0.055,1.59,0.136,-0.191,-0.02%,0.99,0.6,2.0,0.0,"HR,SB"
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Noelvi Marte RF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.281,0.323,0.489,0.812,17.0,13.0,-0.107,1.05,0.0,-0.107,-0.04%,0.66,-0.9,1.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.267,0.335,0.443,0.779,16.0,13.0,0.03,0.93,0.098,-0.068,0.01%,0.58,0.4,0.0,4.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Austin Hays LF,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.265,0.316,0.469,0.785,14.0,9.0,0.048,0.71,0.101,-0.053,0.02%,0.45,0.7,2.0,0.0,HR
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Gavin Lux DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.268,0.348,0.371,0.719,13.0,9.0,-0.108,1.03,0.0,-0.108,-0.04%,0.64,-0.9,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Spencer Steer 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.237,0.308,0.397,0.706,18.0,12.0,-0.087,0.85,0.0,-0.087,-0.03%,0.53,-0.7,12.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Ke'Bryan Hayes 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.246,0.297,0.323,0.619,18.0,12.0,-0.08,0.96,0.01,-0.09,-0.03%,0.6,-0.4,1.0,2.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Jose Trevino C,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.245,0.282,0.368,0.65,8.0,6.0,-0.029,0.53,0.0,-0.029,-0.01%,0.33,-0.3,5.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Sal Stewart PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.188,0.188,0.375,0.563,5.0,3.0,-0.029,1.16,0.0,-0.029,-0.01%,0.73,-0.2,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Tyler Stephenson C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.225,0.312,0.391,0.703,1.0,1.0,-0.106,3.94,0.0,-0.106,-0.04%,2.47,-0.5,3.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Matt McLain 2B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.229,0.31,0.357,0.667,16.0,11.0,-0.091,1.45,0.042,-0.133,-0.03%,0.91,-0.6,2.0,3.0,2B
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Nick Lodolo P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Scott Barlow P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Brent Suter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Connor Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Tony Santillan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Emilio Pagán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Nick Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509080,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202509080.shtml,CincinnatiRedsbatting,Team Totals,37.0,3.0,7.0,3.0,0.0,13.0,37.0,0.189,0.189,0.378,0.568,144.0,100.0,-0.614,1.14,0.387,-1.001,-0.23%,0.72,-2.8,28.0,10.0,

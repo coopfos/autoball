@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202508192,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202508192.shtml,MilwaukeeBrewerspitching,"Brandon Woodruff, L (4-1)",4.1,5,3,3,3,6,0,2.47,21,94,62,36,11,15,6,6,2,0,44.0,,,-0.049,1.18,-0.01%,0.54,-0.1
+CHN202508192,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202508192.shtml,MilwaukeeBrewerspitching,Aaron Ashby,3.2,4,1,1,0,3,0,2.06,16,50,35,20,7,8,6,7,3,0,,1.0,1.0,-0.107,0.49,-0.03%,0.23,-0.1
+CHN202508192,MIL,https://www.baseball-reference.com/boxes/CHN/CHN202508192.shtml,MilwaukeeBrewerspitching,Team Totals,8.0,9,4,4,3,9,0,4.5,37,144,97,56,18,23,12,13,5,0,44.0,1.0,1.0,-0.156,0.89,-0.04%,0.41,-0.2

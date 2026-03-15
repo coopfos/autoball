@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.249,0.313,0.398,0.711,17.0,11.0,-0.065,0.57,0.005,-0.07,-0.04%,0.58,-0.7,1.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Heliot Ramos LF,3.0,1.0,0.0,0.0,1.0,1.0,5.0,0.265,0.339,0.428,0.767,18.0,10.0,0.003,0.41,0.034,-0.031,0.00%,0.42,-0.2,1.0,0.0,HBP
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Rafael Devers DH,4.0,1.0,2.0,0.0,1.0,1.0,5.0,0.257,0.383,0.456,0.839,27.0,17.0,0.06,0.59,0.08,-0.02,0.04%,0.6,0.4,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Willy Adames SS,5.0,2.0,4.0,2.0,0.0,0.0,5.0,0.23,0.312,0.405,0.717,21.0,14.0,0.068,0.78,0.105,-0.038,0.04%,0.8,2.6,2.0,2.0,"HR,2·2B"
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,4.0,0.0,2.0,2.0,1.0,1.0,5.0,0.238,0.347,0.43,0.776,24.0,15.0,-0.006,0.96,0.111,-0.117,-0.00%,0.99,0.8,1.0,2.0,"2B,GDP"
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.238,0.333,0.37,0.703,18.0,11.0,-0.102,0.82,0.0,-0.102,-0.06%,0.84,-1.7,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Wilmer Flores 1B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.245,0.318,0.376,0.694,20.0,15.0,0.056,0.61,0.081,-0.025,0.03%,0.62,0.4,5.0,0.0,2B
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Casey Schmitt 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.246,0.329,0.377,0.706,10.0,8.0,0.004,0.8,0.056,-0.052,0.00%,0.82,-0.1,2.0,1.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.203,0.264,0.293,0.557,11.0,7.0,-0.071,0.79,0.0,-0.071,-0.04%,0.81,-0.9,12.0,0.0,SF
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Hayden Birdsong P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Matt Gage P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Spencer Bivens P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Tristan Beck P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Ryan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202507210,SFG,https://www.baseball-reference.com/boxes/ATL/ATL202507210.shtml,SanFranciscoGiantsbatting,Team Totals,37.0,5.0,12.0,5.0,3.0,3.0,42.0,0.324,0.381,0.514,0.894,166.0,108.0,-0.053,0.7,0.472,-0.526,-0.03%,0.72,0.5,24.0,5.0,

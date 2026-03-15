@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202406260,CLE,https://www.baseball-reference.com/boxes/BAL/BAL202406260.shtml,ClevelandGuardianspitching,Carlos Carrasco,5,6,2,2,2,3,1,5.27,21,91,63,45,4,14,9,7,3,0,48.0,,,-0.013,1.2,-0.01%,0.84,0.3
+BAL202406260,CLE,https://www.baseball-reference.com/boxes/BAL/BAL202406260.shtml,ClevelandGuardianspitching,"Xzavion Curry, L (0-2)",3,3,2,2,0,1,2,5.74,12,50,35,24,4,7,1,10,3,0,,0.0,0.0,-0.163,0.69,-0.07%,0.48,-0.6
+BAL202406260,CLE,https://www.baseball-reference.com/boxes/BAL/BAL202406260.shtml,ClevelandGuardianspitching,Team Totals,8,9,4,4,2,4,3,4.5,33,141,98,69,8,21,10,17,6,0,48.0,0.0,0.0,-0.176,1.02,-0.07%,0.72,-0.4

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Marcus Semien 2B,3.0,2.0,1.0,0.0,1.0,0.0,4.0,0.246,0.319,0.407,0.726,17.0,12.0,0.082,0.98,0.136,-0.054,0.03%,0.66,0.9,0.0,2.0,3B
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Corey Seager SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.272,0.359,0.474,0.833,10.0,8.0,-0.037,0.92,0.032,-0.068,-0.01%,0.62,-0.3,1.0,1.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Josh Smith 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.282,0.38,0.445,0.825,14.0,8.0,-0.077,0.8,0.0,-0.077,-0.03%,0.54,-0.8,0.0,3.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Wyatt Langford LF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.244,0.31,0.37,0.68,12.0,9.0,0.025,0.82,0.089,-0.064,0.01%,0.55,0.3,1.0,1.0,2B
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Adolis García RF,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.213,0.279,0.4,0.679,22.0,12.0,0.085,0.72,0.109,-0.025,0.03%,0.48,0.8,3.0,0.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Nathaniel Lowe 1B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.266,0.361,0.39,0.751,16.0,10.0,-0.074,0.74,0.003,-0.076,-0.03%,0.5,-0.6,7.0,1.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Jonah Heim DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.234,0.281,0.346,0.627,13.0,11.0,-0.075,0.75,0.0,-0.075,-0.03%,0.5,-0.9,0.0,0.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Leody Taveras CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.228,0.292,0.345,0.637,9.0,7.0,-0.047,0.64,0.0,-0.047,-0.02%,0.43,-0.5,5.0,0.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Andrew Knizner C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.167,0.183,0.211,0.394,5.0,4.0,-0.029,0.38,0.0,-0.029,-0.01%,0.25,-0.3,6.0,0.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Michael Lorenzen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,José Ureña P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Dane Dunning P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202407270,TEX,https://www.baseball-reference.com/boxes/TOR/TOR202407270.shtml,TexasRangersbatting,Team Totals,31.0,3.0,4.0,2.0,3.0,8.0,34.0,0.129,0.206,0.226,0.432,118.0,81.0,-0.147,0.77,0.369,-0.515,-0.06%,0.52,-1.4,24.0,8.0,

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202409120,DET,https://www.baseball-reference.com/boxes/DET/DET202409120.shtml,DetroitTigerspitching,Tarik Skubal,6.0,4,1,1,0,6,1,2.5,22,84,60,35,15,10,6,10,4,0,66.0,,,0.227,0.98,0.10%,0.76,1.9
+DET202409120,DET,https://www.baseball-reference.com/boxes/DET/DET202409120.shtml,DetroitTigerspitching,"Brenan Hanifee, H (4)",0.2,2,1,1,0,2,0,1.83,4,17,12,9,1,2,1,1,1,0,,0.0,0.0,-0.023,2.1,-0.01%,1.62,-0.1
+DET202409120,DET,https://www.baseball-reference.com/boxes/DET/DET202409120.shtml,DetroitTigerspitching,"Sean Guenther, BS (1)",1.1,1,0,0,0,2,0,0.82,5,20,15,9,3,3,1,2,0,0,,2.0,1.0,0.017,2.28,0.01%,1.76,0.1
+DET202409120,DET,https://www.baseball-reference.com/boxes/DET/DET202409120.shtml,DetroitTigerspitching,"Jason Foley, L (3-6)",1.0,2,2,2,0,0,0,3.15,5,16,12,7,2,3,3,2,0,0,,0.0,0.0,-0.411,1.75,-0.19%,1.35,-1.5
+DET202409120,DET,https://www.baseball-reference.com/boxes/DET/DET202409120.shtml,DetroitTigerspitching,Team Totals,9.0,9,4,4,0,10,1,4.0,36,137,99,60,21,18,11,15,5,0,66.0,2.0,1.0,-0.19,1.4,-0.09%,1.08,0.4

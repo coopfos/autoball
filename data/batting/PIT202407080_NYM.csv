@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.248,0.315,0.444,0.759,19.0,11.0,-0.046,1.11,0.011,-0.057,-0.02%,0.91,-0.5,0.0,2.0,HBP
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.252,0.369,0.454,0.823,9.0,6.0,0.163,1.06,0.226,-0.064,0.08%,0.87,1.1,4.0,0.0,HR
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Francisco Alvarez DH,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.299,0.366,0.496,0.862,12.0,11.0,0.005,0.65,0.043,-0.038,0.00%,0.53,0.1,0.0,0.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.24,0.321,0.459,0.78,12.0,10.0,-0.08,0.96,0.0,-0.08,-0.04%,0.79,-1.1,8.0,0.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.294,0.345,0.55,0.895,11.0,9.0,-0.036,0.77,0.029,-0.065,-0.02%,0.63,0.2,1.0,4.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Luis Torrens C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.283,0.327,0.543,0.87,10.0,8.0,-0.095,0.71,0.0,-0.095,-0.05%,0.59,-1.4,5.0,0.0,GDP
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Jose Iglesias 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.313,0.352,0.448,0.8,15.0,12.0,-0.052,0.52,0.0,-0.052,-0.03%,0.42,-0.9,1.0,1.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Jeff McNeil RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.214,0.271,0.307,0.578,22.0,13.0,0.013,0.33,0.028,-0.015,0.01%,0.27,-0.2,2.0,0.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Harrison Bader CF,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.272,0.314,0.407,0.722,9.0,7.0,0.025,0.95,0.053,-0.028,0.01%,0.78,-0.1,3.0,0.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Christian Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Eric Orze P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Adrian Houser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202407080,NYM,https://www.baseball-reference.com/boxes/PIT/PIT202407080.shtml,NewYorkMetsbatting,Team Totals,34.0,2.0,8.0,2.0,0.0,6.0,35.0,0.235,0.257,0.324,0.581,119.0,87.0,-0.103,0.78,0.39,-0.494,-0.05%,0.64,-2.6,24.0,7.0,

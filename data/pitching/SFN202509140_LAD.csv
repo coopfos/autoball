@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202509140,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509140.shtml,LosAngelesDodgerspitching,"Tyler Glasnow, W (3-3)",6.2,3,1,1,4,4,0,3.06,27,108,61,35,7,19,5,13,6,0,64.0,,,0.139,0.91,0.04%,0.48,1.8
+SFN202509140,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509140.shtml,LosAngelesDodgerspitching,Edgardo Henriquez,0.1,0,0,0,0,0,0,1.8,1,1,1,1,0,0,1,0,0,0,,2.0,0.0,0.006,0.21,0.00%,0.11,0.6
+SFN202509140,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509140.shtml,LosAngelesDodgerspitching,Michael Kopech,1.0,2,1,1,1,0,0,1.69,6,22,13,9,2,2,1,4,3,0,,0.0,0.0,0.001,0.09,0.00%,0.05,-0.5
+SFN202509140,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509140.shtml,LosAngelesDodgerspitching,Kirby Yates,1.0,0,0,0,0,0,0,5.18,3,12,7,3,1,3,1,2,0,0,,0.0,0.0,0.001,0.01,0.00%,0.0,0.5
+SFN202509140,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509140.shtml,LosAngelesDodgerspitching,Team Totals,9.0,5,2,2,5,4,0,2.0,37,143,82,48,10,24,8,19,9,0,64.0,2.0,0.0,0.147,0.69,0.05%,0.37,2.3

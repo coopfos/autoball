@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202509070,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509070.shtml,LosAngelesDodgerspitching,"Clayton Kershaw, W (10-2)",5.2,4,2,2,1,8,0,3.27,22,83,54,20,15,19,4,9,4,0,60.0,,,0.185,0.67,0.12%,0.69,1.6
+BAL202509070,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509070.shtml,LosAngelesDodgerspitching,"Edgardo Henriquez, H (4)",0.1,1,0,0,0,0,0,1.98,2,7,3,3,0,0,0,2,1,0,,1.0,1.0,-0.045,1.53,-0.03%,1.6,-0.7
+BAL202509070,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509070.shtml,LosAngelesDodgerspitching,"Justin Wrobleski, H (4)",2.0,2,0,0,0,5,0,3.97,8,44,29,17,7,5,1,2,1,0,,0.0,0.0,0.165,2.0,0.10%,2.09,1.0
+BAL202509070,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509070.shtml,LosAngelesDodgerspitching,"Jack Dreyer, S (3)",1.0,1,0,0,0,2,0,2.74,4,14,11,4,2,5,1,1,1,0,,0.0,0.0,0.039,0.52,0.02%,0.54,0.5
+BAL202509070,LAD,https://www.baseball-reference.com/boxes/BAL/BAL202509070.shtml,LosAngelesDodgerspitching,Team Totals,9.0,8,2,2,1,15,0,2.0,36,148,97,44,24,29,6,14,7,0,60.0,1.0,1.0,0.344,1.01,0.21%,1.05,2.4

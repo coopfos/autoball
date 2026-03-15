@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.281,0.33,0.485,0.814,22.0,13.0,-0.055,1.0,0.058,-0.113,-0.02%,0.71,-0.6,0.0,2.0,CS
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,1.0,0.0,0.0,1.0,2.0,5.0,0.27,0.362,0.392,0.753,25.0,11.0,-0.097,0.98,0.016,-0.113,-0.04%,0.7,-0.9,5.0,1.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Mike Trout DH,3.0,1.0,0.0,0.0,1.0,2.0,5.0,0.238,0.364,0.465,0.829,16.0,9.0,-0.037,0.93,0.031,-0.068,-0.02%,0.66,-0.2,0.0,0.0,HBP
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Taylor Ward LF,5.0,1.0,2.0,3.0,0.0,1.0,5.0,0.233,0.305,0.492,0.797,21.0,12.0,0.222,0.91,0.267,-0.046,0.10%,0.65,2.7,2.0,0.0,2B
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Jo Adell CF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.243,0.313,0.489,0.802,12.0,9.0,-0.003,0.71,0.059,-0.062,-0.00%,0.51,-0.2,1.0,0.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Yoán Moncada 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.238,0.338,0.5,0.838,20.0,10.0,-0.041,0.57,0.008,-0.049,-0.02%,0.41,-0.6,3.0,1.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.236,0.275,0.442,0.717,11.0,7.0,0.075,0.81,0.139,-0.064,0.03%,0.57,0.7,5.0,1.0,"HR,SB"
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,LaMonte Wade Jr. RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.175,0.278,0.265,0.543,14.0,11.0,-0.039,0.52,0.0,-0.039,-0.02%,0.37,-0.6,1.0,0.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Chris Taylor PH-RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.197,0.243,0.318,0.561,1.0,1.0,-0.034,1.38,0.0,-0.034,-0.01%,0.98,-0.2,1.0,0.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Luis Rengifo 2B,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.243,0.283,0.322,0.605,14.0,8.0,0.043,0.75,0.068,-0.026,0.02%,0.53,0.4,5.0,1.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Reid Detmers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,José Fermin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202507210,LAA,https://www.baseball-reference.com/boxes/NYN/NYN202507210.shtml,LosAngelesAngelsbatting,Team Totals,35.0,5.0,9.0,5.0,4.0,10.0,40.0,0.257,0.35,0.371,0.721,156.0,91.0,0.034,0.84,0.646,-0.614,0.01%,0.6,0.6,24.0,6.0,

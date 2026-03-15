@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Mike Tauchman DH,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.255,0.352,0.38,0.732,14.0,9.0,-0.044,1.01,0.061,-0.104,-0.02%,0.74,-0.2,0.0,0.0,GDP
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Christopher Morel 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.198,0.306,0.381,0.686,17.0,11.0,-0.123,0.89,0.0,-0.123,-0.05%,0.65,-1.4,1.0,0.0,GDP
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,David Bote 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.333,0.333,0.4,0.733,,,,,,,,,,0.0,0.0,
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Cody Bellinger 1B,3.0,2.0,2.0,0.0,1.0,1.0,4.0,0.268,0.324,0.447,0.771,15.0,8.0,0.078,0.74,0.088,-0.01,0.03%,0.54,0.8,5.0,1.0,
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Seiya Suzuki RF,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.267,0.337,0.46,0.797,22.0,12.0,0.143,1.31,0.178,-0.035,0.06%,0.95,1.1,2.0,0.0,
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Ian Happ LF,3.0,1.0,2.0,3.0,1.0,1.0,4.0,0.218,0.328,0.376,0.705,16.0,9.0,0.183,1.68,0.263,-0.08,0.08%,1.23,3.0,4.0,0.0,HR
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,0.0,1.0,0.0,1.0,4.0,0.244,0.335,0.338,0.672,8.0,7.0,0.011,1.66,0.133,-0.122,0.01%,1.21,-0.4,1.0,1.0,SB
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Dansby Swanson SS,3.0,0.0,0.0,1.0,1.0,0.0,4.0,0.214,0.288,0.352,0.64,13.0,7.0,0.018,1.29,0.065,-0.047,0.01%,0.94,-0.2,0.0,4.0,
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.207,0.26,0.283,0.543,12.0,7.0,-0.057,1.22,0.018,-0.075,-0.03%,0.89,-0.7,5.0,0.0,SB
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Yan Gomes C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.154,0.179,0.242,0.421,11.0,9.0,-0.063,0.99,0.04,-0.103,-0.03%,0.72,-0.8,8.0,0.0,GDP
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Shota Imanaga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Tyson Miller P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubsbatting,Team Totals,31.0,5.0,9.0,5.0,5.0,5.0,36.0,0.29,0.389,0.387,0.776,128.0,79.0,0.146,1.21,0.846,-0.699,0.06%,0.88,1.1,27.0,6.0,

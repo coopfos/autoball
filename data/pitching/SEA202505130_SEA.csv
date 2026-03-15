@@ -1,0 +1,8 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202505130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202505130.shtml,SeattleMarinerspitching,Bryan Woo,6.1,4,0,0,0,6,0,2.84,23,88,56,39,10,7,4,13,3,0,71.0,,,0.306,0.98,0.23%,1.23,2.5
+SEA202505130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202505130.shtml,SeattleMarinerspitching,"Gabe Speier, H (7)",0.2,0,0,0,1,2,0,2.3,3,15,9,3,3,3,0,0,0,0,,1.0,0.0,0.131,3.44,0.10%,4.35,0.6
+SEA202505130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202505130.shtml,SeattleMarinerspitching,"Matt Brash, H (1)",1.0,1,0,0,0,2,0,0.0,4,20,13,4,4,5,0,2,1,0,,0.0,0.0,0.113,2.14,0.08%,2.71,0.4
+SEA202505130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202505130.shtml,SeattleMarinerspitching,"Andrés Muñoz, BS (2)",1.0,0,1,0,0,1,0,0.0,5,24,16,9,4,3,3,0,0,0,,0.0,0.0,-0.227,3.83,-0.17%,4.84,-0.6
+SEA202505130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202505130.shtml,SeattleMarinerspitching,Carlos Vargas,1.0,0,0,0,1,2,0,3.79,4,14,8,3,4,1,0,1,0,0,,0.0,0.0,0.301,4.11,0.23%,5.18,1.0
+SEA202505130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202505130.shtml,SeattleMarinerspitching,"Casey Legumina, W (3-1)",1.0,0,0,0,1,0,0,2.08,4,14,8,4,1,3,2,1,0,0,,0.0,0.0,0.301,5.11,0.23%,6.44,1.0
+SEA202505130,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202505130.shtml,SeattleMarinerspitching,Team Totals,11.0,5,1,0,3,13,0,0.0,43,175,110,62,26,22,9,17,4,0,71.0,1.0,0.0,0.925,2.33,0.70%,2.94,5.1

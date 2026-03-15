@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202508110,STL,https://www.baseball-reference.com/boxes/SLN/SLN202508110.shtml,StLouisCardinalspitching,Miles Mikolas,6.2,4,2,2,1,3,0,4.97,26,76,51,30,6,15,12,10,5,0,60.0,,,0.002,1.21,0.00%,0.67,1.3
+SLN202508110,STL,https://www.baseball-reference.com/boxes/SLN/SLN202508110.shtml,StLouisCardinalspitching,"Kyle Leahy, W (3-1)",2.1,1,0,0,0,2,0,2.49,8,29,21,14,5,2,3,3,2,0,,1.0,0.0,0.239,1.52,0.08%,0.84,1.2
+SLN202508110,STL,https://www.baseball-reference.com/boxes/SLN/SLN202508110.shtml,StLouisCardinalspitching,Team Totals,9.0,5,2,2,1,5,0,2.0,34,105,72,44,11,17,15,13,7,0,60.0,1.0,0.0,0.241,1.28,0.08%,0.71,2.5

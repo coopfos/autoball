@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Nicky Lopez SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.176,0.288,0.176,0.465,9.0,7.0,-0.042,0.55,0.009,-0.05,-0.01%,0.14,-0.5,1.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Robbie Grossman RF,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.175,0.327,0.2,0.527,21.0,14.0,-0.009,0.47,0.024,-0.034,-0.00%,0.12,-0.2,3.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Eloy Jiménez DH,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.167,0.242,0.267,0.509,8.0,8.0,0.14,0.58,0.17,-0.03,0.02%,0.14,1.2,0.0,0.0,HR
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.255,0.373,0.509,0.882,14.0,7.0,0.056,0.52,0.078,-0.022,0.01%,0.13,0.6,6.0,0.0,2B
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.158,0.2,0.171,0.371,9.0,6.0,-0.069,0.55,0.0,-0.069,-0.01%,0.14,-0.9,2.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Kevin Pillar CF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.167,0.348,0.278,0.626,18.0,12.0,0.031,0.84,0.085,-0.054,0.01%,0.21,-0.0,4.0,0.0,SB
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.132,0.154,0.184,0.338,11.0,8.0,-0.083,1.08,0.0,-0.083,-0.01%,0.27,-0.8,0.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Braden Shewmake 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.143,0.162,0.257,0.419,12.0,7.0,-0.081,0.74,0.0,-0.081,-0.01%,0.18,-0.9,1.0,4.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Martín Maldonado C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.053,0.1,0.079,0.179,7.0,6.0,-0.053,0.65,0.0,-0.053,-0.01%,0.16,-0.8,7.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Nick Nastrini P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Tanner Banks P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Deivi García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Jordan Leasure P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404210,CHW,https://www.baseball-reference.com/boxes/PHI/PHI202404210.shtml,ChicagoWhiteSoxbatting,Team Totals,31.0,2.0,4.0,2.0,2.0,8.0,33.0,0.129,0.182,0.258,0.44,109.0,75.0,-0.11,0.66,0.366,-0.476,-0.01%,0.16,-2.5,24.0,5.0,

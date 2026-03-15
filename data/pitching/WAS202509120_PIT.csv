@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202509120,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202509120.shtml,PittsburghPiratespitching,Mitch Keller,5.1,4,2,2,1,4,1,4.13,20,62,39,27,5,7,5,10,4,0,55.0,,,0.04,0.9,0.00%,0.0,0.6
+WAS202509120,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202509120.shtml,PittsburghPiratespitching,"Evan Sisk, H (2)",0.2,0,0,0,1,1,0,3.68,3,13,4,2,2,0,1,0,0,0,,2.0,1.0,0.088,3.39,0.00%,0.0,0.4
+WAS202509120,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202509120.shtml,PittsburghPiratespitching,"Kyle Nicolas, BS (1), L (1-2)",0.2,3,4,4,1,1,1,5.68,6,21,12,8,2,2,2,2,0,0,,0.0,0.0,-0.442,1.33,0.00%,0.0,-2.1
+WAS202509120,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202509120.shtml,PittsburghPiratespitching,Dauri Moreta,1.1,1,0,0,0,1,0,3.75,5,15,13,10,1,2,1,3,0,0,,2.0,2.0,-0.127,0.44,0.00%,0.0,-0.9
+WAS202509120,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202509120.shtml,PittsburghPiratespitching,Team Totals,8.0,8,6,6,3,7,2,6.75,34,111,68,47,10,11,9,15,4,0,55.0,4.0,3.0,-0.441,1.19,0.00%,0.0,-2.1

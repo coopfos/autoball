@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,James Wood DH,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.259,0.357,0.474,0.831,19.0,11.0,-0.014,0.86,0.049,-0.063,0%,0.0,-0.4,0.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.267,0.33,0.45,0.78,18.0,14.0,-0.088,0.92,0.0,-0.088,0%,0.0,-1.0,2.0,1.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Riley Adams C,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.2,0.263,0.348,0.611,15.0,9.0,-0.036,0.63,0.017,-0.053,0%,0.0,-0.1,11.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Andrés Chaparro 1B,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.207,0.303,0.379,0.682,18.0,12.0,-0.028,0.72,0.03,-0.058,0%,0.0,-0.1,8.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Dylan Crews RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.202,0.28,0.343,0.622,15.0,11.0,0.074,0.75,0.098,-0.024,0%,0.0,1.1,1.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Paul DeJong 2B,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.237,0.28,0.404,0.684,17.0,12.0,-0.053,0.69,0.0,-0.053,0%,0.0,-0.8,0.0,6.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Luis García Jr. PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.26,0.296,0.406,0.702,5.0,3.0,-0.042,1.83,0.0,-0.042,0%,0.0,-0.4,0.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Daylen Lile LF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.262,0.309,0.389,0.698,14.0,10.0,-0.006,0.96,0.048,-0.055,0%,0.0,-0.3,2.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Brady House 3B,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.242,0.257,0.323,0.581,11.0,8.0,-0.006,0.98,0.103,-0.109,0%,0.0,0.9,1.0,1.0,GDP
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.23,0.298,0.282,0.581,10.0,7.0,-0.01,0.61,0.03,-0.041,0%,0.0,0.7,2.0,0.0,2B
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Brad Lord P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,PJ Poulin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Clayton Beeter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Shinnosuke Ogasawara P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Orlando Ribalta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508310,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202508310.shtml,WashingtonNationalsbatting,Team Totals,33.0,4.0,7.0,3.0,2.0,16.0,35.0,0.212,0.257,0.242,0.5,142.0,97.0,-0.209,0.83,0.375,-0.586,0.00%,0.0,-0.4,27.0,9.0,

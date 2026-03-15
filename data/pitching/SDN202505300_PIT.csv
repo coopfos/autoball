@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202505300,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202505300.shtml,PittsburghPiratespitching,"Mitch Keller, L (1-7)",6,3,3,3,2,1,0,3.73,23,78,49,34,1,14,12,8,4,0,53.0,,,-0.159,1.01,-0.01%,0.11,0.1
+SDN202505300,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202505300.shtml,PittsburghPiratespitching,Tanner Rainey,1,0,0,0,0,2,0,6.14,3,13,8,4,3,1,0,1,1,0,,0.0,0.0,0.045,0.59,0.00%,0.06,0.5
+SDN202505300,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202505300.shtml,PittsburghPiratespitching,David Bednar,1,0,0,0,0,0,0,4.58,3,4,4,3,0,1,0,3,0,0,,0.0,0.0,0.033,0.42,0.00%,0.05,0.5
+SDN202505300,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202505300.shtml,PittsburghPiratespitching,Team Totals,8,3,3,3,2,3,0,3.38,29,95,61,41,4,16,12,12,5,0,53.0,0.0,0.0,-0.081,0.9,-0.01%,0.1,1.2

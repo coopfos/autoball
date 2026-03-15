@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.279,0.36,0.369,0.729,12.0,10.0,-0.002,0.99,0.084,-0.085,-0.00%,1.3,-0.2,0.0,1.0,2B
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Mike Tauchman RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.276,0.406,0.46,0.865,18.0,8.0,-0.115,1.18,0.0,-0.115,-0.09%,1.56,-0.8,2.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.221,0.338,0.31,0.648,9.0,7.0,-0.011,0.98,0.055,-0.066,-0.01%,1.29,0.1,5.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Christopher Morel 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.21,0.286,0.403,0.689,15.0,10.0,0.084,1.25,0.192,-0.108,0.07%,1.66,0.2,1.0,1.0,HR
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Michael Busch 1B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.271,0.331,0.495,0.826,16.0,11.0,0.067,0.98,0.106,-0.039,0.05%,1.29,0.7,4.0,1.0,2B
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.224,0.289,0.345,0.634,8.0,6.0,-0.11,1.22,0.0,-0.11,-0.09%,1.61,-1.1,1.0,1.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Matt Mervis DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.115,0.148,0.154,0.302,14.0,8.0,-0.121,1.42,0.0,-0.121,-0.10%,1.87,-1.1,0.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Miguel Amaya C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.21,0.282,0.323,0.604,13.0,9.0,-0.074,0.92,0.0,-0.074,-0.06%,1.22,-0.7,12.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.259,0.25,0.444,0.694,12.0,8.0,-0.089,1.18,0.0,-0.089,-0.07%,1.56,-0.6,1.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Hayden Wesneski P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Richard Lovelady P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Adbert Alzolay P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Colten Brewer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202405030,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202405030.shtml,ChicagoCubsbatting,Team Totals,33.0,1.0,8.0,1.0,0.0,5.0,33.0,0.242,0.242,0.394,0.636,117.0,77.0,-0.371,1.12,0.437,-0.807,-0.29%,1.48,-3.4,27.0,4.0,

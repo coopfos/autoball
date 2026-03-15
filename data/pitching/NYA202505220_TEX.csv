@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202505220,TEX,https://www.baseball-reference.com/boxes/NYA/NYA202505220.shtml,TexasRangerspitching,"Nathan Eovaldi, L (4-3)",6,5,1,1,1,6,1,1.6,25,105,70,38,9,22,12,5,2,0,63.0,,,0.16,0.88,0.10%,0.88,2.0
+NYA202505220,TEX,https://www.baseball-reference.com/boxes/NYA/NYA202505220.shtml,TexasRangerspitching,Hoby Milner,1,0,0,0,0,0,0,2.49,3,16,9,6,0,3,1,2,0,0,,0.0,0.0,0.042,0.56,0.03%,0.56,0.5
+NYA202505220,TEX,https://www.baseball-reference.com/boxes/NYA/NYA202505220.shtml,TexasRangerspitching,Shawn Armstrong,1,0,0,0,0,1,0,4.58,3,11,7,4,2,1,0,2,0,0,,0.0,0.0,0.03,0.4,0.02%,0.4,0.5
+NYA202505220,TEX,https://www.baseball-reference.com/boxes/NYA/NYA202505220.shtml,TexasRangerspitching,Team Totals,8,5,1,1,1,7,1,1.12,31,132,86,48,11,26,13,9,2,0,63.0,0.0,0.0,0.232,0.81,0.14%,0.8,2.9

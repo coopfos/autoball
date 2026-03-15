@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202404100,PHI,https://www.baseball-reference.com/boxes/SLN/SLN202404100.shtml,PhiladelphiaPhilliespitching,"Aaron Nola, W (2-1)",6.0,3,2,2,3,3,2,4.5,23,93,55,36,5,14,6,11,2,0,58.0,,,0.137,1.01,0.08%,0.96,1.0
+SLN202404100,PHI,https://www.baseball-reference.com/boxes/SLN/SLN202404100.shtml,PhiladelphiaPhilliespitching,"Matt Strahm, H (2)",1.0,0,0,0,0,1,0,3.18,3,12,11,9,0,2,2,0,0,0,,0.0,0.0,0.082,1.08,0.05%,1.02,0.5
+SLN202404100,PHI,https://www.baseball-reference.com/boxes/SLN/SLN202404100.shtml,PhiladelphiaPhilliespitching,"Gregory Soto, H (3)",0.2,2,1,1,1,0,0,2.08,4,22,11,5,1,5,3,0,0,0,,0.0,0.0,0.006,1.26,0.00%,1.19,0.1
+SLN202404100,PHI,https://www.baseball-reference.com/boxes/SLN/SLN202404100.shtml,PhiladelphiaPhilliespitching,"Seranthony Domínguez, H (3)",0.1,1,0,0,0,0,0,7.2,2,13,9,6,1,2,1,1,1,0,,2.0,1.0,-0.005,3.99,-0.00%,3.77,-0.6
+SLN202404100,PHI,https://www.baseball-reference.com/boxes/SLN/SLN202404100.shtml,PhiladelphiaPhilliespitching,"Jeff Hoffman, S (1)",1.0,1,0,0,0,0,0,2.84,3,7,6,5,0,1,1,2,1,0,,0.0,0.0,0.202,4.52,0.11%,4.27,0.5
+SLN202404100,PHI,https://www.baseball-reference.com/boxes/SLN/SLN202404100.shtml,PhiladelphiaPhilliespitching,Team Totals,9.0,7,3,3,4,4,2,3.0,35,147,92,61,7,24,13,14,4,0,58.0,2.0,1.0,0.422,1.52,0.24%,1.43,1.6

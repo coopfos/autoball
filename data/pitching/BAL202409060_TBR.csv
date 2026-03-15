@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202409060,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,TampaBayRayspitching,"Shane Baz, L (2-3)",6,2,2,1,3,5,1,3.27,22,103,63,38,13,12,3,11,3,0,64.0,,,0.015,1.07,0.00%,0.15,0.7
+BAL202409060,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,TampaBayRayspitching,Richard Lovelady,1,1,0,0,0,0,0,4.61,4,13,9,6,0,3,1,3,0,0,,0.0,0.0,0.02,0.44,0.00%,0.06,0.5
+BAL202409060,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,TampaBayRayspitching,Manuel Rodríguez,1,1,0,0,0,0,0,2.27,4,12,9,7,0,2,2,2,0,0,,0.0,0.0,0.012,0.29,0.00%,0.04,0.5
+BAL202409060,TBR,https://www.baseball-reference.com/boxes/BAL/BAL202409060.shtml,TampaBayRayspitching,Team Totals,8,4,2,1,3,5,1,1.12,30,128,81,51,13,17,6,16,3,0,64.0,0.0,0.0,0.047,0.88,0.00%,0.12,1.6

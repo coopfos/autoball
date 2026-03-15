@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Dylan Crews RF,4.0,2.0,1.0,0.0,1.0,1.0,5.0,0.186,0.25,0.31,0.56,25.0,16.0,0.067,0.28,0.072,-0.005,0%,0.0,0.2,0.0,0.0,2B
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,James Wood LF,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.266,0.358,0.416,0.774,18.0,12.0,-0.026,0.37,0.019,-0.044,0%,0.0,-0.4,1.0,0.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Juan Yepez 1B,4.0,3.0,3.0,1.0,0.0,0.0,5.0,0.29,0.343,0.442,0.785,18.0,9.0,0.09,0.34,0.09,0.0,0%,0.0,1.5,12.0,0.0,SH
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Keibert Ruiz C,5.0,0.0,2.0,3.0,0.0,0.0,5.0,0.226,0.258,0.358,0.616,10.0,7.0,0.018,0.34,0.037,-0.019,0%,0.0,1.3,9.0,1.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Stone Garrett DH,4.0,2.0,3.0,3.0,1.0,0.0,5.0,0.75,0.8,1.75,2.55,27.0,15.0,0.165,0.29,0.169,-0.004,0%,0.0,3.2,0.0,0.0,"HR,2B"
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,5.0,1.0,3.0,0.0,0.0,1.0,5.0,0.281,0.318,0.44,0.758,16.0,11.0,0.01,0.22,0.015,-0.005,0%,0.0,0.9,2.0,4.0,SB
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Ildemaro Vargas 3B,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.246,0.295,0.316,0.611,19.0,12.0,0.006,0.12,0.01,-0.004,0%,0.0,-1.7,1.0,1.0,"SB,GDP"
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.258,0.315,0.333,0.649,16.0,9.0,0.052,0.29,0.054,-0.002,0%,0.0,1.1,2.0,0.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Nasim Nuñez SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.236,0.373,0.255,0.628,18.0,10.0,-0.018,0.18,0.004,-0.022,0%,0.0,-1.0,0.0,7.0,"SB,GDP"
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Trevor Williams P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Eduardo Salazar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Joe La Sorsa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202409270,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409270.shtml,WashingtonNationalsbatting,Team Totals,38.0,9.0,16.0,8.0,4.0,4.0,43.0,0.421,0.476,0.553,1.029,167.0,101.0,0.364,0.27,0.47,-0.105,0.00%,0.0,5.1,27.0,14.0,

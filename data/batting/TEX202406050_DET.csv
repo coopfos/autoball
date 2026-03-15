@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Matt Vierling CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.281,0.311,0.481,0.792,19.0,13.0,-0.047,0.47,0.0,-0.047,-0.02%,0.37,-0.8,0.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Riley Greene LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.244,0.342,0.453,0.796,20.0,13.0,-0.034,0.34,0.0,-0.034,-0.02%,0.27,-0.7,3.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Mark Canha 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.239,0.346,0.381,0.727,14.0,9.0,-0.021,0.28,0.0,-0.021,-0.01%,0.22,-0.4,4.0,1.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Andy Ibáñez PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.273,0.301,0.403,0.704,6.0,4.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Gio Urshela 3B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.27,0.303,0.365,0.668,17.0,9.0,-0.036,0.56,0.004,-0.039,-0.02%,0.45,-0.3,2.0,1.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Colt Keith 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.22,0.274,0.286,0.56,12.0,6.0,-0.033,0.42,0.0,-0.033,-0.01%,0.33,-0.5,1.0,2.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Zach McKinstry RF-P,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.193,0.265,0.295,0.561,9.0,6.0,-0.023,0.3,0.0,-0.023,-0.01%,0.24,-0.4,3.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Justyn-Henry Malloy DH-RF,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.2,0.2,0.5,0.7,12.0,6.0,0.034,0.6,0.06,-0.026,0.02%,0.48,1.0,0.0,0.0,HR
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Javier Báez SS,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.184,0.212,0.251,0.463,10.0,8.0,-0.048,0.64,0.0,-0.048,-0.02%,0.51,-0.7,5.0,2.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Jake Rogers C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.224,0.286,0.371,0.656,11.0,8.0,-0.03,0.4,0.0,-0.03,-0.01%,0.32,-0.5,6.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Kenta Maeda P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Joey Wentz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Mason Englert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Will Vest P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Andrew Chafin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202406050,DET,https://www.baseball-reference.com/boxes/TEX/TEX202406050.shtml,DetroitTigersbatting,Team Totals,29.0,1.0,2.0,1.0,1.0,11.0,30.0,0.069,0.1,0.172,0.272,130.0,82.0,-0.238,0.43,0.064,-0.301,-0.11%,0.34,-3.3,24.0,7.0,

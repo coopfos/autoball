@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Jonathan India 2B,5.0,2.0,2.0,0.0,0.0,0.0,5.0,0.25,0.352,0.394,0.746,14.0,11.0,0.03,0.4,0.058,-0.028,0.00%,0.05,0.6,1.0,1.0,GDP
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,3.0,3.0,2.0,1.0,0.0,5.0,0.264,0.347,0.491,0.838,20.0,13.0,0.111,0.62,0.128,-0.018,0.01%,0.08,3.1,3.0,1.0,"2B,SB"
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Tyler Stephenson C,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.254,0.33,0.463,0.793,13.0,7.0,0.011,0.5,0.027,-0.016,0.00%,0.06,0.8,5.0,0.0,
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Luke Maile C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.157,0.258,0.235,0.492,4.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,-0.8,1.0,0.0,GDP
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,TJ Friedl CF,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.228,0.315,0.407,0.722,19.0,9.0,0.151,0.47,0.154,-0.003,0.01%,0.06,1.3,4.0,0.0,2B
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Spencer Steer LF,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.235,0.326,0.432,0.758,14.0,6.0,0.126,0.63,0.129,-0.004,0.01%,0.07,1.2,3.0,0.0,"2B,SB"
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Stuart Fairchild LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.215,0.286,0.368,0.654,,,,,,,,,,1.0,0.0,
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Ty France 1B,3.0,0.0,0.0,1.0,0.0,2.0,4.0,0.226,0.307,0.365,0.672,18.0,9.0,-0.021,0.57,0.016,-0.037,-0.00%,0.07,-0.6,4.0,0.0,SF
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Dominic Smith DH,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.234,0.312,0.387,0.699,17.0,11.0,0.041,0.24,0.049,-0.007,0.00%,0.03,0.3,0.0,0.0,2B
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Santiago Espinal 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.262,0.302,0.388,0.691,13.0,9.0,-0.021,0.35,0.0,-0.021,-0.00%,0.04,-0.3,1.0,2.0,
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Will Benson RF,4.0,1.0,1.0,1.0,0.0,3.0,4.0,0.192,0.275,0.381,0.656,17.0,11.0,0.036,0.39,0.046,-0.009,0.00%,0.05,-0.1,4.0,0.0,
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Julian Aguiar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Casey Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202408240,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202408240.shtml,CincinnatiRedsbatting,Team Totals,36.0,10.0,12.0,8.0,3.0,7.0,40.0,0.333,0.375,0.444,0.819,149.0,88.0,0.464,0.46,0.607,-0.143,0.03%,0.06,5.4,27.0,4.0,

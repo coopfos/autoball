@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ARI202503280,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503280.shtml,ChicagoCubspitching,"Jameson Taillon, L (0-1)",4.1,9,6,6,0,1,2,12.46,22,80,53,30,5,18,7,14,7,0,22.0,,,-0.292,0.73,-0.16%,0.67,-3.1
+ARI202503280,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503280.shtml,ChicagoCubspitching,Eli Morgan,1.2,1,0,0,0,3,0,0.0,6,23,17,10,4,3,0,3,1,0,,1.0,1.0,-0.011,0.16,-0.01%,0.14,0.2
+ARI202503280,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503280.shtml,ChicagoCubspitching,Brad Keller,2.0,4,2,2,0,3,0,9.0,11,46,30,15,6,9,3,4,3,0,,0.0,0.0,-0.01,0.04,-0.01%,0.04,-1.0
+ARI202503280,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503280.shtml,ChicagoCubspitching,Team Totals,8.0,14,8,8,0,7,2,9.0,39,149,100,55,15,30,10,21,11,0,22.0,1.0,1.0,-0.313,0.46,-0.17%,0.42,-3.9

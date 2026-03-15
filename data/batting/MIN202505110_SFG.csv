@@ -1,0 +1,22 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,5.0,2.0,3.0,0.0,0.0,0.0,5.0,0.276,0.374,0.449,0.823,19.0,13.0,0.179,1.4,0.222,-0.043,0.12%,1.57,1.2,2.0,0.0,2·SB
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Willy Adames SS,5.0,1.0,1.0,0.0,0.0,3.0,5.0,0.217,0.297,0.335,0.632,21.0,13.0,-0.071,1.76,0.087,-0.158,-0.05%,1.98,-0.8,0.0,2.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee DH-CF,4.0,1.0,1.0,1.0,0.0,0.0,5.0,0.286,0.333,0.461,0.794,18.0,11.0,-0.104,2.05,0.091,-0.196,-0.07%,2.31,0.0,0.0,0.0,SF
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,4.0,1.0,2.0,0.0,1.0,1.0,5.0,0.225,0.36,0.437,0.797,16.0,10.0,0.151,1.97,0.178,-0.027,0.10%,2.22,1.1,0.0,4.0,2B
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Heliot Ramos LF,2.0,1.0,2.0,4.0,1.0,0.0,5.0,0.278,0.347,0.483,0.831,16.0,7.0,0.44,2.72,0.503,-0.063,0.30%,3.06,2.6,3.0,0.0,"HR,CS,HBP,SF"
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,LaMonte Wade Jr. 1B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.145,0.246,0.245,0.491,18.0,9.0,-0.185,1.7,0.02,-0.204,-0.12%,1.91,-1.0,5.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Hayden Birdsong P-P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Tyler Rogers P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,David Villar PH-1B,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.214,0.353,0.286,0.639,2.0,2.0,0.1,6.33,0.1,0.0,0.07%,7.12,0.1,2.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Luis Matos CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.185,0.228,0.389,0.617,10.0,7.0,-0.053,0.71,0.0,-0.053,-0.04%,0.79,-0.7,3.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Wilmer Flores PH-1B,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0.243,0.298,0.407,0.705,14.0,9.0,-0.035,3.19,0.034,-0.069,-0.02%,3.58,-0.1,0.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Ryan Walker P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Sam Huff C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.189,0.244,0.297,0.541,13.0,8.0,-0.076,1.0,0.0,-0.076,-0.05%,1.12,-0.7,6.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Patrick Bailey PH-C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.181,0.219,0.257,0.476,6.0,3.0,-0.142,5.62,0.0,-0.142,-0.10%,6.32,-0.8,5.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Brett Wisely 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,6.0,6.0,-0.055,0.71,0.0,-0.055,-0.04%,0.8,-0.5,3.0,1.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Christian Koss PH-2B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.213,0.275,0.213,0.487,3.0,3.0,-0.06,2.33,0.0,-0.06,-0.04%,2.62,-0.2,0.0,1.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Landen Roupp P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Erik Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202505110,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505110.shtml,SanFranciscoGiantsbatting,Team Totals,36.0,6.0,9.0,6.0,4.0,10.0,43.0,0.25,0.326,0.361,0.687,162.0,101.0,0.089,1.94,1.235,-1.146,0.06%,2.18,0.3,29.0,8.0,

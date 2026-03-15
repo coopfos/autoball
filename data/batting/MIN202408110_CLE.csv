@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,0.0,1.0,1.0,1.0,0.0,5.0,0.325,0.382,0.477,0.859,21.0,15.0,0.062,0.87,0.115,-0.053,0.07%,1.63,0.6,6.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Will Brennan RF,5.0,0.0,1.0,1.0,0.0,2.0,5.0,0.243,0.297,0.385,0.682,13.0,13.0,-0.01,0.75,0.06,-0.07,-0.01%,1.41,0.3,0.0,0.0,2B
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,José Ramírez 3B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.28,0.331,0.543,0.874,21.0,16.0,0.076,0.75,0.136,-0.06,0.09%,1.41,0.4,2.0,2.0,HR
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Josh Naylor DH,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.246,0.327,0.483,0.81,18.0,11.0,-0.003,0.77,0.059,-0.062,-0.00%,1.46,0.3,0.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Lane Thomas PR-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.237,0.315,0.377,0.692,,,,,,,,,,0.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,David Fry 1B,4.0,1.0,1.0,1.0,1.0,0.0,5.0,0.271,0.373,0.447,0.82,16.0,10.0,0.178,0.87,0.237,-0.059,0.20%,1.63,0.0,5.0,0.0,"HR,GDP"
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,3.0,1.0,0.0,0.0,2.0,0.0,5.0,0.255,0.305,0.337,0.641,31.0,22.0,0.034,1.1,0.078,-0.045,0.04%,2.07,0.5,2.0,1.0,"2·SB,IW"
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Daniel Schneemann CF,2.0,1.0,1.0,0.0,2.0,1.0,4.0,0.221,0.309,0.405,0.714,27.0,14.0,0.034,0.97,0.042,-0.009,0.04%,1.84,0.2,1.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Tyler Freeman CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.214,0.308,0.334,0.642,1.0,1.0,-0.015,0.57,0.0,-0.015,-0.02%,1.08,-0.4,1.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Bo Naylor C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.204,0.264,0.362,0.626,16.0,10.0,-0.155,1.51,0.005,-0.16,-0.18%,2.86,-1.1,9.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.206,0.297,0.311,0.608,11.0,7.0,0.009,1.63,0.128,-0.119,0.01%,3.08,-0.3,1.0,3.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Tanner Bibee P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Nick Sandlin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202408110,CLE,https://www.baseball-reference.com/boxes/MIN/MIN202408110.shtml,ClevelandGuardiansbatting,Team Totals,36.0,5.0,9.0,5.0,7.0,7.0,43.0,0.25,0.372,0.444,0.817,175.0,119.0,0.21,0.99,0.86,-0.652,0.24%,1.88,0.5,27.0,7.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,5.0,1.0,3.0,2.0,0.0,1.0,5.0,0.253,0.345,0.38,0.725,22.0,15.0,0.15,0.71,0.181,-0.031,0.01%,0.05,1.8,6.0,1.0,HR
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,1.0,3.0,1.0,0.0,1.0,5.0,0.266,0.33,0.463,0.793,19.0,13.0,0.071,0.62,0.091,-0.02,0.00%,0.04,1.6,0.0,0.0,"2B,HBP"
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,1.0,0.0,0.0,1.0,0.0,5.0,0.266,0.323,0.445,0.768,20.0,11.0,-0.024,0.9,0.013,-0.037,-0.00%,0.06,-0.8,9.0,0.0,
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Kevin Pillar LF,5.0,1.0,1.0,2.0,0.0,0.0,5.0,0.267,0.317,0.437,0.754,24.0,20.0,0.051,1.04,0.174,-0.123,0.00%,0.07,-0.4,2.0,0.0,GDP
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,3.0,1.0,0.0,0.0,1.0,1.0,5.0,0.231,0.305,0.284,0.588,20.0,11.0,-0.029,0.53,0.015,-0.044,-0.00%,0.03,-0.1,0.0,3.0,HBP
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Jo Adell RF,5.0,1.0,2.0,3.0,0.0,0.0,5.0,0.202,0.278,0.391,0.669,17.0,10.0,0.12,0.56,0.135,-0.016,0.01%,0.04,2.2,5.0,0.0,2B
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Brandon Drury DH,4.0,0.0,1.0,0.0,0.0,1.0,5.0,0.154,0.232,0.194,0.426,23.0,15.0,-0.031,0.33,0.022,-0.053,-0.00%,0.02,-0.5,0.0,0.0,"2B,HBP,GDP"
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.22,0.26,0.347,0.607,14.0,10.0,-0.042,0.56,0.013,-0.055,-0.00%,0.04,0.4,3.0,0.0,
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Michael Stefanic 2B,4.0,2.0,2.0,0.0,0.0,1.0,4.0,0.32,0.382,0.38,0.762,18.0,15.0,0.093,0.43,0.094,-0.001,0.00%,0.03,0.4,1.0,1.0,2B
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Roansy Contreras P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Mike Baumann P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Ben Joyce P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYA202408080,LAA,https://www.baseball-reference.com/boxes/NYA/NYA202408080.shtml,LosAngelesAngelsbatting,Team Totals,38.0,9.0,14.0,9.0,2.0,5.0,43.0,0.368,0.442,0.553,0.994,177.0,120.0,0.359,0.64,0.738,-0.38,0.02%,0.04,4.6,27.0,5.0,

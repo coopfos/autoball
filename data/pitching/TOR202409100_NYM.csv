@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202409100,NYM,https://www.baseball-reference.com/boxes/TOR/TOR202409100.shtml,NewYorkMetspitching,"David Peterson, L (9-2)",4.1,8,5,4,2,2,0,2.98,24,76,51,31,5,15,6,13,6,0,29.0,,,-0.329,1.17,-0.29%,1.73,-3.1
+TOR202409100,NYM,https://www.baseball-reference.com/boxes/TOR/TOR202409100.shtml,NewYorkMetspitching,Huascar Brazobán,2.0,2,1,1,1,1,0,3.52,8,33,20,13,3,4,1,5,2,0,,1.0,0.0,0.008,0.2,0.01%,0.29,0.5
+TOR202409100,NYM,https://www.baseball-reference.com/boxes/TOR/TOR202409100.shtml,NewYorkMetspitching,Alex Young,0.2,1,0,0,0,1,0,0.82,3,14,9,4,4,1,0,2,0,0,,1.0,1.0,-0.008,0.23,-0.01%,0.35,-0.1
+TOR202409100,NYM,https://www.baseball-reference.com/boxes/TOR/TOR202409100.shtml,NewYorkMetspitching,Adam Ottavino,1.0,1,0,0,1,1,0,4.29,4,16,9,3,3,3,1,1,0,0,,0.0,0.0,0.003,0.08,0.00%,0.12,0.5
+TOR202409100,NYM,https://www.baseball-reference.com/boxes/TOR/TOR202409100.shtml,NewYorkMetspitching,Team Totals,8.0,12,6,5,4,5,0,5.62,39,139,89,51,15,23,8,21,8,0,29.0,2.0,1.0,-0.326,0.8,-0.29%,1.18,-2.1

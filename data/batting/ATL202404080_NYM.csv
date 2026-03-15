@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Brandon Nimmo CF,4.0,2.0,4.0,5.0,1.0,0.0,5.0,0.212,0.395,0.424,0.82,29.0,17.0,0.558,1.26,0.558,0.0,0.31%,1.18,4.7,1.0,0.0,2·HR
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.075,0.208,0.175,0.383,20.0,12.0,-0.157,1.22,0.005,-0.162,-0.09%,1.15,-1.2,2.0,2.0,CS
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,0.0,0.0,1.0,3.0,5.0,0.167,0.222,0.31,0.532,23.0,16.0,-0.061,0.86,0.03,-0.091,-0.03%,0.81,-1.0,4.0,2.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Francisco Alvarez C,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.281,0.324,0.469,0.792,20.0,15.0,-0.121,0.97,0.0,-0.121,-0.07%,0.91,-1.2,12.0,1.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Brett Baty 3B,5.0,1.0,3.0,0.0,0.0,1.0,5.0,0.333,0.385,0.417,0.801,17.0,15.0,0.078,1.16,0.129,-0.051,0.04%,1.09,0.7,0.0,2.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Starling Marte RF,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.263,0.333,0.368,0.702,19.0,12.0,-0.056,1.2,0.071,-0.128,-0.03%,1.12,-0.2,1.0,0.0,GDP
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,DJ Stewart DH,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.077,0.4,0.308,0.708,17.0,11.0,0.277,1.61,0.39,-0.113,0.16%,1.51,0.7,0.0,0.0,"HR,GDP"
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Jeff McNeil LF-2B,2.0,2.0,1.0,0.0,2.0,0.0,4.0,0.143,0.273,0.25,0.523,18.0,7.0,0.039,0.79,0.074,-0.036,0.02%,0.74,0.5,4.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Joey Wendle 2B,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.125,0.0,0.125,9.0,4.0,0.033,1.46,0.065,-0.032,0.02%,1.36,0.3,1.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Tyrone Taylor PH-LF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.259,0.333,0.333,0.667,5.0,4.0,-0.033,1.1,0.011,-0.044,-0.02%,1.03,-0.0,1.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Julio Teheran P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Cole Sulser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Jake Diekman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Drew Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Jorge López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202404080,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202404080.shtml,NewYorkMetsbatting,Team Totals,35.0,8.0,11.0,8.0,7.0,8.0,42.0,0.314,0.429,0.571,1.0,177.0,113.0,0.557,1.15,1.333,-0.778,0.31%,1.08,3.4,27.0,7.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Xavier Edwards 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.291,0.359,0.338,0.697,6.0,5.0,0.025,0.68,0.057,-0.032,0.00%,0.18,0.0,2.0,4.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Agustín Ramírez DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.249,0.296,0.487,0.783,15.0,11.0,-0.029,0.79,0.039,-0.068,-0.01%,0.21,-0.8,0.0,0.0,2B
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Heriberto Hernández LF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.333,0.388,0.528,0.915,16.0,10.0,-0.118,0.85,0.006,-0.123,-0.02%,0.23,-0.6,1.0,0.0,GDP
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Otto Lopez SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.249,0.318,0.377,0.696,13.0,11.0,0.01,0.69,0.05,-0.039,0.00%,0.18,-0.2,2.0,4.0,SB
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Eric Wagaman 1B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.247,0.289,0.365,0.654,12.0,6.0,-0.008,0.85,0.034,-0.042,-0.00%,0.23,-0.2,11.0,1.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Jesús Sánchez PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.255,0.319,0.408,0.727,6.0,4.0,-0.002,0.07,0.0,-0.002,0%,0.02,-0.3,0.0,0.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Dane Myers RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.283,0.333,0.387,0.721,6.0,5.0,-0.07,0.9,0.0,-0.07,-0.01%,0.24,-0.9,1.0,0.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Kyle Stowers PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.279,0.35,0.507,0.857,5.0,3.0,-0.001,0.03,0.0,-0.001,0%,0.01,-0.2,0.0,0.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Connor Norby 3B,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.24,0.289,0.366,0.655,15.0,9.0,-0.053,0.54,0.003,-0.056,-0.01%,0.14,0.5,1.0,1.0,HR
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Derek Hill CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.205,0.267,0.325,0.592,10.0,7.0,-0.033,0.39,0.0,-0.033,-0.01%,0.1,-0.7,0.0,0.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Liam Hicks PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.269,0.369,0.413,0.781,6.0,4.0,-0.001,0.02,0.0,-0.001,0%,0.01,-0.1,0.0,0.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,1.0,2.0,0.0,0.0,0.0,3.0,0.257,0.305,0.367,0.672,13.0,10.0,0.038,0.42,0.043,-0.005,0.01%,0.11,0.6,5.0,0.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Sandy Alcantara P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Valente Bellozo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202507090,MIA,https://www.baseball-reference.com/boxes/CIN/CIN202507090.shtml,MiamiMarlinsbatting,Team Totals,33.0,2.0,7.0,2.0,2.0,7.0,35.0,0.212,0.257,0.333,0.59,123.0,85.0,-0.242,0.63,0.232,-0.472,-0.04%,0.17,-2.9,24.0,11.0,

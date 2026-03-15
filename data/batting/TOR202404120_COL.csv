@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,5.0,2.0,2.0,2.0,0.0,1.0,6.0,0.34,0.39,0.585,0.975,21.0,19.0,0.048,0.67,0.091,-0.043,0.02%,0.41,0.7,1.0,1.0,"HR,SB,SF"
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,6.0,2.0,4.0,2.0,0.0,1.0,6.0,0.415,0.484,0.623,1.107,30.0,16.0,0.12,0.48,0.135,-0.016,0.04%,0.3,2.4,0.0,5.0,3·2B
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Kris Bryant DH,5.0,0.0,2.0,2.0,0.0,2.0,6.0,0.133,0.264,0.222,0.486,15.0,10.0,0.091,0.53,0.148,-0.057,0.03%,0.33,1.8,0.0,0.0,"2B,HBP"
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Elias Díaz C,4.0,2.0,2.0,1.0,1.0,0.0,5.0,0.342,0.381,0.421,0.802,21.0,13.0,0.137,0.61,0.154,-0.018,0.05%,0.38,1.1,7.0,0.0,
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Nolan Jones LF,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.179,0.258,0.321,0.579,18.0,14.0,0.093,0.69,0.138,-0.045,0.03%,0.43,0.2,0.0,0.0,"HR,2B,GDP"
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Elehuris Montero 1B,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.206,0.263,0.235,0.498,14.0,10.0,0.012,0.5,0.044,-0.032,0.01%,0.31,-0.5,13.0,0.0,"2B,GDP"
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,2.0,3.0,1.0,1.0,1.0,5.0,0.22,0.25,0.34,0.59,19.0,12.0,0.139,0.67,0.165,-0.026,0.05%,0.41,3.1,2.0,5.0,"3B,2B"
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Michael Toglia RF,4.0,1.0,0.0,0.0,0.0,1.0,4.0,0.138,0.167,0.448,0.615,15.0,9.0,-0.11,0.72,0.0,-0.11,-0.04%,0.45,-2.2,1.0,0.0,
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Jake Cave RF,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.273,0.357,0.545,0.903,8.0,6.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,SF
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Brenton Doyle CF,5.0,2.0,3.0,1.0,0.0,2.0,5.0,0.314,0.352,0.529,0.881,17.0,12.0,-0.04,0.58,0.027,-0.066,-0.01%,0.36,1.2,3.0,0.0,2B
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Ryan Feltner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Peter Lambert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202404120,COL,https://www.baseball-reference.com/boxes/TOR/TOR202404120.shtml,ColoradoRockiesbatting,Team Totals,43.0,12.0,20.0,12.0,2.0,9.0,48.0,0.465,0.479,0.837,1.316,178.0,121.0,0.49,0.59,0.902,-0.413,0.18%,0.36,7.6,27.0,12.0,

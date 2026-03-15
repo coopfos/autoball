@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Carlos Cortes RF,6.0,2.0,2.0,0.0,0.0,3.0,6.0,0.3,0.273,0.3,0.573,23.0,19.0,-0.037,0.29,0.004,-0.041,0%,0.0,-0.6,1.0,0.0,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Nick Kurtz DH,6.0,6.0,6.0,8.0,0.0,0.0,6.0,0.305,0.374,0.686,1.06,14.0,11.0,0.17,0.25,0.17,0.0,0.00%,0.0,7.9,0.0,0.0,"4·HR,2B"
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Brent Rooker LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.273,0.351,0.498,0.848,21.0,12.0,-0.034,0.36,0.001,-0.035,0%,0.0,-0.5,2.0,0.0,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Colby Thomas PH-LF,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.111,0.158,0.167,0.325,6.0,4.0,0.0,0.0,0.0,0.0,0%,0.0,-0.0,1.0,0.0,HBP
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Shea Langeliers C,5.0,2.0,3.0,2.0,1.0,1.0,6.0,0.248,0.305,0.467,0.772,25.0,16.0,0.031,0.2,0.038,-0.008,0%,0.0,1.8,8.0,0.0,HR
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Tyler Soderstrom 1B,5.0,2.0,2.0,3.0,1.0,2.0,6.0,0.258,0.332,0.458,0.79,24.0,14.0,0.217,0.31,0.218,-0.001,0.00%,0.0,2.3,9.0,0.0,"HR,2B"
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Jacob Wilson SS,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.312,0.354,0.439,0.793,21.0,10.0,0.077,0.28,0.079,-0.002,0%,0.0,0.5,0.0,4.0,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Luis Urías 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.237,0.319,0.365,0.684,2.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,1.0,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Lawrence Butler CF,4.0,1.0,1.0,0.0,0.0,2.0,5.0,0.239,0.312,0.416,0.728,18.0,12.0,-0.018,0.15,0.0,-0.018,0%,0.0,-0.6,3.0,0.0,SH
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Gio Urshela 3B,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.237,0.298,0.338,0.636,19.0,8.0,-0.02,0.16,0.001,-0.021,0%,0.0,0.7,0.0,2.0,2B
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Max Schuemann 2B-SS,4.0,1.0,0.0,1.0,0.0,0.0,5.0,0.239,0.354,0.339,0.693,22.0,14.0,0.01,0.12,0.015,-0.005,0%,0.0,-0.8,3.0,3.0,"HBP,GDP"
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Jeffrey Springs P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Elvis Alvarado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Ben Bowden P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202507250,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507250.shtml,Athleticsbatting,Team Totals,41.0,15.0,16.0,15.0,6.0,12.0,50.0,0.39,0.49,0.902,1.392,195.0,122.0,0.396,0.22,0.526,-0.131,0.00%,0.0,10.5,27.0,11.0,

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202406160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406160.shtml,SeattleMarinerspitching,"Logan Gilbert, W (4-4)",8,2,0,0,0,9,0,2.93,26,101,72,38,19,15,5,12,8,0,87.0,,,0.432,0.77,0.30%,0.89,3.6
+SEA202406160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406160.shtml,SeattleMarinerspitching,Austin Voth,1,0,0,0,0,0,0,3.07,3,15,10,5,1,4,2,1,1,0,,0.0,0.0,0.005,0.07,0.00%,0.08,0.4
+SEA202406160,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406160.shtml,SeattleMarinerspitching,Team Totals,9,2,0,0,0,9,0,0.0,29,116,82,43,20,19,7,13,9,0,87.0,0.0,0.0,0.437,0.7,0.30%,0.8,4.0

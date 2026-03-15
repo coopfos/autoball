@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Andy Ibáñez 2B,4.0,2.0,2.0,0.0,1.0,0.0,5.0,0.297,0.325,0.415,0.741,24.0,13.0,0.135,0.47,0.136,-0.001,0.02%,0.11,1.5,1.0,2.0,3B
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Mark Canha 1B,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.228,0.335,0.343,0.679,16.0,10.0,-0.066,0.87,0.0,-0.066,-0.01%,0.21,-1.2,8.0,1.0,SF
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Riley Greene CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.253,0.35,0.48,0.831,14.0,10.0,-0.066,0.65,0.0,-0.066,-0.01%,0.16,-1.0,0.0,0.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Jake Rogers DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.208,0.257,0.352,0.61,18.0,13.0,-0.026,0.4,0.007,-0.033,-0.00%,0.1,-0.2,0.0,0.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Carson Kelly C,4.0,2.0,2.0,3.0,0.0,0.0,4.0,0.245,0.323,0.388,0.711,14.0,11.0,0.081,0.53,0.103,-0.022,0.01%,0.13,2.5,8.0,0.0,HR
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Wenceel Pérez RF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.264,0.32,0.396,0.716,21.0,11.0,0.072,0.46,0.087,-0.015,0.01%,0.11,0.7,3.0,0.0,2B
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Gio Urshela 3B,4.0,0.0,0.0,1.0,0.0,1.0,4.0,0.241,0.281,0.305,0.586,12.0,10.0,-0.004,0.51,0.008,-0.012,-0.00%,0.12,-0.5,3.0,3.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Justyn-Henry Malloy LF,3.0,1.0,2.0,2.0,0.0,1.0,3.0,0.175,0.274,0.349,0.623,12.0,8.0,0.177,0.62,0.178,-0.001,0.03%,0.15,1.9,1.0,0.0,HR
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Akil Baddoo LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.111,0.241,0.311,0.552,2.0,1.0,0.0,0.01,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Ryan Kreidler SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.129,0.229,0.129,0.358,20.0,12.0,-0.038,0.4,0.0,-0.038,-0.01%,0.1,-0.8,2.0,4.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Casey Mize P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Alex Faedo P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Andrew Chafin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406300,DET,https://www.baseball-reference.com/boxes/ANA/ANA202406300.shtml,DetroitTigersbatting,Team Totals,34.0,7.0,8.0,7.0,2.0,6.0,37.0,0.235,0.27,0.5,0.77,153.0,99.0,0.265,0.53,0.519,-0.254,0.04%,0.13,2.5,27.0,13.0,

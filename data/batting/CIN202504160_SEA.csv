@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Julio Rodríguez CF,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.188,0.317,0.391,0.708,17.0,11.0,0.023,0.74,0.061,-0.038,0.01%,0.65,0.1,2.0,0.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Jorge Polanco DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.366,0.372,0.61,0.982,13.0,9.0,-0.028,0.61,0.033,-0.061,-0.01%,0.54,-0.5,0.0,0.0,2B
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Mitch Garver PH-DH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.154,0.313,0.154,0.466,3.0,2.0,-0.027,1.02,0.0,-0.027,-0.01%,0.89,-0.5,0.0,0.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Cal Raleigh C,5.0,2.0,2.0,2.0,0.0,0.0,5.0,0.217,0.308,0.565,0.873,16.0,13.0,0.026,0.61,0.097,-0.071,0.01%,0.54,1.0,14.0,1.0,2·HR
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Randy Arozarena LF,3.0,0.0,2.0,1.0,2.0,0.0,5.0,0.194,0.359,0.419,0.778,20.0,9.0,0.115,0.52,0.122,-0.007,0.06%,0.45,1.6,0.0,0.0,"2B,SB"
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Luke Raley RF,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.149,0.273,0.234,0.507,18.0,12.0,-0.068,0.64,0.006,-0.074,-0.04%,0.56,-1.0,1.0,1.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Rowdy Tellez 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.088,0.135,0.206,0.341,12.0,11.0,-0.061,0.6,0.0,-0.061,-0.03%,0.53,-1.3,5.0,1.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Dylan Moore 2B,4.0,2.0,2.0,0.0,0.0,0.0,4.0,0.325,0.386,0.65,1.036,8.0,7.0,0.04,0.66,0.072,-0.031,0.02%,0.58,0.1,3.0,1.0,"2B,SB"
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Ben Williamson 3B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.286,0.286,0.286,0.571,20.0,13.0,0.0,0.75,0.077,-0.076,0.00%,0.66,-0.4,0.0,1.0,CS
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,J.P. Crawford SS,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.204,0.391,0.224,0.615,15.0,11.0,0.076,0.51,0.091,-0.015,0.04%,0.45,0.8,1.0,1.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Bryce Miller P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Trent Thornton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Troy Taylor P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Carlos Vargas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Gabe Speier P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202504160,SEA,https://www.baseball-reference.com/boxes/CIN/CIN202504160.shtml,SeattleMarinersbatting,Team Totals,37.0,5.0,10.0,5.0,4.0,8.0,41.0,0.27,0.341,0.514,0.855,142.0,98.0,0.096,0.64,0.559,-0.461,0.05%,0.56,0.1,27.0,7.0,

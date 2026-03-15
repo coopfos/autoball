@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Yandy Díaz DH,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.248,0.281,0.389,0.67,14.0,11.0,-0.062,0.61,0.012,-0.074,-0.03%,0.5,-0.5,0.0,0.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Brandon Lowe 2B,4.0,2.0,1.0,1.0,1.0,2.0,5.0,0.211,0.248,0.337,0.584,23.0,12.0,0.098,0.63,0.141,-0.044,0.05%,0.52,0.6,1.0,5.0,HR
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Junior Caminero 3B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.248,0.287,0.446,0.733,17.0,11.0,0.1,0.7,0.123,-0.023,0.05%,0.57,1.6,1.0,0.0,"2B,SB"
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Travis Jankowski PR-RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.214,0.267,0.214,0.481,,,,,,,,,,0.0,0.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Jonathan Aranda 1B,4.0,0.0,2.0,0.0,1.0,1.0,5.0,0.321,0.419,0.577,0.996,28.0,16.0,0.016,0.8,0.059,-0.043,0.01%,0.65,0.1,9.0,0.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Christopher Morel LF,4.0,0.0,1.0,1.0,1.0,1.0,5.0,0.256,0.333,0.449,0.782,15.0,10.0,0.013,1.04,0.111,-0.098,0.01%,0.85,-0.0,1.0,0.0,2B
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Kameron Misner RF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.333,0.377,0.594,0.971,9.0,5.0,0.01,1.09,0.037,-0.027,0.01%,0.9,0.1,1.0,0.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Curtis Mead PH,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.125,0.237,0.156,0.393,6.0,3.0,0.009,1.86,0.009,0.0,0.00%,1.52,-0.2,0.0,0.0,SF
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Taylor Walls SS,1.0,0.0,0.0,1.0,1.0,0.0,2.0,0.159,0.26,0.159,0.419,11.0,4.0,0.026,0.74,0.039,-0.014,0.01%,0.61,0.8,1.0,1.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,José Caballero SS-RF-3B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.241,0.328,0.407,0.735,17.0,11.0,-0.094,1.06,0.01,-0.104,-0.05%,0.86,-2.0,4.0,1.0,SB
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Chandler Simpson CF,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.346,0.393,0.385,0.777,14.0,8.0,-0.003,0.85,0.041,-0.045,-0.00%,0.7,-0.1,3.0,0.0,CS
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Danny Jansen C,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.14,0.279,0.228,0.507,22.0,11.0,-0.089,1.04,0.01,-0.099,-0.04%,0.85,-1.1,6.0,2.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Ryan Pepiot P,,,,,,,,,,,,,,,,,,,,,0.0,3.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Edwin Uceta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Hunter Bigge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Pete Fairbanks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202504260,TBR,https://www.baseball-reference.com/boxes/SDN/SDN202504260.shtml,TampaBayRaysbatting,Team Totals,36.0,4.0,9.0,4.0,6.0,10.0,43.0,0.25,0.349,0.389,0.738,176.0,102.0,0.024,0.86,0.592,-0.571,0.01%,0.7,-0.7,27.0,12.0,

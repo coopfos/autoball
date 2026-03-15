@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202406050,STL,https://www.baseball-reference.com/boxes/HOU/HOU202406050.shtml,StLouisCardinalspitching,"Miles Mikolas, W (4-6)",6,5,2,2,0,3,2,5.32,22,62,43,26,2,15,7,12,3,0,57.0,,,0.139,0.96,0.07%,0.76,0.9
+HOU202406050,STL,https://www.baseball-reference.com/boxes/HOU/HOU202406050.shtml,StLouisCardinalspitching,"JoJo Romero, H (19)",1,0,0,0,0,1,0,2.03,3,7,5,2,2,1,1,1,0,0,,0.0,0.0,0.079,1.05,0.04%,0.82,0.5
+HOU202406050,STL,https://www.baseball-reference.com/boxes/HOU/HOU202406050.shtml,StLouisCardinalspitching,"Andrew Kittredge, H (17)",1,0,0,0,1,1,0,2.77,4,16,9,3,2,4,1,1,1,0,,0.0,0.0,0.085,1.21,0.04%,0.96,0.5
+HOU202406050,STL,https://www.baseball-reference.com/boxes/HOU/HOU202406050.shtml,StLouisCardinalspitching,"Ryan Helsley, S (20)",1,0,0,0,0,2,0,2.33,3,8,7,3,4,0,0,1,0,0,,0.0,0.0,0.087,1.15,0.04%,0.91,0.5
+HOU202406050,STL,https://www.baseball-reference.com/boxes/HOU/HOU202406050.shtml,StLouisCardinalspitching,Team Totals,9,5,2,2,1,7,2,2.0,32,93,64,34,10,20,9,15,4,0,57.0,0.0,0.0,0.39,1.02,0.18%,0.81,2.3

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,1.0,0.0,0.0,1.0,2.0,5.0,0.314,0.404,0.639,1.043,19.0,12.0,-0.079,0.62,0.01,-0.089,-0.06%,0.78,-0.2,0.0,0.0,SB
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,5.0,2.0,2.0,1.0,0.0,2.0,5.0,0.265,0.33,0.483,0.813,22.0,15.0,0.127,0.58,0.155,-0.027,0.10%,0.73,1.0,3.0,0.0,HR
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,2.0,2.0,1.0,2.0,3.0,0.0,5.0,0.238,0.297,0.357,0.653,21.0,9.0,0.171,0.74,0.198,-0.027,0.13%,0.93,2.1,1.0,2.0,HR
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Jason Heyward RF,4.0,0.0,1.0,1.0,0.0,1.0,5.0,0.2,0.293,0.393,0.686,16.0,11.0,-0.02,0.6,0.032,-0.051,-0.01%,0.75,0.1,0.0,0.0,SF
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.204,0.27,0.319,0.589,17.0,12.0,-0.068,0.52,0.001,-0.069,-0.05%,0.65,-0.8,0.0,1.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Cavan Biggio 1B,5.0,0.0,1.0,1.0,0.0,2.0,5.0,0.202,0.316,0.304,0.62,17.0,11.0,0.015,0.63,0.069,-0.054,0.01%,0.79,0.6,10.0,0.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,James Outman CF,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.152,0.248,0.273,0.521,22.0,12.0,0.119,0.67,0.164,-0.046,0.09%,0.83,0.1,2.0,0.0,HR
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Austin Barnes C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.281,0.349,0.333,0.682,15.0,9.0,-0.012,0.69,0.029,-0.041,-0.01%,0.87,0.0,10.0,1.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Nick Ahmed SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.233,0.278,0.314,0.592,14.0,9.0,-0.06,0.86,0.013,-0.073,-0.04%,1.08,-1.1,1.0,3.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,River Ryan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Joe Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Brent Honeywell Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202407280,LAD,https://www.baseball-reference.com/boxes/HOU/HOU202407280.shtml,LosAngelesDodgersbatting,Team Totals,34.0,6.0,8.0,6.0,7.0,11.0,42.0,0.235,0.357,0.5,0.857,163.0,100.0,0.193,0.65,0.671,-0.477,0.15%,0.82,1.7,27.0,7.0,

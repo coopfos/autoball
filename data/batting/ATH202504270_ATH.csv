@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Lawrence Butler RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.257,0.339,0.429,0.768,12.0,8.0,-0.04,1.03,0.038,-0.078,-0.02%,0.94,-0.2,5.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Brent Rooker DH,3.0,0.0,2.0,1.0,1.0,1.0,4.0,0.248,0.303,0.496,0.799,12.0,5.0,0.192,1.6,0.249,-0.057,0.10%,1.46,2.0,0.0,0.0,2B
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Shea Langeliers C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.217,0.287,0.424,0.711,10.0,6.0,-0.18,1.79,0.0,-0.18,-0.10%,1.62,-1.4,5.0,1.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Tyler Soderstrom LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.292,0.361,0.585,0.946,18.0,9.0,-0.162,1.62,0.029,-0.19,-0.09%,1.47,-1.5,3.0,1.0,GDP
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Seth Brown PR-LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.179,0.303,0.321,0.624,,,,,,,,,,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Jacob Wilson SS,4.0,1.0,0.0,0.0,0.0,0.0,4.0,0.324,0.336,0.467,0.803,13.0,8.0,-0.165,1.55,0.0,-0.165,-0.09%,1.41,-1.1,1.0,2.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,JJ Bleday CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.216,0.313,0.33,0.642,22.0,14.0,-0.233,1.8,0.0,-0.233,-0.13%,1.63,-1.0,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Luis Urías 2B,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.275,0.348,0.575,0.923,9.0,4.0,0.714,1.72,0.747,-0.034,0.39%,1.56,1.6,4.0,3.0,HR
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Nick Kurtz 1B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.25,0.235,0.25,0.485,6.0,6.0,-0.106,1.52,0.046,-0.153,-0.06%,1.38,-0.8,9.0,0.0,"CS,GDP"
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Max Schuemann 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.217,0.25,0.391,0.641,12.0,8.0,-0.038,1.42,0.04,-0.078,-0.02%,1.29,-0.1,3.0,7.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Osvaldo Bido P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,T.J. McFarland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Justin Sterner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Tyler Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Grant Holman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202504270,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202504270.shtml,Athleticsbatting,Team Totals,31.0,3.0,6.0,3.0,3.0,8.0,34.0,0.194,0.265,0.323,0.587,114.0,68.0,-0.018,1.56,1.149,-1.168,-0.01%,1.41,-2.3,30.0,14.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.25,0.25,0.5,0.75,11.0,7.0,-0.028,1.05,0.06,-0.088,-0.02%,1.02,-0.3,2.0,0.0,2B
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.25,0.25,0.25,0.5,13.0,10.0,-0.033,0.89,0.026,-0.059,-0.02%,0.87,-0.4,9.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Mike Trout RF,2.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.5,0.0,0.5,21.0,12.0,0.032,1.02,0.061,-0.029,0.02%,0.99,0.2,3.0,0.0,HBP
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Jorge Soler DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,18.0,11.0,-0.166,1.44,0.0,-0.166,-0.10%,1.4,-1.7,0.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Tim Anderson 2B-SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,19.0,10.0,-0.094,0.88,0.0,-0.094,-0.06%,0.86,-1.2,0.0,1.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B-2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,18.0,12.0,-0.053,0.53,0.0,-0.053,-0.03%,0.51,-0.7,1.0,1.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.5,0.5,1.25,1.75,16.0,10.0,0.009,0.33,0.026,-0.017,0.01%,0.32,1.1,6.0,0.0,HR
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Jo Adell CF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.333,0.333,0.333,0.667,11.0,5.0,-0.007,1.0,0.038,-0.045,-0.00%,0.97,-0.1,2.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Kyren Paris PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Kevin Newman SS,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,4.0,-0.055,1.33,0.0,-0.055,-0.03%,1.29,-0.6,1.0,6.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Yoán Moncada PH-3B,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,,,6.0,2.0,0.026,0.53,0.026,0.0,0.01%,0.51,0.3,0.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Yusei Kikuchi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Ryan Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Nicky Lopez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202503270,LAA,https://www.baseball-reference.com/boxes/CHA/CHA202503270.shtml,LosAngelesAngelsbatting,Team Totals,32.0,1.0,5.0,1.0,2.0,10.0,35.0,0.156,0.229,0.281,0.51,141.0,86.0,-0.369,0.88,0.237,-0.606,-0.22%,0.85,-3.4,24.0,8.0,

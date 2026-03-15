@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202409270,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409270.shtml,ChicagoCubspitching,"Jameson Taillon, W (12-8)",7,4,0,0,2,2,0,3.27,25,89,58,38,3,17,9,12,5,0,69.0,,,0.452,1.32,0.00%,0.0,3.4
+CHN202409270,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409270.shtml,ChicagoCubspitching,"Tyson Miller, H (15)",1,0,0,0,0,1,0,2.35,4,10,7,2,3,2,1,1,0,0,,0.0,0.0,0.119,1.69,0.00%,0.0,0.5
+CHN202409270,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409270.shtml,ChicagoCubspitching,"Porter Hodge, S (8)",1,0,0,0,0,1,0,1.93,3,8,7,3,2,2,1,1,0,0,,0.0,0.0,0.16,2.12,0.00%,0.0,0.5
+CHN202409270,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409270.shtml,ChicagoCubspitching,Team Totals,9,4,0,0,2,4,0,0.0,32,107,72,43,8,21,11,14,5,0,69.0,0.0,0.0,0.731,1.44,0.00%,0.0,4.4

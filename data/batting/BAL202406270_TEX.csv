@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Marcus Semien 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.244,0.306,0.399,0.706,13.0,8.0,-0.052,0.73,0.036,-0.089,-0.01%,0.32,-1.2,0.0,0.0,CS
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Davis Wendzel 2B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.146,0.167,0.268,0.435,3.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,1.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Corey Seager SS,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.257,0.34,0.44,0.78,15.0,9.0,0.012,0.28,0.028,-0.017,0.00%,0.12,-0.2,0.0,4.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Josh Smith 3B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.298,0.391,0.467,0.858,12.0,9.0,0.053,0.44,0.068,-0.015,0.01%,0.2,0.8,1.0,2.0,2B
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Adolis García RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.219,0.279,0.413,0.692,11.0,8.0,-0.045,0.6,0.027,-0.072,-0.01%,0.27,-0.3,1.0,1.0,HR
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Wyatt Langford DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.245,0.306,0.354,0.66,15.0,10.0,-0.062,0.58,0.0,-0.062,-0.02%,0.26,-1.2,0.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Nathaniel Lowe 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.256,0.346,0.348,0.694,12.0,9.0,-0.026,0.28,0.001,-0.027,-0.01%,0.12,0.5,7.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Jonah Heim C,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.238,0.291,0.347,0.638,13.0,6.0,0.017,0.2,0.023,-0.006,0.01%,0.09,0.1,3.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Andrew Knizner C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.129,0.141,0.177,0.318,,,,,,,,,,0.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Derek Hill LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.235,0.278,0.235,0.513,13.0,11.0,-0.028,0.33,0.002,-0.03,-0.01%,0.15,-0.7,3.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Leody Taveras CF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.219,0.286,0.328,0.614,14.0,8.0,-0.009,0.22,0.009,-0.019,-0.00%,0.1,0.2,8.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Jon Gray P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Jonathan Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202406270,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406270.shtml,TexasRangersbatting,Team Totals,38.0,2.0,12.0,2.0,0.0,9.0,38.0,0.316,0.316,0.421,0.737,121.0,81.0,-0.14,0.4,0.194,-0.337,-0.04%,0.18,-2.1,24.0,8.0,

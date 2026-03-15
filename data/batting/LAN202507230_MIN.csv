@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Byron Buxton CF,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.288,0.35,0.572,0.922,19.0,12.0,-0.049,1.62,0.036,-0.085,-0.02%,0.88,-0.4,2.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Willi Castro LF-3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.257,0.346,0.429,0.774,15.0,11.0,-0.18,1.72,0.014,-0.194,-0.06%,0.93,-1.3,1.0,0.0,GDP
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Trevor Larnach RF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.242,0.313,0.405,0.719,12.0,7.0,-0.038,0.76,0.012,-0.05,-0.01%,0.41,-0.3,3.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Harrison Bader PH-LF,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.251,0.33,0.435,0.765,3.0,2.0,0.25,2.08,0.25,0.0,0.08%,1.11,1.0,3.0,0.0,SB
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.254,0.347,0.401,0.748,19.0,12.0,-0.104,0.96,0.0,-0.104,-0.03%,0.52,-0.9,9.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Kody Clemens 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.216,0.289,0.503,0.792,16.0,10.0,-0.1,0.99,0.0,-0.1,-0.03%,0.53,-0.9,1.0,2.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Ty France 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.249,0.315,0.356,0.671,15.0,10.0,-0.041,0.71,0.018,-0.059,-0.01%,0.38,-0.2,3.0,1.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Matt Wallner DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.207,0.306,0.451,0.757,19.0,13.0,-0.083,0.81,0.0,-0.083,-0.03%,0.44,-0.7,0.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,2.0,1.0,2.0,1.0,1.0,0.0,3.0,0.244,0.308,0.391,0.699,14.0,6.0,0.256,1.35,0.256,0.0,0.08%,0.73,1.8,0.0,0.0,"HR,2B"
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,DaShawn Keirsey Jr. PR-RF,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.099,0.135,0.141,0.276,5.0,4.0,0.165,2.8,0.183,-0.018,0.05%,1.51,0.5,0.0,0.0,2·SB
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Brooks Lee SS,2.0,1.0,0.0,0.0,1.0,0.0,3.0,0.249,0.288,0.367,0.655,14.0,8.0,-0.005,1.86,0.067,-0.072,-0.00%,1.0,-0.2,3.0,2.0,SB
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Chris Paddack P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Danny Coulombe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Louis Varland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Brock Stewart P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Griffin Jax P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202507230,MIN,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,MinnesotaTwinsbatting,Team Totals,31.0,3.0,5.0,2.0,4.0,15.0,35.0,0.161,0.257,0.29,0.547,151.0,95.0,0.071,1.36,0.836,-0.765,0.02%,0.73,-1.5,26.0,5.0,

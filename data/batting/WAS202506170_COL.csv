@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Mickey Moniak DH,4.0,2.0,1.0,1.0,1.0,1.0,5.0,0.237,0.292,0.475,0.766,11.0,7.0,-0.009,0.59,0.042,-0.051,0%,0.0,1.1,0.0,0.0,"HR,SB"
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Tyler Freeman RF,1.0,1.0,1.0,0.0,1.0,0.0,5.0,0.309,0.41,0.432,0.842,22.0,9.0,0.021,0.55,0.061,-0.04,0%,0.0,0.8,1.0,0.0,"CS,3·HBP"
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Hunter Goodman C,5.0,1.0,1.0,3.0,0.0,3.0,5.0,0.285,0.326,0.522,0.849,17.0,11.0,0.039,0.6,0.092,-0.053,0%,0.0,0.7,5.0,0.0,"HR,GDP"
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,1.0,2.0,1.0,1.0,1.0,5.0,0.222,0.333,0.411,0.745,24.0,14.0,0.079,0.55,0.103,-0.024,0%,0.0,1.7,0.0,2.0,"HR,2B"
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Thairo Estrada 2B,2.0,1.0,1.0,1.0,0.0,0.0,3.0,0.288,0.304,0.424,0.729,6.0,3.0,0.085,1.1,0.125,-0.041,0%,0.0,1.0,0.0,1.0,"HR,HBP"
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Orlando Arcia PH-2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.194,0.237,0.25,0.487,13.0,9.0,-0.001,0.03,0.0,-0.001,0%,0.0,-0.5,0.0,2.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Brenton Doyle CF,5.0,1.0,0.0,0.0,0.0,1.0,5.0,0.194,0.255,0.308,0.563,18.0,13.0,-0.087,0.67,0.0,-0.087,0%,0.0,-1.3,3.0,0.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Michael Toglia 1B,5.0,2.0,3.0,3.0,0.0,1.0,5.0,0.205,0.273,0.385,0.658,21.0,14.0,0.233,0.56,0.263,-0.03,0%,0.0,2.4,10.0,1.0,2·HR
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Sam Hilliard LF,3.0,1.0,1.0,1.0,1.0,2.0,4.0,0.258,0.41,0.613,1.023,19.0,8.0,-0.009,0.6,0.023,-0.032,0%,0.0,1.0,3.0,0.0,HR
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Ryan Ritter SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.216,0.256,0.324,0.581,13.0,10.0,-0.092,0.92,0.0,-0.092,0%,0.0,-1.3,4.0,4.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Antonio Senzatela P,,,,,,,,,,,,,,,,,,,,,1.0,3.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Jake Bird P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Anthony Molina P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202506170,COL,https://www.baseball-reference.com/boxes/WAS/WAS202506170.shtml,ColoradoRockiesbatting,Team Totals,35.0,10.0,10.0,10.0,4.0,12.0,43.0,0.286,0.419,0.914,1.333,164.0,98.0,0.259,0.63,0.709,-0.451,0.00%,0.0,5.7,27.0,13.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.281,0.331,0.421,0.752,20.0,13.0,-0.064,1.08,0.057,-0.122,-0.01%,0.3,-0.4,3.0,1.0,2B
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,0.0,0.0,0.0,3.0,5.0,0.311,0.355,0.485,0.84,17.0,11.0,-0.122,1.03,0.0,-0.122,-0.02%,0.29,-1.2,3.0,0.0,SH
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,5.0,1.0,3.0,2.0,0.0,1.0,5.0,0.321,0.397,0.495,0.892,18.0,14.0,0.364,1.16,0.37,-0.006,0.06%,0.32,1.5,1.0,1.0,2·2B
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Elias Díaz C,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.293,0.35,0.402,0.752,23.0,15.0,-0.019,0.75,0.013,-0.032,-0.00%,0.21,-0.6,4.0,1.0,IW
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Charlie Blackmon RF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.227,0.284,0.352,0.636,9.0,8.0,0.067,0.4,0.082,-0.015,0.01%,0.11,0.2,3.0,0.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Jake Cave RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.259,0.3,0.37,0.67,,,,,,,,,,1.0,0.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Hunter Goodman PH-RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.182,0.4,0.582,3.0,3.0,-0.077,2.45,0.0,-0.077,-0.01%,0.69,-0.5,0.0,0.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.235,0.286,0.353,0.639,21.0,13.0,0.004,0.27,0.015,-0.011,0.00%,0.07,-0.3,1.0,4.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Elehuris Montero 1B,4.0,1.0,1.0,3.0,0.0,2.0,4.0,0.221,0.274,0.314,0.588,17.0,13.0,0.174,0.4,0.182,-0.008,0.03%,0.11,2.1,8.0,1.0,HR
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.5,0.5,0.5,1.0,11.0,8.0,0.0,0.12,0.007,-0.008,0%,0.03,-0.2,3.0,0.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Sean Bouchard DH,4.0,1.0,0.0,0.0,0.0,2.0,4.0,0.24,0.367,0.32,0.687,15.0,12.0,-0.02,0.18,0.0,-0.02,-0.00%,0.05,-0.8,0.0,0.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Ryan Feltner P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Justin Lawrence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404300,COL,https://www.baseball-reference.com/boxes/MIA/MIA202404300.shtml,ColoradoRockiesbatting,Team Totals,38.0,6.0,9.0,6.0,2.0,13.0,41.0,0.237,0.275,0.395,0.67,154.0,110.0,0.307,0.68,0.726,-0.421,0.05%,0.19,-0.0,28.0,10.0,

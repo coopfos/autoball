@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Shea Langeliers DH,4.0,0.0,1.0,1.0,0.0,1.0,5.0,0.272,0.32,0.538,0.858,20.0,17.0,-0.032,0.55,0.008,-0.04,0%,0.0,-0.1,0.0,0.0,SF
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Nick Kurtz 1B,3.0,0.0,0.0,1.0,2.0,2.0,5.0,0.304,0.387,0.641,1.028,20.0,10.0,0.012,0.35,0.036,-0.024,0%,0.0,-0.2,5.0,2.0,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Brent Rooker RF,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.274,0.346,0.496,0.842,13.0,11.0,-0.018,0.39,0.023,-0.041,0%,0.0,0.0,0.0,0.0,SB
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Carlos Cortes RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.333,0.364,0.433,0.797,,,,,,,,,,0.0,0.0,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Willie MacIver C,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.222,0.263,0.407,0.671,17.0,12.0,-0.045,0.4,0.0,-0.045,0%,0.0,-1.2,13.0,0.0,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Tyler Soderstrom LF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.258,0.332,0.464,0.796,14.0,9.0,-0.053,0.48,0.017,-0.07,0%,0.0,-0.5,3.0,0.0,"HR,GDP"
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Darell Hernaiz SS,3.0,2.0,2.0,0.0,1.0,0.0,4.0,0.321,0.375,0.607,0.982,23.0,13.0,0.073,0.31,0.083,-0.01,0%,0.0,0.7,2.0,1.0,"3B,CS"
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Colby Thomas CF,1.0,1.0,1.0,3.0,0.0,0.0,2.0,0.156,0.243,0.313,0.556,9.0,5.0,0.184,0.89,0.185,-0.001,0.00%,0.01,1.6,1.0,0.0,"HR,SF"
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,JJ Bleday PH-CF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.217,0.304,0.407,0.711,8.0,4.0,-0.006,0.11,0.0,-0.006,0%,0.0,-0.3,1.0,0.0,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Luis Urías 2B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.238,0.324,0.358,0.682,14.0,9.0,0.015,0.21,0.022,-0.007,0%,0.0,0.1,0.0,1.0,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Max Schuemann 3B,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.215,0.313,0.313,0.626,13.0,7.0,0.069,0.33,0.076,-0.007,0%,0.0,1.5,0.0,0.0,3·2B
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Jacob Lopez P,,,,,,,,,,,,,,,,,,,,,2.0,1.0,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Justin Sterner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202508070,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508070.shtml,Athleticsbatting,Team Totals,35.0,6.0,12.0,6.0,3.0,9.0,40.0,0.343,0.375,0.657,1.032,151.0,97.0,0.199,0.39,0.45,-0.251,0.00%,0.0,1.6,27.0,5.0,

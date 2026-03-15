@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Luis Arráez 2B,3.0,1.0,0.0,0.0,0.0,2.0,4.0,0.185,0.333,0.222,0.556,21.0,14.0,-0.02,0.56,0.013,-0.033,-0.01%,0.36,-0.5,1.0,2.0,HBP
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Jonah Bride 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.143,0.25,0.143,0.393,,,,,,,,,,0.0,1.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Josh Bell 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.231,0.355,0.269,0.624,14.0,9.0,0.035,0.72,0.073,-0.038,0.01%,0.47,0.4,9.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Jake Burger DH,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.31,0.323,0.345,0.667,10.0,8.0,0.06,0.68,0.084,-0.024,0.02%,0.44,0.5,0.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Bryan De La Cruz LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.258,0.258,0.387,0.645,16.0,11.0,-0.066,0.79,0.01,-0.076,-0.03%,0.51,-0.8,1.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.13,0.333,0.304,0.638,19.0,11.0,-0.03,0.61,0.018,-0.048,-0.01%,0.4,-0.4,2.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Tim Anderson SS,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.231,0.286,0.269,0.555,10.0,6.0,-0.015,0.86,0.032,-0.047,-0.01%,0.56,-0.3,1.0,4.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Nick Gordon PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.182,0.182,0.545,0.727,1.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Avisaíl García RF,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.167,0.211,0.389,0.599,7.0,6.0,-0.021,0.82,0.049,-0.071,-0.01%,0.53,-0.2,5.0,0.0,"2B,GDP"
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Vidal Bruján 3B-2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.125,0.0,0.125,15.0,11.0,-0.044,0.68,0.0,-0.044,-0.02%,0.44,-0.6,1.0,3.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.083,0.154,0.167,0.321,11.0,8.0,-0.058,0.53,0.0,-0.058,-0.02%,0.34,-0.9,7.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,A.J. Puk P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Burch Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Kent Emanuel P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202404030,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202404030.shtml,MiamiMarlinsbatting,Team Totals,30.0,2.0,4.0,2.0,2.0,9.0,33.0,0.133,0.212,0.167,0.379,124.0,85.0,-0.159,0.67,0.279,-0.439,-0.06%,0.43,-2.9,27.0,11.0,

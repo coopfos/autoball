@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Zach Neto SS,6.0,3.0,2.0,1.0,0.0,0.0,6.0,0.281,0.328,0.488,0.816,22.0,13.0,0.069,0.65,0.107,-0.037,0.03%,0.45,0.3,1.0,8.0,SB
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.274,0.364,0.396,0.76,6.0,3.0,0.024,0.62,0.024,0.0,0.01%,0.43,0.3,0.0,0.0,HBP
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,LaMonte Wade Jr. 1B,4.0,1.0,3.0,1.0,1.0,0.0,5.0,0.178,0.282,0.269,0.551,16.0,10.0,-0.009,0.61,0.059,-0.068,-0.00%,0.42,1.5,17.0,0.0,HR
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Mike Trout DH,4.0,1.0,1.0,2.0,1.0,1.0,6.0,0.241,0.363,0.471,0.834,32.0,18.0,0.055,0.77,0.093,-0.039,0.02%,0.53,0.0,0.0,0.0,SF
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,2.0,4.0,1.0,2.0,5.0,0.231,0.304,0.491,0.795,21.0,12.0,0.196,0.73,0.208,-0.012,0.08%,0.5,3.2,0.0,0.0,2·2B
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Jo Adell CF,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.243,0.314,0.492,0.805,21.0,15.0,-0.068,0.51,0.0,-0.068,-0.03%,0.35,-2.0,0.0,0.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Jorge Soler RF,4.0,0.0,2.0,0.0,1.0,0.0,5.0,0.215,0.294,0.38,0.674,12.0,8.0,0.002,0.33,0.026,-0.025,0.00%,0.23,0.6,0.0,0.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Gustavo Campero RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.125,0.243,0.219,0.462,,,,,,,,,,0.0,0.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.233,0.272,0.431,0.703,15.0,9.0,0.005,0.34,0.028,-0.023,0.00%,0.23,-0.4,6.0,0.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Luis Rengifo 2B,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.237,0.277,0.317,0.594,22.0,13.0,0.052,0.47,0.06,-0.008,0.02%,0.32,0.3,2.0,6.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Kevin Newman 3B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.204,0.212,0.252,0.464,15.0,11.0,0.017,0.68,0.066,-0.049,0.01%,0.47,-0.6,1.0,5.0,GDP
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,José Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Carson Fulmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202507200,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507200.shtml,LosAngelesAngelsbatting,Team Totals,40.0,8.0,14.0,8.0,6.0,6.0,48.0,0.35,0.438,0.475,0.913,182.0,112.0,0.343,0.57,0.671,-0.329,0.14%,0.4,3.3,27.0,19.0,

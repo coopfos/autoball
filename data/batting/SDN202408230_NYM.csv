@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.268,0.34,0.479,0.819,12.0,9.0,-0.033,0.32,0.0,-0.033,-0.02%,0.39,-0.4,1.0,2.0,2B
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.278,0.334,0.549,0.884,15.0,13.0,-0.026,0.26,0.0,-0.026,-0.02%,0.32,-0.9,0.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,J.D. Martinez DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.251,0.336,0.436,0.772,9.0,7.0,-0.016,0.21,0.0,-0.016,-0.01%,0.26,-0.4,0.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Pete Alonso 1B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.245,0.333,0.468,0.801,16.0,10.0,-0.034,0.44,0.0,-0.034,-0.03%,0.54,-0.6,10.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Starling Marte RF,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.279,0.327,0.415,0.742,12.0,9.0,-0.009,0.33,0.012,-0.021,-0.01%,0.41,0.0,2.0,0.0,2B
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Jose Iglesias 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.331,0.382,0.472,0.854,12.0,9.0,-0.024,0.3,0.0,-0.024,-0.02%,0.36,-0.6,1.0,7.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Jeff McNeil LF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.239,0.3,0.39,0.691,11.0,7.0,-0.026,0.33,0.0,-0.026,-0.02%,0.4,-0.7,1.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Francisco Alvarez C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.24,0.306,0.389,0.694,15.0,10.0,-0.019,0.24,0.0,-0.019,-0.01%,0.3,-0.6,6.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Harrison Bader CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.253,0.299,0.378,0.677,11.0,6.0,-0.011,0.14,0.0,-0.011,-0.01%,0.17,-0.4,3.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Paul Blackburn P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Ryne Stanek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Danny Young P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Adam Ottavino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202408230,NYM,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,NewYorkMetsbatting,Team Totals,29.0,0.0,2.0,0.0,0.0,14.0,29.0,0.069,0.069,0.138,0.207,113.0,80.0,-0.198,0.29,0.012,-0.21,-0.15%,0.35,-4.6,24.0,10.0,

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangerspitching,"Kumar Rocker, L (0-2)",4.2,7,3,3,0,2,0,3.86,21,73,50,35,5,10,10,9,6,0,40.0,,,-0.123,1.07,0.00%,0.0,-0.9
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangerspitching,Jack Leiter,3.1,2,0,0,3,1,0,8.83,15,48,26,18,3,5,4,7,4,0,,1.0,0.0,0.121,0.84,0.00%,0.0,1.6
+OAK202409260,TEX,https://www.baseball-reference.com/boxes/OAK/OAK202409260.shtml,TexasRangerspitching,Team Totals,8.0,9,3,3,3,3,0,3.38,36,121,76,53,8,15,14,16,10,0,40.0,1.0,0.0,-0.002,0.98,0.00%,0.0,0.7

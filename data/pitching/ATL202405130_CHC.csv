@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubspitching,Shota Imanaga,5,7,0,0,3,8,0,0.96,23,98,58,33,17,8,4,8,5,0,58.0,,,0.282,1.27,0.21%,1.55,2.6
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubspitching,"Hayden Wesneski, L (2-2)",3,3,2,2,1,2,0,2.1,13,53,33,19,8,6,7,3,2,0,,0.0,0.0,-0.202,0.7,-0.15%,0.86,-0.5
+ATL202405130,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405130.shtml,ChicagoCubspitching,Team Totals,8,10,2,2,4,10,0,2.25,36,151,91,52,25,14,11,11,7,0,58.0,0.0,0.0,0.08,1.07,0.06%,1.31,2.1

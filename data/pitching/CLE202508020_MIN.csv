@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202508020,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202508020.shtml,MinnesotaTwinspitching,Bailey Ober,5,6,4,4,1,4,2,5.38,22,91,62,40,7,15,5,12,4,0,42.0,,,-0.232,0.97,-0.04%,0.27,-1.5
+CLE202508020,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202508020.shtml,MinnesotaTwinspitching,"Pierson Ohl, L (0-2)",3,4,1,1,1,2,0,7.5,14,52,32,19,7,6,3,8,5,0,,0.0,0.0,-0.067,1.74,-0.01%,0.48,0.5
+CLE202508020,MIN,https://www.baseball-reference.com/boxes/CLE/CLE202508020.shtml,MinnesotaTwinspitching,Team Totals,8,10,5,5,2,6,2,5.62,36,143,94,59,14,21,8,20,9,0,42.0,0.0,0.0,-0.299,1.27,-0.05%,0.35,-1.0

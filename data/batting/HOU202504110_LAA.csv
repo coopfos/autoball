@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Taylor Ward LF,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.222,0.271,0.407,0.679,25.0,13.0,-0.051,0.52,0.0,-0.052,-0.04%,0.6,-0.2,2.0,0.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.239,0.294,0.391,0.685,12.0,8.0,-0.036,0.38,0.001,-0.037,-0.03%,0.44,0.4,0.0,5.0,2B
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Mike Trout RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.208,0.322,0.604,0.926,10.0,8.0,0.111,0.46,0.128,-0.017,0.08%,0.53,-0.1,2.0,0.0,HR
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Jorge Soler DH,3.0,0.0,2.0,1.0,0.0,0.0,4.0,0.277,0.345,0.511,0.856,11.0,8.0,0.026,0.54,0.049,-0.023,0.02%,0.63,1.2,0.0,0.0,HBP
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,4.0,4.0,0.326,0.341,0.698,1.039,20.0,12.0,-0.066,0.69,0.0,-0.066,-0.05%,0.8,-1.2,2.0,0.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Travis d'Arnaud C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.143,0.2,0.143,0.343,,,,,,,,,,1.0,0.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.286,0.364,0.388,0.751,21.0,14.0,-0.04,0.47,0.023,-0.063,-0.03%,0.55,-0.8,13.0,0.0,"2B,GDP"
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Kyren Paris 2B,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.419,0.514,1.0,1.514,12.0,6.0,0.093,0.6,0.093,0.0,0.07%,0.7,0.8,0.0,3.0,2B
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Jo Adell CF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.229,0.289,0.429,0.718,16.0,10.0,-0.007,0.84,0.037,-0.045,-0.01%,0.98,-0.7,2.0,0.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Tim Anderson SS,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.161,0.212,0.194,0.406,8.0,5.0,-0.043,0.85,0.0,-0.043,-0.03%,0.99,-0.4,2.0,2.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Kevin Newman SS,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.056,0.056,0.056,0.111,14.0,10.0,0.0,0.01,0.0,0.0,0%,0.01,-0.5,0.0,1.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Jack Kochanowicz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Garrett McDaniels P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Michael Darrell-Hicks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Ian Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202504110,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202504110.shtml,LosAngelesAngelsbatting,Team Totals,33.0,3.0,8.0,3.0,2.0,10.0,36.0,0.242,0.306,0.424,0.73,149.0,94.0,-0.013,0.55,0.331,-0.346,-0.01%,0.64,-1.4,24.0,12.0,

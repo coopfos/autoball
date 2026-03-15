@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202508030,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202508030.shtml,PhiladelphiaPhilliespitching,"Cristopher Sánchez, W (10-3)",8,5,0,0,1,6,0,2.4,29,84,58,30,16,12,14,8,4,0,77.0,,,0.6,1.61,0.53%,2.38,4.3
+PHI202508030,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202508030.shtml,PhiladelphiaPhilliespitching,"Jhoan Duran, S (18)",1,0,0,0,0,1,0,1.93,3,12,8,5,3,0,2,0,0,0,,0.0,0.0,0.079,1.01,0.07%,1.49,0.5
+PHI202508030,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202508030.shtml,PhiladelphiaPhilliespitching,Team Totals,9,5,0,0,1,7,0,0.0,32,96,66,35,19,12,16,8,4,0,77.0,0.0,0.0,0.679,1.56,0.60%,2.3,4.8

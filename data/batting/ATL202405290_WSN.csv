@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,CJ Abrams SS,5.0,0.0,0.0,0.0,0.0,4.0,5.0,0.26,0.307,0.476,0.783,28.0,19.0,-0.129,0.96,0.0,-0.129,-0.05%,0.63,-1.5,2.0,2.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Lane Thomas RF,4.0,2.0,3.0,3.0,1.0,1.0,5.0,0.21,0.273,0.33,0.603,27.0,17.0,0.35,0.68,0.365,-0.016,0.14%,0.45,3.3,2.0,0.0,"HR,2B,2·SB"
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Jesse Winker DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.238,0.354,0.395,0.75,17.0,11.0,-0.042,0.54,0.018,-0.06,-0.02%,0.35,0.3,0.0,0.0,SB
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.262,0.305,0.415,0.719,20.0,13.0,0.033,0.68,0.095,-0.062,0.01%,0.45,-0.5,2.0,2.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Keibert Ruiz C,5.0,0.0,2.0,2.0,0.0,0.0,5.0,0.213,0.246,0.315,0.561,22.0,15.0,-0.011,0.62,0.078,-0.088,-0.00%,0.41,0.8,12.0,1.0,"2B,SB"
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Eddie Rosario LF,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.181,0.237,0.368,0.605,20.0,16.0,-0.072,0.76,0.028,-0.101,-0.03%,0.5,-0.6,1.0,0.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Nick Senzel 3B,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.224,0.336,0.402,0.738,9.0,5.0,0.013,1.38,0.013,0.0,0.01%,0.9,0.1,0.0,0.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Ildemaro Vargas PR-3B,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.298,0.383,0.404,0.787,8.0,4.0,-0.004,1.09,0.064,-0.068,-0.00%,0.71,-0.3,0.0,3.0,"SB,GDP"
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Joey Gallo 1B,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.15,0.273,0.319,0.591,12.0,8.0,-0.022,1.08,0.089,-0.11,-0.01%,0.71,-0.6,6.0,0.0,2B
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,1.0,1.0,2.0,0.0,0.0,4.0,0.27,0.327,0.321,0.648,10.0,7.0,0.13,0.96,0.17,-0.04,0.05%,0.63,1.3,2.0,0.0,"CS,HBP"
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,MacKenzie Gore P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Hunter Harvey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Jordan Weems P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202405290,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202405290.shtml,WashingtonNationalsbatting,Team Totals,38.0,7.0,13.0,7.0,3.0,9.0,42.0,0.342,0.405,0.5,0.905,173.0,115.0,0.246,0.81,0.92,-0.674,0.10%,0.53,2.4,27.0,8.0,

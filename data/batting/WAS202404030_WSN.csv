@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,0.0,2.0,2.0,0.0,1.0,4.0,0.316,0.409,0.579,0.988,13.0,7.0,0.143,1.26,0.188,-0.045,0.08%,1.12,1.8,2.0,1.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Lane Thomas RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.1,0.174,0.1,0.274,9.0,6.0,-0.159,0.9,0.0,-0.159,-0.08%,0.8,-2.4,4.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Joey Meneses DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.263,0.318,0.316,0.634,24.0,13.0,-0.039,0.68,0.022,-0.06,-0.02%,0.61,-0.5,0.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Joey Gallo 1B,4.0,1.0,3.0,1.0,0.0,1.0,4.0,0.188,0.278,0.438,0.715,13.0,9.0,0.138,0.69,0.158,-0.02,0.07%,0.61,1.5,5.0,1.0,"HR,2B"
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.3,0.333,0.45,0.783,7.0,5.0,-0.029,0.76,0.041,-0.07,-0.01%,0.68,-0.9,13.0,0.0,GDP
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Eddie Rosario LF-CF,4.0,1.0,0.0,0.0,0.0,2.0,4.0,0.158,0.15,0.368,0.518,15.0,11.0,-0.082,0.82,0.0,-0.082,-0.04%,0.73,-1.2,1.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Trey Lipscomb 3B,3.0,1.0,0.0,0.0,0.0,1.0,4.0,0.357,0.4,0.571,0.971,15.0,11.0,-0.007,0.79,0.041,-0.049,-0.00%,0.7,-0.3,0.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,2.0,3.0,1.0,0.0,1.0,4.0,0.333,0.375,0.6,0.975,11.0,6.0,0.239,0.89,0.242,-0.003,0.13%,0.79,2.4,0.0,0.0,3·2B
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Víctor Robles CF,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.6,0.0,0.6,7.0,3.0,0.011,1.6,0.011,0.0,0.01%,1.42,0.2,0.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Ildemaro Vargas PR-LF,2.0,0.0,1.0,1.0,0.0,0.0,2.0,0.375,0.444,0.5,0.944,5.0,4.0,0.07,0.91,0.111,-0.04,0.04%,0.8,0.6,1.0,0.0,"2B,SB"
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Trevor Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Jordan Weems P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Hunter Harvey P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Kyle Finnegan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202404030,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,WashingtonNationalsbatting,Team Totals,32.0,5.0,10.0,5.0,2.0,8.0,35.0,0.312,0.353,0.563,0.915,119.0,75.0,0.285,0.87,0.814,-0.528,0.15%,0.78,1.1,27.0,2.0,

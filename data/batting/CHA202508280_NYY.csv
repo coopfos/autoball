@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Trent Grisham CF,4.0,1.0,1.0,2.0,1.0,1.0,5.0,0.248,0.353,0.475,0.828,23.0,14.0,-0.045,0.87,0.038,-0.083,-0.03%,0.99,0.6,2.0,0.0,HR
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Ben Rice C,5.0,1.0,2.0,1.0,0.0,3.0,5.0,0.248,0.343,0.496,0.839,22.0,16.0,0.082,0.7,0.116,-0.034,0.06%,0.8,0.9,10.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Aaron Judge DH,3.0,2.0,1.0,0.0,2.0,1.0,5.0,0.323,0.44,0.666,1.106,26.0,15.0,0.171,0.75,0.195,-0.023,0.12%,0.86,1.1,0.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Cody Bellinger LF,4.0,2.0,3.0,2.0,1.0,0.0,5.0,0.283,0.336,0.511,0.847,16.0,10.0,0.284,0.8,0.306,-0.022,0.19%,0.91,3.1,4.0,0.0,"HR,2B"
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Giancarlo Stanton RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.305,0.38,0.647,1.026,16.0,10.0,-0.182,1.02,0.0,-0.182,-0.12%,1.17,-2.0,3.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,José Caballero RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.231,0.333,0.332,0.665,3.0,3.0,-0.001,0.03,0.0,-0.001,-0.00%,0.03,-0.4,1.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 2B,4.0,1.0,2.0,2.0,0.0,0.0,5.0,0.242,0.338,0.495,0.833,19.0,12.0,0.078,0.63,0.106,-0.028,0.05%,0.72,1.6,0.0,2.0,"HR,SB,SF"
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,4.0,1.0,0.0,1.0,0.0,1.0,5.0,0.281,0.333,0.426,0.758,21.0,14.0,-0.04,0.55,0.019,-0.059,-0.03%,0.63,-0.4,5.0,1.0,SF
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Ryan McMahon 3B,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.216,0.314,0.389,0.703,17.0,11.0,0.007,0.52,0.053,-0.046,0.01%,0.59,0.2,0.0,1.0,2B
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Anthony Volpe SS,3.0,1.0,2.0,1.0,0.0,0.0,4.0,0.207,0.271,0.397,0.668,12.0,10.0,0.07,0.47,0.07,0.0,0.05%,0.54,0.7,1.0,2.0,"2B,SB,SF"
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Will Warren P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Luke Weaver P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Devin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202508280,NYY,https://www.baseball-reference.com/boxes/CHA/CHA202508280.shtml,NewYorkYankeesbatting,Team Totals,37.0,10.0,12.0,9.0,4.0,10.0,44.0,0.324,0.364,0.649,1.012,175.0,115.0,0.424,0.68,0.903,-0.478,0.29%,0.77,5.6,27.0,6.0,

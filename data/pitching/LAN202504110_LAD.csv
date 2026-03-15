@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202504110,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202504110.shtml,LosAngelesDodgerspitching,"Yoshinobu Yamamoto, W (2-1)",6,2,0,0,1,9,0,1.23,20,103,64,31,11,22,6,4,0,0,76.0,,,0.352,0.9,0.23%,0.98,2.9
+LAN202504110,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202504110.shtml,LosAngelesDodgerspitching,"Kirby Yates, H (2)",1,0,0,0,0,2,0,2.45,3,13,9,3,2,4,0,1,0,0,,0.0,0.0,0.046,0.6,0.03%,0.65,0.5
+LAN202504110,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202504110.shtml,LosAngelesDodgerspitching,"Blake Treinen, H (3)",1,0,0,0,0,0,0,2.57,3,14,9,7,1,1,0,3,0,0,,0.0,0.0,0.042,0.55,0.03%,0.6,0.5
+LAN202504110,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202504110.shtml,LosAngelesDodgerspitching,"Tanner Scott, S (4)",1,0,0,0,0,0,0,3.38,3,16,12,11,0,1,1,2,2,0,,0.0,0.0,0.032,0.42,0.02%,0.46,0.5
+LAN202504110,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202504110.shtml,LosAngelesDodgerspitching,Team Totals,9,2,0,0,1,11,0,0.0,29,146,94,52,14,28,7,10,2,0,76.0,0.0,0.0,0.472,0.78,0.31%,0.85,4.4

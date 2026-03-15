@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.262,0.31,0.412,0.723,20.0,8.0,-0.01,1.25,0.083,-0.092,0%,0.19,0.3,0.0,2.0,SB
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.268,0.313,0.474,0.786,10.0,10.0,-0.161,1.68,0.0,-0.161,-0.01%,0.26,-1.0,1.0,0.0,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.283,0.353,0.46,0.814,14.0,7.0,-0.072,1.22,0.02,-0.092,-0.01%,0.18,-0.2,0.0,3.0,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.232,0.316,0.382,0.699,10.0,8.0,-0.041,1.55,0.075,-0.115,-0.00%,0.23,-0.7,8.0,0.0,2B
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Jordyn Adams PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Tyler O'Neill RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.21,0.296,0.42,0.716,9.0,9.0,-0.2,1.9,0.0,-0.2,-0.02%,0.29,-1.0,3.0,0.0,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Colton Cowser LF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.217,0.284,0.411,0.695,16.0,10.0,-0.056,0.74,0.0,-0.056,-0.01%,0.11,-0.4,1.0,0.0,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Coby Mayo 1B,2.0,0.0,0.0,0.0,1.0,2.0,3.0,0.221,0.308,0.375,0.683,14.0,7.0,-0.016,1.35,0.053,-0.069,-0.00%,0.2,0.0,8.0,0.0,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Dylan Carlson CF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.219,0.268,0.344,0.612,13.0,6.0,-0.056,1.37,0.061,-0.117,-0.01%,0.21,-0.6,3.0,0.0,GDP
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Jeremiah Jackson DH,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.333,0.333,0.333,0.667,11.0,8.0,-0.108,1.42,0.018,-0.125,-0.01%,0.21,-0.6,0.0,0.0,CS
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Trevor Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolesbatting,Team Totals,28.0,0.0,3.0,0.0,4.0,8.0,32.0,0.107,0.219,0.143,0.362,117.0,73.0,-0.72,1.4,0.31,-1.027,-0.06%,0.21,-4.2,24.0,5.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202504080,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202504080.shtml,ChicagoWhiteSoxpitching,Shane Smith,6.0,2,0,0,1,6,0,1.54,22,83,51,28,9,14,9,5,4,0,73.0,,,0.356,1.18,0.16%,0.9,3.0
+CLE202504080,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202504080.shtml,ChicagoWhiteSoxpitching,Tyler Gilbert,1.2,0,0,0,1,3,0,0.0,6,28,19,12,4,3,0,2,0,0,,0.0,0.0,0.169,1.56,0.08%,1.19,0.9
+CLE202504080,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202504080.shtml,ChicagoWhiteSoxpitching,"Mike Clevinger, L (0-2)",0.1,1,1,1,3,0,0,6.0,5,31,16,12,2,2,1,1,0,0,,0.0,0.0,-0.336,2.45,-0.15%,1.87,-2.7
+CLE202504080,CHW,https://www.baseball-reference.com/boxes/CLE/CLE202504080.shtml,ChicagoWhiteSoxpitching,Team Totals,8.0,3,1,1,5,9,0,1.12,33,142,86,52,15,19,10,8,4,0,73.0,0.0,0.0,0.189,1.44,0.09%,1.1,1.2

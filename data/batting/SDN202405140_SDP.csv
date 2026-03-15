@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Luis Arráez 2B,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.303,0.351,0.371,0.722,26.0,16.0,-0.052,0.97,0.065,-0.117,-0.03%,0.89,0.4,1.0,4.0,GDP
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,4.0,0.0,2.0,0.0,1.0,0.0,5.0,0.257,0.338,0.44,0.778,17.0,10.0,0.088,0.8,0.11,-0.023,0.05%,0.73,1.1,1.0,0.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Jake Cronenworth 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.272,0.343,0.481,0.824,26.0,16.0,-0.155,1.39,0.0,-0.155,-0.08%,1.27,-1.7,9.0,0.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.228,0.282,0.354,0.637,13.0,8.0,-0.089,1.2,0.049,-0.138,-0.05%,1.09,-1.3,0.0,0.0,2·GDP
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Jurickson Profar LF,1.0,1.0,1.0,0.0,3.0,0.0,4.0,0.324,0.416,0.52,0.936,15.0,3.0,0.092,0.95,0.092,0.0,0.05%,0.86,1.1,2.0,0.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Xander Bogaerts DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.213,0.263,0.316,0.58,9.0,7.0,-0.125,1.3,0.022,-0.147,-0.07%,1.19,-0.6,0.0,0.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.29,0.34,0.399,0.739,12.0,8.0,-0.05,1.31,0.045,-0.095,-0.03%,1.2,-0.6,1.0,0.0,SB
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Luis Campusano C,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.275,0.321,0.42,0.741,14.0,10.0,-0.002,1.5,0.099,-0.101,-0.00%,1.37,1.3,13.0,1.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.208,0.324,0.357,0.681,13.0,10.0,-0.068,1.2,0.038,-0.106,-0.04%,1.1,-1.2,0.0,2.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Dylan Cease P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Stephen Kolek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Enyel De Los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405140,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202405140.shtml,SanDiegoPadresbatting,Team Totals,34.0,3.0,11.0,2.0,4.0,6.0,38.0,0.324,0.395,0.324,0.718,145.0,88.0,-0.361,1.18,0.52,-0.882,-0.20%,1.08,-1.5,27.0,8.0,

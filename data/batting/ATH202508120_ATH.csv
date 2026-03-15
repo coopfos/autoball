@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Nick Kurtz 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.3,0.381,0.618,0.999,16.0,12.0,-0.044,0.44,0.0,-0.044,0%,0.0,-1.0,8.0,0.0,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Shea Langeliers C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.276,0.323,0.548,0.871,7.0,6.0,0.009,0.35,0.037,-0.027,0%,0.0,0.6,11.0,0.0,2B
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Brent Rooker DH,2.0,1.0,0.0,0.0,1.0,1.0,4.0,0.274,0.348,0.498,0.846,15.0,9.0,0.024,0.4,0.036,-0.012,0%,0.0,0.3,0.0,0.0,HBP
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Tyler Soderstrom LF,4.0,2.0,2.0,0.0,0.0,0.0,4.0,0.262,0.334,0.471,0.805,7.0,5.0,0.123,0.68,0.131,-0.008,0.00%,0.01,0.9,3.0,0.0,2B
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Colby Thomas RF,3.0,1.0,2.0,2.0,0.0,0.0,4.0,0.2,0.261,0.35,0.611,16.0,9.0,0.129,0.59,0.135,-0.006,0.00%,0.0,1.2,1.0,0.0,"2B,SB,SF"
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Darell Hernaiz SS,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.233,0.34,0.419,0.758,17.0,8.0,-0.021,0.54,0.024,-0.045,0%,0.01,-0.2,1.0,3.0,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Lawrence Butler CF,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.232,0.307,0.403,0.71,12.0,9.0,-0.013,0.67,0.076,-0.089,0%,0.01,-0.0,1.0,0.0,"2B,GDP"
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Luis Urías 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.234,0.317,0.347,0.664,13.0,9.0,0.015,0.47,0.05,-0.035,0%,0.0,0.2,2.0,1.0,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Gio Urshela 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.236,0.286,0.326,0.612,8.0,7.0,-0.026,0.37,0.002,-0.028,0%,0.0,-0.1,0.0,3.0,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Jacob Lopez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Justin Sterner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Tyler Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202508120,ATH,https://www.baseball-reference.com/boxes/ATH/ATH202508120.shtml,Athleticsbatting,Team Totals,30.0,6.0,8.0,4.0,3.0,7.0,35.0,0.267,0.343,0.4,0.743,111.0,74.0,0.196,0.5,0.491,-0.294,0.00%,0.0,2.0,27.0,8.0,

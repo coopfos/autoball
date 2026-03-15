@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.265,0.333,0.462,0.796,22.0,13.0,0.071,0.81,0.108,-0.037,0.05%,0.97,0.4,2.0,2.0,SB
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Juan Soto RF,3.0,2.0,0.0,0.0,2.0,0.0,5.0,0.249,0.386,0.497,0.883,20.0,10.0,0.07,0.81,0.098,-0.029,0.05%,0.96,0.1,0.0,0.0,"SB,GDP"
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,1.0,2.0,1.0,0.0,5.0,0.262,0.346,0.51,0.856,14.0,7.0,0.098,0.85,0.176,-0.079,0.07%,1.01,0.6,8.0,0.0,HR
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Mark Vientos DH,5.0,2.0,3.0,2.0,0.0,1.0,5.0,0.238,0.284,0.404,0.688,22.0,14.0,-0.04,0.76,0.07,-0.11,-0.03%,0.9,1.2,0.0,0.0,2·HR
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Jeff McNeil 2B,5.0,2.0,2.0,4.0,0.0,0.0,5.0,0.261,0.351,0.462,0.812,20.0,14.0,0.202,0.95,0.266,-0.064,0.14%,1.14,2.7,1.0,0.0,2·HR
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Ronny Mauricio 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.228,0.29,0.389,0.679,,,,,,,,,,0.0,0.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Starling Marte LF,3.0,1.0,3.0,1.0,1.0,0.0,4.0,0.289,0.361,0.454,0.816,15.0,9.0,0.119,0.64,0.119,0.0,0.08%,0.76,2.0,1.0,1.0,"HR,2·SB"
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Cedric Mullins CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.23,0.307,0.423,0.73,4.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,0.3,0.0,0.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Brett Baty 3B-2B,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.246,0.306,0.437,0.743,26.0,13.0,-0.066,0.6,0.005,-0.071,-0.05%,0.71,-1.0,1.0,3.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Tyrone Taylor CF-LF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.206,0.26,0.296,0.557,17.0,11.0,-0.088,0.66,0.0,-0.088,-0.06%,0.79,-0.9,5.0,0.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Hayden Senger C,4.0,0.0,0.0,0.0,0.0,1.0,5.0,0.172,0.21,0.19,0.399,12.0,8.0,-0.062,0.5,0.002,-0.065,-0.04%,0.6,-0.8,9.0,0.0,HBP
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202508230,NYM,https://www.baseball-reference.com/boxes/ATL/ATL202508230.shtml,NewYorkMetsbatting,Team Totals,38.0,9.0,11.0,9.0,6.0,5.0,45.0,0.289,0.4,0.763,1.163,172.0,102.0,0.304,0.72,0.844,-0.543,0.22%,0.85,4.5,27.0,7.0,

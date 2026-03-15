@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Jarred Kelenic CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.262,0.309,0.431,0.74,12.0,8.0,-0.053,0.52,0.0,-0.053,-0.03%,0.56,-0.9,2.0,0.0,
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Ozzie Albies 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.254,0.308,0.404,0.712,14.0,8.0,-0.025,0.57,0.025,-0.049,-0.02%,0.62,0.4,1.0,2.0,2B
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Austin Riley 3B,2.0,0.0,0.0,1.0,1.0,0.0,4.0,0.261,0.333,0.459,0.792,13.0,7.0,0.017,0.52,0.039,-0.021,0.01%,0.56,-0.1,1.0,1.0,SF
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.231,0.31,0.41,0.721,19.0,11.0,-0.101,0.73,0.0,-0.101,-0.07%,0.79,-1.3,6.0,2.0,GDP
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,2.0,2.0,2.0,0.0,0.0,4.0,0.301,0.377,0.584,0.96,14.0,8.0,0.126,0.55,0.148,-0.022,0.08%,0.6,1.7,0.0,0.0,2·HR
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Adam Duvall RF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.19,0.256,0.332,0.588,15.0,12.0,0.085,0.5,0.095,-0.01,0.06%,0.54,0.3,2.0,0.0,2B
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Eddie Rosario LF,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.182,0.223,0.322,0.545,9.0,6.0,-0.031,0.68,0.01,-0.041,-0.02%,0.74,-0.3,7.0,0.0,SH
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Eli White LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.231,0.231,0.615,0.846,,,,,,,,,,0.0,0.0,
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Travis d'Arnaud C,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.239,0.299,0.429,0.728,14.0,8.0,0.029,0.85,0.076,-0.047,0.02%,0.92,-0.3,6.0,0.0,GDP
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Orlando Arcia SS,3.0,2.0,2.0,2.0,0.0,0.0,3.0,0.212,0.246,0.338,0.584,8.0,7.0,0.177,0.74,0.195,-0.018,0.11%,0.81,2.0,1.0,1.0,HR
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Spencer Schwellenbach P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Joe Jiménez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Dylan Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202407120,ATL,https://www.baseball-reference.com/boxes/SDN/SDN202407120.shtml,AtlantaBravesbatting,Team Totals,32.0,6.0,9.0,6.0,1.0,3.0,35.0,0.281,0.294,0.625,0.919,118.0,75.0,0.224,0.63,0.588,-0.362,0.15%,0.68,1.4,27.0,6.0,

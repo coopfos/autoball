@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Ian Happ LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.274,0.366,0.389,0.755,21.0,14.0,-0.052,1.2,0.035,-0.087,-0.04%,1.5,-0.3,0.0,0.0,SB
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Kyle Tucker DH,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.284,0.395,0.547,0.943,12.0,7.0,-0.033,0.82,0.024,-0.058,-0.03%,1.03,-0.2,0.0,0.0,SB
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Seiya Suzuki RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.252,0.314,0.518,0.832,16.0,10.0,-0.134,1.22,0.0,-0.134,-0.10%,1.53,-1.0,0.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Carson Kelly C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.348,0.488,0.773,1.261,19.0,11.0,0.018,1.18,0.091,-0.073,0.01%,1.47,-0.2,14.0,1.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Justin Turner 1B-3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.17,0.27,0.17,0.44,18.0,11.0,-0.213,1.34,0.0,-0.213,-0.16%,1.68,-1.2,5.0,1.0,GDP
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.281,0.322,0.348,0.67,12.0,9.0,-0.007,0.73,0.046,-0.053,-0.01%,0.91,0.1,1.0,3.0,2·2B
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,1.0,1.0,0.0,2.0,3.0,0.265,0.303,0.537,0.841,13.0,10.0,0.031,1.14,0.093,-0.062,0.02%,1.43,0.5,2.0,1.0,2B
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Dansby Swanson SS,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.236,0.288,0.439,0.727,13.0,6.0,-0.044,1.02,0.022,-0.066,-0.03%,1.29,-0.4,2.0,2.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Jon Berti 3B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.271,0.338,0.305,0.644,8.0,5.0,-0.05,1.0,0.0,-0.05,-0.04%,1.26,-0.4,0.0,3.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Michael Busch PH-1B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.25,0.348,0.475,0.823,4.0,3.0,-0.038,1.35,0.0,-0.038,-0.03%,1.69,-0.2,3.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Ben Brown P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Gavin Hollowell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Drew Pomeranz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Julian Merryweather P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Brad Keller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Chris Flexen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,ChicagoCubsbatting,Team Totals,30.0,1.0,4.0,1.0,3.0,7.0,33.0,0.133,0.212,0.233,0.445,136.0,86.0,-0.522,1.09,0.311,-0.834,-0.39%,1.36,-3.4,27.0,11.0,

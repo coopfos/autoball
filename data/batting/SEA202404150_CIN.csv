@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Jonathan India 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.182,0.352,0.255,0.607,22.0,11.0,-0.06,0.61,0.0,-0.06,-0.03%,0.57,-0.7,2.0,3.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Will Benson CF,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.241,0.349,0.519,0.868,15.0,10.0,0.012,0.48,0.036,-0.024,0.01%,0.45,0.3,1.0,0.0,"2B,SB"
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Christian Encarnacion-Strand 1B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.203,0.208,0.348,0.556,11.0,9.0,0.031,0.54,0.06,-0.029,0.02%,0.51,0.2,6.0,0.0,2·2B
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Spencer Steer LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.321,0.449,0.625,1.074,15.0,11.0,-0.089,0.79,0.0,-0.089,-0.05%,0.74,-1.2,3.0,0.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Jake Fraley RF,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.432,0.462,0.622,1.083,11.0,8.0,0.063,0.63,0.108,-0.046,0.03%,0.59,1.3,2.0,0.0,"HR,2B,CS"
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.267,0.333,0.567,0.9,14.0,10.0,-0.066,0.64,0.0,-0.066,-0.04%,0.6,-0.8,2.0,2.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Jeimer Candelario 3B,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.19,0.25,0.379,0.629,12.0,5.0,0.044,0.57,0.078,-0.034,0.03%,0.53,0.6,1.0,1.0,HR
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Nick Martini DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.265,0.278,0.618,0.895,11.0,8.0,-0.03,0.41,0.0,-0.03,-0.02%,0.38,-0.3,0.0,0.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Tyler Stephenson C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.211,0.262,0.342,0.604,11.0,8.0,-0.034,0.46,0.0,-0.034,-0.02%,0.43,-0.5,7.0,0.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Frankie Montas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Nick Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Buck Farmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404150,CIN,https://www.baseball-reference.com/boxes/SEA/SEA202404150.shtml,CincinnatiRedsbatting,Team Totals,33.0,3.0,7.0,3.0,0.0,10.0,33.0,0.212,0.212,0.515,0.727,122.0,80.0,-0.129,0.58,0.282,-0.412,-0.07%,0.54,-1.0,24.0,6.0,

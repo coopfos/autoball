@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.317,0.402,0.635,1.037,13.0,9.0,0.035,1.53,0.142,-0.106,0.03%,1.88,0.4,0.0,0.0,SB
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.257,0.319,0.477,0.796,12.0,10.0,-0.12,1.92,0.044,-0.164,-0.09%,2.35,-0.9,1.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.295,0.399,0.496,0.895,16.0,12.0,-0.146,1.66,0.0,-0.146,-0.11%,2.04,-1.2,12.0,1.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Andy Pages CF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.255,0.307,0.402,0.71,16.0,11.0,0.055,1.19,0.118,-0.063,0.04%,1.47,0.4,0.0,0.0,2B
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Miguel Rojas SS,4.0,0.0,1.0,2.0,0.0,2.0,4.0,0.285,0.33,0.43,0.76,13.0,11.0,-0.048,1.5,0.0,-0.048,-0.03%,1.85,0.1,0.0,1.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Miguel Vargas LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.273,0.328,0.509,0.837,18.0,13.0,-0.086,0.81,0.0,-0.086,-0.06%,0.99,-0.6,1.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Chris Taylor 2B-3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.157,0.265,0.261,0.526,22.0,14.0,-0.03,1.48,0.086,-0.116,-0.02%,1.81,0.0,3.0,7.0,2B
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.195,0.265,0.292,0.557,9.0,3.0,0.011,0.94,0.036,-0.025,0.01%,1.16,0.0,0.0,3.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,James Outman PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.161,0.261,0.271,0.532,3.0,3.0,-0.062,2.07,0.0,-0.062,-0.05%,2.54,-0.4,0.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.207,0.261,0.28,0.542,1.0,1.0,-0.053,2.12,0.0,-0.053,-0.04%,2.6,-0.2,0.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Austin Barnes C,3.0,0.0,2.0,0.0,0.0,0.0,3.0,0.25,0.318,0.275,0.593,10.0,6.0,0.147,1.41,0.164,-0.017,0.11%,1.73,1.0,7.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Will Smith PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.273,0.347,0.498,0.846,5.0,3.0,-0.036,1.41,0.0,-0.036,-0.03%,1.73,-0.1,0.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Gavin Stone P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Anthony Banda P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Blake Treinen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Daniel Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202407100,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202407100.shtml,LosAngelesDodgersbatting,Team Totals,35.0,3.0,9.0,3.0,1.0,8.0,36.0,0.257,0.278,0.314,0.592,138.0,96.0,-0.333,1.45,0.59,-0.922,-0.24%,1.78,-1.5,24.0,13.0,

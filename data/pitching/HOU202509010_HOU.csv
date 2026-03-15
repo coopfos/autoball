@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202509010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202509010.shtml,HoustonAstrospitching,"Luis Garcia, W (1-0)",6,3,3,3,0,6,2,4.5,21,79,52,32,8,12,5,10,1,0,60.0,,,-0.003,0.83,-0.00%,1.33,0.0
+HOU202509010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202509010.shtml,HoustonAstrospitching,"Kaleb Ort, H (3)",1,1,0,0,0,2,0,4.26,4,13,10,5,4,1,1,1,0,0,,0.0,0.0,0.071,0.98,0.07%,1.57,0.5
+HOU202509010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202509010.shtml,HoustonAstrospitching,"Bryan King, H (25)",1,1,0,0,0,0,0,2.83,4,12,9,7,1,1,2,2,2,0,,0.0,0.0,0.075,1.4,0.07%,2.24,0.5
+HOU202509010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202509010.shtml,HoustonAstrospitching,Craig Kimbrel,1,2,0,0,0,2,0,0.0,5,30,19,12,2,5,2,1,1,0,,0.0,0.0,0.006,0.2,0.01%,0.33,0.5
+HOU202509010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202509010.shtml,HoustonAstrospitching,Team Totals,9,7,3,3,0,10,2,3.0,34,134,90,56,15,19,10,14,4,0,60.0,0.0,0.0,0.149,0.82,0.14%,1.32,1.5

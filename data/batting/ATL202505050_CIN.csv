@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,TJ Friedl CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.263,0.318,0.343,0.661,11.0,7.0,-0.072,0.61,0.0,-0.072,-0.04%,0.61,-1.0,2.0,0.0,GDP
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Matt McLain 2B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.16,0.282,0.29,0.572,22.0,13.0,-0.014,0.52,0.024,-0.038,-0.01%,0.52,-0.3,0.0,3.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.261,0.344,0.406,0.75,17.0,10.0,-0.051,0.6,0.0,-0.051,-0.03%,0.6,-0.8,0.0,2.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Gavin Lux DH,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.295,0.392,0.411,0.803,18.0,9.0,-0.004,0.39,0.013,-0.017,-0.00%,0.39,0.1,0.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Spencer Steer 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.2,0.279,0.318,0.597,17.0,11.0,-0.053,0.66,0.009,-0.062,-0.03%,0.66,-0.9,10.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Tyler Stephenson C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.25,0.4,0.667,1.067,9.0,4.0,-0.018,0.61,0.016,-0.033,-0.01%,0.61,-0.2,4.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Jake Fraley RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.208,0.322,0.364,0.686,8.0,5.0,-0.053,0.68,0.0,-0.053,-0.03%,0.68,-0.7,7.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Santiago Espinal 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.341,0.393,0.402,0.796,9.0,8.0,-0.005,0.53,0.024,-0.028,-0.00%,0.53,0.0,0.0,3.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Tyler Callihan LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.167,0.167,0.167,0.333,3.0,2.0,-0.026,0.99,0.0,-0.026,-0.01%,0.98,-0.2,0.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Blake Dunn LF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.164,0.343,0.255,0.597,4.0,2.0,-0.034,0.7,0.0,-0.034,-0.02%,0.7,-0.5,1.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Brady Singer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Scott Barlow P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Luis Mey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202505050,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202505050.shtml,CincinnatiRedsbatting,Team Totals,27.0,0.0,1.0,0.0,5.0,6.0,32.0,0.037,0.188,0.037,0.225,118.0,71.0,-0.33,0.59,0.086,-0.414,-0.19%,0.59,-4.6,24.0,8.0,

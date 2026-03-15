@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Nicky Lopez 2B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.235,0.307,0.286,0.593,19.0,12.0,0.005,0.91,0.061,-0.057,0%,0.0,-0.1,1.0,2.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Corey Julks DH,3.0,1.0,2.0,1.0,1.0,0.0,4.0,0.232,0.298,0.335,0.634,16.0,9.0,0.102,0.68,0.116,-0.014,0%,0.0,2.0,0.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.218,0.279,0.375,0.654,18.0,11.0,-0.048,0.96,0.006,-0.054,0%,0.0,-1.1,2.0,0.0,"SF,GDP"
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.244,0.314,0.368,0.682,17.0,13.0,0.103,0.75,0.117,-0.014,0%,0.0,0.9,5.0,1.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Korey Lee C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.213,0.244,0.347,0.592,9.0,6.0,-0.14,1.02,0.0,-0.14,0%,0.0,-1.5,8.0,0.0,GDP
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Chuckie Robinson C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.147,0.171,0.147,0.318,7.0,4.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,3.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Zach DeLoach RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.148,0.233,0.185,0.419,14.0,10.0,0.031,0.44,0.048,-0.017,0%,0.0,-0.1,1.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.218,0.269,0.263,0.532,13.0,7.0,-0.064,0.93,0.0,-0.064,0%,0.0,-0.7,2.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.176,0.273,0.301,0.573,15.0,9.0,0.003,0.8,0.068,-0.064,0%,0.0,0.1,1.0,0.0,"SB,GDP"
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Jacob Amaya SS,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.167,0.231,0.167,0.397,16.0,9.0,-0.087,0.88,0.001,-0.088,0%,0.0,-0.4,0.0,2.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Chris Flexen P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Fraser Ellard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Chad Kuhl P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Touki Toussaint P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Enyel De Los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409020,CHW,https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml,ChicagoWhiteSoxbatting,Team Totals,31.0,3.0,8.0,3.0,1.0,6.0,33.0,0.258,0.273,0.258,0.531,144.0,90.0,-0.095,0.79,0.417,-0.512,0.00%,0.0,-1.1,24.0,5.0,

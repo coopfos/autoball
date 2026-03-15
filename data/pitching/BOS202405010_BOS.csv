@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202405010,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405010.shtml,BostonRedSoxpitching,"Kutter Crawford, W (2-1)",7,4,2,2,2,6,1,1.56,27,92,61,36,10,15,7,12,5,0,65.0,,,0.135,0.98,0.08%,0.99,1.6
+BOS202405010,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405010.shtml,BostonRedSoxpitching,Chris Martin,1,0,0,0,0,1,0,5.11,3,10,7,4,2,1,1,1,1,0,,0.0,0.0,0.024,0.31,0.01%,0.31,0.5
+BOS202405010,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405010.shtml,BostonRedSoxpitching,Greg Weissert,1,1,0,0,0,1,0,1.38,3,13,7,4,1,2,1,1,1,0,,0.0,0.0,0.015,0.52,0.01%,0.52,0.5
+BOS202405010,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202405010.shtml,BostonRedSoxpitching,Team Totals,9,5,2,2,2,8,1,2.0,33,115,75,44,13,18,9,14,7,0,65.0,0.0,0.0,0.174,0.88,0.11%,0.89,2.7

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202404250,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202404250.shtml,NewYorkYankeespitching,"Nestor Cortes, L (1-2)",7,5,3,3,0,4,2,3.5,26,94,66,46,7,13,8,14,3,0,59.0,,,-0.047,0.66,-0.03%,0.77,0.5
+NYA202404250,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202404250.shtml,NewYorkYankeespitching,Dennis Santana,1,1,0,0,1,1,0,4.63,5,17,11,5,2,4,2,1,1,0,,0.0,0.0,0.017,0.64,0.01%,0.74,0.1
+NYA202404250,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202404250.shtml,NewYorkYankeespitching,Victor González,1,0,0,0,0,0,0,2.89,2,11,7,4,0,3,2,0,0,0,,1.0,0.0,0.028,0.41,0.02%,0.48,0.9
+NYA202404250,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202404250.shtml,NewYorkYankeespitching,Team Totals,9,6,3,3,1,5,2,3.0,33,122,84,55,9,20,12,15,4,0,59.0,1.0,0.0,-0.002,0.65,-0.00%,0.75,1.5

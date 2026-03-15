@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubspitching,"Justin Steele, L (2-5)",5,6,5,5,4,7,1,3.38,25,93,59,39,8,12,5,9,6,0,38.0,,,-0.269,0.62,-0.04%,0.16,-2.3
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubspitching,Jorge López,1,2,0,0,0,1,0,2.72,5,14,11,6,2,3,3,1,1,0,,0.0,0.0,0.019,0.39,0.00%,0.1,0.5
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubspitching,Ethan Roberts,2,4,1,1,0,2,0,1.13,10,34,24,13,6,5,2,6,2,0,,0.0,0.0,-0.001,0.49,0.00%,0.13,0.1
+CIN202407300,CHC,https://www.baseball-reference.com/boxes/CIN/CIN202407300.shtml,ChicagoCubspitching,Team Totals,8,12,6,6,4,10,1,6.75,40,141,94,58,16,20,10,16,9,0,38.0,0.0,0.0,-0.251,0.56,-0.04%,0.15,-1.7

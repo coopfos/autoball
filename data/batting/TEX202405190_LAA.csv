@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B-2B-3B,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.308,0.363,0.452,0.815,13.0,8.0,0.038,0.96,0.126,-0.088,0.01%,0.36,0.8,0.0,3.0,"3B,CS"
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Cole Tucker LF-3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.235,0.308,0.382,0.69,17.0,13.0,-0.101,1.04,0.0,-0.101,-0.02%,0.39,-1.1,4.0,1.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Luis Guillorme 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.209,0.277,0.302,0.579,,,,,,,,,,0.0,1.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Taylor Ward DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.275,0.318,0.489,0.807,15.0,11.0,-0.03,0.52,0.012,-0.042,-0.01%,0.2,-0.4,0.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Willie Calhoun 1B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.328,0.344,0.525,0.868,16.0,11.0,0.08,0.8,0.119,-0.039,0.02%,0.3,0.1,8.0,2.0,2B
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.226,0.303,0.329,0.632,,,,,,,,,,4.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Jo Adell RF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.252,0.325,0.523,0.848,23.0,13.0,0.084,1.19,0.111,-0.027,0.02%,0.45,0.4,0.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Matt Thaiss C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.2,0.3,0.286,0.586,20.0,12.0,-0.147,1.64,0.0,-0.147,-0.03%,0.61,-1.1,5.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Zach Neto SS,2.0,1.0,0.0,0.0,2.0,0.0,4.0,0.25,0.302,0.406,0.709,20.0,9.0,0.132,1.54,0.145,-0.013,0.03%,0.58,0.6,1.0,2.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.189,0.225,0.274,0.499,12.0,8.0,0.078,2.22,0.169,-0.091,0.02%,0.83,0.2,2.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Kyren Paris 2B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.13,0.259,0.174,0.433,4.0,3.0,-0.078,1.56,0.0,-0.078,-0.02%,0.58,-0.6,0.0,2.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Kevin Pillar PH-LF,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.333,0.394,0.603,0.998,8.0,5.0,0.149,4.21,0.149,0.0,0.03%,1.58,0.7,0.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,José Soriano P,,,,,,,,,,,,,,,,,,,,,3.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202405190,LAA,https://www.baseball-reference.com/boxes/TEX/TEX202405190.shtml,LosAngelesAngelsbatting,Team Totals,31.0,4.0,6.0,4.0,4.0,7.0,35.0,0.194,0.286,0.29,0.576,148.0,93.0,0.205,1.33,0.831,-0.626,0.05%,0.5,-0.3,27.0,11.0,

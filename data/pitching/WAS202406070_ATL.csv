@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202406070,ATL,https://www.baseball-reference.com/boxes/WAS/WAS202406070.shtml,AtlantaBravespitching,"Chris Sale, L (8-2)",7,5,2,2,1,10,0,3.01,27,102,67,29,20,18,8,8,3,0,68.0,,,0.033,0.8,0.02%,0.84,1.4
+WAS202406070,ATL,https://www.baseball-reference.com/boxes/WAS/WAS202406070.shtml,AtlantaBravespitching,Pierce Johnson,1,0,0,0,1,1,0,3.1,3,13,7,4,2,1,0,1,0,0,,0.0,0.0,0.03,0.47,0.02%,0.49,0.5
+WAS202406070,ATL,https://www.baseball-reference.com/boxes/WAS/WAS202406070.shtml,AtlantaBravespitching,Team Totals,8,5,2,2,2,11,0,2.25,30,115,74,33,22,19,8,9,3,0,68.0,0.0,0.0,0.063,0.76,0.04%,0.8,1.9

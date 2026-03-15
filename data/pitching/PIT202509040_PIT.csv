@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202509040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202509040.shtml,PittsburghPiratespitching,"Paul Skenes, W (10-9)",6.0,2,0,0,1,8,0,1.98,21,94,65,42,10,13,6,6,0,0,75.0,,,0.31,0.78,0.00%,0.0,3.1
+PIT202509040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202509040.shtml,PittsburghPiratespitching,Yohan Ramírez,1.2,1,0,0,0,2,0,5.67,6,22,17,10,3,4,1,3,2,0,,0.0,0.0,0.029,0.28,0.00%,0.0,0.9
+PIT202509040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202509040.shtml,PittsburghPiratespitching,Evan Sisk,0.1,0,0,0,0,0,0,3.27,1,5,3,1,1,1,0,1,0,0,,0.0,0.0,0.002,0.07,0.00%,0.0,0.1
+PIT202509040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202509040.shtml,PittsburghPiratespitching,Dauri Moreta,0.1,4,3,3,0,1,1,5.19,5,26,16,9,2,5,2,2,1,0,,0.0,0.0,-0.077,0.42,0.00%,0.0,-2.4
+PIT202509040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202509040.shtml,PittsburghPiratespitching,"Colin Holderman, S (1)",0.2,1,0,0,0,1,0,7.66,3,6,6,2,1,3,1,1,1,0,,2.0,1.0,0.083,2.13,0.00%,0.0,-0.1
+PIT202509040,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202509040.shtml,PittsburghPiratespitching,Team Totals,9.0,8,3,3,1,12,1,3.0,36,153,107,64,17,26,10,13,4,0,75.0,2.0,1.0,0.347,0.74,0.00%,0.0,1.7

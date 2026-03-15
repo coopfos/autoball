@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202508140,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508140.shtml,ChicagoCubspitching,"Matthew Boyd, L (11-6)",7,2,2,2,1,5,1,2.46,23,78,53,38,7,8,9,8,3,0,69.0,,,-0.008,1.04,-0.00%,0.84,1.6
+TOR202508140,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508140.shtml,ChicagoCubspitching,Drew Pomeranz,1,1,0,0,0,1,0,1.85,4,16,10,5,1,4,2,1,1,0,,0.0,0.0,0.032,0.77,0.01%,0.61,0.5
+TOR202508140,CHC,https://www.baseball-reference.com/boxes/TOR/TOR202508140.shtml,ChicagoCubspitching,Team Totals,8,3,2,2,1,6,1,2.25,27,94,63,43,8,12,11,9,4,0,69.0,0.0,0.0,0.024,1.0,0.01%,0.81,2.1

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202409120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,StLouisCardinalspitching,"Sonny Gray, W (13-9)",6.0,2,1,1,2,9,0,3.75,22,91,56,24,18,14,6,5,3,0,71.0,,,0.201,1.46,0.00%,0.05,2.0
+SLN202409120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,StLouisCardinalspitching,"Andrew Kittredge, H (33)",1.2,0,0,0,1,2,0,2.86,6,20,13,5,3,5,2,1,0,0,,0.0,0.0,0.121,0.91,0.00%,0.03,0.8
+SLN202409120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,StLouisCardinalspitching,"JoJo Romero, S (1)",1.1,2,0,0,0,0,0,2.65,6,15,11,7,1,3,2,4,2,0,,1.0,0.0,0.024,0.43,0.00%,0.02,0.7
+SLN202409120,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,StLouisCardinalspitching,Team Totals,9.0,4,1,1,3,11,0,1.0,34,126,80,36,22,22,10,10,5,0,71.0,1.0,0.0,0.346,1.16,0.01%,0.04,3.6

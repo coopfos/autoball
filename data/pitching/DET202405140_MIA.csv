@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202405140,MIA,https://www.baseball-reference.com/boxes/DET/DET202405140.shtml,MiamiMarlinspitching,Ryan Weathers,8,3,0,0,0,4,0,3.81,26,97,65,47,5,13,15,7,2,0,80.0,,,0.544,1.0,0.02%,0.06,3.9
+DET202405140,MIA,https://www.baseball-reference.com/boxes/DET/DET202405140.shtml,MiamiMarlinspitching,"Tanner Scott, W (2-4)",1,1,0,0,1,2,0,2.12,5,19,11,4,7,0,2,0,0,0,,0.0,0.0,0.135,2.71,0.01%,0.16,0.5
+DET202405140,MIA,https://www.baseball-reference.com/boxes/DET/DET202405140.shtml,MiamiMarlinspitching,"A.J. Puk, S (1)",1,0,0,0,0,0,0,8.4,3,13,9,8,0,1,0,3,0,0,,0.0,0.0,0.44,5.04,0.01%,0.29,1.1
+DET202405140,MIA,https://www.baseball-reference.com/boxes/DET/DET202405140.shtml,MiamiMarlinspitching,Team Totals,10,4,0,0,1,6,0,0.0,34,129,85,59,12,14,17,10,2,0,80.0,0.0,0.0,1.119,1.61,0.04%,0.09,5.5

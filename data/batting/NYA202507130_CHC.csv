@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Michael Busch 1B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.29,0.375,0.55,0.925,14.0,11.0,0.0,0.94,0.098,-0.098,0%,1.29,-0.3,6.0,0.0,HR
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Kyle Tucker DH,3.0,0.0,0.0,0.0,2.0,2.0,5.0,0.28,0.384,0.499,0.882,23.0,12.0,0.025,0.65,0.065,-0.04,0.02%,0.89,0.0,0.0,0.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Seiya Suzuki RF,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.263,0.319,0.547,0.867,25.0,15.0,0.007,0.8,0.065,-0.058,0.01%,1.1,0.2,4.0,0.0,2B
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.265,0.302,0.544,0.847,10.0,7.0,0.011,0.83,0.077,-0.066,0.01%,1.14,0.2,3.0,0.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Carson Kelly C,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.276,0.376,0.523,0.899,17.0,12.0,0.024,1.1,0.136,-0.112,0.02%,1.51,-0.4,8.0,1.0,"2B,GDP"
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Ian Happ LF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.228,0.326,0.375,0.701,17.0,11.0,0.076,1.15,0.099,-0.022,0.06%,1.58,0.6,2.0,0.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.253,0.301,0.429,0.73,13.0,9.0,0.102,1.49,0.196,-0.094,0.08%,2.04,0.6,1.0,2.0,HR
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.283,0.331,0.377,0.708,13.0,11.0,-0.1,1.07,0.0,-0.1,-0.08%,1.48,-1.2,3.0,3.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Vidal Bruján 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.184,0.205,0.263,0.468,14.0,8.0,-0.043,1.04,0.018,-0.061,-0.03%,1.42,-0.3,0.0,1.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Matt Shaw 3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.198,0.276,0.28,0.556,4.0,2.0,0.006,0.25,0.006,0.0,0.01%,0.34,0.2,0.0,1.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Shota Imanaga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Drew Pomeranz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Daniel Palencia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202507130,CHC,https://www.baseball-reference.com/boxes/NYA/NYA202507130.shtml,ChicagoCubsbatting,Team Totals,37.0,4.0,10.0,4.0,3.0,8.0,40.0,0.27,0.325,0.486,0.811,150.0,98.0,0.108,0.97,0.76,-0.651,0.09%,1.33,-0.5,27.0,8.0,

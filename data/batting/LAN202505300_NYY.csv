@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Trent Grisham CF,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.259,0.354,0.538,0.892,18.0,12.0,0.12,0.89,0.199,-0.079,0.08%,1.04,1.5,0.0,0.0,HR
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Aaron Judge RF,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.392,0.486,0.75,1.236,12.0,9.0,0.124,0.84,0.179,-0.055,0.09%,0.97,0.7,3.0,0.0,"HR,2B"
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Cody Bellinger LF,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.253,0.326,0.447,0.773,20.0,12.0,-0.084,0.89,0.022,-0.106,-0.06%,1.03,-0.6,1.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,5.0,1.0,1.0,1.0,0.0,0.0,5.0,0.343,0.399,0.502,0.902,15.0,9.0,-0.032,0.99,0.083,-0.115,-0.02%,1.15,-0.2,10.0,2.0,HR
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Ben Rice DH,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.25,0.339,0.524,0.862,14.0,6.0,0.071,0.62,0.08,-0.009,0.05%,0.73,0.8,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.241,0.319,0.433,0.752,15.0,9.0,-0.127,1.06,0.0,-0.127,-0.09%,1.23,-1.7,1.0,4.0,GDP
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Austin Wells C,3.0,1.0,1.0,1.0,1.0,2.0,4.0,0.209,0.276,0.449,0.726,18.0,10.0,0.072,0.69,0.112,-0.04,0.05%,0.81,0.6,5.0,2.0,HR
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Jorbit Vivas 2B,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.143,0.25,0.238,0.488,5.0,3.0,-0.018,0.55,0.012,-0.029,-0.01%,0.64,-0.2,2.0,1.0,HBP
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Jasson Domínguez PH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.244,0.342,0.417,0.759,3.0,2.0,0.026,0.61,0.026,0.0,0.02%,0.71,0.3,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Pablo Reyes 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.192,0.25,0.231,0.481,,,,,,,,,,1.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Oswald Peraza 3B,2.0,1.0,0.0,0.0,1.0,1.0,3.0,0.157,0.239,0.325,0.564,14.0,9.0,-0.009,0.6,0.023,-0.032,-0.01%,0.7,-0.3,1.0,4.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,J.C. Escarra PH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.245,0.345,0.388,0.733,,,,,,,,,,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,DJ LeMahieu PH-2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.179,0.238,0.256,0.495,2.0,2.0,-0.044,1.58,0.0,-0.044,-0.03%,1.84,-0.5,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Max Fried P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Jonathan Loáisiga P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Yerry De los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Brent Headrick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505300,NYY,https://www.baseball-reference.com/boxes/LAN/LAN202505300.shtml,NewYorkYankeesbatting,Team Totals,35.0,5.0,9.0,5.0,4.0,6.0,40.0,0.257,0.35,0.629,0.979,136.0,83.0,0.099,0.83,0.736,-0.636,0.07%,0.96,0.4,24.0,13.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Agustín Ramírez DH,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.253,0.315,0.535,0.85,23.0,14.0,0.013,0.6,0.054,-0.041,0.00%,0.16,0.0,0.0,0.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Eric Wagaman 1B-LF,5.0,1.0,3.0,3.0,0.0,0.0,5.0,0.253,0.302,0.398,0.699,16.0,11.0,0.031,0.74,0.08,-0.048,0.01%,0.19,1.8,7.0,0.0,HR
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Otto Lopez SS,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.218,0.287,0.331,0.617,26.0,16.0,-0.086,0.84,0.012,-0.098,-0.01%,0.22,-0.8,0.0,3.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Connor Norby 3B,4.0,1.0,2.0,0.0,1.0,1.0,5.0,0.274,0.319,0.415,0.734,24.0,16.0,-0.016,0.94,0.092,-0.108,-0.00%,0.25,0.0,0.0,1.0,CS
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Kyle Stowers LF-CF,4.0,0.0,3.0,1.0,1.0,0.0,5.0,0.319,0.392,0.566,0.958,15.0,9.0,0.126,0.97,0.17,-0.044,0.02%,0.25,2.3,1.0,0.0,"2B,SB"
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Nick Fortes C,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.229,0.26,0.375,0.635,10.0,9.0,-0.167,1.31,0.028,-0.195,-0.03%,0.34,-1.5,11.0,0.0,GDP
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Derek Hill CF,2.0,0.0,1.0,0.0,1.0,1.0,3.0,0.212,0.288,0.348,0.636,14.0,7.0,0.026,1.26,0.055,-0.029,0.00%,0.33,0.2,1.0,0.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Matt Mervis PH-1B,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.179,0.262,0.393,0.655,11.0,7.0,-0.053,0.96,0.0,-0.053,-0.01%,0.25,-0.8,1.0,0.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.229,0.336,0.321,0.657,20.0,11.0,-0.041,1.19,0.05,-0.09,-0.01%,0.31,-0.5,3.0,0.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Javier Sanoja 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.238,0.277,0.314,0.591,7.0,5.0,-0.049,0.96,0.0,-0.049,-0.01%,0.25,-0.5,0.0,2.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Liam Hicks PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.274,0.34,0.488,0.829,2.0,1.0,-0.082,3.22,0.0,-0.082,-0.01%,0.84,-0.8,0.0,0.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Graham Pauley 2B,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.21,0.261,0.284,0.545,10.0,6.0,-0.005,0.95,0.036,-0.04,-0.00%,0.25,0.2,0.0,1.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Sandy Alcantara P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Lake Bachar P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202505230,MIA,https://www.baseball-reference.com/boxes/ANA/ANA202505230.shtml,MiamiMarlinsbatting,Team Totals,39.0,4.0,14.0,4.0,6.0,8.0,45.0,0.359,0.444,0.462,0.906,178.0,112.0,-0.303,1.02,0.577,-0.877,-0.05%,0.27,-0.4,24.0,8.0,

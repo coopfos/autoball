@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.211,0.299,0.339,0.638,15.0,10.0,0.134,0.66,0.187,-0.053,0.09%,0.73,0.7,4.0,0.0,HR
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.292,0.364,0.511,0.875,14.0,8.0,-0.016,0.42,0.014,-0.03,-0.01%,0.47,-0.4,1.0,3.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Joc Pederson DH,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.274,0.375,0.496,0.871,18.0,13.0,-0.019,0.39,0.017,-0.036,-0.01%,0.44,0.1,0.0,0.0,"SB,HBP"
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Christian Walker 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.261,0.343,0.488,0.831,20.0,12.0,-0.071,0.7,0.0,-0.071,-0.05%,0.78,-1.0,11.0,1.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.263,0.294,0.416,0.71,13.0,8.0,-0.057,0.56,0.0,-0.057,-0.04%,0.62,-0.9,1.0,0.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.252,0.338,0.374,0.712,21.0,12.0,-0.003,0.34,0.018,-0.021,-0.00%,0.38,0.2,6.0,1.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.213,0.299,0.36,0.658,14.0,12.0,-0.02,0.6,0.021,-0.04,-0.01%,0.68,-0.5,0.0,3.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.214,0.241,0.429,0.67,11.0,7.0,0.107,0.7,0.16,-0.053,0.07%,0.78,1.1,2.0,0.0,"HR,SB"
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.267,0.331,0.333,0.664,19.0,11.0,-0.016,0.56,0.026,-0.042,-0.01%,0.62,-0.8,1.0,3.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Zac Gallen P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Kevin Ginkel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Justin Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Ryan Thompson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Paul Sewald P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202407200,ARI,https://www.baseball-reference.com/boxes/CHN/CHN202407200.shtml,ArizonaDiamondbacksbatting,Team Totals,33.0,3.0,6.0,3.0,3.0,6.0,37.0,0.182,0.27,0.364,0.634,145.0,93.0,0.039,0.56,0.443,-0.403,0.03%,0.62,-1.4,27.0,12.0,

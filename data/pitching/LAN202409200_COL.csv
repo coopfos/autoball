@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202409200,COL,https://www.baseball-reference.com/boxes/LAN/LAN202409200.shtml,ColoradoRockiespitching,"Kyle Freeland, L (5-8)",6,7,4,4,0,2,3,4.95,25,86,61,39,7,15,8,15,4,0,44.0,,,-0.294,0.93,0.00%,0.0,-1.1
+LAN202409200,COL,https://www.baseball-reference.com/boxes/LAN/LAN202409200.shtml,ColoradoRockiespitching,Jaden Hill,1,2,2,1,1,0,0,4.5,6,21,11,8,0,3,2,3,1,0,,0.0,0.0,-0.14,0.88,0.00%,0.0,-1.5
+LAN202409200,COL,https://www.baseball-reference.com/boxes/LAN/LAN202409200.shtml,ColoradoRockiespitching,Victor Vodnik,1,0,0,0,0,0,0,4.13,3,10,6,3,1,2,1,2,2,0,,0.0,0.0,0.006,0.08,0.00%,0.0,0.5
+LAN202409200,COL,https://www.baseball-reference.com/boxes/LAN/LAN202409200.shtml,ColoradoRockiespitching,Team Totals,8,9,6,5,1,2,3,5.62,34,117,78,50,8,20,11,20,7,0,44.0,0.0,0.0,-0.428,0.84,0.00%,0.0,-2.2

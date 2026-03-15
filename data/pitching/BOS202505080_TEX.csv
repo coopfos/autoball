@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202505080,TEX,https://www.baseball-reference.com/boxes/BOS/BOS202505080.shtml,TexasRangerspitching,"Jack Leiter, L (2-2)",5.1,3,4,4,4,3,0,5.09,24,90,57,34,7,16,7,9,3,0,45.0,,,-0.09,0.98,-0.05%,0.89,-0.4
+BOS202505080,TEX,https://www.baseball-reference.com/boxes/BOS/BOS202505080.shtml,TexasRangerspitching,Jacob Latz,2.2,3,1,1,0,4,1,4.09,11,49,31,17,10,4,1,6,1,0,,1.0,1.0,-0.039,0.17,-0.02%,0.15,-0.4
+BOS202505080,TEX,https://www.baseball-reference.com/boxes/BOS/BOS202505080.shtml,TexasRangerspitching,Team Totals,8.0,6,5,5,4,7,1,5.62,35,139,88,51,17,20,8,15,4,0,45.0,1.0,1.0,-0.129,0.73,-0.07%,0.67,-0.8

@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202503300,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,WashingtonNationalspitching,"Mitchell Parker, W (1-0)",6.1,7,0,0,2,5,0,0.0,27,93,64,44,7,13,7,13,4,0,62.0,,,0.282,1.01,0.15%,0.9,2.4
+WAS202503300,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,WashingtonNationalspitching,Jose A. Ferrer,0.2,0,0,0,0,0,0,9.0,2,6,3,2,0,1,1,0,0,0,,2.0,0.0,0.033,1.23,0.02%,1.1,0.9
+WAS202503300,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,WashingtonNationalspitching,Jorge López,1.0,0,0,0,0,0,0,0.0,3,5,4,3,0,1,1,2,2,0,,0.0,0.0,0.011,0.14,0.01%,0.13,0.5
+WAS202503300,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,WashingtonNationalspitching,Brad Lord,0.0,1,1,1,2,0,0,inf,3,16,7,7,0,0,1,0,0,0,,0.0,0.0,-0.063,0.43,-0.03%,0.38,-1.8
+WAS202503300,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,WashingtonNationalspitching,"Kyle Finnegan, S (1)",1.0,0,0,0,0,1,0,0.0,3,5,5,3,0,2,1,1,1,0,,3.0,1.0,0.069,1.02,0.04%,0.91,1.3
+WAS202503300,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202503300.shtml,WashingtonNationalspitching,Team Totals,9.0,8,1,1,4,6,0,1.0,38,125,83,59,7,17,11,16,7,0,62.0,5.0,1.0,0.332,0.91,0.18%,0.81,3.3

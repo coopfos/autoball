@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202404220,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404220.shtml,MilwaukeeBrewerspitching,"Joe Ross, L (1-2)",5.1,6,2,1,1,4,1,4.05,21,79,53,29,15,9,8,8,3,0,53.0,,,0.146,0.89,0.11%,1.14,1.5
+PIT202404220,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404220.shtml,MilwaukeeBrewerspitching,Hoby Milner,0.1,2,2,0,1,0,0,3.48,5,11,6,4,0,2,2,2,2,0,,1.0,1.0,-0.331,1.68,-0.25%,2.15,-2.9
+PIT202404220,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404220.shtml,MilwaukeeBrewerspitching,Thyago Vieira,2.1,1,0,0,2,3,0,3.09,10,33,17,7,5,5,4,1,0,0,,2.0,0.0,0.043,0.37,0.03%,0.47,1.5
+PIT202404220,MIL,https://www.baseball-reference.com/boxes/PIT/PIT202404220.shtml,MilwaukeeBrewerspitching,Team Totals,8.0,9,4,1,4,7,1,1.12,36,123,76,40,20,16,14,11,5,0,53.0,3.0,1.0,-0.142,0.86,-0.11%,1.09,0.1

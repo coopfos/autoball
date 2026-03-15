@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Jarren Duran CF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.285,0.341,0.498,0.839,17.0,13.0,0.047,1.64,0.129,-0.083,0.00%,0.18,-0.1,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Rafael Devers 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.274,0.356,0.521,0.877,20.0,13.0,-0.111,0.89,0.0,-0.111,-0.01%,0.1,-1.0,2.0,3.0,GDP
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Tyler O'Neill LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.249,0.343,0.532,0.875,15.0,8.0,0.014,0.84,0.059,-0.045,0.00%,0.09,-0.1,1.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Masataka Yoshida DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.287,0.354,0.427,0.781,17.0,12.0,-0.076,1.09,0.017,-0.093,-0.01%,0.12,-0.4,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Romy Gonzalez PR-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.273,0.318,0.426,0.744,,,-0.028,0.83,0.0,-0.028,-0.00%,0.09,-0.4,0.0,0.0,CS
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Connor Wong C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.284,0.336,0.436,0.772,17.0,12.0,0.002,1.07,0.059,-0.057,0%,0.12,-0.1,11.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Wilyer Abreu RF,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.261,0.326,0.478,0.804,14.0,10.0,-0.106,1.54,0.0,-0.106,-0.01%,0.17,-0.7,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Triston Casas 1B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.244,0.332,0.438,0.769,6.0,6.0,-0.018,1.51,0.071,-0.089,-0.00%,0.17,0.1,8.0,2.0,2B
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Trevor Story SS,3.0,2.0,2.0,1.0,0.0,0.0,3.0,0.258,0.31,0.394,0.704,6.0,5.0,0.333,2.05,0.382,-0.05,0.02%,0.23,1.4,2.0,3.0,"HR,2·SB"
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Ceddanne Rafaela 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.247,0.275,0.394,0.669,8.0,6.0,-0.074,1.41,0.0,-0.074,-0.01%,0.15,-0.6,2.0,2.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Enmanuel Valdez PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.217,0.276,0.376,0.652,4.0,3.0,-0.089,2.29,0.0,-0.089,-0.01%,0.26,-0.4,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Nick Sogard 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.306,0.268,0.574,,,,,,,,,,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Tanner Houck P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Zach Penrod P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Cooper Criswell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Justin Slaten P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Chris Martin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Kenley Jansen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TBA202409180,BOS,https://www.baseball-reference.com/boxes/TBA/TBA202409180.shtml,BostonRedSoxbatting,Team Totals,31.0,2.0,6.0,2.0,1.0,14.0,32.0,0.194,0.219,0.323,0.541,124.0,88.0,-0.106,1.36,0.717,-0.825,-0.01%,0.15,-2.3,27.0,11.0,

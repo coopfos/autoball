@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,Cooper Criswell,4.2,4,1,1,1,4,1,4.41,18,80,43,24,6,13,8,5,3,0,55.0,,,0.176,0.95,0.11%,1.02,1.3
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,Zack Kelly,0.1,0,0,0,0,0,0,2.79,1,5,3,3,0,0,1,0,0,0,,0.0,0.0,0.016,0.63,0.01%,0.68,0.1
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,"Josh Winckowski, W (4-1)",1.0,1,0,0,0,0,0,3.65,4,12,8,4,2,2,2,2,1,0,,0.0,0.0,0.086,1.74,0.06%,1.86,0.5
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,"Greg Weissert, H (5)",0.2,2,0,0,1,1,0,4.1,5,18,10,6,2,2,0,3,2,0,,0.0,0.0,-0.054,3.21,-0.03%,3.44,-0.3
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,"Brennan Bernardino, H (11)",0.1,0,0,0,0,1,0,3.59,1,3,3,1,1,1,0,0,0,0,,3.0,0.0,0.133,5.3,0.09%,5.68,0.8
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,"Luis García, H (14)",1.0,0,0,0,0,2,0,5.17,3,10,7,2,3,2,0,1,0,0,,0.0,0.0,0.085,1.13,0.06%,1.21,0.5
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,"Chris Martin, S (1)",1.0,1,0,0,0,1,0,2.94,4,16,11,6,1,4,1,2,2,0,,0.0,0.0,0.039,0.52,0.03%,0.56,0.5
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxpitching,Team Totals,9.0,8,1,1,2,9,1,1.0,36,144,85,46,15,24,12,13,8,0,55.0,3.0,0.0,0.481,1.44,0.31%,1.55,3.3

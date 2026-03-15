@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202508230,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508230.shtml,LosAngelesDodgerspitching,"Tyler Glasnow, L (1-2)",4,2,3,3,4,3,0,3.36,18,83,47,30,7,10,4,7,4,0,45.0,,,-0.116,1.23,-0.13%,2.26,-0.9
+SDN202508230,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508230.shtml,LosAngelesDodgerspitching,Ben Casparius,1,0,0,0,0,0,0,4.52,3,6,3,3,0,0,0,3,0,0,,0.0,0.0,0.022,0.29,0.03%,0.53,0.5
+SDN202508230,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508230.shtml,LosAngelesDodgerspitching,Justin Wrobleski,3,1,2,2,2,2,0,4.33,12,48,32,23,3,6,4,4,4,0,,0.0,0.0,-0.014,0.28,-0.02%,0.52,-0.4
+SDN202508230,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508230.shtml,LosAngelesDodgerspitching,Team Totals,8,3,5,5,6,5,0,5.62,33,137,82,56,10,16,8,14,8,0,45.0,0.0,0.0,-0.108,0.79,-0.12%,1.44,-0.8

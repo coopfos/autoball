@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202509170,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202509170.shtml,LosAngelesDodgerspitching,"Blake Snell, W (5-4)",7,2,0,0,2,12,0,2.44,25,112,69,31,23,15,6,5,0,0,83.0,,,0.35,0.75,0.06%,0.21,3.5
+LAN202509170,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202509170.shtml,LosAngelesDodgerspitching,"Alex Vesia, H (24)",1,0,0,0,0,0,0,2.73,3,15,10,7,0,3,0,3,1,0,,0.0,0.0,0.043,0.56,0.01%,0.16,0.5
+LAN202509170,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202509170.shtml,LosAngelesDodgerspitching,Tanner Scott,1,1,0,0,1,1,0,4.73,5,21,12,4,4,4,0,3,1,0,,0.0,0.0,0.006,0.13,0.00%,0.04,0.5
+LAN202509170,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202509170.shtml,LosAngelesDodgerspitching,Team Totals,9,3,0,0,3,13,0,0.0,33,148,91,42,27,22,6,11,2,0,83.0,0.0,0.0,0.399,0.64,0.07%,0.18,4.5

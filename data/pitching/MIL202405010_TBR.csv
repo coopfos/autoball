@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202405010,TBR,https://www.baseball-reference.com/boxes/MIL/MIL202405010.shtml,TampaBayRayspitching,"Zach Eflin, L (1-4)",5.2,6,3,3,0,6,1,4.17,23,88,57,25,12,20,8,9,3,0,51.0,,,-0.066,0.82,-0.03%,0.57,-0.2
+MIL202405010,TBR,https://www.baseball-reference.com/boxes/MIL/MIL202405010.shtml,TampaBayRayspitching,Garrett Cleavinger,0.1,0,0,0,1,1,0,2.38,2,12,7,4,0,3,0,0,0,0,,1.0,0.0,0.013,0.52,0.01%,0.35,0.3
+MIL202405010,TBR,https://www.baseball-reference.com/boxes/MIL/MIL202405010.shtml,TampaBayRayspitching,Erasmo Ramírez,2.0,4,4,4,2,1,1,7.04,12,43,27,14,4,9,3,6,1,0,,0.0,0.0,-0.054,0.09,-0.02%,0.07,-3.0
+MIL202405010,TBR,https://www.baseball-reference.com/boxes/MIL/MIL202405010.shtml,TampaBayRayspitching,Team Totals,8.0,10,7,7,3,8,2,7.88,37,143,91,43,16,32,11,15,4,0,51.0,1.0,0.0,-0.107,0.57,-0.04%,0.39,-2.9

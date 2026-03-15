@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.248,0.334,0.348,0.682,15.0,11.0,0.067,0.5,0.096,-0.029,0.02%,0.21,0.3,3.0,4.0,HR
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Michael Busch 1B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.258,0.356,0.446,0.802,14.0,8.0,-0.005,0.44,0.024,-0.029,-0.00%,0.18,-0.5,4.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Cody Bellinger DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.267,0.327,0.416,0.743,12.0,9.0,-0.011,0.48,0.022,-0.033,-0.00%,0.2,-0.4,0.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Seiya Suzuki RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.258,0.329,0.454,0.784,14.0,10.0,-0.051,0.49,0.0,-0.051,-0.01%,0.2,-0.8,3.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Ian Happ LF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.229,0.345,0.419,0.765,16.0,8.0,-0.011,0.61,0.018,-0.029,-0.00%,0.25,-0.3,4.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Miles Mastrobuoni PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.149,0.231,0.17,0.401,6.0,5.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Christopher Morel 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.198,0.307,0.375,0.683,16.0,10.0,-0.058,0.76,0.0,-0.058,-0.01%,0.31,-0.8,1.0,1.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Dansby Swanson SS,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.217,0.293,0.364,0.657,16.0,11.0,-0.034,0.44,0.0,-0.034,-0.01%,0.18,-0.5,3.0,2.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.192,0.243,0.277,0.52,8.0,6.0,-0.027,0.35,0.0,-0.027,-0.01%,0.15,-0.7,0.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Miguel Amaya C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.189,0.253,0.26,0.513,14.0,8.0,-0.011,0.23,0.004,-0.015,-0.00%,0.09,-0.0,6.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Kyle Hendricks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Jorge López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Drew Smyly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Ethan Roberts P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406300,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202406300.shtml,ChicagoCubsbatting,Team Totals,29.0,1.0,2.0,1.0,3.0,9.0,32.0,0.069,0.156,0.172,0.329,131.0,86.0,-0.141,0.46,0.164,-0.305,-0.04%,0.19,-3.6,24.0,7.0,

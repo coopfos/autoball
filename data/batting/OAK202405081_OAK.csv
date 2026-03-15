@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Abraham Toro 2B,3.0,1.0,0.0,0.0,0.0,0.0,4.0,0.28,0.336,0.432,0.768,13.0,8.0,-0.046,0.71,0.014,-0.061,-0.02%,0.6,-0.2,3.0,3.0,HBP
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Tyler Nevin 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.265,0.336,0.408,0.745,14.0,9.0,-0.056,0.57,0.0,-0.056,-0.03%,0.49,-0.7,12.0,0.0,
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,JJ Bleday CF,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.25,0.336,0.435,0.771,16.0,10.0,-0.013,0.61,0.025,-0.038,-0.01%,0.52,0.2,1.0,0.0,
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Brent Rooker RF,4.0,3.0,3.0,3.0,0.0,1.0,4.0,0.27,0.363,0.629,0.992,22.0,13.0,0.148,0.84,0.169,-0.022,0.07%,0.71,2.9,1.0,0.0,"HR,2B"
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Lawrence Butler RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.174,0.276,0.283,0.559,,,,,,,,,,0.0,0.0,
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,J.D. Davis DH,3.0,2.0,1.0,0.0,1.0,1.0,4.0,0.217,0.27,0.362,0.633,12.0,7.0,0.084,1.03,0.123,-0.039,0.04%,0.88,0.6,0.0,0.0,2B
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Shea Langeliers C,4.0,1.0,3.0,5.0,0.0,1.0,4.0,0.2,0.254,0.491,0.745,16.0,12.0,0.51,1.2,0.511,-0.001,0.26%,1.02,4.5,8.0,0.0,"HR,3B,2B"
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Max Schuemann SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.182,0.317,0.333,0.65,17.0,8.0,-0.017,0.66,0.021,-0.038,-0.01%,0.56,-0.6,1.0,4.0,2B
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Esteury Ruiz LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.229,0.304,0.438,0.741,11.0,8.0,-0.149,0.9,0.0,-0.149,-0.08%,0.77,-1.7,1.0,0.0,GDP
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Brett Harris 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.182,0.308,0.591,0.899,16.0,10.0,0.104,0.75,0.152,-0.047,0.05%,0.64,0.3,0.0,5.0,HR
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,JP Sears P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Austin Adams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202405081,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202405081.shtml,OaklandAthleticsbatting,Team Totals,32.0,9.0,10.0,9.0,3.0,8.0,36.0,0.312,0.389,0.781,1.17,137.0,85.0,0.565,0.81,1.015,-0.451,0.29%,0.69,5.3,27.0,13.0,

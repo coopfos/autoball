@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202509250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509250.shtml,PittsburghPiratespitching,"Braxton Ashcraft, L (4-4)",4.1,8,2,2,1,5,0,2.71,21,72,49,30,10,9,7,8,5,0,43.0,,,-0.014,1.14,0.00%,0.0,0.2
+CIN202509250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509250.shtml,PittsburghPiratespitching,Kyle Nicolas,1.2,1,0,0,0,3,0,4.86,6,24,18,8,6,4,1,2,0,0,,1.0,0.0,0.07,0.67,0.00%,0.0,1.1
+CIN202509250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509250.shtml,PittsburghPiratespitching,Carmen Mlodzinski,2.0,1,0,0,0,0,0,3.55,6,26,16,9,1,6,5,1,1,0,,0.0,0.0,0.062,0.45,0.00%,0.0,1.1
+CIN202509250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202509250.shtml,PittsburghPiratespitching,Team Totals,8.0,10,2,2,1,8,0,2.25,33,122,83,47,17,19,13,11,6,0,43.0,1.0,0.0,0.118,0.93,0.00%,0.0,2.4

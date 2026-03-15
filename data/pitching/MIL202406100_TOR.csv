@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202406100,TOR,https://www.baseball-reference.com/boxes/MIL/MIL202406100.shtml,TorontoBlueJayspitching,"José Berríos, L (5-5)",5.2,5,3,3,1,4,2,2.93,22,105,64,37,10,17,8,9,4,0,50.0,,,-0.088,0.93,-0.03%,0.51,-0.2
+MIL202406100,TOR,https://www.baseball-reference.com/boxes/MIL/MIL202406100.shtml,TorontoBlueJayspitching,Zach Pop,0.1,0,0,0,0,1,0,4.08,1,4,4,1,2,1,0,0,0,0,,1.0,0.0,0.021,0.74,0.01%,0.41,0.3
+MIL202406100,TOR,https://www.baseball-reference.com/boxes/MIL/MIL202406100.shtml,TorontoBlueJayspitching,Brendon Little,2.0,1,0,0,1,3,0,7.36,8,26,16,9,3,4,4,0,0,0,,0.0,0.0,0.039,0.43,0.01%,0.24,1.0
+MIL202406100,TOR,https://www.baseball-reference.com/boxes/MIL/MIL202406100.shtml,TorontoBlueJayspitching,Team Totals,8.0,6,3,3,2,8,2,3.38,31,135,84,47,15,22,12,9,4,0,50.0,1.0,0.0,-0.028,0.79,-0.01%,0.43,1.1

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202404060,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404060.shtml,NewYorkMetspitching,Luis Severino,5,3,2,1,2,7,0,3.6,21,99,63,40,11,12,9,3,1,0,60.0,,,0.051,1.02,0.03%,0.84,0.7
+CIN202404060,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404060.shtml,NewYorkMetspitching,"Jake Diekman, H (2)",1,1,2,2,1,1,0,7.71,6,18,11,3,1,7,2,1,0,0,,0.0,0.0,-0.144,1.41,-0.07%,1.16,-1.5
+CIN202404060,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404060.shtml,NewYorkMetspitching,"Yohan Ramírez, BS (1), L (0-1)",2,4,5,5,2,3,1,11.81,13,53,32,14,6,12,3,5,1,0,,0.0,0.0,-0.556,1.48,-0.28%,1.22,-3.9
+CIN202404060,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404060.shtml,NewYorkMetspitching,Team Totals,8,8,9,8,5,11,1,9.0,40,170,106,57,18,31,14,9,2,0,60.0,0.0,0.0,-0.649,1.24,-0.32%,1.03,-4.7

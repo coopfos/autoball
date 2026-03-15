@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Esteury Ruiz CF,2.0,0.0,1.0,0.0,1.0,0.0,3.0,0.375,0.389,0.938,1.326,11.0,6.0,-0.068,1.09,0.041,-0.109,-0.03%,0.88,-0.6,3.0,0.0,CS
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Lawrence Butler PH-RF,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.179,0.281,0.286,0.567,9.0,6.0,-0.068,1.39,0.0,-0.068,-0.03%,1.11,-0.6,0.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Tyler Nevin RF-3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.3,0.378,0.325,0.703,18.0,11.0,-0.04,1.03,0.041,-0.081,-0.02%,0.83,-0.1,2.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Zack Gelof 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.188,0.261,0.313,0.574,18.0,8.0,-0.028,0.89,0.041,-0.069,-0.01%,0.71,-0.2,2.0,2.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Brent Rooker LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.2,0.243,0.486,0.729,21.0,13.0,-0.075,1.17,0.02,-0.095,-0.04%,0.94,-0.6,2.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Abraham Toro DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.254,0.323,0.424,0.747,17.0,11.0,-0.005,1.07,0.082,-0.087,-0.00%,0.86,-0.2,0.0,0.0,3B
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Shea Langeliers C,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.186,0.254,0.407,0.661,17.0,11.0,0.018,0.92,0.046,-0.028,0.01%,0.73,0.2,8.0,0.0,SF
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Ryan Noda 1B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.19,0.288,0.293,0.581,13.0,10.0,0.106,1.02,0.158,-0.053,0.05%,0.82,1.2,6.0,0.0,"HR,2B"
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Nick Allen SS,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.16,0.222,0.2,0.422,10.0,7.0,-0.061,1.24,0.0,-0.061,-0.03%,0.99,-0.5,0.0,1.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,JJ Bleday PH-CF,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.237,0.266,0.342,0.608,7.0,6.0,-0.08,1.59,0.0,-0.08,-0.04%,1.27,-0.7,1.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Max Schuemann 3B-SS,2.0,1.0,1.0,1.0,1.0,0.0,3.0,0.143,0.333,0.571,0.905,9.0,5.0,0.191,1.14,0.213,-0.022,0.09%,0.91,1.1,0.0,1.0,"HR,SB"
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Seth Brown PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0.262,0.283,0.545,2.0,2.0,-0.026,0.97,0.0,-0.026,-0.01%,0.78,-0.3,0.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Alex Wood P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Michael Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Austin Adams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Dany Jiménez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,T.J. McFarland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202404200,OAK,https://www.baseball-reference.com/boxes/CLE/CLE202404200.shtml,OaklandAthleticsbatting,Team Totals,31.0,3.0,6.0,3.0,5.0,11.0,37.0,0.194,0.297,0.484,0.781,152.0,96.0,-0.136,1.1,0.642,-0.779,-0.07%,0.88,-1.4,24.0,5.0,

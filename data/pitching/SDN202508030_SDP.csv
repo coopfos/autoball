@@ -1,0 +1,8 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202508030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508030.shtml,SanDiegoPadrespitching,"Dylan Cease, W (4-10)",5,1,0,0,1,9,0,4.6,18,90,59,29,14,15,3,4,1,0,73.0,,,0.279,0.83,0.24%,1.21,2.6
+SDN202508030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508030.shtml,SanDiegoPadrespitching,"Jason Adam, H (27)",1,0,0,0,0,0,0,1.86,3,12,7,6,1,0,1,2,0,0,,0.0,0.0,0.067,0.87,0.06%,1.27,0.5
+SDN202508030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508030.shtml,SanDiegoPadrespitching,"Jeremiah Estrada, H (23)",1,0,0,0,0,3,0,2.66,3,10,9,2,6,1,0,0,0,0,,0.0,0.0,0.073,0.94,0.06%,1.38,0.5
+SDN202508030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508030.shtml,SanDiegoPadrespitching,David Morgan,1,0,0,0,1,3,0,1.86,4,26,16,9,3,4,0,0,0,0,,0.0,0.0,0.006,0.21,0.01%,0.31,0.5
+SDN202508030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508030.shtml,SanDiegoPadrespitching,Adrián Morejón,0,4,3,3,1,0,0,2.17,5,19,9,5,1,3,1,3,3,0,,0.0,0.0,-0.072,0.33,-0.06%,0.48,-3.8
+SDN202508030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508030.shtml,SanDiegoPadrespitching,"Robert Suarez, S (32)",1,1,0,0,0,1,0,3.28,4,16,11,5,3,3,0,3,3,0,,3.0,1.0,0.073,1.15,0.06%,1.68,1.4
+SDN202508030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508030.shtml,SanDiegoPadrespitching,Team Totals,9,6,3,3,3,16,0,3.0,37,173,111,56,28,26,5,12,7,0,73.0,3.0,1.0,0.426,0.73,0.38%,1.06,1.7

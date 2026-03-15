@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxpitching,"Nick Pivetta, L (0-1)",6,3,1,1,0,10,1,1.5,21,84,57,27,16,14,3,8,4,0,72.0,,,0.129,0.89,0.08%,0.88,1.7
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxpitching,Josh Winckowski,2,1,0,0,2,4,0,0.0,9,41,22,9,6,7,2,1,1,0,,0.0,0.0,0.064,0.62,0.04%,0.62,0.9
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxpitching,Team Totals,8,4,1,1,2,14,1,1.12,30,125,79,36,22,21,5,9,5,0,72.0,0.0,0.0,0.193,0.8,0.11%,0.8,2.6

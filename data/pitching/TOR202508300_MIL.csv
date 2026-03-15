@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewerspitching,Quinn Priester,6.0,5,1,0,0,3,0,3.28,22,82,56,31,9,16,12,7,2,0,63.0,,,0.166,1.22,0.04%,0.52,2.1
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewerspitching,Jared Koenig,1.0,0,0,0,0,3,0,3.44,3,15,9,0,5,4,0,0,0,0,,0.0,0.0,0.089,1.16,0.02%,0.49,0.5
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewerspitching,Nick Mears,0.2,1,0,0,0,1,0,2.96,3,10,8,4,2,2,0,2,1,0,,0.0,0.0,0.057,1.86,0.01%,0.79,0.3
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewerspitching,"Aaron Ashby, W (3-1)",0.1,0,0,0,0,0,0,2.31,1,3,2,1,0,1,0,1,1,0,,1.0,0.0,0.051,1.81,0.01%,0.77,0.2
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewerspitching,"Abner Uribe, S (4)",1.0,1,0,0,0,1,0,1.65,3,13,7,6,0,1,2,0,0,0,,0.0,0.0,0.043,0.89,0.01%,0.38,0.5
+TOR202508300,MIL,https://www.baseball-reference.com/boxes/TOR/TOR202508300.shtml,MilwaukeeBrewerspitching,Team Totals,9.0,7,1,0,0,8,0,0.0,32,123,82,42,16,24,14,10,4,0,63.0,1.0,0.0,0.406,1.26,0.10%,0.54,3.6

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIN202505080,BAL,https://www.baseball-reference.com/boxes/MIN/MIN202505080.shtml,BaltimoreOriolespitching,Dean Kremer,7.0,3,2,2,2,8,1,5.24,25,86,57,24,10,23,9,6,1,0,69.0,,,0.176,1.07,0.05%,0.54,1.5
+MIN202505080,BAL,https://www.baseball-reference.com/boxes/MIN/MIN202505080.shtml,BaltimoreOriolespitching,"Yennier Cano, L (0-2)",0.1,0,2,2,2,1,0,3.0,3,18,8,3,3,2,0,0,0,0,,0.0,0.0,-0.063,2.27,-0.02%,1.15,-0.4
+MIN202505080,BAL,https://www.baseball-reference.com/boxes/MIN/MIN202505080.shtml,BaltimoreOriolespitching,Gregory Soto,0.2,2,1,1,1,2,0,4.85,5,23,14,8,2,4,0,2,1,0,,2.0,2.0,-0.297,1.54,-0.09%,0.78,-2.1
+MIN202505080,BAL,https://www.baseball-reference.com/boxes/MIN/MIN202505080.shtml,BaltimoreOriolespitching,Team Totals,8.0,5,5,5,5,11,1,5.62,33,127,79,35,15,29,9,8,2,0,69.0,2.0,2.0,-0.184,1.28,-0.06%,0.65,-1.0

@@ -1,0 +1,3 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolespitching,"Trevor Rogers, L (4-2)",8,4,1,1,0,8,0,1.44,28,88,68,35,13,20,6,14,6,0,78,,,0.219,0.84,0.02%,0.13,2.7
+CHN202508010,BAL,https://www.baseball-reference.com/boxes/CHN/CHN202508010.shtml,BaltimoreOriolespitching,Team Totals,8,4,1,1,0,8,0,1.12,28,88,68,35,13,20,6,14,6,0,78,,,0.219,0.84,0.02%,0.13,2.7

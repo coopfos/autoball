@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202504020,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,SanDiegoPadrespitching,"Dylan Cease, W (1-0)",6.1,4,1,1,1,7,0,3.38,24,92,58,30,10,18,7,9,2,0,67.0,,,0.195,0.72,0.12%,0.74,1.9
+SDN202504020,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,SanDiegoPadrespitching,"Wandy Peralta, H (1)",0.2,1,0,0,0,1,0,0.0,3,8,6,3,2,1,2,0,0,0,,1.0,0.0,0.061,1.29,0.04%,1.33,0.7
+SDN202504020,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,SanDiegoPadrespitching,Adrián Morejón,1.0,3,1,1,0,0,0,1.93,5,14,13,8,0,5,3,2,1,0,,0.0,0.0,0.008,1.32,0.01%,1.36,-0.5
+SDN202504020,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,SanDiegoPadrespitching,"Robert Suarez, S (3)",1.0,0,0,0,0,1,0,0.0,3,12,8,4,3,1,1,1,0,0,,0.0,0.0,0.034,0.44,0.02%,0.46,0.5
+SDN202504020,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504020.shtml,SanDiegoPadrespitching,Team Totals,9.0,8,2,2,1,9,0,2.0,35,126,85,45,15,25,13,12,3,0,67.0,1.0,0.0,0.298,0.83,0.18%,0.86,2.6

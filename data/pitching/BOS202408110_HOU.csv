@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202408110,HOU,https://www.baseball-reference.com/boxes/BOS/BOS202408110.shtml,HoustonAstrospitching,"Hunter Brown, W (10-7)",5.1,5,2,2,2,9,0,3.96,21,95,64,34,15,15,6,4,2,0,57.0,,,0.234,0.66,0.18%,0.85,0.5
+BOS202408110,HOU,https://www.baseball-reference.com/boxes/BOS/BOS202408110.shtml,HoustonAstrospitching,Caleb Ferguson,1.2,1,0,0,0,0,0,5.21,5,16,9,7,0,2,3,2,1,0,,3.0,1.0,0.013,0.2,0.01%,0.25,1.1
+BOS202408110,HOU,https://www.baseball-reference.com/boxes/BOS/BOS202408110.shtml,HoustonAstrospitching,Bryan King,1.0,0,0,0,0,2,0,2.3,3,10,9,4,2,3,1,0,0,0,,0.0,0.0,0.002,0.02,0.00%,0.03,0.5
+BOS202408110,HOU,https://www.baseball-reference.com/boxes/BOS/BOS202408110.shtml,HoustonAstrospitching,Shawn Dubin,1.0,0,0,0,0,2,0,4.58,3,20,14,8,1,5,0,1,0,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.5
+BOS202408110,HOU,https://www.baseball-reference.com/boxes/BOS/BOS202408110.shtml,HoustonAstrospitching,Team Totals,9.0,6,2,2,2,13,0,2.0,32,141,96,53,18,25,10,7,3,0,57.0,3.0,1.0,0.25,0.47,0.19%,0.61,2.7

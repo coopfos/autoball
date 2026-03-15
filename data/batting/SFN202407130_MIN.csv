@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Willi Castro SS,3.0,0.0,2.0,0.0,1.0,0.0,5.0,0.269,0.356,0.427,0.783,21.0,12.0,0.05,0.91,0.131,-0.08,0.04%,1.19,0.9,2.0,2.0,"CS,HBP"
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Trevor Larnach LF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.245,0.309,0.418,0.727,24.0,12.0,-0.047,1.14,0.041,-0.088,-0.04%,1.49,-0.1,2.0,0.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,3.0,1.0,0.0,0.0,1.0,0.0,5.0,0.24,0.328,0.472,0.8,18.0,10.0,0.013,0.91,0.064,-0.052,0.01%,1.18,-0.7,10.0,0.0,"HBP,GDP"
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Brooks Lee 2B,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.3,0.341,0.475,0.816,19.0,8.0,-0.103,1.05,0.005,-0.107,-0.08%,1.36,-0.8,0.0,7.0,SB
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Matt Wallner DH,5.0,1.0,1.0,1.0,0.0,3.0,5.0,0.227,0.375,0.5,0.875,19.0,15.0,0.169,1.15,0.258,-0.089,0.13%,1.49,0.9,0.0,0.0,2B
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,2.0,1.0,2.0,1.0,2.0,0.0,4.0,0.247,0.328,0.431,0.759,17.0,5.0,0.234,0.89,0.234,0.0,0.18%,1.15,1.6,9.0,0.0,HR
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Max Kepler RF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.259,0.312,0.399,0.711,18.0,15.0,-0.045,1.18,0.052,-0.097,-0.03%,1.53,-0.4,3.0,0.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Manuel Margot CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.228,0.292,0.323,0.615,18.0,12.0,-0.062,1.21,0.037,-0.099,-0.05%,1.57,-0.6,1.0,0.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Christian Vázquez 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.198,0.22,0.299,0.52,13.0,10.0,-0.116,1.14,0.023,-0.139,-0.09%,1.49,-0.9,0.0,0.0,GDP
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Simeon Woods Richardson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Jorge Alcala P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Griffin Jax P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Jhoan Duran P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202407130,MIN,https://www.baseball-reference.com/boxes/SFN/SFN202407130.shtml,MinnesotaTwinsbatting,Team Totals,34.0,4.0,10.0,2.0,5.0,7.0,41.0,0.294,0.415,0.412,0.826,167.0,99.0,0.093,1.06,0.845,-0.751,0.07%,1.38,-0.2,27.0,10.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.242,0.315,0.376,0.691,22.0,13.0,-0.079,0.78,0.0,-0.079,0%,0.0,-1.0,1.0,1.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.262,0.31,0.448,0.758,12.0,9.0,-0.047,0.47,0.0,-0.047,0%,0.0,-0.8,1.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.274,0.348,0.434,0.782,18.0,10.0,0.045,0.29,0.05,-0.005,0%,0.0,0.3,1.0,0.0,2B
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Tyler O'Neill DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.198,0.293,0.395,0.688,16.0,8.0,-0.056,0.55,0.003,-0.059,0%,0.0,-0.7,0.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Dylan Beavers LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.231,0.371,0.407,0.779,18.0,13.0,-0.059,0.55,0.0,-0.059,0%,0.0,-0.9,5.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Jeremiah Jackson RF,3.0,0.0,0.0,0.0,0.0,3.0,4.0,0.276,0.328,0.447,0.775,13.0,9.0,0.017,0.44,0.039,-0.022,0%,0.0,-0.1,2.0,0.0,HBP
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Colton Cowser CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.198,0.272,0.39,0.663,10.0,6.0,-0.05,0.7,0.0,-0.05,0%,0.0,-0.6,3.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Samuel Basallo C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.165,0.229,0.33,0.559,11.0,11.0,-0.051,0.69,0.0,-0.051,0%,0.0,-0.6,7.0,1.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Coby Mayo 1B,2.0,1.0,1.0,1.0,0.0,0.0,3.0,0.219,0.302,0.392,0.695,3.0,2.0,0.016,0.46,0.03,-0.014,0%,0.0,1.0,3.0,1.0,"HR,HBP"
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Tomoyuki Sugano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Grant Wolfram P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Yaramil Hiraldo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Carson Ragsdale P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYA202509270,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509270.shtml,BaltimoreOriolesbatting,Team Totals,30.0,1.0,3.0,1.0,1.0,12.0,33.0,0.1,0.182,0.233,0.415,123.0,81.0,-0.264,0.54,0.122,-0.386,0.00%,0.0,-3.4,24.0,3.0,

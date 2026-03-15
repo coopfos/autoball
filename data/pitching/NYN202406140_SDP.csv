@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202406140,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202406140.shtml,SanDiegoPadrespitching,"Matt Waldron, L (4-6)",7,3,2,2,2,2,0,3.66,26,98,64,38,6,20,10,10,3,0,63.0,,,0.078,0.83,0.05%,0.89,1.4
+NYN202406140,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202406140.shtml,SanDiegoPadrespitching,Adrián Morejón,1,1,0,0,1,0,0,1.93,5,21,15,12,2,1,4,0,0,0,,0.0,0.0,0.029,0.53,0.02%,0.57,0.5
+NYN202406140,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202406140.shtml,SanDiegoPadrespitching,Team Totals,8,4,2,2,3,2,0,2.25,31,119,79,50,8,21,14,10,3,0,63.0,0.0,0.0,0.107,0.79,0.07%,0.84,1.8

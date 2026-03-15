@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Oneil Cruz CF,2.0,1.0,0.0,0.0,3.0,2.0,5.0,0.227,0.353,0.476,0.828,31.0,15.0,0.103,0.9,0.13,-0.027,0.01%,0.09,1.3,4.0,0.0,2·SB
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,4.0,1.0,1.0,2.0,0.0,3.0,4.0,0.264,0.368,0.402,0.77,21.0,16.0,0.098,1.17,0.184,-0.086,0.01%,0.12,0.3,0.0,0.0,HR
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Bryan Reynolds RF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.238,0.307,0.379,0.686,16.0,8.0,-0.028,0.94,0.028,-0.056,-0.00%,0.1,-0.6,3.0,0.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Spencer Horwitz 1B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.218,0.283,0.327,0.611,20.0,15.0,-0.051,0.85,0.022,-0.073,-0.00%,0.09,-0.7,8.0,0.0,2B
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.224,0.282,0.276,0.558,21.0,11.0,-0.011,1.15,0.077,-0.088,-0.00%,0.12,-0.2,0.0,3.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Adam Frazier 2B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.249,0.319,0.349,0.668,21.0,15.0,0.03,0.72,0.085,-0.055,0.00%,0.07,0.5,0.0,1.0,HR
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Tommy Pham LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.209,0.279,0.237,0.517,13.0,10.0,-0.022,0.54,0.02,-0.042,-0.00%,0.06,-0.1,3.0,0.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Endy Rodríguez C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.163,0.241,0.224,0.465,16.0,11.0,-0.077,0.76,0.0,-0.077,-0.01%,0.08,-0.9,6.0,0.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.303,0.35,0.388,0.738,12.0,8.0,-0.037,0.72,0.02,-0.056,-0.00%,0.07,-0.1,0.0,3.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Andrew Heaney P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Chase Shugart P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Caleb Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Braxton Ashcraft P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202506010,PIT,https://www.baseball-reference.com/boxes/SDN/SDN202506010.shtml,PittsburghPiratesbatting,Team Totals,33.0,4.0,7.0,4.0,4.0,10.0,37.0,0.212,0.297,0.424,0.722,171.0,109.0,0.005,0.86,0.566,-0.56,0.00%,0.09,-0.6,24.0,8.0,

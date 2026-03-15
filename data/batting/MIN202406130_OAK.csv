@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Abraham Toro 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.262,0.305,0.392,0.696,15.0,10.0,-0.047,0.55,0.006,-0.052,-0.00%,0.04,-0.4,2.0,1.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,JJ Bleday CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.242,0.325,0.444,0.77,15.0,11.0,-0.042,0.65,0.014,-0.056,-0.00%,0.05,-0.5,3.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Brent Rooker DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.258,0.34,0.512,0.852,18.0,11.0,-0.066,0.62,0.0,-0.066,-0.00%,0.05,-0.7,0.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Miguel Andujar LF,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.309,0.324,0.456,0.78,16.0,10.0,-0.009,0.68,0.038,-0.046,0%,0.05,-0.1,2.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Tyler Soderstrom 1B,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.225,0.345,0.437,0.782,14.0,11.0,0.107,0.93,0.163,-0.056,0.01%,0.07,1.1,5.0,0.0,HR
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Shea Langeliers C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.204,0.264,0.437,0.701,10.0,7.0,-0.024,0.7,0.016,-0.04,-0.00%,0.05,-0.3,3.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Seth Brown RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.192,0.257,0.308,0.565,14.0,8.0,-0.055,0.68,0.0,-0.055,-0.00%,0.05,-0.5,3.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Zack Gelof 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.19,0.245,0.317,0.563,13.0,9.0,-0.05,0.65,0.0,-0.05,-0.00%,0.05,-0.6,4.0,3.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Aledmys Díaz SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.111,0.111,0.111,0.222,12.0,9.0,-0.052,0.69,0.0,-0.052,-0.00%,0.05,-0.6,2.0,3.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Luis Medina P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Vinny Nittoli P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Sean Newcomb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202406130,OAK,https://www.baseball-reference.com/boxes/MIN/MIN202406130.shtml,OaklandAthleticsbatting,Team Totals,31.0,2.0,4.0,2.0,1.0,7.0,32.0,0.129,0.156,0.226,0.382,127.0,86.0,-0.238,0.69,0.237,-0.473,-0.01%,0.05,-2.5,24.0,7.0,

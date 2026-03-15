@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202406280,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406280.shtml,TexasRangerspitching,"Max Scherzer, L (1-1)",5.1,4,2,2,2,4,1,1.74,22,77,53,33,10,10,3,13,5,0,54.0,,,-0.012,0.9,-0.00%,0.34,0.5
+BAL202406280,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406280.shtml,TexasRangerspitching,Jacob Latz,0.2,0,0,0,1,1,0,3.31,3,15,7,1,5,1,0,1,0,0,,0.0,0.0,0.014,0.34,0.00%,0.13,0.2
+BAL202406280,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406280.shtml,TexasRangerspitching,José Leclerc,2.0,1,0,0,0,2,0,4.25,7,21,13,6,4,3,2,3,0,0,,0.0,0.0,0.066,0.56,0.01%,0.21,0.9
+BAL202406280,TEX,https://www.baseball-reference.com/boxes/BAL/BAL202406280.shtml,TexasRangerspitching,Team Totals,8.0,5,2,2,3,7,1,2.25,32,113,73,40,19,14,5,17,5,0,54.0,0.0,0.0,0.068,0.78,0.02%,0.29,1.6

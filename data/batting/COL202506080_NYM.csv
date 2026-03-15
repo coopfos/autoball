@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Francisco Lindor SS,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.283,0.354,0.488,0.842,23.0,12.0,-0.053,0.53,0.0,-0.053,-0.04%,0.63,-1.2,0.0,3.0,
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Luisangel Acuña SS,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.243,0.293,0.287,0.579,1.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,1.0,
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Brandon Nimmo LF,6.0,0.0,1.0,0.0,0.0,1.0,6.0,0.23,0.295,0.413,0.708,22.0,18.0,-0.072,0.42,0.0,-0.072,-0.05%,0.49,-1.4,4.0,0.0,
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Juan Soto RF,3.0,3.0,3.0,0.0,3.0,0.0,6.0,0.244,0.384,0.436,0.82,30.0,14.0,0.067,0.35,0.067,0.0,0.05%,0.42,1.7,1.0,0.0,
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Pete Alonso 1B,6.0,3.0,3.0,4.0,0.0,2.0,6.0,0.301,0.396,0.594,0.99,32.0,22.0,0.077,0.37,0.107,-0.03,0.06%,0.44,2.0,9.0,0.0,"2·HR,GDP"
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Jeff McNeil 2B,5.0,3.0,3.0,4.0,0.0,2.0,5.0,0.257,0.355,0.533,0.888,23.0,17.0,0.158,0.39,0.169,-0.011,0.11%,0.46,3.8,4.0,2.0,"2·HR,2B"
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Ronny Mauricio DH,3.0,2.0,2.0,0.0,2.0,1.0,5.0,0.263,0.333,0.474,0.807,18.0,8.0,0.05,0.31,0.053,-0.004,0.04%,0.36,0.6,0.0,0.0,SB
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Tyrone Taylor CF,4.0,0.0,1.0,1.0,1.0,1.0,5.0,0.233,0.299,0.33,0.629,18.0,9.0,0.101,0.41,0.106,-0.005,0.07%,0.48,1.0,1.0,0.0,"2B,SB"
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Brett Baty 3B,5.0,1.0,1.0,2.0,0.0,0.0,5.0,0.229,0.273,0.431,0.703,18.0,12.0,-0.056,0.45,0.014,-0.07,-0.04%,0.53,0.1,0.0,1.0,HR
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Francisco Alvarez C,5.0,1.0,3.0,2.0,0.0,1.0,5.0,0.255,0.333,0.343,0.676,20.0,14.0,0.071,0.46,0.086,-0.015,0.05%,0.55,1.6,8.0,0.0,HR
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Tylor Megill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Paul Blackburn P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+COL202506080,NYM,https://www.baseball-reference.com/boxes/COL/COL202506080.shtml,NewYorkMetsbatting,Team Totals,43.0,13.0,17.0,13.0,6.0,10.0,49.0,0.395,0.469,0.86,1.33,205.0,127.0,0.343,0.4,0.602,-0.26,0.25%,0.47,8.0,27.0,8.0,

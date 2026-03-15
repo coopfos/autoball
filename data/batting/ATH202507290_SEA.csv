@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,J.P. Crawford SS,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.268,0.364,0.362,0.726,26.0,15.0,-0.015,0.57,0.035,-0.05,0%,0.0,-0.4,0.0,2.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Julio Rodríguez CF,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.255,0.313,0.431,0.744,11.0,9.0,0.004,0.68,0.049,-0.045,0%,0.0,0.2,1.0,0.0,2B
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Cal Raleigh C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.26,0.368,0.613,0.981,19.0,13.0,-0.028,0.88,0.035,-0.063,0%,0.0,-0.5,8.0,0.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Josh Naylor 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.291,0.357,0.446,0.802,13.0,11.0,-0.09,0.89,0.0,-0.09,0%,0.0,-1.2,9.0,0.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Randy Arozarena LF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.247,0.35,0.463,0.813,17.0,11.0,-0.045,0.62,0.014,-0.059,0%,0.0,-0.7,3.0,0.0,SB
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Jorge Polanco DH,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.252,0.314,0.457,0.771,15.0,9.0,0.036,0.51,0.064,-0.027,0%,0.0,0.8,0.0,0.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Dominic Canzone RF,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.29,0.338,0.492,0.83,14.0,10.0,0.022,0.49,0.04,-0.018,0%,0.0,0.3,1.0,0.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Ben Williamson 3B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.254,0.292,0.312,0.604,20.0,10.0,-0.002,0.8,0.035,-0.037,0%,0.0,-0.4,0.0,3.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Cole Young 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.241,0.308,0.319,0.627,20.0,13.0,-0.122,1.18,0.0,-0.122,0%,0.0,-1.7,2.0,2.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Logan Evans P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Carlos Vargas P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Jackson Kowar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202507290,SEA,https://www.baseball-reference.com/boxes/ATH/ATH202507290.shtml,SeattleMarinersbatting,Team Totals,33.0,1.0,6.0,1.0,4.0,11.0,37.0,0.182,0.27,0.212,0.482,155.0,101.0,-0.24,0.73,0.272,-0.511,0.00%,0.0,-3.5,24.0,8.0,

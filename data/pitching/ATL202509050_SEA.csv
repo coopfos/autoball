@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202509050,SEA,https://www.baseball-reference.com/boxes/ATL/ATL202509050.shtml,SeattleMarinerspitching,Logan Gilbert,6,5,1,1,1,7,0,3.61,24,86,56,29,15,12,5,11,4,0,64.0,,,0.174,1.04,0.16%,1.58,2.0
+ATL202509050,SEA,https://www.baseball-reference.com/boxes/ATL/ATL202509050.shtml,SeattleMarinerspitching,Matt Brash,1,0,0,0,0,1,0,1.82,3,12,9,4,0,5,2,0,0,0,,0.0,0.0,0.088,1.56,0.08%,2.37,0.5
+ATL202509050,SEA,https://www.baseball-reference.com/boxes/ATL/ATL202509050.shtml,SeattleMarinerspitching,"Gabe Speier, L (2-3)",0,4,3,3,0,0,0,2.91,4,10,8,5,0,3,2,2,1,0,,0.0,0.0,-0.371,1.23,-0.34%,1.88,-3.4
+ATL202509050,SEA,https://www.baseball-reference.com/boxes/ATL/ATL202509050.shtml,SeattleMarinerspitching,Carlos Vargas,1,1,0,0,0,2,0,3.61,4,10,8,3,4,1,1,1,1,0,,1.0,0.0,0.01,0.14,0.01%,0.22,0.9
+ATL202509050,SEA,https://www.baseball-reference.com/boxes/ATL/ATL202509050.shtml,SeattleMarinerspitching,Team Totals,8,10,4,4,1,10,0,4.5,35,118,81,41,19,21,10,14,6,0,64.0,1.0,0.0,-0.099,1.0,-0.09%,1.53,0.0

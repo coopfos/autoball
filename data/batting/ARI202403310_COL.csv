@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.214,0.267,0.429,0.695,8.0,4.0,0.035,1.27,0.105,-0.07,0.02%,1.24,0.3,4.0,4.0,"HBP,GDP"
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Nolan Jones LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.125,0.176,0.313,0.489,16.0,10.0,-0.158,1.53,0.0,-0.158,-0.09%,1.49,-1.6,1.0,0.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Elehuris Montero DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.182,0.357,0.182,0.539,20.0,16.0,-0.107,1.35,0.025,-0.132,-0.06%,1.31,-1.2,0.0,0.0,GDP
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.429,0.471,0.5,0.971,17.0,11.0,-0.075,0.74,0.0,-0.075,-0.04%,0.72,-1.0,2.0,1.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.118,0.118,0.176,0.294,13.0,10.0,-0.036,0.48,0.01,-0.045,-0.02%,0.47,-0.3,1.0,3.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Michael Toglia 1B,3.0,1.0,1.0,0.0,0.0,1.0,4.0,0.25,0.4,0.25,0.65,21.0,13.0,0.034,0.47,0.051,-0.017,0.02%,0.46,0.1,9.0,3.0,HBP
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.308,0.357,0.538,0.896,15.0,11.0,0.026,0.76,0.065,-0.039,0.01%,0.73,-0.1,1.0,0.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Jake Cave RF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.25,0.25,0.25,0.5,16.0,10.0,-0.07,1.17,0.0,-0.07,-0.04%,1.14,-0.7,0.0,0.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Jacob Stallings C,3.0,0.0,2.0,1.0,0.0,0.0,3.0,0.5,0.5,0.5,1.0,10.0,7.0,0.091,0.92,0.096,-0.005,0.05%,0.89,0.9,6.0,0.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Ryan Feltner P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Jake Bird P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202403310,COL,https://www.baseball-reference.com/boxes/ARI/ARI202403310.shtml,ColoradoRockiesbatting,Team Totals,32.0,1.0,8.0,1.0,0.0,9.0,34.0,0.25,0.294,0.25,0.544,136.0,92.0,-0.26,0.96,0.352,-0.611,-0.15%,0.93,-3.6,24.0,12.0,

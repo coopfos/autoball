@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202505200,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202505200.shtml,CincinnatiRedspitching,"Nick Martinez, L (2-5)",6,4,1,1,2,3,0,3.43,22,91,51,33,9,9,11,5,3,0,61.0,,,0.164,1.22,0.09%,1.1,2.1
+PIT202505200,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202505200.shtml,CincinnatiRedspitching,Luis Mey,1,1,0,0,1,1,0,1.8,6,28,15,7,1,7,2,1,1,0,,0.0,0.0,0.044,1.08,0.02%,0.97,0.5
+PIT202505200,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202505200.shtml,CincinnatiRedspitching,Lyon Richardson,1,1,0,0,1,0,0,1.32,6,21,11,5,3,3,4,1,0,0,,0.0,0.0,0.032,0.92,0.02%,0.83,0.5
+PIT202505200,CIN,https://www.baseball-reference.com/boxes/PIT/PIT202505200.shtml,CincinnatiRedspitching,Team Totals,8,6,1,1,4,4,0,1.12,34,140,77,45,13,19,17,7,4,0,61.0,0.0,0.0,0.24,1.15,0.13%,1.03,3.1

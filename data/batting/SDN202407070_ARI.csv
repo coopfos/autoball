@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,4.0,1.0,1.0,1.0,0.0,2.0,5.0,0.21,0.297,0.318,0.615,21.0,11.0,0.043,0.71,0.098,-0.055,0.02%,0.63,-0.3,2.0,0.0,"HR,SH,GDP"
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.254,0.332,0.385,0.717,15.0,12.0,-0.023,0.62,0.034,-0.057,-0.01%,0.55,0.3,6.0,0.0,2B
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Joc Pederson DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.28,0.375,0.514,0.889,16.0,11.0,-0.059,0.77,0.0,-0.059,-0.03%,0.68,-0.5,0.0,0.0,
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Randal Grichuk PH-DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.288,0.347,0.455,0.801,7.0,4.0,-0.016,0.18,0.0,-0.016,-0.01%,0.16,-0.9,0.0,0.0,GDP
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Christian Walker 1B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.268,0.34,0.513,0.853,15.0,11.0,-0.063,0.7,0.005,-0.068,-0.03%,0.62,-0.1,9.0,0.0,
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Jake McCarthy LF,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.279,0.366,0.383,0.749,17.0,11.0,0.044,0.7,0.072,-0.029,0.02%,0.62,1.1,1.0,0.0,2B
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,3.0,2.0,1.0,0.0,1.0,1.0,4.0,0.271,0.327,0.333,0.66,23.0,16.0,-0.088,0.99,0.03,-0.118,-0.05%,0.88,-0.1,5.0,3.0,GDP
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,4.0,2.0,3.0,5.0,0.0,1.0,4.0,0.21,0.298,0.339,0.637,13.0,11.0,0.331,0.81,0.361,-0.03,0.18%,0.72,3.5,1.0,3.0,"HR,2B"
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.2,0.226,0.467,0.692,15.0,10.0,-0.053,0.51,0.001,-0.054,-0.03%,0.45,0.5,2.0,0.0,2B
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Kevin Newman 2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.286,0.318,0.39,0.708,15.0,10.0,-0.005,0.52,0.036,-0.04,-0.00%,0.46,1.0,1.0,4.0,2B
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Ryne Nelson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Joe Mantiply P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Justin Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Bryce Jarvis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202407070,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202407070.shtml,ArizonaDiamondbacksbatting,Team Totals,36.0,9.0,12.0,8.0,2.0,8.0,39.0,0.333,0.368,0.639,1.007,157.0,107.0,0.111,0.67,0.637,-0.526,0.06%,0.6,4.5,27.0,10.0,

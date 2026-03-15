@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202509260,MIN,https://www.baseball-reference.com/boxes/PHI/PHI202509260.shtml,MinnesotaTwinspitching,"Joe Ryan, L (13-10)",5.0,4,2,1,1,9,1,3.42,21,90,59,34,12,13,4,7,3,0,61.0,,,0.022,0.83,0.00%,0.0,0.7
+PHI202509260,MIN,https://www.baseball-reference.com/boxes/PHI/PHI202509260.shtml,MinnesotaTwinspitching,Travis Adams,1.1,2,1,1,1,1,0,7.64,7,30,17,9,6,2,3,2,0,0,,0.0,0.0,-0.061,0.87,0.00%,0.0,-0.2
+PHI202509260,MIN,https://www.baseball-reference.com/boxes/PHI/PHI202509260.shtml,MinnesotaTwinspitching,Génesis Cabrera,0.2,0,0,0,0,1,0,6.48,2,12,6,1,3,2,1,0,0,0,,0.0,0.0,0.015,0.29,0.00%,0.0,0.3
+PHI202509260,MIN,https://www.baseball-reference.com/boxes/PHI/PHI202509260.shtml,MinnesotaTwinspitching,Michael Tonkin,1.0,1,0,0,0,1,0,4.88,4,11,8,4,1,3,1,2,2,0,,0.0,0.0,0.016,0.2,0.00%,0.0,0.5
+PHI202509260,MIN,https://www.baseball-reference.com/boxes/PHI/PHI202509260.shtml,MinnesotaTwinspitching,Team Totals,8.0,7,3,2,2,12,1,2.25,34,143,90,48,22,20,9,11,5,0,61.0,0.0,0.0,-0.008,0.73,0.00%,0.0,1.3

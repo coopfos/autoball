@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYA202405180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202405180.shtml,NewYorkYankeespitching,"Luis Gil, W (5-1)",6,5,1,1,1,14,0,2.39,24,98,65,28,19,18,2,7,2,0,71.0,,,0.127,0.89,0.08%,0.95,2.0
+NYA202405180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202405180.shtml,NewYorkYankeespitching,Nick Burdi,2,1,0,0,0,2,0,1.04,7,28,19,11,2,6,0,5,1,0,,0.0,0.0,0.028,0.22,0.02%,0.24,1.0
+NYA202405180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202405180.shtml,NewYorkYankeespitching,Dennis Santana,1,0,0,0,0,0,0,4.34,3,6,6,5,1,0,1,2,1,0,,0.0,0.0,0.006,0.08,0.00%,0.09,0.5
+NYA202405180,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202405180.shtml,NewYorkYankeespitching,Team Totals,9,6,1,1,1,16,0,1.0,34,132,90,44,22,24,3,14,4,0,71.0,0.0,0.0,0.161,0.68,0.10%,0.73,3.4

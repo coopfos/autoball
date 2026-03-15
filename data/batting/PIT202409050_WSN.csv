@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Dylan Crews RF,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.216,0.293,0.432,0.725,18.0,10.0,-0.02,0.84,0.067,-0.087,0%,0.0,-0.3,2.0,0.0,SB
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,James Wood LF,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.271,0.368,0.419,0.787,27.0,17.0,-0.053,0.83,0.008,-0.061,0%,0.0,-1.3,2.0,0.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Juan Yepez 1B,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.287,0.342,0.454,0.796,15.0,9.0,0.015,0.86,0.081,-0.067,0%,0.0,0.6,9.0,1.0,2B
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Andrés Chaparro DH,4.0,1.0,1.0,3.0,0.0,2.0,5.0,0.233,0.291,0.466,0.757,17.0,12.0,0.111,0.69,0.16,-0.048,0%,0.0,1.7,0.0,0.0,"HR,HBP"
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,José Tena 3B,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.288,0.321,0.388,0.709,21.0,17.0,-0.007,0.53,0.034,-0.041,0%,0.0,-0.4,0.0,4.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Ildemaro Vargas 2B,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.258,0.306,0.331,0.637,22.0,16.0,0.018,0.64,0.068,-0.05,0%,0.0,-0.8,1.0,3.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.26,0.32,0.343,0.663,16.0,11.0,-0.157,0.83,0.0,-0.157,0%,0.0,-1.8,1.0,0.0,GDP
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Keibert Ruiz C,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.224,0.258,0.362,0.62,18.0,12.0,0.041,0.43,0.053,-0.011,0%,0.0,0.2,7.0,0.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Nasim Nuñez SS,2.0,1.0,2.0,0.0,1.0,0.0,4.0,0.345,0.441,0.379,0.82,19.0,11.0,0.041,0.63,0.064,-0.022,0%,0.0,1.4,1.0,1.0,"2B,SH"
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Jake Irvin P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Joe La Sorsa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Eduardo Salazar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Zach Brzykcy P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409050,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409050.shtml,WashingtonNationalsbatting,Team Totals,35.0,4.0,10.0,4.0,5.0,6.0,42.0,0.286,0.39,0.429,0.819,173.0,115.0,-0.011,0.7,0.535,-0.544,0.00%,0.0,-0.6,24.0,9.0,

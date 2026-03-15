@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202505141,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505141.shtml,PhiladelphiaPhilliespitching,"Jesús Luzardo, W (4-0)",7.0,5,1,1,2,6,0,2.0,27,100,66,35,13,18,8,10,4,0,67.0,,,0.228,1.25,0.17%,1.56,2.6
+PHI202505141,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505141.shtml,PhiladelphiaPhilliespitching,"José Alvarado, H (5)",0.1,1,0,0,1,0,0,2.79,3,14,7,3,2,2,2,0,0,0,,0.0,0.0,-0.21,3.18,-0.16%,3.97,-0.9
+PHI202505141,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505141.shtml,PhiladelphiaPhilliespitching,"Orion Kerkering, H (5)",0.2,0,0,0,0,1,0,4.32,2,9,4,1,2,1,0,1,0,0,,2.0,0.0,0.333,4.29,0.25%,5.36,1.4
+PHI202505141,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505141.shtml,PhiladelphiaPhilliespitching,"Jordan Romano, S (4)",1.0,0,0,0,0,3,0,8.22,3,13,10,4,5,1,0,0,0,0,,0.0,0.0,0.167,2.17,0.12%,2.71,0.5
+PHI202505141,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202505141.shtml,PhiladelphiaPhilliespitching,Team Totals,9.0,6,1,1,3,10,0,1.0,35,136,87,43,22,22,10,11,4,0,67.0,2.0,0.0,0.518,1.69,0.39%,2.1,3.7

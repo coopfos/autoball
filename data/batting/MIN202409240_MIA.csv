@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Xavier Edwards SS,4.0,0.0,2.0,2.0,1.0,1.0,5.0,0.314,0.382,0.384,0.766,14.0,7.0,0.103,0.53,0.157,-0.054,0%,0.0,1.6,2.0,1.0,"2B,CS"
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Connor Norby 3B,3.0,0.0,0.0,0.0,2.0,0.0,5.0,0.248,0.305,0.484,0.789,24.0,11.0,-0.009,0.51,0.04,-0.05,0%,0.0,-0.2,2.0,1.0,CS
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Jake Burger 1B,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.245,0.298,0.453,0.751,21.0,16.0,-0.056,0.46,0.0,-0.056,0%,0.0,-1.4,4.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.247,0.307,0.418,0.725,11.0,10.0,-0.033,0.5,0.01,-0.044,0%,0.0,-0.4,2.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Dane Myers PH-RF,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.265,0.344,0.422,0.765,5.0,1.0,0.001,0.24,0.001,0.0,0%,0.0,0.1,0.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Jonah Bride DH,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.264,0.349,0.429,0.779,21.0,14.0,0.118,0.43,0.132,-0.015,0%,0.0,0.9,0.0,0.0,HR
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Kyle Stowers LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.212,0.261,0.339,0.6,13.0,9.0,-0.066,0.66,0.0,-0.066,0%,0.0,-1.3,4.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Derek Hill CF,2.0,1.0,1.0,0.0,1.0,0.0,4.0,0.248,0.28,0.438,0.717,18.0,9.0,0.01,0.42,0.031,-0.022,0%,0.0,0.1,3.0,0.0,HBP
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Otto Lopez 2B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.264,0.308,0.37,0.678,18.0,9.0,-0.018,0.54,0.03,-0.048,0%,0.0,-0.5,4.0,2.0,GDP
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Nick Fortes C,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.229,0.259,0.323,0.583,11.0,9.0,0.08,0.69,0.102,-0.022,0%,0.0,0.6,6.0,0.0,2B
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Ryan Weathers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Lake Bachar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Anthony Bender P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202409240,MIA,https://www.baseball-reference.com/boxes/MIN/MIN202409240.shtml,MiamiMarlinsbatting,Team Totals,34.0,4.0,10.0,4.0,6.0,9.0,41.0,0.294,0.415,0.441,0.856,156.0,95.0,0.13,0.52,0.503,-0.377,0.00%,0.0,-0.5,27.0,4.0,

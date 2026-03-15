@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Tommy Pham RF,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.258,0.321,0.387,0.708,16.0,11.0,0.266,2.11,0.346,-0.08,0.21%,2.78,0.6,0.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.336,0.39,0.604,0.993,9.0,7.0,0.081,1.53,0.137,-0.057,0.06%,2.02,0.2,0.0,3.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Salvador Perez 1B,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.27,0.331,0.466,0.797,9.0,8.0,-0.081,1.04,0.012,-0.093,-0.06%,1.37,-0.8,10.0,0.0,HBP
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,MJ Melendez LF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.212,0.272,0.414,0.686,17.0,14.0,-0.006,0.92,0.063,-0.069,-0.01%,1.21,0.0,1.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Paul DeJong 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.233,0.282,0.444,0.726,15.0,11.0,-0.052,0.68,0.0,-0.052,-0.04%,0.89,-0.4,0.0,1.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Michael Massey 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.263,0.29,0.456,0.746,14.0,9.0,-0.092,1.21,0.0,-0.092,-0.07%,1.6,-0.6,2.0,5.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Freddy Fermin C,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.29,0.339,0.397,0.736,8.0,6.0,0.02,0.82,0.053,-0.033,0.02%,1.08,-0.0,11.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Robbie Grossman DH,2.0,0.0,1.0,0.0,0.0,0.0,3.0,0.231,0.34,0.324,0.664,10.0,5.0,0.109,1.31,0.123,-0.014,0.09%,1.72,0.7,0.0,0.0,HBP
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Dairon Blanco PR-DH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.265,0.315,0.402,0.717,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Kyle Isbel CF,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.226,0.276,0.362,0.638,10.0,6.0,0.077,2.42,0.153,-0.076,0.06%,3.19,0.4,3.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Alec Marsh P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Daniel Lynch IV P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Lucas Erceg P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202409070,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,KansasCityRoyalsbatting,Team Totals,29.0,4.0,6.0,3.0,0.0,8.0,31.0,0.207,0.258,0.207,0.465,108.0,77.0,0.322,1.35,0.887,-0.566,0.25%,1.77,-0.0,27.0,9.0,

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgerspitching,"Blake Snell, L (3-2)",7,6,2,2,2,5,0,1.97,26,97,57,29,13,15,12,7,4,0,60.0,,,0.096,1.11,0.10%,1.95,1.6
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgerspitching,Edgardo Henriquez,1,1,0,0,0,0,0,0.0,4,14,8,4,2,2,3,1,0,0,,0.0,0.0,0.032,0.61,0.03%,1.08,0.5
+SDN202508220,LAD,https://www.baseball-reference.com/boxes/SDN/SDN202508220.shtml,LosAngelesDodgerspitching,Team Totals,8,7,2,2,2,5,0,2.25,30,111,65,33,15,17,15,8,4,0,60.0,0.0,0.0,0.128,1.03,0.13%,1.81,2.2

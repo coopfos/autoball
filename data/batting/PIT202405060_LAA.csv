@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.233,0.322,0.33,0.652,13.0,9.0,-0.015,0.61,0.03,-0.045,-0.00%,0.24,-0.1,5.0,1.0,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.184,0.235,0.289,0.524,12.0,9.0,-0.041,0.73,0.013,-0.054,-0.01%,0.29,-0.5,5.0,0.0,2B
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.271,0.302,0.471,0.773,21.0,15.0,-0.068,0.62,0.0,-0.068,-0.02%,0.25,-0.9,1.0,0.0,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Willie Calhoun DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.375,0.375,0.625,1.0,13.0,10.0,0.01,0.68,0.059,-0.048,0.00%,0.28,-0.0,0.0,0.0,2B
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.253,0.308,0.384,0.692,6.0,4.0,-0.078,0.95,0.0,-0.078,-0.02%,0.38,-0.9,6.0,2.0,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.156,0.219,0.208,0.427,12.0,8.0,-0.027,0.7,0.019,-0.047,-0.01%,0.28,-0.2,1.0,1.0,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Jo Adell RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.25,0.309,0.486,0.795,7.0,5.0,-0.089,0.93,0.0,-0.089,-0.02%,0.37,-1.1,2.0,0.0,GDP
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Cole Tucker 3B,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.357,0.438,0.5,0.938,18.0,10.0,-0.012,0.75,0.028,-0.04,-0.00%,0.3,-0.2,1.0,3.0,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Zach Neto SS,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.239,0.288,0.385,0.673,7.0,5.0,-0.024,0.76,0.048,-0.072,-0.01%,0.31,0.3,2.0,0.0,"HR,GDP"
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Hunter Strickland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202405060,LAA,https://www.baseball-reference.com/boxes/PIT/PIT202405060.shtml,LosAngelesAngelsbatting,Team Totals,30.0,1.0,5.0,1.0,1.0,5.0,31.0,0.167,0.194,0.333,0.527,109.0,75.0,-0.344,0.74,0.197,-0.541,-0.09%,0.3,-3.6,24.0,7.0,

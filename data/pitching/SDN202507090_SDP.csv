@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202507090,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202507090.shtml,SanDiegoPadrespitching,"Dylan Cease, L (3-9)",6,5,6,6,3,8,3,4.88,26,95,64,38,14,12,4,11,3,0,43.0,,,-0.224,0.68,-0.16%,0.82,-2.9
+SDN202507090,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202507090.shtml,SanDiegoPadrespitching,Wandy Peralta,1,1,0,0,1,3,0,3.7,5,28,16,10,2,4,0,1,1,0,,0.0,0.0,0.007,0.1,0.01%,0.12,0.5
+SDN202507090,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202507090.shtml,SanDiegoPadrespitching,Eduarniel Núñez,2,2,2,2,1,1,1,3.86,10,33,19,15,0,4,2,5,1,0,,0.0,0.0,-0.018,0.06,-0.01%,0.07,-1.0
+SDN202507090,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202507090.shtml,SanDiegoPadrespitching,Team Totals,9,8,8,8,5,12,4,8.0,41,156,99,63,16,20,6,17,5,0,43.0,0.0,0.0,-0.235,0.45,-0.17%,0.54,-3.4

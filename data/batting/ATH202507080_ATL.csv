@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Jurickson Profar LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.225,0.244,0.375,0.619,15.0,10.0,-0.028,0.27,0.0,-0.028,-0.00%,0.03,-1.0,1.0,0.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.267,0.367,0.487,0.854,13.0,10.0,-0.018,0.2,0.001,-0.02,-0.00%,0.02,-0.8,8.0,0.0,GDP
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.272,0.323,0.431,0.754,9.0,7.0,-0.01,0.14,0.002,-0.013,-0.00%,0.01,-0.1,1.0,1.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Sean Murphy C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.225,0.309,0.478,0.787,14.0,11.0,-0.017,0.17,0.0,-0.017,-0.00%,0.02,-1.0,8.0,1.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.238,0.365,0.381,0.746,20.0,13.0,0.02,0.12,0.022,-0.003,0.00%,0.01,-0.3,0.0,0.0,2B
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Ozzie Albies 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.223,0.292,0.315,0.607,16.0,11.0,-0.02,0.19,0.001,-0.021,-0.00%,0.02,-0.5,1.0,2.0,2B
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Stuart Fairchild CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.216,0.273,0.333,0.606,15.0,9.0,0.006,0.16,0.008,-0.002,0%,0.02,-0.6,4.0,0.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Eli White RF,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.242,0.282,0.382,0.664,10.0,7.0,-0.022,0.32,0.003,-0.025,-0.00%,0.03,0.4,1.0,0.0,HR
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Nick Allen SS,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.239,0.312,0.274,0.585,13.0,8.0,0.001,0.07,0.004,-0.003,0%,0.01,0.3,0.0,2.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Didier Fuentes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Jesse Chavez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Enyel De Los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Austin Cox P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Luke Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATH202507080,ATL,https://www.baseball-reference.com/boxes/ATH/ATH202507080.shtml,AtlantaBravesbatting,Team Totals,33.0,1.0,6.0,1.0,1.0,4.0,34.0,0.182,0.206,0.333,0.539,125.0,86.0,-0.088,0.18,0.041,-0.132,-0.01%,0.02,-3.6,24.0,7.0,

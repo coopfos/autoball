@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202406010,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406010.shtml,SeattleMarinerspitching,"Bryce Miller, W (5-5)",6,3,0,0,1,9,0,3.18,21,83,55,25,13,17,2,9,6,0,74.0,,,0.243,0.89,0.16%,0.95,2.7
+SEA202406010,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406010.shtml,SeattleMarinerspitching,Austin Voth,1,0,0,0,0,0,0,3.42,3,14,9,4,0,5,1,2,0,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.4
+SEA202406010,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406010.shtml,SeattleMarinerspitching,Mike Baumann,1,1,0,0,0,2,0,3.0,4,13,9,4,4,1,0,2,1,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.4
+SEA202406010,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406010.shtml,SeattleMarinerspitching,Kirby Snead,1,2,0,0,0,1,0,3.12,5,26,17,11,1,5,3,1,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.4
+SEA202406010,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202406010.shtml,SeattleMarinerspitching,Team Totals,9,6,0,0,1,12,0,0.0,33,136,90,44,18,28,6,14,8,0,74.0,0.0,0.0,0.245,0.56,0.16%,0.61,4.0

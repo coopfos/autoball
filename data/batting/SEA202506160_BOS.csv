@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Jarren Duran LF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.264,0.319,0.421,0.74,17.0,12.0,-0.016,0.54,0.026,-0.042,-0.01%,0.54,-0.3,0.0,0.0,3B
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Abraham Toro 1B,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.317,0.345,0.538,0.884,20.0,13.0,0.096,0.74,0.121,-0.026,0.06%,0.75,0.9,2.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Roman Anthony RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.095,0.174,0.286,0.46,18.0,12.0,0.066,0.56,0.111,-0.045,0.04%,0.56,0.2,0.0,0.0,HR
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Carlos Narváez C,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.282,0.366,0.457,0.824,20.0,14.0,-0.052,0.5,0.007,-0.058,-0.03%,0.5,-0.5,16.0,0.0,GDP
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Marcelo Mayer 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.208,0.259,0.434,0.693,14.0,11.0,-0.052,0.54,0.0,-0.052,-0.03%,0.54,-0.8,2.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Trevor Story SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.232,0.277,0.357,0.633,25.0,16.0,-0.02,0.38,0.009,-0.029,-0.01%,0.38,-0.4,2.0,1.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,David Hamilton 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.182,0.209,0.284,0.493,9.0,5.0,-0.033,0.42,0.0,-0.033,-0.02%,0.42,-0.4,2.0,2.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.25,0.299,0.39,0.689,11.0,9.0,-0.046,0.63,0.0,-0.046,-0.03%,0.64,-0.6,3.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Kristian Campbell DH,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.227,0.324,0.351,0.675,12.0,8.0,-0.014,0.46,0.011,-0.025,-0.01%,0.46,-0.0,0.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Lucas Giolito P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Justin Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Greg Weissert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Aroldis Chapman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506160,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506160.shtml,BostonRedSoxbatting,Team Totals,30.0,2.0,4.0,2.0,3.0,12.0,33.0,0.133,0.212,0.3,0.512,146.0,100.0,-0.071,0.53,0.285,-0.356,-0.04%,0.54,-2.0,27.0,3.0,

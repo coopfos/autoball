@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,1.0,3.0,2.0,1.0,0.0,5.0,0.367,0.424,0.538,0.962,21.0,12.0,0.162,0.5,0.169,-0.006,0.09%,0.46,2.3,0.0,0.0,HR
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Angel Martínez CF,4.0,2.0,2.0,0.0,1.0,0.0,5.0,0.364,0.417,0.455,0.871,18.0,10.0,0.101,0.53,0.111,-0.01,0.06%,0.49,0.5,1.0,0.0,2B
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,José Ramírez DH,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.273,0.326,0.539,0.865,22.0,13.0,-0.061,0.66,0.006,-0.067,-0.03%,0.61,-0.9,0.0,0.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,4.0,2.0,2.0,2.0,0.0,1.0,5.0,0.243,0.322,0.497,0.818,16.0,12.0,0.197,0.75,0.198,-0.001,0.11%,0.69,2.9,9.0,0.0,2B
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Jhonkensy Noel RF,3.0,1.0,1.0,0.0,1.0,1.0,5.0,0.25,0.348,0.6,0.948,17.0,9.0,-0.027,0.6,0.039,-0.065,-0.01%,0.55,0.1,3.0,0.0,HBP
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.245,0.302,0.338,0.64,16.0,13.0,0.008,0.7,0.052,-0.044,0.00%,0.64,-0.1,1.0,4.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Gabriel Arias 3B,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.225,0.258,0.358,0.615,32.0,20.0,-0.071,0.57,0.005,-0.076,-0.04%,0.52,-1.1,0.0,2.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Bo Naylor C,4.0,0.0,2.0,2.0,0.0,0.0,4.0,0.21,0.277,0.333,0.61,11.0,8.0,0.098,0.7,0.12,-0.022,0.05%,0.65,1.6,8.0,0.0,SB
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Austin Hedges C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.149,0.194,0.239,0.433,,,,,,,,,,4.0,0.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.215,0.312,0.311,0.623,18.0,9.0,-0.031,0.37,0.004,-0.034,-0.02%,0.34,-1.1,1.0,2.0,GDP
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Ben Lively P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Scott Barlow P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Nick Sandlin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202407040,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202407040.shtml,ClevelandGuardiansbatting,Team Totals,36.0,8.0,12.0,8.0,5.0,7.0,43.0,0.333,0.429,0.472,0.901,171.0,106.0,0.376,0.6,0.704,-0.325,0.21%,0.56,4.1,27.0,10.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.25,0.0,0.25,21.0,13.0,-0.086,0.83,0.0,-0.086,-0.04%,0.72,-0.9,1.0,7.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Seiya Suzuki RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.111,0.111,0.222,0.333,19.0,12.0,-0.047,0.48,0.0,-0.047,-0.03%,0.42,-0.7,2.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Cody Bellinger CF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.143,0.25,0.286,0.536,5.0,4.0,-0.03,0.4,0.0,-0.03,-0.02%,0.34,-0.3,2.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Miguel Amaya PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,,,5.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,0.3,0.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Christopher Morel 3B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.444,0.444,0.667,1.111,11.0,6.0,0.053,0.71,0.079,-0.026,0.03%,0.62,0.0,0.0,1.0,GDP
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Dansby Swanson SS,2.0,1.0,1.0,2.0,1.0,0.0,3.0,0.2,0.286,0.8,1.086,10.0,4.0,0.12,1.31,0.198,-0.078,0.06%,1.13,1.1,2.0,1.0,"HR,GDP"
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Ian Happ LF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.143,0.25,0.143,0.393,14.0,10.0,-0.039,0.79,0.027,-0.066,-0.02%,0.68,-0.2,3.0,0.0,GDP
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Garrett Cooper DH,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.25,0.25,0.25,0.5,12.0,8.0,-0.007,0.94,0.041,-0.047,-0.00%,0.81,-0.2,0.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Yan Gomes C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,14.0,10.0,-0.073,1.04,0.0,-0.073,-0.04%,0.9,-0.8,6.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Michael Busch 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.2,0.429,0.2,0.629,13.0,8.0,-0.053,0.69,0.0,-0.053,-0.03%,0.59,-0.6,7.0,1.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Kyle Hendricks P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,José Cuas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Luke Little P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Ben Brown P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Yency Almonte P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202403300,CHC,https://www.baseball-reference.com/boxes/TEX/TEX202403300.shtml,ChicagoCubsbatting,Team Totals,29.0,2.0,5.0,2.0,2.0,8.0,31.0,0.172,0.226,0.276,0.502,124.0,76.0,-0.162,0.76,0.345,-0.506,-0.09%,0.66,-2.3,24.0,10.0,

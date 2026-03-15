@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Jordan Beck DH,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.257,0.319,0.491,0.81,15.0,7.0,-0.025,0.37,0.006,-0.032,0%,0.0,-0.2,0.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,3.0,2.0,1.0,1.0,1.0,0.0,4.0,0.267,0.313,0.425,0.738,17.0,10.0,0.082,0.51,0.114,-0.032,0%,0.0,0.7,5.0,4.0,"HR,GDP"
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.267,0.317,0.429,0.746,16.0,10.0,-0.037,0.39,0.0,-0.037,0%,0.0,-0.9,7.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.211,0.328,0.361,0.688,20.0,10.0,-0.007,0.23,0.01,-0.017,0%,0.0,0.6,1.0,3.0,2B
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Thairo Estrada 2B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.143,0.25,0.143,0.393,17.0,13.0,-0.007,0.4,0.021,-0.028,0%,0.0,0.2,2.0,3.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.215,0.278,0.348,0.626,13.0,9.0,-0.031,0.39,0.0,-0.031,0%,0.0,-0.9,0.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Sam Hilliard LF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.333,0.5,1.333,1.833,18.0,9.0,0.001,0.34,0.012,-0.01,0%,0.0,-0.0,1.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Kyle Farmer 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.236,0.274,0.365,0.639,10.0,7.0,-0.056,0.73,0.0,-0.056,0%,0.0,-1.2,7.0,2.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Mickey Moniak RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.216,0.262,0.392,0.654,4.0,3.0,-0.023,0.31,0.0,-0.023,0%,0.0,-0.5,0.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Antonio Senzatela P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Ryan Rolison P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Juan Mejia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505310,COL,https://www.baseball-reference.com/boxes/NYN/NYN202505310.shtml,ColoradoRockiesbatting,Team Totals,29.0,2.0,3.0,2.0,4.0,9.0,33.0,0.103,0.212,0.241,0.454,130.0,78.0,-0.103,0.4,0.163,-0.266,0.00%,0.0,-2.2,24.0,12.0,

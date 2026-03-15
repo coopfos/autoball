@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Steven Kwan LF,4.0,0.0,1.0,0.0,0.0,0.0,5.0,0.32,0.378,0.438,0.817,17.0,11.0,-0.049,1.23,0.061,-0.11,0%,0.0,-0.4,1.0,0.0,HBP
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Lane Thomas CF,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.132,0.172,0.151,0.323,16.0,10.0,-0.121,1.31,0.022,-0.143,0%,0.0,-0.6,1.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,José Ramírez 3B,5.0,2.0,2.0,1.0,0.0,1.0,5.0,0.308,0.365,0.519,0.884,20.0,13.0,0.116,1.36,0.19,-0.075,0%,0.0,1.0,2.0,4.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Kyle Manzardo 1B,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.22,0.31,0.472,0.781,26.0,16.0,0.34,2.34,0.446,-0.106,0%,0.0,1.1,9.0,3.0,2B
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Carlos Santana DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.235,0.345,0.371,0.715,17.0,10.0,-0.087,1.75,0.094,-0.181,0%,0.0,-0.3,0.0,0.0,2B
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Daniel Schneemann 2B,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.255,0.339,0.464,0.802,6.0,6.0,0.036,0.72,0.044,-0.008,0%,0.0,0.2,0.0,1.0,SB
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Will Wilson PH-2B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.185,0.29,0.222,0.513,3.0,3.0,-0.057,2.06,0.0,-0.057,0%,0.0,-0.3,0.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Angel Martínez PH-2B,2.0,1.0,1.0,2.0,0.0,0.0,2.0,0.281,0.305,0.405,0.71,8.0,7.0,0.32,3.62,0.32,0.0,0%,0.0,2.2,0.0,1.0,2B
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.238,0.299,0.363,0.662,11.0,8.0,-0.032,1.87,0.113,-0.145,0%,0.0,-0.7,2.0,3.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Bo Naylor C,4.0,1.0,1.0,2.0,0.0,1.0,5.0,0.2,0.295,0.433,0.728,24.0,14.0,-0.129,2.18,0.102,-0.231,0%,0.0,-0.4,11.0,0.0,"HR,SF"
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Jhonkensy Noel RF,3.0,1.0,0.0,0.0,0.0,0.0,3.0,0.151,0.178,0.244,0.422,3.0,3.0,-0.035,1.06,0.028,-0.062,0%,0.0,-0.1,2.0,1.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Nolan Jones PH-RF,2.0,0.0,1.0,1.0,0.0,0.0,2.0,0.185,0.274,0.286,0.56,7.0,5.0,-0.083,3.52,0.057,-0.14,0%,0.0,-0.1,0.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Luis Ortiz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Matt Festa P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Joey Cantillo P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Cade Smith P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202505240,CLE,https://www.baseball-reference.com/boxes/DET/DET202505240.shtml,ClevelandGuardiansbatting,Team Totals,41.0,7.0,11.0,7.0,2.0,9.0,45.0,0.268,0.311,0.415,0.726,158.0,106.0,0.219,1.78,1.477,-1.258,0.00%,0.0,1.6,30.0,13.0,

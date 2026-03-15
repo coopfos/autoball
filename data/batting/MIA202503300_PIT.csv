@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Adam Frazier 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.167,0.214,0.167,0.381,9.0,6.0,-0.087,0.79,0.0,-0.087,-0.05%,0.72,-0.8,5.0,1.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Bryan Reynolds RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.222,0.3,0.278,0.578,14.0,10.0,-0.016,1.14,0.073,-0.089,-0.01%,1.03,-0.0,4.0,0.0,2B
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Tommy Pham LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.154,0.267,0.231,0.497,19.0,8.0,-0.07,1.0,0.027,-0.097,-0.04%,0.91,-0.5,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,3.0,1.0,1.0,1.0,1.0,2.0,4.0,0.182,0.308,0.545,0.853,18.0,12.0,0.055,1.18,0.129,-0.074,0.03%,1.07,0.5,0.0,0.0,HR
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Ji Hwan Bae PR-DH-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,-0.091,3.52,0.0,-0.091,-0.05%,3.19,-0.4,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Jack Suwinski CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.25,0.4,0.375,0.775,21.0,10.0,0.017,1.4,0.079,-0.062,0.01%,1.27,0.0,4.0,0.0,SB
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Endy Rodríguez C,2.0,1.0,0.0,0.0,2.0,0.0,4.0,0.0,0.308,0.0,0.308,20.0,8.0,-0.017,1.73,0.129,-0.146,-0.01%,1.57,-0.2,4.0,1.0,CS
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Jared Triolo 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,16.0,10.0,-0.08,1.1,0.0,-0.08,-0.04%,1.0,-0.7,0.0,1.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Oneil Cruz PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.182,0.471,0.455,0.925,5.0,3.0,-0.082,3.43,0.0,-0.082,-0.04%,3.1,-0.4,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.154,0.154,0.154,0.308,,,,,,,,,,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Enmanuel Valdez 1B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.25,0.0,0.25,12.0,6.0,-0.091,1.59,0.027,-0.118,-0.05%,1.44,-0.4,5.0,1.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa SS,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.333,0.5,0.333,0.833,10.0,6.0,0.075,1.29,0.125,-0.05,0.04%,1.17,0.4,2.0,2.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Andrew Heaney P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Justin Lawrence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Colin Holderman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Caleb Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,David Bednar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202503300,PIT,https://www.baseball-reference.com/boxes/MIA/MIA202503300.shtml,PittsburghPiratesbatting,Team Totals,30.0,2.0,5.0,2.0,5.0,9.0,35.0,0.167,0.286,0.3,0.586,144.0,79.0,-0.387,1.38,0.589,-0.976,-0.21%,1.25,-2.7,24.0,8.0,

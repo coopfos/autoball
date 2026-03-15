@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TBA202405100,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202405100.shtml,NewYorkYankeespitching,"Clarke Schmidt, W (4-1)",6.2,5,0,0,2,6,0,2.95,24,87,57,27,14,16,6,10,5,0,68.0,,,0.431,1.4,0.34%,1.81,3.1
+TBA202405100,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202405100.shtml,NewYorkYankeespitching,"Nick Burdi, H (3)",0.1,0,0,0,0,0,0,0.0,0,3,2,1,0,1,0,0,0,0,,1.0,0.0,0.051,1.83,0.04%,2.38,0.2
+TBA202405100,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202405100.shtml,NewYorkYankeespitching,"Luke Weaver, H (4)",1.0,0,0,0,0,2,0,2.59,3,12,10,5,3,2,0,1,0,0,,0.0,0.0,0.138,1.84,0.11%,2.39,0.5
+TBA202405100,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202405100.shtml,NewYorkYankeespitching,"Clay Holmes, S (12)",1.0,1,0,0,2,3,0,0.0,6,34,18,9,3,6,0,1,1,0,,0.0,0.0,0.087,3.77,0.07%,4.9,0.5
+TBA202405100,NYY,https://www.baseball-reference.com/boxes/TBA/TBA202405100.shtml,NewYorkYankeespitching,Team Totals,9.0,6,0,0,4,11,0,0.0,33,136,87,42,20,25,6,12,6,0,68.0,1.0,0.0,0.707,1.82,0.55%,2.36,4.3

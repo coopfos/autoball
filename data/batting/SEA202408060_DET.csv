@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Matt Vierling LF,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.251,0.293,0.432,0.725,20.0,14.0,-0.053,0.75,0.03,-0.082,-0.00%,0.05,-0.8,0.0,0.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Colt Keith 2B,4.0,0.0,1.0,1.0,0.0,3.0,4.0,0.252,0.31,0.391,0.701,16.0,14.0,0.017,1.15,0.097,-0.081,0.00%,0.08,0.1,2.0,4.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Wenceel Pérez RF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.246,0.299,0.385,0.683,14.0,9.0,0.039,0.96,0.112,-0.073,0.00%,0.07,0.1,0.0,0.0,CS
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Justyn-Henry Malloy DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.213,0.304,0.413,0.717,17.0,11.0,-0.071,0.97,0.0,-0.071,-0.00%,0.07,-0.9,0.0,0.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Bligh Madris 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.342,0.381,0.474,0.855,25.0,15.0,-0.075,0.78,0.0,-0.075,-0.00%,0.05,-0.8,5.0,1.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Parker Meadows CF,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.161,0.264,0.355,0.619,12.0,8.0,0.195,0.69,0.205,-0.011,0.01%,0.05,1.8,2.0,0.0,HR
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Dillon Dingler C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.231,0.333,0.385,0.718,18.0,11.0,-0.032,0.52,0.017,-0.048,-0.00%,0.04,-0.3,14.0,1.0,2B
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Zach McKinstry 3B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.182,0.238,0.303,0.541,14.0,9.0,-0.015,0.72,0.036,-0.051,-0.00%,0.05,-0.4,0.0,1.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Javier Báez SS,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.181,0.22,0.276,0.496,15.0,8.0,0.098,0.7,0.117,-0.019,0.00%,0.05,1.1,4.0,3.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Keider Montero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Will Vest P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Jason Foley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Beau Brieske P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408060,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408060.shtml,DetroitTigersbatting,Team Totals,36.0,4.0,10.0,4.0,1.0,14.0,37.0,0.278,0.297,0.389,0.686,151.0,99.0,0.103,0.81,0.614,-0.511,0.00%,0.06,-0.0,27.0,10.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Zach Neto SS,5.0,1.0,2.0,2.0,0.0,3.0,5.0,0.273,0.321,0.525,0.846,27.0,16.0,0.072,0.95,0.134,-0.063,0.02%,0.46,1.8,5.0,4.0,2·2B
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,1.0,1.0,2.0,1.0,2.0,5.0,0.259,0.348,0.357,0.704,21.0,12.0,0.002,0.52,0.054,-0.053,0.00%,0.25,0.2,9.0,1.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Yoán Moncada 3B,5.0,1.0,1.0,2.0,0.0,2.0,5.0,0.224,0.348,0.483,0.831,15.0,12.0,0.135,0.52,0.175,-0.04,0.04%,0.25,0.6,1.0,2.0,HR
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Kevin Newman 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.147,0.147,0.147,0.294,,,,,,,,,,0.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Taylor Ward LF,3.0,0.0,2.0,0.0,2.0,0.0,5.0,0.195,0.243,0.421,0.664,25.0,12.0,0.035,0.31,0.047,-0.011,0.01%,0.15,1.0,1.0,0.0,2B
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Jorge Soler RF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.221,0.293,0.396,0.689,20.0,12.0,-0.078,0.45,0.0,-0.078,-0.02%,0.22,-1.7,0.0,0.0,GDP
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Jo Adell RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.204,0.244,0.381,0.624,,,,,,,,,,0.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.248,0.285,0.465,0.75,17.0,12.0,-0.048,0.48,0.0,-0.048,-0.01%,0.23,-0.9,7.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Luis Rengifo DH,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.218,0.261,0.286,0.546,19.0,12.0,0.015,0.46,0.037,-0.022,0.00%,0.22,-0.1,0.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Matthew Lugo CF,3.0,2.0,2.0,0.0,0.0,1.0,4.0,0.375,0.412,0.938,1.349,10.0,7.0,0.056,0.59,0.064,-0.007,0.02%,0.29,1.0,1.0,0.0,HBP
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Tim Anderson 2B,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.189,0.25,0.216,0.466,12.0,9.0,-0.004,0.89,0.044,-0.048,-0.00%,0.43,-0.3,2.0,5.0,HBP
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Jack Kochanowicz P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Héctor Neris P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Ryan Zeferjahn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Kenley Jansen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202505160,LAA,https://www.baseball-reference.com/boxes/LAN/LAN202505160.shtml,LosAngelesAngelsbatting,Team Totals,36.0,6.0,10.0,6.0,3.0,15.0,41.0,0.278,0.366,0.444,0.81,166.0,104.0,0.185,0.57,0.555,-0.37,0.05%,0.28,1.7,27.0,12.0,

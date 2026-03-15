@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202406250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406250.shtml,PittsburghPiratespitching,"Mitch Keller, W (9-4)",5.2,6,4,3,3,6,0,3.2,29,104,70,42,6,22,9,10,4,0,46.0,,,0.092,0.68,0.04%,0.44,-1.2
+CIN202406250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406250.shtml,PittsburghPiratespitching,Carmen Mlodzinski,2.1,0,0,0,0,2,0,4.03,7,27,17,9,5,3,2,3,0,0,,1.0,0.0,0.055,0.29,0.02%,0.19,1.4
+CIN202406250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406250.shtml,PittsburghPiratespitching,Josh Fleming,1.0,3,1,1,0,1,0,4.62,5,15,11,6,2,3,4,0,0,0,,0.0,0.0,0.009,0.41,0.00%,0.27,-0.5
+CIN202406250,PIT,https://www.baseball-reference.com/boxes/CIN/CIN202406250.shtml,PittsburghPiratespitching,Team Totals,9.0,9,5,4,3,9,0,4.0,41,146,98,57,13,28,15,13,4,0,46.0,1.0,0.0,0.156,0.58,0.06%,0.38,-0.2

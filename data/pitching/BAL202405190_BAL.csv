@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202405190,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405190.shtml,BaltimoreOriolespitching,"Corbin Burnes, W (4-2)",6,6,1,0,1,11,0,2.41,24,94,63,32,18,13,7,5,2,0,68.0,,,0.136,0.85,0.10%,1.0,1.7
+BAL202405190,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405190.shtml,BaltimoreOriolespitching,Jacob Webb,0,1,2,2,2,0,0,2.29,3,11,3,1,0,2,0,1,1,0,,0.0,0.0,-0.156,1.02,-0.11%,1.21,-2.0
+BAL202405190,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405190.shtml,BaltimoreOriolespitching,"Cole Irvin, H (1)",2,1,0,0,0,0,0,2.76,6,13,10,7,2,1,2,4,2,0,,2.0,1.0,0.171,1.25,0.12%,1.48,0.9
+BAL202405190,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405190.shtml,BaltimoreOriolespitching,"Craig Kimbrel, S (9)",1,0,0,0,0,2,0,3.63,3,14,8,2,1,5,0,1,0,0,,0.0,0.0,0.029,0.39,0.02%,0.46,0.5
+BAL202405190,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202405190.shtml,BaltimoreOriolespitching,Team Totals,9,8,3,2,3,13,0,2.0,36,132,84,42,21,21,9,11,5,0,68.0,2.0,1.0,0.18,0.89,0.13%,1.05,1.1

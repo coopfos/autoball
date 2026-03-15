@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202407040,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407040.shtml,WashingtonNationalspitching,"Jake Irvin, W (7-6)",8,1,0,0,1,8,0,2.8,26,99,70,32,15,23,4,13,5,0,87.0,,,0.542,0.96,0.16%,0.46,3.9
+WAS202407040,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407040.shtml,WashingtonNationalspitching,"Derek Law, S (1)",1,0,0,0,0,2,0,3.18,3,9,8,4,2,2,1,0,0,0,,0.0,0.0,0.159,2.11,0.05%,1.02,0.5
+WAS202407040,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202407040.shtml,WashingtonNationalspitching,Team Totals,9,1,0,0,1,10,0,0.0,29,108,78,36,17,25,5,13,5,0,87.0,0.0,0.0,0.701,1.08,0.20%,0.52,4.4

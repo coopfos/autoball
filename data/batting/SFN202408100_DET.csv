@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Akil Baddoo LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.125,0.219,0.297,0.516,10.0,8.0,-0.043,1.14,0.044,-0.087,-0.00%,0.08,-0.3,2.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Colt Keith 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.249,0.304,0.384,0.688,12.0,7.0,-0.077,1.04,0.0,-0.077,-0.00%,0.07,-0.6,3.0,1.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Justyn-Henry Malloy DH,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.211,0.301,0.404,0.704,16.0,13.0,-0.037,0.72,0.027,-0.065,-0.00%,0.05,-0.3,0.0,0.0,2B
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Gio Urshela 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.24,0.282,0.323,0.605,19.0,12.0,-0.081,1.31,0.018,-0.1,-0.00%,0.09,-0.6,0.0,2.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Bligh Madris 1B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.294,0.339,0.412,0.751,11.0,5.0,-0.056,1.25,0.048,-0.103,-0.00%,0.09,-0.5,7.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Parker Meadows CF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.198,0.286,0.396,0.682,20.0,13.0,0.132,1.15,0.176,-0.044,0.01%,0.08,0.7,0.0,0.0,3B
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Dillon Dingler C,4.0,0.0,0.0,1.0,0.0,2.0,4.0,0.15,0.227,0.25,0.477,21.0,16.0,-0.053,1.94,0.08,-0.133,-0.00%,0.14,-0.3,9.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Javier Báez SS,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.182,0.222,0.277,0.499,21.0,14.0,-0.098,1.31,0.019,-0.117,-0.00%,0.1,-0.7,1.0,4.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Ryan Vilade RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.178,0.208,0.244,0.453,9.0,7.0,-0.067,0.81,0.0,-0.067,-0.00%,0.06,-0.5,2.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Alex Faedo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Brant Hurter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Joey Wentz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408100,DET,https://www.baseball-reference.com/boxes/SFN/SFN202408100.shtml,DetroitTigersbatting,Team Totals,33.0,1.0,5.0,1.0,2.0,11.0,35.0,0.152,0.2,0.242,0.442,139.0,95.0,-0.38,1.2,0.412,-0.793,-0.01%,0.09,-3.2,24.0,7.0,

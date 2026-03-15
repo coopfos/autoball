@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.215,0.361,0.396,0.757,18.0,10.0,0.027,0.59,0.066,-0.039,0.01%,0.44,0.4,1.0,0.0,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Pete Alonso 1B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.225,0.306,0.45,0.756,17.0,10.0,0.02,1.08,0.136,-0.116,0.01%,0.8,-0.8,6.0,2.0,"2B,GDP"
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,1.0,0.0,0.0,1.0,0.0,5.0,0.2,0.276,0.376,0.651,20.0,11.0,0.049,0.76,0.077,-0.028,0.02%,0.56,0.2,3.0,1.0,"2·SB,HBP"
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,J.D. Martinez DH,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.295,0.338,0.459,0.797,14.0,8.0,-0.07,0.72,0.015,-0.085,-0.03%,0.53,0.1,0.0,0.0,HR
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.455,0.455,0.818,1.273,12.0,9.0,0.057,0.94,0.116,-0.059,0.03%,0.69,1.0,0.0,2.0,2B
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Starling Marte RF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.255,0.302,0.369,0.671,24.0,13.0,-0.068,1.04,0.011,-0.079,-0.03%,0.77,-1.1,2.0,1.0,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Harrison Bader CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.265,0.312,0.316,0.628,16.0,11.0,-0.028,0.84,0.038,-0.065,-0.01%,0.62,-0.6,6.0,1.0,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.236,0.313,0.313,0.625,11.0,7.0,-0.064,0.7,0.003,-0.067,-0.03%,0.52,0.4,1.0,2.0,2B
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Tomás Nido C,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.229,0.26,0.313,0.573,9.0,7.0,-0.025,0.59,0.021,-0.046,-0.01%,0.44,0.8,4.0,0.0,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Joey Lucchesi P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Grant Hartwig P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Adrian Houser P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PHI202405150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202405150.shtml,NewYorkMetsbatting,Team Totals,36.0,5.0,9.0,4.0,3.0,3.0,40.0,0.25,0.325,0.417,0.742,141.0,86.0,-0.102,0.81,0.483,-0.584,-0.04%,0.6,0.5,24.0,10.0,

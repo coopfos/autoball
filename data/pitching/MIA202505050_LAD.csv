@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,Jack Dreyer,1.1,0,0,0,0,0,0,3.32,4,10,8,4,2,2,4,0,0,0,54.0,,,0.078,0.75,0.06%,0.89,0.8
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,"Ben Casparius, W (4-0)",4.0,5,1,1,2,5,0,2.81,19,70,44,26,11,7,3,9,6,0,,0.0,0.0,0.114,0.7,0.08%,0.83,0.5
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,Alex Vesia,0.2,0,0,0,0,1,0,2.76,2,5,4,1,2,1,0,1,1,0,,2.0,0.0,0.053,1.07,0.04%,1.28,1.0
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,Evan Phillips,1.0,2,0,0,0,0,0,0.0,5,15,10,6,0,4,4,1,1,0,,0.0,0.0,0.013,0.56,0.01%,0.67,0.5
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,Yoendrys Gómez,0.1,3,3,3,0,1,1,6.28,5,13,10,5,3,2,2,2,1,0,,0.0,0.0,-0.085,0.4,-0.06%,0.48,-3.0
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,"Tanner Scott, H (4)",0.2,0,0,0,1,1,0,2.16,3,12,6,1,2,3,1,0,0,0,,1.0,0.0,0.06,1.29,0.04%,1.54,0.6
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,"Kirby Yates, S (1)",1.0,0,0,0,0,2,0,2.76,3,16,10,5,4,1,0,1,0,0,,0.0,0.0,0.046,0.59,0.03%,0.7,0.5
+MIA202505050,LAD,https://www.baseball-reference.com/boxes/MIA/MIA202505050.shtml,LosAngelesDodgerspitching,Team Totals,9.0,10,4,4,3,10,1,4.0,41,141,92,48,24,20,14,14,9,0,54.0,3.0,0.0,0.279,0.72,0.20%,0.86,0.9

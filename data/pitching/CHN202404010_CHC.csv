@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202404010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404010.shtml,ChicagoCubspitching,"Shota Imanaga, W (1-0)",6,2,0,0,0,9,0,0.0,21,92,65,38,17,10,0,12,3,0,77.0,,,0.352,0.97,0.19%,0.87,2.9
+CHN202404010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404010.shtml,ChicagoCubspitching,"Yency Almonte, H (1)",1,1,0,0,1,0,0,5.4,5,18,10,5,3,2,3,1,1,0,,0.0,0.0,0.046,1.06,0.03%,0.94,0.5
+CHN202404010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404010.shtml,ChicagoCubspitching,Drew Smyly,2,0,0,0,0,0,0,0.0,6,19,14,10,0,4,0,6,2,0,,0.0,0.0,0.017,0.11,0.01%,0.1,1.0
+CHN202404010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202404010.shtml,ChicagoCubspitching,Team Totals,9,3,0,0,1,9,0,0.0,32,129,89,53,20,16,3,19,6,0,77.0,0.0,0.0,0.415,0.82,0.22%,0.74,4.4

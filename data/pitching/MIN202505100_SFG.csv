@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIN202505100,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505100.shtml,SanFranciscoGiantspitching,"Logan Webb, L (4-3)",7,5,2,2,1,9,1,2.6,27,103,68,31,9,28,11,6,2,0,67.0,,,0.105,0.9,0.07%,0.99,1.6
+MIN202505100,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505100.shtml,SanFranciscoGiantspitching,Randy Rodríguez,1,0,0,0,0,3,0,1.08,3,12,10,5,4,1,0,0,0,0,,0.0,0.0,0.032,0.42,0.02%,0.46,0.5
+MIN202505100,SFG,https://www.baseball-reference.com/boxes/MIN/MIN202505100.shtml,SanFranciscoGiantspitching,Team Totals,8,5,2,2,1,12,1,2.25,30,115,78,36,13,29,11,6,2,0,67.0,0.0,0.0,0.137,0.85,0.09%,0.94,2.1

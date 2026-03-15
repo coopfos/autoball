@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.264,0.333,0.57,0.904,15.0,11.0,-0.033,1.65,0.097,-0.13,0%,0.01,-0.2,2.0,0.0,2B
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Kyle Farmer SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.246,0.285,0.385,0.67,11.0,6.0,-0.053,1.43,0.083,-0.136,0%,0.01,-0.7,0.0,1.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Tyler Freeman PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.133,0.333,0.133,0.467,,,,,,,,,,0.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.299,0.352,0.506,0.858,18.0,11.0,0.151,1.84,0.275,-0.124,0.00%,0.01,-0.0,8.0,0.0,"2B,GDP"
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,2.0,0.0,0.0,0.0,2.0,2.0,4.0,0.206,0.333,0.374,0.708,17.0,8.0,-0.017,2.07,0.048,-0.065,0%,0.01,0.1,1.0,2.0,IW
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Brenton Doyle CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.203,0.253,0.315,0.568,20.0,12.0,-0.277,2.71,0.016,-0.293,-0.00%,0.02,-1.2,5.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Michael Toglia 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.209,0.278,0.373,0.652,15.0,10.0,-0.315,3.07,0.0,-0.315,-0.00%,0.02,-1.4,3.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Mickey Moniak RF,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.216,0.267,0.384,0.651,17.0,9.0,-0.113,1.43,0.0,-0.113,0%,0.01,-0.7,2.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Nick Martini DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.238,0.312,0.274,0.586,11.0,7.0,-0.089,1.17,0.0,-0.089,0%,0.01,-0.6,0.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Adael Amador 2B,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.149,0.25,0.254,0.504,13.0,6.0,-0.013,0.78,0.029,-0.042,0%,0.0,0.0,2.0,1.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Chase Dollander P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Ryan Rolison P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202505180,COL,https://www.baseball-reference.com/boxes/ARI/ARI202505180.shtml,ColoradoRockiesbatting,Team Totals,29.0,0.0,3.0,0.0,4.0,14.0,33.0,0.103,0.212,0.172,0.385,137.0,80.0,-0.759,1.85,0.548,-1.307,-0.00%,0.01,-4.7,24.0,4.0,

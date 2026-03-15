@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202504200,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202504200.shtml,MilwaukeeBrewerspitching,"Logan Henderson, W (1-0)",6,3,1,1,1,9,1,1.5,21,83,53,32,10,11,3,8,1,0,70.0,,,0.13,0.33,0.07%,0.31,1.9
+MIL202504200,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202504200.shtml,MilwaukeeBrewerspitching,"Tyler Alexander, S (1)",3,1,0,0,0,5,0,3.66,10,42,30,15,7,8,3,2,0,0,,0.0,0.0,0.003,0.01,0.00%,0.01,1.5
+MIL202504200,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202504200.shtml,MilwaukeeBrewerspitching,Team Totals,9,4,1,1,1,14,1,1.0,31,125,83,47,17,19,6,10,1,0,70.0,0.0,0.0,0.133,0.23,0.08%,0.21,3.4

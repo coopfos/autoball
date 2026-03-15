@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202404270,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404270.shtml,SanDiegoPadrespitching,"Dylan Cease, L (3-2)",6,6,5,5,3,5,1,2.78,27,91,54,33,12,9,7,12,4,0,42.0,,,-0.197,0.68,-0.11%,0.62,-2.0
+SDN202404270,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404270.shtml,SanDiegoPadrespitching,Adrián Morejón,3,2,0,0,0,5,0,0.93,11,47,30,17,6,7,1,5,2,0,,0.0,0.0,0.014,0.08,0.01%,0.07,1.5
+SDN202404270,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404270.shtml,SanDiegoPadrespitching,Team Totals,9,8,5,5,3,10,1,5.0,38,138,84,50,18,16,8,17,6,0,42.0,0.0,0.0,-0.183,0.51,-0.10%,0.46,-0.4

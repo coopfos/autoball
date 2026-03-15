@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202405120,ARI,https://www.baseball-reference.com/boxes/BAL/BAL202405120.shtml,ArizonaDiamondbackspitching,"Zac Gallen, W (5-2)",6,4,2,2,2,4,1,2.86,23,86,54,39,3,12,8,9,5,0,58.0,,,0.179,0.93,0.07%,0.63,0.7
+BAL202405120,ARI,https://www.baseball-reference.com/boxes/BAL/BAL202405120.shtml,ArizonaDiamondbackspitching,Matt Bowman,2,0,0,0,1,1,0,2.38,8,37,21,14,2,5,6,0,0,0,,0.0,0.0,0.007,0.06,0.00%,0.04,0.9
+BAL202405120,ARI,https://www.baseball-reference.com/boxes/BAL/BAL202405120.shtml,ArizonaDiamondbackspitching,Justin Martinez,1,0,0,0,1,0,0,0.77,3,16,9,5,2,2,1,1,1,0,,0.0,0.0,0.001,0.03,0.00%,0.02,0.5
+BAL202405120,ARI,https://www.baseball-reference.com/boxes/BAL/BAL202405120.shtml,ArizonaDiamondbackspitching,Team Totals,9,4,2,2,4,5,1,2.0,34,139,84,58,7,19,15,10,6,0,58.0,0.0,0.0,0.187,0.63,0.08%,0.42,2.1

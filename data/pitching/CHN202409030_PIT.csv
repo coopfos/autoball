@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202409030,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409030.shtml,PittsburghPiratespitching,"Paul Skenes, W (9-2)",5,4,0,0,4,6,0,2.13,23,100,62,35,16,11,4,9,5,0,61.0,,,0.28,1.32,0.00%,0.0,2.5
+CHN202409030,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409030.shtml,PittsburghPiratespitching,"Colin Holderman, H (16)",1,0,0,0,0,1,0,3.35,3,11,9,4,2,3,0,2,1,0,,0.0,0.0,0.073,0.96,0.00%,0.0,0.5
+CHN202409030,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409030.shtml,PittsburghPiratespitching,Carmen Mlodzinski,2,1,0,0,0,2,0,3.69,7,26,19,10,2,7,3,2,1,0,,0.0,0.0,0.033,0.29,0.00%,0.0,1.0
+CHN202409030,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409030.shtml,PittsburghPiratespitching,David Bednar,1,0,0,0,0,1,0,6.06,3,9,7,2,2,3,0,2,0,0,,0.0,0.0,0.007,0.1,0.00%,0.0,0.5
+CHN202409030,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409030.shtml,PittsburghPiratespitching,Team Totals,9,5,0,0,4,10,0,0.0,36,146,97,51,22,24,7,15,7,0,61.0,0.0,0.0,0.393,1.0,0.00%,0.0,4.4

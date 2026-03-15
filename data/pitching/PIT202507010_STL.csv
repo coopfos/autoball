@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202507010,STL,https://www.baseball-reference.com/boxes/PIT/PIT202507010.shtml,StLouisCardinalspitching,Andre Pallante,7,1,0,0,2,3,0,4.1,23,94,55,31,7,17,13,5,3,0,76.0,,,0.446,1.05,0.33%,1.3,3.6
+PIT202507010,STL,https://www.baseball-reference.com/boxes/PIT/PIT202507010.shtml,StLouisCardinalspitching,"Phil Maton, L (1-3)",1,3,1,1,0,1,0,1.91,6,22,15,8,3,4,1,4,2,0,,0.0,0.0,-0.229,1.57,-0.17%,1.95,-0.5
+PIT202507010,STL,https://www.baseball-reference.com/boxes/PIT/PIT202507010.shtml,StLouisCardinalspitching,Team Totals,8,4,1,1,2,4,0,1.12,29,116,70,39,10,21,14,9,5,0,76.0,0.0,0.0,0.217,1.16,0.16%,1.44,3.1

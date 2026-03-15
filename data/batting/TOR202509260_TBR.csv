@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Chandler Simpson CF,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.296,0.327,0.345,0.672,21.0,15.0,-0.132,1.67,0.037,-0.169,0%,0.0,-1.1,3.0,0.0,SB
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Yandy Díaz DH,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.299,0.365,0.482,0.847,19.0,10.0,-0.17,1.44,0.017,-0.187,0%,0.0,-1.1,0.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Brandon Lowe 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.258,0.308,0.48,0.788,19.0,13.0,-0.021,0.74,0.026,-0.047,0%,0.0,-0.2,1.0,4.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Junior Caminero 3B,3.0,1.0,2.0,1.0,1.0,0.0,4.0,0.262,0.307,0.536,0.844,20.0,11.0,0.119,1.21,0.176,-0.058,0%,0.0,1.2,1.0,1.0,HR
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Jonathan Aranda 1B,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.316,0.395,0.485,0.879,21.0,11.0,0.058,1.35,0.131,-0.072,0%,0.0,0.5,7.0,1.0,HR
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Richie Palacios PR-LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.297,0.372,0.432,0.805,,,,,,,,,,0.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Jake Mangum LF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.299,0.332,0.372,0.704,13.0,9.0,-0.023,1.04,0.033,-0.056,0%,0.0,-0.1,1.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Christopher Morel PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.222,0.289,0.4,0.689,4.0,2.0,-0.071,2.71,0.0,-0.071,0%,0.0,-0.4,0.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Bob Seymour 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.203,0.234,0.284,0.518,,,,,,,,,,1.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Josh Lowe RF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.222,0.286,0.37,0.656,16.0,10.0,0.056,1.09,0.1,-0.044,0%,0.0,0.1,1.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Carson Williams SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.165,0.216,0.363,0.579,19.0,12.0,-0.178,1.84,0.0,-0.178,0%,0.0,-1.4,0.0,3.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Hunter Feduccia C,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.155,0.277,0.214,0.492,17.0,13.0,0.003,1.25,0.078,-0.075,0%,0.0,-0.3,8.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Adrian Houser P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Cole Sulser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202509260,TBR,https://www.baseball-reference.com/boxes/TOR/TOR202509260.shtml,TampaBayRaysbatting,Team Totals,33.0,2.0,6.0,2.0,5.0,8.0,38.0,0.182,0.289,0.364,0.653,169.0,106.0,-0.359,1.35,0.598,-0.957,0.00%,0.0,-2.6,24.0,9.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,1.0,1.0,2.0,0.0,3.0,5.0,0.264,0.324,0.464,0.787,24.0,15.0,0.028,0.73,0.091,-0.064,0%,0.0,1.9,3.0,1.0,"2B,HBP"
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Tyler Freeman RF,3.0,0.0,1.0,1.0,1.0,0.0,5.0,0.303,0.385,0.434,0.819,24.0,15.0,-0.003,0.71,0.072,-0.075,0%,0.0,-0.6,1.0,0.0,"HBP,GDP"
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Hunter Goodman DH,5.0,0.0,0.0,0.0,0.0,4.0,5.0,0.284,0.326,0.494,0.82,21.0,16.0,-0.076,0.6,0.0,-0.076,0%,0.0,-1.3,0.0,0.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.221,0.333,0.4,0.733,13.0,11.0,0.158,0.6,0.195,-0.037,0%,0.0,0.2,3.0,2.0,HR
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Thairo Estrada 2B,5.0,1.0,2.0,0.0,0.0,3.0,5.0,0.267,0.274,0.35,0.624,15.0,12.0,-0.064,0.52,0.001,-0.065,0%,0.0,-0.1,1.0,1.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Brenton Doyle CF,3.0,2.0,0.0,0.0,2.0,2.0,5.0,0.202,0.264,0.32,0.584,25.0,16.0,0.0,0.38,0.028,-0.028,0%,0.0,0.4,6.0,0.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Orlando Arcia 1B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.2,0.243,0.257,0.5,12.0,10.0,-0.002,0.7,0.037,-0.039,0%,0.0,-0.5,5.0,0.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Ryan Ritter SS,3.0,3.0,2.0,0.0,1.0,1.0,4.0,0.267,0.313,0.4,0.713,16.0,9.0,0.115,0.95,0.14,-0.025,0%,0.0,1.8,0.0,1.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Braxton Fulford C,2.0,1.0,2.0,5.0,1.0,0.0,4.0,0.222,0.25,0.5,0.75,18.0,12.0,0.141,1.23,0.141,0.0,0%,0.0,3.8,8.0,0.0,"3B,SF"
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Austin Gomber P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Jake Bird P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Juan Mejia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Ryan Rolison P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202506150,COL,https://www.baseball-reference.com/boxes/ATL/ATL202506150.shtml,ColoradoRockiesbatting,Team Totals,34.0,10.0,10.0,9.0,5.0,16.0,42.0,0.294,0.405,0.471,0.875,168.0,116.0,0.297,0.7,0.705,-0.409,0.00%,0.0,5.5,27.0,6.0,

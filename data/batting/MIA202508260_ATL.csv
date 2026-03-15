@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Jurickson Profar LF,4.0,2.0,1.0,0.0,1.0,1.0,5.0,0.261,0.365,0.469,0.834,19.0,8.0,-0.033,0.77,0.04,-0.073,0%,0.0,0.3,2.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.264,0.361,0.443,0.804,22.0,17.0,-0.043,0.88,0.034,-0.077,0%,0.0,0.0,5.0,2.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,4.0,1.0,2.0,1.0,1.0,1.0,5.0,0.303,0.42,0.542,0.962,19.0,11.0,0.103,1.05,0.133,-0.031,0%,0.01,1.8,4.0,0.0,SB
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.249,0.272,0.412,0.684,27.0,16.0,-0.126,1.35,0.012,-0.137,0%,0.01,-1.4,5.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.229,0.36,0.409,0.768,17.0,12.0,0.134,1.65,0.179,-0.045,0%,0.01,0.2,0.0,0.0,2B
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Eli White PR-DH-DH,1.0,2.0,1.0,2.0,0.0,0.0,1.0,0.235,0.271,0.385,0.656,2.0,1.0,0.012,0.28,0.012,0.0,0%,0.0,1.7,0.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Ozzie Albies 2B,5.0,2.0,3.0,4.0,0.0,0.0,5.0,0.231,0.3,0.344,0.644,19.0,15.0,0.013,1.13,0.179,-0.166,0%,0.0,3.0,5.0,2.0,"2·HR,2B"
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Nacho Alvarez Jr. 3B,4.0,1.0,0.0,0.0,1.0,2.0,5.0,0.245,0.333,0.327,0.66,25.0,16.0,-0.051,1.2,0.023,-0.075,0%,0.01,-0.6,0.0,2.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Sean Murphy C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.207,0.311,0.424,0.734,10.0,6.0,-0.081,1.0,0.0,-0.081,0%,0.0,-0.7,3.0,2.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Vidal Bruján SS,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.27,0.329,0.333,0.662,1.0,1.0,0.317,4.62,0.317,0.0,0.00%,0.02,1.5,1.0,1.0,2B
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Nick Allen SS,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.22,0.285,0.249,0.534,8.0,6.0,-0.029,0.56,0.0,-0.029,0%,0.0,-0.3,0.0,1.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Drake Baldwin PH-C,2.0,1.0,1.0,2.0,0.0,0.0,2.0,0.279,0.344,0.458,0.803,7.0,5.0,0.021,1.5,0.069,-0.048,0%,0.01,0.9,1.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Hurston Waldrep P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Dylan Dodd P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Dylan Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Wander Suero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508260,ATL,https://www.baseball-reference.com/boxes/MIA/MIA202508260.shtml,AtlantaBravesbatting,Team Totals,38.0,11.0,11.0,11.0,5.0,8.0,43.0,0.289,0.372,0.526,0.898,176.0,114.0,0.237,1.17,0.998,-0.762,0.00%,0.01,6.3,27.0,12.0,

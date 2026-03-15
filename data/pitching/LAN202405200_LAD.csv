@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202405200,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,LosAngelesDodgerspitching,"Yoshinobu Yamamoto, W (5-1)",6.1,7,2,2,1,8,0,3.17,27,100,69,39,13,17,9,9,5,0,58.0,,,0.063,0.73,0.05%,0.91,0.9
+LAN202405200,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,LosAngelesDodgerspitching,Anthony Banda,0.2,1,0,0,0,0,0,0.0,3,12,8,6,0,2,1,2,2,0,,1.0,0.0,0.029,1.07,0.02%,1.33,0.5
+LAN202405200,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,LosAngelesDodgerspitching,Elieser Hernández,1.0,2,2,2,0,0,2,6.43,5,22,14,7,3,4,1,4,0,0,,0.0,0.0,-0.025,0.54,-0.02%,0.66,-1.5
+LAN202405200,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,LosAngelesDodgerspitching,"Daniel Hudson, S (3)",1.0,0,0,0,0,2,0,2.7,3,20,12,5,4,3,1,0,0,0,,0.0,0.0,0.071,0.93,0.05%,1.16,0.5
+LAN202405200,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,LosAngelesDodgerspitching,Team Totals,9.0,10,4,4,1,10,2,4.0,38,154,103,57,20,26,12,15,7,0,58.0,1.0,0.0,0.138,0.75,0.10%,0.93,0.3

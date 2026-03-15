@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Connor Norby 2B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.263,0.306,0.538,0.843,15.0,11.0,0.073,0.73,0.122,-0.05,0%,0.0,0.3,1.0,4.0,HR
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Jesús Sánchez LF,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.241,0.297,0.42,0.717,15.0,12.0,0.003,0.59,0.043,-0.04,0%,0.0,0.1,2.0,0.0,CS
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Cristian Pache CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.199,0.276,0.279,0.556,,,,,,,,,,1.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Jake Burger DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.247,0.304,0.465,0.769,16.0,8.0,-0.06,0.63,0.0,-0.06,0%,0.0,-0.8,0.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Kyle Stowers CF-LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.236,0.28,0.35,0.63,17.0,13.0,-0.031,0.76,0.024,-0.055,0%,0.0,-0.3,5.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Jonah Bride 3B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.252,0.348,0.403,0.75,20.0,16.0,-0.058,0.73,0.026,-0.083,0%,0.0,-0.9,1.0,2.0,GDP
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Otto Lopez SS,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.248,0.292,0.332,0.624,16.0,11.0,0.023,0.86,0.068,-0.045,0%,0.0,0.1,0.0,2.0,SB
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Griffin Conine RF,3.0,1.0,1.0,2.0,0.0,0.0,3.0,0.25,0.294,0.625,0.919,11.0,9.0,0.183,0.92,0.207,-0.024,0%,0.0,1.5,0.0,0.0,HR
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,David Hensley 1B,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.265,0.324,0.382,0.707,11.0,9.0,0.045,0.77,0.057,-0.012,0%,0.0,0.2,10.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Ali Sánchez C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.167,0.211,0.19,0.402,10.0,8.0,-0.041,0.51,0.0,-0.041,0%,0.0,-0.5,7.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Edward Cabrera P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Xzavion Curry P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,John McMillon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202408310,MIA,https://www.baseball-reference.com/boxes/SFN/SFN202408310.shtml,MiamiMarlinsbatting,Team Totals,32.0,4.0,7.0,4.0,1.0,11.0,33.0,0.219,0.242,0.406,0.649,131.0,97.0,0.137,0.72,0.547,-0.41,0.00%,0.0,-0.2,27.0,8.0,

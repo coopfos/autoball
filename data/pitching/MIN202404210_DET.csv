@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIN202404210,DET,https://www.baseball-reference.com/boxes/MIN/MIN202404210.shtml,DetroitTigerspitching,"Casey Mize, W (1-0)",6,5,0,0,3,4,0,2.95,25,90,56,33,6,17,6,12,3,0,63.0,,,0.258,1.06,0.15%,1.06,3.0
+MIN202404210,DET,https://www.baseball-reference.com/boxes/MIN/MIN202404210.shtml,DetroitTigerspitching,Tyler Holton,2,0,0,0,0,1,0,1.5,6,20,13,8,1,4,3,2,0,0,,0.0,0.0,0.035,0.23,0.02%,0.23,1.0
+MIN202404210,DET,https://www.baseball-reference.com/boxes/MIN/MIN202404210.shtml,DetroitTigerspitching,Alex Faedo,1,2,1,1,1,0,1,1.98,6,23,13,8,2,3,1,4,1,0,,0.0,0.0,0.003,0.39,0.00%,0.39,-0.5
+MIN202404210,DET,https://www.baseball-reference.com/boxes/MIN/MIN202404210.shtml,DetroitTigerspitching,Team Totals,9,7,1,1,4,5,1,1.0,37,133,82,49,9,24,10,18,4,0,63.0,0.0,0.0,0.296,0.82,0.18%,0.82,3.5

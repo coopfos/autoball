@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202404070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,PittsburghPiratespitching,Marco Gonzales,6.0,5,2,2,0,4,0,2.45,22,77,54,33,7,14,6,12,8,0,58.0,,,0.06,0.82,0.04%,0.84,1.1
+PIT202404070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,PittsburghPiratespitching,Roansy Contreras,1.2,0,0,0,0,0,0,3.86,5,11,8,5,1,2,2,3,1,0,,0.0,0.0,0.097,0.77,0.06%,0.79,0.9
+PIT202404070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,PittsburghPiratespitching,"Jose Hernandez, W (1-0)",1.1,1,0,0,0,2,0,0.0,5,17,14,5,5,4,1,2,0,0,,0.0,0.0,0.052,0.64,0.03%,0.66,0.6
+PIT202404070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,PittsburghPiratespitching,Team Totals,9.0,6,2,2,0,6,0,2.0,32,105,76,43,13,20,9,17,9,0,58.0,0.0,0.0,0.209,0.78,0.13%,0.8,2.6

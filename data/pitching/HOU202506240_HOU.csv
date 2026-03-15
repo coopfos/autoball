@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202506240,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506240.shtml,HoustonAstrospitching,Framber Valdez,7,4,0,0,4,3,0,2.88,29,92,55,33,3,19,15,7,3,0,68.0,,,0.445,1.33,0.35%,1.75,3.5
+HOU202506240,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506240.shtml,HoustonAstrospitching,"Bryan Abreu, W (2-3)",1,0,0,0,0,1,0,1.78,3,12,7,3,2,2,0,2,0,0,,0.0,0.0,0.108,1.41,0.08%,1.86,0.5
+HOU202506240,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506240.shtml,HoustonAstrospitching,"Josh Hader, S (20)",1,0,0,0,0,2,0,1.78,4,14,10,5,5,0,0,1,0,0,,0.0,0.0,0.164,2.92,0.13%,3.85,0.5
+HOU202506240,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506240.shtml,HoustonAstrospitching,Team Totals,9,4,0,0,4,6,0,0.0,36,118,72,41,10,21,15,10,3,0,68.0,0.0,0.0,0.717,1.51,0.57%,1.99,4.6

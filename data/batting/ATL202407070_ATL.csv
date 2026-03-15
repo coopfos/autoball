@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Jarred Kelenic CF,3.0,1.0,1.0,3.0,1.0,2.0,4.0,0.272,0.317,0.455,0.772,17.0,9.0,0.246,0.99,0.251,-0.005,0.18%,1.2,2.8,4.0,0.0,"HR,SB"
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Ozzie Albies 2B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.264,0.319,0.419,0.738,15.0,9.0,0.017,0.42,0.029,-0.013,0.01%,0.51,-0.3,2.0,4.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Austin Riley 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.253,0.325,0.442,0.767,12.0,7.0,-0.058,0.54,0.001,-0.06,-0.04%,0.66,-0.4,0.0,1.0,2B
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.239,0.321,0.426,0.747,17.0,9.0,-0.034,0.48,0.046,-0.079,-0.02%,0.58,-0.4,10.0,2.0,HR
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Marcell Ozuna DH,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.295,0.377,0.566,0.944,18.0,9.0,0.007,0.55,0.013,-0.007,0.01%,0.67,-0.5,0.0,0.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Travis d'Arnaud C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.234,0.294,0.429,0.722,11.0,7.0,-0.078,0.77,0.0,-0.078,-0.06%,0.93,-1.4,9.0,1.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Adam Duvall RF,4.0,1.0,3.0,1.0,0.0,1.0,4.0,0.184,0.253,0.321,0.574,17.0,10.0,0.109,0.29,0.111,-0.002,0.08%,0.35,1.4,0.0,0.0,"HR,2B"
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Orlando Arcia SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.209,0.245,0.331,0.576,18.0,13.0,0.022,0.28,0.031,-0.009,0.02%,0.34,-0.4,1.0,1.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Eli White LF,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.182,0.182,0.455,0.636,14.0,10.0,0.055,0.4,0.061,-0.006,0.04%,0.48,1.1,0.0,0.0,HR
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Reynaldo López P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Dylan Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Pierce Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Aaron Bummer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202407070,ATL,https://www.baseball-reference.com/boxes/ATL/ATL202407070.shtml,AtlantaBravesbatting,Team Totals,33.0,6.0,9.0,6.0,3.0,10.0,36.0,0.273,0.333,0.697,1.03,139.0,83.0,0.286,0.55,0.543,-0.259,0.21%,0.66,1.9,27.0,11.0,

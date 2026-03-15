@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202405220,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202405220.shtml,LosAngelesAngelspitching,"Tyler Anderson, W (5-4)",8,6,1,1,2,4,0,2.52,31,95,65,39,12,14,10,15,7,0,68.0,,,0.484,1.38,0.11%,0.52,2.8
+HOU202405220,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202405220.shtml,LosAngelesAngelspitching,"Luis García, S (3)",1,0,0,0,0,2,0,5.06,3,12,9,1,4,4,1,0,0,0,,0.0,0.0,0.193,2.58,0.04%,0.97,0.5
+HOU202405220,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202405220.shtml,LosAngelesAngelspitching,Team Totals,9,6,1,1,2,6,0,1.0,34,107,74,40,16,18,11,15,7,0,68.0,0.0,0.0,0.677,1.49,0.15%,0.56,3.3

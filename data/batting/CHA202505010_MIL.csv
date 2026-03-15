@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.311,0.368,0.402,0.769,19.0,11.0,-0.037,1.18,0.036,-0.072,-0.02%,1.12,-0.2,1.0,3.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Vinny Capra PH-2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.068,0.125,0.136,0.261,2.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Jackson Chourio CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.263,0.277,0.489,0.766,8.0,6.0,-0.087,0.78,0.001,-0.088,-0.05%,0.75,-0.1,2.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.304,0.386,0.411,0.797,11.0,5.0,-0.002,0.88,0.036,-0.038,-0.00%,0.84,0.1,5.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Daz Cameron RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.25,0.0,0.25,3.0,3.0,-0.001,0.03,0.0,-0.001,0%,0.03,-0.4,0.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,William Contreras DH-LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.25,0.364,0.352,0.716,11.0,9.0,-0.09,0.94,0.0,-0.09,-0.05%,0.9,-1.1,0.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Jake Bauers LF-P,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.225,0.34,0.425,0.765,15.0,8.0,-0.004,0.76,0.03,-0.034,-0.00%,0.72,-0.4,1.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.276,0.402,0.402,0.804,17.0,10.0,-0.068,1.23,0.017,-0.085,-0.04%,1.18,-0.6,9.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Caleb Durbin 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.244,0.333,0.366,0.699,8.0,6.0,-0.086,0.99,0.0,-0.086,-0.05%,0.94,-1.0,0.0,2.0,GDP
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.196,0.265,0.224,0.489,14.0,10.0,-0.04,0.72,0.027,-0.067,-0.02%,0.69,-0.5,2.0,2.0,CS
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Eric Haase C,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.3,0.364,0.5,0.864,15.0,10.0,0.02,0.33,0.031,-0.011,0.01%,0.32,-0.0,4.0,0.0,2B
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Chad Patrick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Craig Yoho P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202505010,MIL,https://www.baseball-reference.com/boxes/CHA/CHA202505010.shtml,MilwaukeeBrewersbatting,Team Totals,28.0,0.0,2.0,0.0,4.0,9.0,32.0,0.071,0.188,0.107,0.295,123.0,79.0,-0.395,0.81,0.178,-0.572,-0.23%,0.77,-4.4,24.0,7.0,

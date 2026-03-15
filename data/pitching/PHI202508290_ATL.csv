@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202508290,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202508290.shtml,AtlantaBravespitching,Bryce Elder,7.0,3,1,1,2,3,0,5.85,27,96,58,42,6,10,13,9,2,0,68.0,,,0.335,1.21,0.00%,0.0,2.8
+PHI202508290,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202508290.shtml,AtlantaBravespitching,"Dylan Lee, L (2-4)",0.1,2,1,1,0,0,0,3.49,3,17,12,8,3,1,2,1,1,0,,0.0,0.0,-0.139,1.87,0.00%,0.01,-0.7
+PHI202508290,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202508290.shtml,AtlantaBravespitching,Pierce Johnson,0.2,1,0,0,1,0,0,2.17,4,16,8,4,3,1,0,3,1,0,,2.0,1.0,-0.08,1.79,0.00%,0.01,0.2
+PHI202508290,ATL,https://www.baseball-reference.com/boxes/PHI/PHI202508290.shtml,AtlantaBravespitching,Team Totals,8.0,6,2,2,3,3,0,2.25,34,129,78,54,12,12,15,13,4,0,68.0,2.0,1.0,0.116,1.34,0.00%,0.0,2.3

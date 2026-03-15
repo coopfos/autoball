@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202504270,DET,https://www.baseball-reference.com/boxes/DET/DET202504270.shtml,DetroitTigerspitching,"Tarik Skubal, W (3-2)",6,4,0,0,0,11,0,2.34,23,91,61,27,19,15,4,7,4,0,75.0,,,0.307,1.16,0.23%,1.42,2.9
+DET202504270,DET,https://www.baseball-reference.com/boxes/DET/DET202504270.shtml,DetroitTigerspitching,Sean Guenther,2,1,0,0,0,3,0,0.0,6,24,14,3,3,8,2,1,1,0,,0.0,0.0,0.018,0.13,0.01%,0.16,1.0
+DET202504270,DET,https://www.baseball-reference.com/boxes/DET/DET202504270.shtml,DetroitTigerspitching,Kenta Maeda,1,0,0,0,1,1,0,9.0,5,17,8,5,2,1,2,0,0,0,,0.0,0.0,0.001,0.03,0.00%,0.04,0.5
+DET202504270,DET,https://www.baseball-reference.com/boxes/DET/DET202504270.shtml,DetroitTigerspitching,Team Totals,9,5,0,0,1,15,0,0.0,34,132,83,35,24,24,8,8,5,0,75.0,0.0,0.0,0.326,0.79,0.24%,0.97,4.3

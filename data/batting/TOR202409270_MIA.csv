@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Xavier Edwards SS,6.0,2.0,4.0,4.0,0.0,1.0,6.0,0.327,0.396,0.42,0.816,21.0,14.0,0.126,0.43,0.151,-0.025,0%,0.0,4.4,3.0,2.0,3·3B
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Connor Norby 3B,6.0,2.0,3.0,1.0,0.0,1.0,6.0,0.249,0.308,0.462,0.77,18.0,13.0,-0.021,0.28,0.026,-0.047,0%,0.0,-0.6,2.0,1.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Jake Burger DH,6.0,1.0,3.0,2.0,0.0,0.0,6.0,0.251,0.302,0.464,0.766,18.0,13.0,0.0,0.43,0.04,-0.04,0%,0.0,0.7,0.0,0.0,2B
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,3.0,3.0,1.0,1.0,2.0,2.0,5.0,0.251,0.313,0.419,0.732,18.0,10.0,0.158,0.37,0.164,-0.005,0%,0.0,2.2,2.0,0.0,2B
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Jonah Bride 1B,4.0,2.0,2.0,3.0,1.0,1.0,5.0,0.271,0.352,0.462,0.814,20.0,12.0,0.167,0.5,0.184,-0.018,0%,0.0,2.6,6.0,0.0,"2·HR,GDP"
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Griffin Conine LF,5.0,1.0,2.0,3.0,0.0,2.0,5.0,0.257,0.321,0.446,0.767,15.0,11.0,0.053,0.33,0.067,-0.014,0%,0.0,1.7,2.0,1.0,HR
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Otto Lopez 2B,3.0,2.0,2.0,0.0,1.0,0.0,4.0,0.268,0.311,0.373,0.685,16.0,9.0,0.03,0.23,0.036,-0.007,0%,0.0,0.8,2.0,2.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Vidal Bruján PH-2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.222,0.303,0.319,0.622,3.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,1.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Kyle Stowers CF,1.0,2.0,0.0,0.0,3.0,0.0,4.0,0.208,0.268,0.333,0.601,19.0,6.0,0.028,0.35,0.035,-0.007,0%,0.0,0.7,4.0,0.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Javier Sanoja PH-CF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.258,0.281,0.323,0.604,3.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.1,0.0,0.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Nick Fortes C,4.0,0.0,0.0,0.0,0.0,0.0,5.0,0.227,0.259,0.319,0.578,17.0,11.0,-0.018,0.35,0.0,-0.018,0%,0.0,-1.5,6.0,0.0,SH
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Adam Oller P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Anthony Veneziano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Mike Baumann P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Shaun Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409270,MIA,https://www.baseball-reference.com/boxes/TOR/TOR202409270.shtml,MiamiMarlinsbatting,Team Totals,40.0,15.0,17.0,14.0,7.0,8.0,48.0,0.425,0.511,0.85,1.361,168.0,105.0,0.523,0.35,0.703,-0.181,0.00%,0.0,10.6,27.0,8.0,

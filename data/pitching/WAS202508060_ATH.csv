@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202508060,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508060.shtml,Athleticspitching,Jeffrey Springs,6.0,1,1,1,0,5,1,3.89,19,92,60,38,8,14,4,10,1,0,71.0,,,0.167,0.82,0.00%,0.01,1.9
+WAS202508060,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508060.shtml,Athleticspitching,Sean Newcomb,2.0,1,0,0,0,2,0,3.12,6,22,16,9,4,3,2,2,1,0,,0.0,0.0,0.193,1.48,0.00%,0.03,1.0
+WAS202508060,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508060.shtml,Athleticspitching,"Michael Kelly, L (2-1)",0.1,2,1,1,0,1,0,1.77,3,13,8,5,1,2,0,2,1,0,,0.0,0.0,-0.365,2.67,-0.00%,0.05,-1.0
+WAS202508060,ATH,https://www.baseball-reference.com/boxes/WAS/WAS202508060.shtml,Athleticspitching,Team Totals,8.1,4,2,2,0,8,1,2.16,28,127,84,52,13,19,6,14,3,0,71.0,0.0,0.0,-0.005,1.16,0.00%,0.02,1.9

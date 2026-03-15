@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,1.0,0.0,0.0,1.0,1.0,5.0,0.267,0.336,0.458,0.794,27.0,13.0,-0.061,1.61,0.085,-0.146,-0.04%,1.84,-0.8,1.0,0.0,"SB,HBP"
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Juan Soto RF,3.0,2.0,2.0,6.0,2.0,1.0,5.0,0.257,0.397,0.518,0.915,22.0,10.0,0.643,1.66,0.695,-0.052,0.44%,1.89,5.3,2.0,0.0,"HR,3B,CS"
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.267,0.346,0.51,0.856,24.0,15.0,-0.178,0.9,0.007,-0.185,-0.12%,1.02,-2.2,5.0,1.0,GDP
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Brandon Nimmo LF,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.263,0.332,0.453,0.785,19.0,12.0,0.013,0.69,0.078,-0.065,0.01%,0.79,0.0,2.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Mark Vientos DH,4.0,1.0,0.0,0.0,0.0,2.0,5.0,0.241,0.294,0.432,0.726,14.0,11.0,-0.014,0.6,0.04,-0.054,-0.01%,0.69,-0.4,0.0,0.0,HBP
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Jeff McNeil 2B,4.0,2.0,2.0,0.0,0.0,0.0,4.0,0.259,0.35,0.454,0.804,21.0,13.0,0.135,0.94,0.152,-0.017,0.09%,1.07,1.5,0.0,3.0,2B
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Luisangel Acuña PR-2B,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.238,0.293,0.281,0.574,7.0,4.0,0.006,0.39,0.012,-0.006,0.00%,0.45,0.1,1.0,0.0,SB
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Cedric Mullins CF,2.0,1.0,0.0,0.0,2.0,2.0,5.0,0.223,0.307,0.408,0.714,26.0,15.0,0.027,0.96,0.05,-0.023,0.02%,1.09,0.4,5.0,0.0,SH
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Luis Torrens C,3.0,2.0,3.0,2.0,0.0,0.0,4.0,0.226,0.289,0.34,0.629,9.0,5.0,0.281,1.54,0.281,0.0,0.19%,1.75,2.4,10.0,0.0,"2B,SH"
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Brett Baty 3B,3.0,0.0,0.0,1.0,1.0,1.0,4.0,0.249,0.312,0.427,0.739,18.0,9.0,-0.082,1.68,0.028,-0.109,-0.06%,1.91,-0.8,1.0,2.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Sean Manaea P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Ryne Stanek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Ryan Helsley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Brooks Raley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202509010,NYM,https://www.baseball-reference.com/boxes/DET/DET202509010.shtml,NewYorkMetsbatting,Team Totals,32.0,10.0,8.0,10.0,7.0,9.0,43.0,0.25,0.415,0.469,0.883,187.0,107.0,0.77,1.15,1.428,-0.657,0.52%,1.31,5.5,27.0,6.0,

@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Parker Meadows CF,6.0,0.0,2.0,0.0,0.0,2.0,6.0,0.227,0.297,0.347,0.644,27.0,16.0,-0.097,1.79,0.12,-0.218,-0.06%,1.85,-0.4,2.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Gleyber Torres 2B,3.0,1.0,0.0,1.0,1.0,1.0,5.0,0.256,0.363,0.393,0.755,22.0,10.0,-0.066,2.05,0.034,-0.101,-0.04%,2.11,-0.7,1.0,5.0,SF
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Kerry Carpenter DH,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.258,0.299,0.516,0.815,17.0,12.0,-0.01,2.09,0.224,-0.235,-0.01%,2.16,1.0,0.0,0.0,HR
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Riley Greene LF,4.0,1.0,0.0,0.0,1.0,0.0,5.0,0.267,0.321,0.51,0.831,10.0,6.0,-0.152,1.97,0.068,-0.221,-0.09%,2.03,-0.8,3.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Spencer Torkelson 1B,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.236,0.329,0.452,0.781,21.0,13.0,-0.072,2.3,0.171,-0.243,-0.04%,2.37,-0.7,9.0,1.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Wenceel Pérez RF,5.0,0.0,1.0,1.0,0.0,2.0,5.0,0.267,0.328,0.47,0.798,19.0,15.0,0.066,2.0,0.198,-0.133,0.04%,2.06,0.1,4.0,0.0,2B
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Colt Keith 3B,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.251,0.328,0.409,0.736,10.0,9.0,-0.068,1.32,0.029,-0.097,-0.04%,1.37,-0.2,0.0,2.0,IW
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Dillon Dingler C,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.281,0.329,0.435,0.765,19.0,16.0,-0.145,1.66,0.047,-0.192,-0.09%,1.71,-1.1,7.0,1.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Zach McKinstry SS,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.263,0.339,0.443,0.782,8.0,6.0,-0.07,1.44,0.0,-0.07,-0.04%,1.48,-0.6,1.0,1.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Andy Ibáñez PH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.244,0.296,0.372,0.668,4.0,2.0,0.059,1.54,0.059,0.0,0.04%,1.59,0.4,0.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Trey Sweeney PR-SS,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.199,0.258,0.297,0.555,5.0,3.0,-0.046,1.83,0.0,-0.046,-0.03%,1.89,-0.2,2.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Jahmai Jones PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.273,0.365,0.545,0.911,2.0,0.0,0.016,3.27,0.016,0.0,0.01%,3.37,0.2,0.0,0.0,IW
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Javier Báez SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.256,0.284,0.4,0.684,,,,,,,,,,0.0,1.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Charlie Morton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Troy Melton P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Tommy Kahnle P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Will Vest P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Rafael Montero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202509130,DET,https://www.baseball-reference.com/boxes/MIA/MIA202509130.shtml,DetroitTigersbatting,Team Totals,41.0,4.0,10.0,4.0,4.0,10.0,46.0,0.244,0.304,0.341,0.646,164.0,108.0,-0.585,1.91,0.966,-1.556,-0.36%,1.97,-3.0,31.0,12.0,

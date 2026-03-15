@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Sam Haggerty LF,3.0,1.0,1.0,0.0,0.0,1.0,4.0,0.259,0.338,0.385,0.723,12.0,5.0,0.01,0.99,0.084,-0.074,0%,0.0,0.1,1.0,0.0,"HBP,GDP"
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Evan Carter CF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.245,0.33,0.396,0.726,6.0,4.0,-0.019,0.75,0.0,-0.019,0%,0.0,-0.2,0.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Wyatt Langford CF-LF,5.0,0.0,3.0,0.0,0.0,0.0,5.0,0.239,0.321,0.418,0.739,12.0,9.0,-0.055,1.32,0.09,-0.145,0%,0.0,-0.6,2.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Marcus Semien 2B,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.226,0.307,0.359,0.666,15.0,9.0,-0.042,1.12,0.063,-0.106,0%,0.0,-0.3,3.0,2.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Adolis García RF,5.0,0.0,1.0,1.0,0.0,1.0,5.0,0.227,0.273,0.389,0.662,14.0,11.0,-0.003,1.43,0.117,-0.12,0%,0.0,-0.3,1.0,1.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Josh Jung 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.249,0.298,0.387,0.684,26.0,16.0,-0.047,1.0,0.038,-0.086,0%,0.0,-0.4,1.0,2.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Jonah Heim DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.222,0.265,0.358,0.623,17.0,12.0,-0.113,1.15,0.0,-0.113,0%,0.0,-1.0,0.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Kyle Higashioka C,4.0,3.0,3.0,2.0,0.0,1.0,4.0,0.263,0.31,0.409,0.719,23.0,16.0,0.166,0.81,0.195,-0.029,0%,0.0,2.0,9.0,1.0,2·HR
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Josh Smith SS,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.277,0.354,0.42,0.774,20.0,12.0,0.028,1.05,0.075,-0.047,0%,0.0,0.1,1.0,1.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Ezequiel Duran 1B,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.148,0.216,0.216,0.432,7.0,5.0,0.209,1.74,0.263,-0.054,0%,0.0,1.1,5.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Joc Pederson PH-1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.122,0.253,0.221,0.475,4.0,3.0,-0.014,0.51,0.0,-0.014,0%,0.0,-0.1,1.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Patrick Corbin P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Jon Gray P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Caleb Boushley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Shawn Armstrong P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202507290,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202507290.shtml,TexasRangersbatting,Team Totals,39.0,5.0,14.0,4.0,0.0,8.0,40.0,0.359,0.375,0.513,0.888,156.0,102.0,0.12,1.15,0.925,-0.807,0.00%,0.0,0.5,24.0,8.0,

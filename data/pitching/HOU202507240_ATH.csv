@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202507240,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507240.shtml,Athleticspitching,"Luis Severino, W (4-11)",7.0,4,2,2,0,8,0,4.95,24,91,60,36,7,17,8,7,3,0,69.0,,,0.241,0.78,0.00%,0.01,1.5
+HOU202507240,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507240.shtml,Athleticspitching,"Michael Kelly, H (5)",0.2,2,0,0,0,0,0,1.23,4,13,10,5,2,3,2,2,1,0,,0.0,0.0,-0.002,0.94,0.00%,0.01,-0.0
+HOU202507240,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507240.shtml,Athleticspitching,"Mason Miller, S (20)",1.1,0,0,0,1,1,0,3.86,5,23,13,5,5,3,0,3,0,0,,2.0,0.0,0.093,0.77,0.00%,0.01,1.0
+HOU202507240,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507240.shtml,Athleticspitching,Team Totals,9.0,6,2,2,1,9,0,2.0,33,127,83,46,14,23,10,12,4,0,69.0,2.0,0.0,0.332,0.8,0.00%,0.01,2.5

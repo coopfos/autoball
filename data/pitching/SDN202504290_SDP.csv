@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202504290,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504290.shtml,SanDiegoPadrespitching,"Nick Pivetta, W (5-1)",5.1,5,3,3,1,9,1,1.78,22,89,58,31,7,20,1,11,5,0,54.0,,,0.084,0.78,0.06%,0.96,0.5
+SDN202504290,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504290.shtml,SanDiegoPadrespitching,"Jeremiah Estrada, H (6)",0.2,2,1,1,0,1,0,1.88,4,17,12,6,4,2,1,2,1,0,,1.0,1.0,-0.12,1.46,-0.09%,1.8,-1.5
+SDN202504290,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504290.shtml,SanDiegoPadrespitching,"Adrián Morejón, H (3)",1.0,0,0,0,0,2,0,1.84,3,16,10,5,1,4,1,0,0,0,,0.0,0.0,0.096,1.26,0.07%,1.56,0.5
+SDN202504290,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504290.shtml,SanDiegoPadrespitching,"Jason Adam, H (10)",1.0,0,0,0,0,2,0,0.56,3,13,9,3,1,5,0,1,0,0,,0.0,0.0,0.043,0.56,0.03%,0.7,0.5
+SDN202504290,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504290.shtml,SanDiegoPadrespitching,"Robert Suarez, S (11)",1.0,0,0,0,0,0,0,0.69,3,6,4,3,0,1,1,2,0,0,,0.0,0.0,0.034,0.44,0.03%,0.55,0.5
+SDN202504290,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504290.shtml,SanDiegoPadrespitching,Team Totals,9.0,7,4,4,1,14,1,4.0,35,141,93,48,13,32,4,16,6,0,54.0,1.0,1.0,0.137,0.85,0.10%,1.05,0.6

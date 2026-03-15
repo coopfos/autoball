@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202405270,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405270.shtml,BostonRedSoxpitching,"Cooper Criswell, L (2-2)",4,7,7,7,1,2,0,4.19,20,76,47,31,5,11,4,13,5,0,21.0,,,-0.28,0.76,-0.15%,0.67,-5.2
+BAL202405270,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405270.shtml,BostonRedSoxpitching,Brad Keller,4,7,4,4,1,2,0,5.66,20,58,40,27,3,10,9,8,3,0,,0.0,0.0,0.001,0.01,0.00%,0.01,-2.2
+BAL202405270,BOS,https://www.baseball-reference.com/boxes/BAL/BAL202405270.shtml,BostonRedSoxpitching,Team Totals,8,14,11,11,2,4,0,12.38,40,134,87,58,8,21,13,21,8,0,21.0,0.0,0.0,-0.279,0.39,-0.15%,0.34,-7.4

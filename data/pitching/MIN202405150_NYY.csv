@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIN202405150,NYY,https://www.baseball-reference.com/boxes/MIN/MIN202405150.shtml,NewYorkYankeespitching,"Marcus Stroman, W (3-2)",6,2,0,0,3,2,0,3.33,24,91,55,35,7,13,10,9,3,0,67.0,,,0.312,1.11,0.24%,1.4,3.0
+MIN202405150,NYY,https://www.baseball-reference.com/boxes/MIN/MIN202405150.shtml,NewYorkYankeespitching,Luke Weaver,2,2,0,0,1,3,0,2.25,8,31,20,8,5,7,1,3,2,0,,0.0,0.0,0.063,0.64,0.05%,0.81,1.0
+MIN202405150,NYY,https://www.baseball-reference.com/boxes/MIN/MIN202405150.shtml,NewYorkYankeespitching,Caleb Ferguson,1,0,0,0,0,1,0,6.0,3,13,9,4,3,2,1,1,0,0,,0.0,0.0,0.018,0.24,0.01%,0.3,0.5
+MIN202405150,NYY,https://www.baseball-reference.com/boxes/MIN/MIN202405150.shtml,NewYorkYankeespitching,Team Totals,9,4,0,0,4,6,0,0.0,35,135,84,47,15,22,12,13,5,0,67.0,0.0,0.0,0.393,0.93,0.30%,1.17,4.5

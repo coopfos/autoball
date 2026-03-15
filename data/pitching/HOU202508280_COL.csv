@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202508280,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508280.shtml,ColoradoRockiespitching,Kyle Freeland,6,8,3,3,0,6,2,5.28,26,90,66,37,13,16,7,13,3,0,50.0,,,0.024,0.74,0.00%,0.0,0.0
+HOU202508280,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508280.shtml,ColoradoRockiespitching,Juan Mejia,1,0,0,0,1,1,0,3.86,4,16,10,4,3,3,1,1,0,0,,0.0,0.0,0.088,1.83,0.00%,0.0,0.5
+HOU202508280,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508280.shtml,ColoradoRockiespitching,"Luis Peralta, L (1-2)",1,1,1,1,1,0,1,7.07,4,13,7,5,1,1,2,1,0,0,,0.0,0.0,-0.23,0.86,0.00%,0.0,-0.5
+HOU202508280,COL,https://www.baseball-reference.com/boxes/HOU/HOU202508280.shtml,ColoradoRockiespitching,Team Totals,8,9,4,4,2,7,3,4.5,34,119,83,46,17,20,10,15,3,0,50.0,0.0,0.0,-0.118,0.88,0.00%,0.0,0.0

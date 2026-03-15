@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TBA202408110,BAL,https://www.baseball-reference.com/boxes/TBA/TBA202408110.shtml,BaltimoreOriolespitching,Albert Suárez,6.2,4,0,0,1,5,0,3.39,25,94,57,38,11,8,7,12,2,0,70.0,,,0.459,1.12,0.34%,1.38,3.3
+TBA202408110,BAL,https://www.baseball-reference.com/boxes/TBA/TBA202408110.shtml,BaltimoreOriolespitching,"Cionel Pérez, BS (1)",0.1,2,1,1,0,0,0,4.21,3,9,5,3,1,1,0,3,1,0,,0.0,0.0,-0.23,1.95,-0.17%,2.4,-0.9
+TBA202408110,BAL,https://www.baseball-reference.com/boxes/TBA/TBA202408110.shtml,BaltimoreOriolespitching,"Craig Kimbrel, L (6-4)",1.0,0,1,1,3,2,0,3.35,6,23,10,4,3,3,0,1,0,0,,0.0,0.0,-0.238,2.58,-0.18%,3.17,-0.5
+TBA202408110,BAL,https://www.baseball-reference.com/boxes/TBA/TBA202408110.shtml,BaltimoreOriolespitching,Team Totals,8.0,6,2,2,4,7,0,2.25,34,126,72,45,15,12,7,16,3,0,70.0,0.0,0.0,-0.009,1.53,-0.01%,1.88,1.8

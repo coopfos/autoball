@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202407100,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407100.shtml,NewYorkMetspitching,"Luis Severino, W (6-3)",6.1,4,2,2,3,4,0,3.78,27,92,54,28,8,18,8,10,4,0,58.0,,,0.035,1.0,0.02%,0.79,0.7
+NYN202407100,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407100.shtml,NewYorkMetspitching,"Jake Diekman, H (8)",0.2,0,0,0,0,2,0,4.94,2,11,7,3,3,1,0,0,0,0,,1.0,0.0,0.059,1.05,0.03%,0.84,0.7
+NYN202407100,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407100.shtml,NewYorkMetspitching,"Danny Young, H (2)",0.2,1,0,0,0,0,0,4.85,3,13,8,6,0,2,1,2,2,0,,0.0,0.0,0.02,0.53,0.01%,0.43,0.2
+NYN202407100,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407100.shtml,NewYorkMetspitching,"José Buttó, S (1)",1.1,0,0,0,0,2,0,2.72,4,15,11,5,1,5,2,0,0,0,,1.0,0.0,0.034,0.31,0.02%,0.25,0.8
+NYN202407100,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407100.shtml,NewYorkMetspitching,Team Totals,9.0,5,2,2,3,8,0,2.0,36,131,80,42,12,26,11,12,6,0,58.0,2.0,0.0,0.148,0.89,0.07%,0.71,2.3

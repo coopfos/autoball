@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+COL202409010,BAL,https://www.baseball-reference.com/boxes/COL/COL202409010.shtml,BaltimoreOriolespitching,"Zach Eflin, W (10-7)",7,4,1,1,1,9,0,3.6,25,85,63,35,16,12,8,7,5,0,73.0,,,0.263,0.59,0.21%,0.8,2.8
+COL202409010,BAL,https://www.baseball-reference.com/boxes/COL/COL202409010.shtml,BaltimoreOriolespitching,Matt Bowman,1,0,0,0,1,0,0,4.22,4,13,6,5,0,1,2,1,1,0,,0.0,0.0,0.017,0.23,0.01%,0.32,0.5
+COL202409010,BAL,https://www.baseball-reference.com/boxes/COL/COL202409010.shtml,BaltimoreOriolespitching,Gregory Soto,1,2,0,0,0,2,0,4.8,5,20,14,7,5,2,3,0,0,0,,0.0,0.0,0.009,0.43,0.01%,0.59,0.5
+COL202409010,BAL,https://www.baseball-reference.com/boxes/COL/COL202409010.shtml,BaltimoreOriolespitching,Team Totals,9,6,1,1,2,11,0,1.0,34,118,83,47,21,15,13,8,6,0,73.0,0.0,0.0,0.289,0.52,0.24%,0.71,3.9

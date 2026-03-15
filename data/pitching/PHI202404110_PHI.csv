@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202404110,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PhiladelphiaPhilliespitching,"Ranger Suárez, W (2-0)",6,2,0,0,2,8,0,2.65,22,97,62,33,10,19,7,5,3,0,74.0,,,0.363,0.98,0.21%,0.95,3.0
+PHI202404110,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PhiladelphiaPhilliespitching,"Yunior Marte, H (1)",1,1,0,0,0,3,0,0.0,4,23,15,8,2,5,0,1,1,0,,0.0,0.0,0.096,1.35,0.06%,1.31,0.5
+PHI202404110,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PhiladelphiaPhilliespitching,Nick Nelson,2,4,1,1,0,3,0,5.4,10,33,22,14,2,6,3,4,1,0,,0.0,0.0,0.018,0.24,0.01%,0.23,0.0
+PHI202404110,PHI,https://www.baseball-reference.com/boxes/PHI/PHI202404110.shtml,PhiladelphiaPhilliespitching,Team Totals,9,7,1,1,2,14,0,1.0,36,153,99,55,14,30,10,10,5,0,74.0,0.0,0.0,0.477,0.82,0.28%,0.79,3.5

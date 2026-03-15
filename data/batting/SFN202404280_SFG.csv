@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.269,0.333,0.356,0.689,11.0,9.0,-0.005,0.89,0.061,-0.066,-0.00%,0.75,-0.2,0.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,LaMonte Wade Jr. 1B,2.0,0.0,0.0,1.0,1.0,2.0,4.0,0.339,0.449,0.452,0.9,24.0,13.0,-0.007,0.62,0.024,-0.031,-0.00%,0.53,-0.6,11.0,2.0,SF
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.221,0.267,0.389,0.656,15.0,10.0,-0.049,0.59,0.016,-0.065,-0.03%,0.5,-0.5,1.0,2.0,GDP
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Michael Conforto LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.267,0.306,0.467,0.773,16.0,11.0,-0.048,0.57,0.0,-0.048,-0.02%,0.48,-0.8,1.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.296,0.358,0.493,0.851,7.0,5.0,-0.05,0.62,0.0,-0.05,-0.03%,0.52,-0.8,7.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Jorge Soler DH,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.216,0.314,0.402,0.716,21.0,15.0,-0.03,0.39,0.0,-0.03,-0.01%,0.33,-0.5,0.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Thairo Estrada 2B,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.235,0.255,0.422,0.676,12.0,8.0,0.107,0.52,0.121,-0.014,0.05%,0.44,0.7,0.0,3.0,HR
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.236,0.311,0.345,0.657,12.0,7.0,0.1,0.37,0.105,-0.005,0.05%,0.31,1.0,3.0,0.0,HR
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Tyler Fitzgerald SS,3.0,1.0,3.0,0.0,0.0,0.0,3.0,0.313,0.353,0.563,0.915,14.0,9.0,0.045,0.55,0.059,-0.014,0.02%,0.47,0.9,3.0,7.0,"2B,CS"
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Keaton Winn P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Erik Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Ryan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202404280,SFG,https://www.baseball-reference.com/boxes/SFN/SFN202404280.shtml,SanFranciscoGiantsbatting,Team Totals,29.0,3.0,8.0,3.0,1.0,8.0,31.0,0.276,0.29,0.517,0.808,132.0,87.0,0.063,0.57,0.386,-0.323,0.03%,0.49,-0.8,27.0,14.0,

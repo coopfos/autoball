@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+OAK202409030,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202409030.shtml,OaklandAthleticspitching,J.T. Ginn,6,5,2,2,1,7,0,4.3,22,88,55,33,10,12,7,7,2,0,60.0,,,0.113,0.92,0.00%,0.0,0.8
+OAK202409030,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202409030.shtml,OaklandAthleticspitching,"Hogan Harris, W (3-3)",3,0,0,0,2,3,0,2.73,10,37,22,8,5,9,2,3,1,0,,0.0,0.0,0.317,1.81,0.00%,0.0,1.4
+OAK202409030,OAK,https://www.baseball-reference.com/boxes/OAK/OAK202409030.shtml,OaklandAthleticspitching,Team Totals,9,5,2,2,3,10,0,2.0,32,125,77,41,15,21,9,10,3,0,60.0,0.0,0.0,0.43,1.2,0.00%,0.0,2.2

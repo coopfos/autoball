@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202405200,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,ArizonaDiamondbackspitching,Joe Mantiply,1,0,0,0,0,0,0,4.42,3,7,6,5,0,1,2,1,1,0,53.0,,,0.047,0.88,0.02%,0.74,0.5
+LAN202405200,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,ArizonaDiamondbackspitching,"Slade Cecconi, L (1-4)",5,6,6,6,1,2,3,6.12,22,80,50,34,6,10,7,12,2,0,,0.0,0.0,-0.428,0.6,-0.22%,0.5,-3.6
+LAN202405200,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,ArizonaDiamondbackspitching,Bryce Jarvis,2,2,0,0,1,0,0,4.21,8,32,21,16,1,4,2,5,3,0,,0.0,0.0,0.019,0.25,0.01%,0.21,1.0
+LAN202405200,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202405200.shtml,ArizonaDiamondbackspitching,Team Totals,8,8,6,6,2,2,3,6.75,33,119,77,55,7,15,11,18,6,0,53.0,0.0,0.0,-0.362,0.54,-0.18%,0.45,-2.2

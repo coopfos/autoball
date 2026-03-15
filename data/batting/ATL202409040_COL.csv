@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Charlie Blackmon DH,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.25,0.322,0.393,0.716,22.0,14.0,0.067,0.92,0.111,-0.044,0%,0.0,0.9,0.0,0.0,2B
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.268,0.293,0.462,0.755,18.0,13.0,-0.093,0.91,0.0,-0.093,0%,0.0,-1.0,2.0,3.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.271,0.332,0.472,0.804,19.0,13.0,-0.06,0.87,0.016,-0.076,0%,0.0,-0.7,5.0,0.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.247,0.333,0.402,0.735,12.0,6.0,0.005,0.75,0.047,-0.042,0%,0.0,0.1,1.0,2.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.276,0.318,0.42,0.738,18.0,12.0,-0.111,1.1,0.0,-0.111,0%,0.0,-1.1,1.0,1.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Michael Toglia 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.215,0.303,0.461,0.764,19.0,11.0,-0.025,0.79,0.036,-0.061,0%,0.0,-0.5,8.0,0.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Nolan Jones LF,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.213,0.313,0.319,0.631,16.0,9.0,-0.058,0.89,0.019,-0.077,0%,0.0,-0.4,1.0,0.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Sam Hilliard RF,2.0,1.0,1.0,1.0,2.0,1.0,4.0,0.253,0.314,0.484,0.797,17.0,8.0,0.079,0.7,0.136,-0.057,0%,0.0,1.4,0.0,0.0,"3B,CS"
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Drew Romo C,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.179,0.22,0.256,0.476,11.0,10.0,-0.105,1.14,0.0,-0.105,0%,0.0,-1.1,6.0,1.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Jake Cave PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.261,0.299,0.407,0.706,5.0,3.0,-0.013,0.45,0.0,-0.013,0%,0.0,-0.3,0.0,0.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Bradley Blalock P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Jake Bird P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Luis Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Seth Halvorsen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202409040,COL,https://www.baseball-reference.com/boxes/ATL/ATL202409040.shtml,ColoradoRockiesbatting,Team Totals,31.0,2.0,5.0,2.0,5.0,16.0,36.0,0.161,0.278,0.258,0.536,157.0,99.0,-0.314,0.87,0.365,-0.679,0.00%,0.0,-2.6,24.0,8.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,0.0,1.0,0.0,2.0,1.0,5.0,0.249,0.321,0.446,0.766,24.0,14.0,-0.007,0.33,0.024,-0.031,-0.00%,0.29,0.3,0.0,3.0,SB
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Brandon Nimmo LF,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.251,0.362,0.462,0.825,20.0,15.0,-0.033,0.44,0.014,-0.047,-0.02%,0.39,-0.2,3.0,0.0,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,J.D. Martinez DH,3.0,0.0,0.0,0.0,0.0,3.0,4.0,0.27,0.357,0.468,0.825,17.0,13.0,-0.024,0.43,0.012,-0.036,-0.01%,0.38,-0.9,0.0,0.0,HBP
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Pete Alonso 1B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.241,0.321,0.451,0.772,15.0,8.0,-0.022,0.49,0.016,-0.038,-0.01%,0.43,0.1,8.0,0.0,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.299,0.37,0.489,0.859,14.0,9.0,-0.025,0.52,0.021,-0.046,-0.01%,0.46,-0.9,11.0,0.0,2B
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Mark Vientos 3B,3.0,1.0,2.0,2.0,1.0,0.0,4.0,0.299,0.353,0.569,0.922,16.0,10.0,0.191,0.67,0.211,-0.02,0.10%,0.59,1.6,0.0,1.0,"HR,2B"
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Tyrone Taylor PR-RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.227,0.269,0.395,0.664,,,-0.006,0.2,0.0,-0.006,-0.00%,0.18,-0.6,0.0,0.0,CS
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Jose Iglesias 2B-3B,4.0,2.0,2.0,2.0,0.0,1.0,4.0,0.347,0.38,0.56,0.94,21.0,15.0,0.118,0.46,0.143,-0.025,0.06%,0.4,1.5,1.0,2.0,2·HR
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Jeff McNeil RF-2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.215,0.274,0.308,0.582,10.0,9.0,0.002,0.35,0.023,-0.021,0.00%,0.31,-0.1,2.0,0.0,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Harrison Bader CF,4.0,2.0,2.0,3.0,0.0,0.0,4.0,0.278,0.318,0.429,0.746,14.0,10.0,0.203,0.49,0.218,-0.015,0.11%,0.43,2.2,2.0,0.0,2·HR
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Sean Manaea P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Jake Diekman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Phil Maton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407120,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407120.shtml,NewYorkMetsbatting,Team Totals,33.0,7.0,10.0,7.0,4.0,7.0,38.0,0.303,0.395,0.818,1.213,151.0,103.0,0.397,0.45,0.682,-0.285,0.21%,0.4,3.2,27.0,7.0,

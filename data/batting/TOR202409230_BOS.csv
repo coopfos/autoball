@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Jarren Duran LF,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.286,0.344,0.498,0.841,20.0,13.0,-0.042,0.53,0.027,-0.069,-0.00%,0.05,-0.6,4.0,0.0,"3B,2B"
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Trevor Story SS,3.0,0.0,0.0,0.0,2.0,2.0,5.0,0.25,0.326,0.375,0.701,25.0,13.0,-0.054,0.82,0.045,-0.098,-0.00%,0.08,-0.8,2.0,7.0,SB
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Triston Casas 1B,2.0,1.0,0.0,0.0,3.0,1.0,5.0,0.238,0.338,0.461,0.799,27.0,9.0,0.04,0.49,0.05,-0.009,0.00%,0.05,0.4,14.0,1.0,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Tyler O'Neill DH,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.243,0.338,0.517,0.855,17.0,8.0,-0.026,0.64,0.019,-0.045,-0.00%,0.06,-0.5,0.0,0.0,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Wilyer Abreu RF,3.0,1.0,2.0,1.0,1.0,0.0,4.0,0.259,0.325,0.472,0.796,13.0,6.0,0.184,0.83,0.189,-0.004,0.01%,0.08,2.1,2.0,0.0,2B
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Connor Wong C,2.0,1.0,0.0,0.0,2.0,0.0,4.0,0.283,0.338,0.431,0.769,23.0,12.0,0.043,0.94,0.088,-0.045,0.00%,0.09,1.0,1.0,0.0,SB
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Nick Sogard 3B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.277,0.333,0.338,0.672,17.0,11.0,-0.021,1.04,0.078,-0.099,-0.00%,0.1,-0.6,1.0,2.0,"2B,GDP"
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Vaughn Grissom 2B,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.146,0.198,0.157,0.355,11.0,9.0,-0.033,0.94,0.013,-0.046,-0.00%,0.09,-0.9,0.0,5.0,SF
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,4.0,0.0,0.0,2.0,0.0,0.0,4.0,0.245,0.274,0.391,0.665,11.0,9.0,0.002,0.58,0.034,-0.032,0%,0.05,-0.4,1.0,0.0,CS
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Tanner Houck P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Greg Weissert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Zach Penrod P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Luis Guerrero P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Chris Martin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409230,BOS,https://www.baseball-reference.com/boxes/TOR/TOR202409230.shtml,BostonRedSoxbatting,Team Totals,28.0,4.0,5.0,4.0,10.0,4.0,39.0,0.179,0.385,0.357,0.742,164.0,90.0,0.093,0.75,0.543,-0.447,0.01%,0.07,-0.4,27.0,17.0,

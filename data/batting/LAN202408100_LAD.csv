@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.3,0.388,0.617,1.005,13.0,9.0,-0.057,0.67,0.001,-0.058,-0.05%,0.93,-0.4,0.0,0.0,IW
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,4.0,3.0,3.0,1.0,0.0,1.0,4.0,0.273,0.337,0.51,0.847,13.0,9.0,0.118,0.57,0.124,-0.006,0.10%,0.79,1.0,1.0,0.0,"HR,2B"
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.289,0.393,0.497,0.89,9.0,7.0,-0.069,0.83,0.0,-0.069,-0.06%,1.16,-1.5,8.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,4.0,0.0,2.0,3.0,0.0,1.0,4.0,0.245,0.305,0.362,0.667,10.0,8.0,0.246,0.86,0.257,-0.012,0.21%,1.2,1.7,1.0,4.0,2B
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Jason Heyward RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.205,0.289,0.38,0.669,20.0,13.0,-0.043,0.39,0.0,-0.043,-0.04%,0.54,-0.9,2.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.207,0.275,0.33,0.605,13.0,6.0,-0.028,0.31,0.002,-0.03,-0.02%,0.43,-0.5,3.0,1.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Austin Barnes C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.259,0.333,0.306,0.639,18.0,12.0,-0.026,0.26,0.0,-0.026,-0.02%,0.36,-0.6,9.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Kevin Kiermaier CF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.19,0.236,0.299,0.534,19.0,11.0,-0.007,0.21,0.008,-0.014,-0.01%,0.3,0.4,3.0,0.0,SB
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Nick Ahmed SS,3.0,1.0,2.0,0.0,0.0,1.0,3.0,0.241,0.281,0.313,0.594,15.0,10.0,0.031,0.44,0.039,-0.009,0.03%,0.61,1.0,0.0,1.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,River Ryan P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Evan Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Michael Grove P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Daniel Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202408100,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,LosAngelesDodgersbatting,Team Totals,32.0,4.0,8.0,4.0,2.0,12.0,34.0,0.25,0.294,0.406,0.7,130.0,85.0,0.165,0.51,0.431,-0.267,0.14%,0.7,0.2,27.0,8.0,

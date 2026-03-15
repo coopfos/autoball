@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,4.0,0.0,0.0,1.0,0.0,1.0,5.0,0.292,0.348,0.397,0.745,19.0,13.0,-0.104,1.16,0.0,-0.104,-0.08%,1.5,-1.0,1.0,0.0,SF
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,William Contreras C,5.0,0.0,2.0,1.0,0.0,1.0,5.0,0.238,0.352,0.342,0.694,18.0,12.0,0.014,1.15,0.119,-0.105,0.01%,1.49,0.3,9.0,0.0,2B
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.26,0.337,0.457,0.794,19.0,13.0,-0.007,0.92,0.068,-0.075,-0.01%,1.18,-0.5,0.0,0.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Jackson Chourio CF,3.0,1.0,1.0,1.0,0.0,1.0,4.0,0.254,0.289,0.446,0.735,15.0,9.0,0.25,1.3,0.283,-0.034,0.19%,1.68,1.3,3.0,0.0,"2B,HBP"
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.283,0.356,0.374,0.73,12.0,6.0,-0.136,1.22,0.0,-0.136,-0.10%,1.57,-1.2,2.0,2.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Isaac Collins LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.263,0.368,0.409,0.778,14.0,11.0,-0.03,1.03,0.043,-0.072,-0.02%,1.32,-0.2,2.0,0.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Jake Bauers 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.207,0.331,0.387,0.718,23.0,15.0,-0.09,1.34,0.007,-0.097,-0.07%,1.73,-0.7,6.0,1.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Caleb Durbin 3B,3.0,2.0,2.0,1.0,1.0,1.0,4.0,0.257,0.341,0.364,0.706,14.0,8.0,0.27,1.75,0.315,-0.045,0.21%,2.25,2.0,2.0,1.0,2·SB
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Joey Ortiz SS,3.0,1.0,1.0,2.0,1.0,2.0,4.0,0.211,0.272,0.309,0.581,16.0,12.0,0.135,1.62,0.209,-0.074,0.10%,2.08,1.4,1.0,2.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Quinn Priester P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Aaron Ashby P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Abner Uribe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Trevor Megill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202507040,MIL,https://www.baseball-reference.com/boxes/MIA/MIA202507040.shtml,MilwaukeeBrewersbatting,Team Totals,34.0,6.0,8.0,6.0,3.0,10.0,39.0,0.235,0.308,0.294,0.602,150.0,99.0,0.302,1.3,1.044,-0.742,0.23%,1.67,1.3,27.0,7.0,

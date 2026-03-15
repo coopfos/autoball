@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202508180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202508180.shtml,BostonRedSoxpitching,"Dustin May, L (7-9)",6,8,2,2,2,5,1,4.59,27,100,68,40,9,19,8,12,3,0,51.0,,,0.04,0.87,0.03%,1.12,1.0
+BOS202508180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202508180.shtml,BostonRedSoxpitching,Jovani Morán,2,2,2,2,2,3,0,6.75,10,46,26,13,7,6,3,2,1,0,,0.0,0.0,-0.097,0.45,-0.07%,0.58,-1.0
+BOS202508180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202508180.shtml,BostonRedSoxpitching,Jordan Hicks,1,2,2,2,0,2,0,6.61,6,27,18,12,1,5,0,3,2,0,,0.0,0.0,-0.025,0.19,-0.02%,0.24,-1.5
+BOS202508180,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202508180.shtml,BostonRedSoxpitching,Team Totals,9,12,6,6,4,10,1,6.0,43,173,112,65,17,30,11,17,6,0,51.0,0.0,0.0,-0.082,0.67,-0.06%,0.86,-1.5

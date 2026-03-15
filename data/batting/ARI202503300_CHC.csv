@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,1.0,1.0,0.0,1.0,3.0,5.0,0.208,0.345,0.375,0.72,25.0,16.0,0.037,0.86,0.087,-0.05,0.02%,0.78,0.2,4.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Seiya Suzuki DH,4.0,2.0,2.0,2.0,1.0,1.0,5.0,0.16,0.222,0.32,0.542,21.0,12.0,0.173,0.88,0.197,-0.025,0.09%,0.79,1.6,0.0,0.0,HR
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Kyle Tucker RF,4.0,1.0,1.0,3.0,1.0,2.0,5.0,0.25,0.357,0.583,0.94,22.0,10.0,0.131,0.97,0.181,-0.051,0.07%,0.88,1.5,3.0,0.0,HR
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Justin Turner 1B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.4,0.0,0.4,16.0,7.0,0.023,0.86,0.054,-0.031,0.01%,0.77,0.2,3.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Michael Busch PH-1B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.222,0.333,0.222,0.556,5.0,3.0,-0.003,0.11,0.0,-0.003,-0.00%,0.1,-0.2,1.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.227,0.292,0.409,0.701,14.0,8.0,-0.001,0.75,0.106,-0.107,0%,0.68,-0.1,0.0,1.0,"HR,GDP"
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.25,0.308,0.25,0.558,11.0,10.0,-0.073,0.73,0.003,-0.076,-0.04%,0.66,-0.6,2.0,2.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.091,0.167,0.136,0.303,12.0,8.0,-0.058,0.56,0.0,-0.058,-0.03%,0.51,-1.0,4.0,1.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Matt Shaw 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.174,0.208,0.348,0.556,13.0,8.0,-0.015,0.44,0.021,-0.036,-0.01%,0.4,0.2,0.0,0.0,2B
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Miguel Amaya C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.313,0.313,0.563,0.875,21.0,15.0,-0.019,0.75,0.034,-0.053,-0.01%,0.68,-0.4,7.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Matthew Boyd P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Nate Pearson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Eli Morgan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Colin Rea P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202503300,CHC,https://www.baseball-reference.com/boxes/ARI/ARI202503300.shtml,ChicagoCubsbatting,Team Totals,35.0,6.0,9.0,6.0,4.0,10.0,39.0,0.257,0.333,0.543,0.876,160.0,97.0,0.195,0.75,0.683,-0.49,0.11%,0.68,1.4,24.0,5.0,

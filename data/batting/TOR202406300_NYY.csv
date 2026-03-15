@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Anthony Volpe SS,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.261,0.315,0.389,0.705,27.0,19.0,-0.071,0.5,0.0,-0.071,-0.04%,0.51,-1.6,1.0,3.0,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Juan Soto RF,3.0,1.0,1.0,1.0,2.0,0.0,5.0,0.303,0.437,0.568,1.005,22.0,11.0,0.076,0.5,0.081,-0.005,0.05%,0.51,0.8,1.0,0.0,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Aaron Judge DH,4.0,1.0,2.0,2.0,0.0,2.0,5.0,0.316,0.436,0.708,1.144,17.0,10.0,0.151,0.55,0.185,-0.034,0.09%,0.56,1.2,0.0,0.0,"HR,HBP"
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Alex Verdugo LF,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.244,0.301,0.393,0.694,11.0,7.0,-0.062,0.54,0.004,-0.066,-0.04%,0.55,-1.2,2.0,0.0,2B
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.226,0.3,0.352,0.652,18.0,11.0,0.032,0.26,0.044,-0.012,0.02%,0.26,0.3,2.0,3.0,2B
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Ben Rice 1B,3.0,2.0,1.0,1.0,2.0,0.0,5.0,0.273,0.375,0.333,0.708,22.0,13.0,0.047,0.41,0.065,-0.018,0.03%,0.41,1.3,6.0,1.0,2B
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,1.0,1.0,0.0,1.0,2.0,5.0,0.214,0.307,0.343,0.65,23.0,15.0,-0.001,0.51,0.041,-0.042,-0.00%,0.52,-0.4,10.0,0.0,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,DJ LeMahieu 3B,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.188,0.286,0.212,0.497,15.0,10.0,0.12,0.58,0.135,-0.015,0.07%,0.59,1.7,1.0,1.0,2B
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Trent Grisham CF,5.0,0.0,2.0,2.0,0.0,2.0,5.0,0.154,0.28,0.359,0.639,23.0,14.0,0.063,0.41,0.076,-0.013,0.04%,0.42,1.5,3.0,0.0,2B
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Gerrit Cole P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Michael Tonkin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Josh Maciejewski P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202406300,NYY,https://www.baseball-reference.com/boxes/TOR/TOR202406300.shtml,NewYorkYankeesbatting,Team Totals,39.0,8.0,12.0,8.0,5.0,11.0,45.0,0.308,0.4,0.513,0.913,178.0,110.0,0.355,0.47,0.631,-0.276,0.21%,0.48,3.6,27.0,8.0,

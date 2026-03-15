@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202509090,ARI,https://www.baseball-reference.com/boxes/SFN/SFN202509090.shtml,ArizonaDiamondbackspitching,"Zac Gallen, L (11-14)",6.2,5,5,5,3,3,2,4.84,27,103,61,38,11,12,11,10,4,0,44.0,,,-0.242,0.5,-0.06%,0.21,-1.9
+SFN202509090,ARI,https://www.baseball-reference.com/boxes/SFN/SFN202509090.shtml,ArizonaDiamondbackspitching,John Curtiss,1.1,0,0,0,0,2,0,3.26,4,22,15,7,4,4,0,2,0,0,,1.0,0.0,0.024,0.22,0.01%,0.09,0.7
+SFN202509090,ARI,https://www.baseball-reference.com/boxes/SFN/SFN202509090.shtml,ArizonaDiamondbackspitching,Team Totals,8.0,5,5,5,3,5,2,5.62,31,125,76,45,15,16,11,12,4,0,44.0,1.0,0.0,-0.218,0.46,-0.05%,0.19,-1.2

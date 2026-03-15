@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.247,0.32,0.543,0.863,18.0,11.0,0.036,0.68,0.076,-0.04,0.01%,0.14,-0.0,1.0,0.0,2B
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.287,0.39,0.545,0.935,17.0,11.0,-0.046,0.65,0.0,-0.046,-0.01%,0.14,-0.6,2.0,3.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,4.0,1.0,3.0,2.0,0.0,0.0,4.0,0.276,0.374,0.425,0.8,11.0,7.0,0.056,0.62,0.083,-0.027,0.01%,0.13,1.2,1.0,2.0,"HR,CS"
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.248,0.32,0.576,0.897,13.0,8.0,-0.06,0.63,0.001,-0.062,-0.01%,0.13,-0.5,0.0,0.0,2B
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.245,0.293,0.399,0.693,15.0,11.0,-0.048,0.44,0.0,-0.048,-0.01%,0.09,-0.8,1.0,0.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Adrian Del Castillo C,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.25,0.273,0.281,0.554,17.0,10.0,-0.035,0.6,0.007,-0.042,-0.00%,0.12,0.0,10.0,0.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Tristin English 1B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.091,0.13,0.136,0.267,14.0,11.0,-0.034,0.72,0.014,-0.047,-0.00%,0.15,0.2,5.0,0.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Blaze Alexander 3B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.2,0.273,0.28,0.553,14.0,9.0,-0.057,0.62,0.0,-0.057,-0.01%,0.13,-1.4,0.0,1.0,GDP
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Jorge Barrosa CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.143,0.136,0.238,0.374,12.0,8.0,-0.039,0.5,0.0,-0.039,-0.01%,0.1,-0.7,4.0,0.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Ryne Nelson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Kyle Backhus P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Andrew Saalfrank P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202507300,ARI,https://www.baseball-reference.com/boxes/DET/DET202507300.shtml,ArizonaDiamondbacksbatting,Team Totals,31.0,2.0,6.0,2.0,1.0,6.0,32.0,0.194,0.219,0.355,0.574,131.0,86.0,-0.227,0.6,0.181,-0.408,-0.03%,0.12,-2.6,24.0,6.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.284,0.37,0.565,0.934,23.0,12.0,-0.06,0.41,0.011,-0.07,-0.04%,0.51,-0.8,2.0,2.0,CS
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,5.0,1.0,0.0,0.0,0.0,0.0,5.0,0.266,0.312,0.484,0.796,17.0,13.0,-0.047,0.36,0.0,-0.047,-0.03%,0.44,-1.1,1.0,3.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Anthony Santander RF,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.245,0.307,0.524,0.832,15.0,11.0,0.21,1.02,0.23,-0.019,0.16%,1.27,1.0,1.0,0.0,HR
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Cedric Mullins PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.214,0.259,0.375,0.634,,,0.066,4.56,0.066,0.0,0.05%,5.66,0.2,0.0,0.0,SB
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Ryan O'Hearn DH,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.274,0.344,0.458,0.803,22.0,9.0,-0.147,1.09,0.01,-0.157,-0.11%,1.35,-1.0,0.0,0.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,5.0,1.0,3.0,1.0,0.0,2.0,5.0,0.271,0.31,0.441,0.751,21.0,13.0,-0.02,1.78,0.018,-0.037,-0.01%,2.21,-0.4,10.0,2.0,2B
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Colton Cowser CF-RF,3.0,2.0,1.0,3.0,1.0,2.0,4.0,0.232,0.321,0.446,0.766,17.0,8.0,0.204,0.54,0.21,-0.006,0.15%,0.67,2.3,0.0,0.0,HR
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Austin Hays LF,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.255,0.316,0.395,0.711,12.0,8.0,0.037,0.35,0.041,-0.004,0.03%,0.43,0.9,2.0,0.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Connor Norby 2B,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.278,0.278,0.611,0.889,17.0,13.0,-0.009,0.63,0.039,-0.048,-0.01%,0.78,0.6,1.0,4.0,"HR,GDP"
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,James McCann C,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.212,0.253,0.321,0.575,10.0,9.0,0.067,0.52,0.093,-0.026,0.05%,0.65,-0.8,11.0,0.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Corbin Burnes P,,,,,,,,,,,,,,,,,,,,,2.0,1.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Jacob Webb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Craig Kimbrel P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Cionel Pérez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202407250,BAL,https://www.baseball-reference.com/boxes/MIA/MIA202407250.shtml,BaltimoreOriolesbatting,Team Totals,39.0,7.0,12.0,7.0,2.0,6.0,41.0,0.308,0.341,0.564,0.906,154.0,96.0,0.301,0.75,0.718,-0.414,0.23%,0.93,1.0,30.0,12.0,

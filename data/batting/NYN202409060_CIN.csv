@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Jonathan India 2B,2.0,1.0,0.0,0.0,1.0,1.0,4.0,0.248,0.352,0.396,0.749,20.0,9.0,0.035,0.96,0.081,-0.046,0%,0.01,0.3,2.0,2.0,HBP
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.263,0.344,0.481,0.825,14.0,10.0,0.044,1.62,0.194,-0.15,0%,0.01,0.7,0.0,3.0,"HR,GDP"
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Tyler Stephenson C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.263,0.339,0.463,0.802,21.0,13.0,-0.113,1.14,0.0,-0.113,-0.00%,0.01,-0.7,10.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Spencer Steer LF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.235,0.326,0.414,0.741,18.0,11.0,0.044,1.13,0.096,-0.052,0%,0.01,0.5,0.0,0.0,SB
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Ty France 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.244,0.323,0.384,0.707,22.0,15.0,-0.206,1.97,0.0,-0.206,-0.00%,0.01,-1.2,8.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,TJ Friedl CF,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.217,0.301,0.387,0.688,13.0,9.0,0.112,1.82,0.285,-0.173,0.00%,0.01,0.7,5.0,0.0,"HR,GDP"
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Santiago Espinal 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.262,0.309,0.391,0.701,17.0,13.0,-0.174,1.7,0.0,-0.174,-0.00%,0.01,-0.8,0.0,3.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Amed Rosario DH,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.291,0.318,0.396,0.714,10.0,9.0,-0.077,1.02,0.0,-0.077,0%,0.01,-0.5,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Jake Fraley RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.272,0.326,0.379,0.705,6.0,5.0,-0.078,1.04,0.0,-0.078,-0.00%,0.01,-0.5,2.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Brandon Williamson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Buck Farmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Emilio Pagán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Tony Santillan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Alexis Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Justin Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202409060,CIN,https://www.baseball-reference.com/boxes/NYN/NYN202409060.shtml,CincinnatiRedsbatting,Team Totals,31.0,4.0,3.0,4.0,2.0,15.0,34.0,0.097,0.176,0.29,0.467,141.0,94.0,-0.413,1.39,0.656,-1.069,-0.00%,0.01,-1.4,27.0,8.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,5.0,2.0,2.0,0.0,0.0,0.0,5.0,0.268,0.372,0.435,0.807,11.0,8.0,0.08,0.62,0.107,-0.027,0.06%,0.78,0.7,0.0,0.0,2B
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Luis Arráez 1B,4.0,1.0,2.0,0.0,0.0,0.0,5.0,0.289,0.324,0.396,0.719,15.0,12.0,0.073,0.68,0.089,-0.017,0.06%,0.86,0.5,6.0,0.0,SH
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,1.0,2.0,3.0,0.0,0.0,4.0,0.294,0.354,0.486,0.84,23.0,16.0,0.182,0.86,0.198,-0.016,0.14%,1.08,2.2,0.0,0.0,"2B,SB"
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Ryan O'Hearn DH,2.0,1.0,0.0,0.0,1.0,2.0,4.0,0.279,0.375,0.468,0.843,19.0,9.0,-0.093,0.86,0.008,-0.101,-0.07%,1.08,-0.3,0.0,0.0,HBP
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Xander Bogaerts SS,3.0,0.0,1.0,2.0,0.0,0.0,4.0,0.264,0.333,0.392,0.725,15.0,11.0,0.025,0.93,0.046,-0.021,0.02%,1.17,0.6,1.0,5.0,SF
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Gavin Sheets LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.255,0.317,0.443,0.76,11.0,9.0,-0.063,0.72,0.0,-0.063,-0.05%,0.91,-1.1,1.0,0.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Bryce Johnson CF,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.314,0.364,0.392,0.756,2.0,2.0,0.011,0.16,0.011,0.0,0.01%,0.2,0.9,0.0,0.0,2B
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Ramón Laureano CF-LF,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.299,0.361,0.544,0.905,13.0,11.0,0.025,0.72,0.063,-0.038,0.02%,0.91,0.3,1.0,0.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.238,0.356,0.377,0.733,29.0,16.0,0.037,0.75,0.067,-0.031,0.03%,0.94,-0.6,7.0,3.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Freddy Fermin C,3.0,1.0,0.0,0.0,0.0,1.0,4.0,0.263,0.312,0.35,0.661,12.0,9.0,0.134,0.73,0.152,-0.018,0.10%,0.92,0.8,11.0,0.0,SH
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Dylan Cease P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Robert Suarez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202508210,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202508210.shtml,SanDiegoPadresbatting,Team Totals,32.0,8.0,10.0,6.0,2.0,7.0,38.0,0.312,0.361,0.406,0.767,150.0,103.0,0.411,0.74,0.741,-0.332,0.31%,0.94,3.8,27.0,9.0,

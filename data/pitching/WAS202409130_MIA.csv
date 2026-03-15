@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202409130,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409130.shtml,MiamiMarlinspitching,"Edward Cabrera, L (4-7)",6,1,2,0,1,9,0,4.55,22,100,65,36,15,14,9,2,1,0,74.0,,,0.048,0.81,0.00%,0.0,0.9
+WAS202409130,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409130.shtml,MiamiMarlinspitching,Anthony Veneziano,1,2,2,1,0,0,1,2.89,5,7,7,5,0,2,2,3,1,0,,0.0,0.0,-0.14,0.43,0.00%,0.0,-1.5
+WAS202409130,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409130.shtml,MiamiMarlinspitching,Michael Petersen,1,1,0,0,0,0,0,6.0,4,9,7,5,1,1,4,0,0,0,,0.0,0.0,0.006,0.13,0.00%,0.0,0.5
+WAS202409130,MIA,https://www.baseball-reference.com/boxes/WAS/WAS202409130.shtml,MiamiMarlinspitching,Team Totals,8,4,4,1,1,9,1,1.12,31,116,79,46,16,17,15,5,2,0,74.0,0.0,0.0,-0.086,0.65,0.00%,0.0,-0.1

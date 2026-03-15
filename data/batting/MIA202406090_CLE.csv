@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Steven Kwan LF,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.37,0.436,0.519,0.956,26.0,14.0,0.168,0.9,0.194,-0.026,0.10%,0.91,1.0,2.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Tyler Freeman CF,4.0,2.0,2.0,3.0,0.0,2.0,5.0,0.222,0.319,0.374,0.693,19.0,13.0,0.197,0.97,0.262,-0.065,0.12%,0.98,1.7,1.0,0.0,"HR,HBP"
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,José Ramírez 3B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.275,0.336,0.554,0.89,17.0,11.0,0.029,0.72,0.117,-0.088,0.02%,0.73,0.6,1.0,0.0,"2B,SB,GDP"
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Josh Naylor 1B,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.22,0.305,0.471,0.776,24.0,14.0,-0.063,0.8,0.036,-0.099,-0.04%,0.81,-0.8,9.0,1.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,David Fry C,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.333,0.459,0.587,1.046,15.0,9.0,0.045,1.16,0.154,-0.109,0.03%,1.17,-0.3,6.0,0.0,GDP
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Austin Hedges C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.158,0.204,0.362,,,,,,,,,,3.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Andrés Giménez 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.267,0.323,0.369,0.692,19.0,10.0,-0.063,0.79,0.013,-0.076,-0.04%,0.8,-0.6,1.0,5.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Gabriel Arias DH,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.215,0.25,0.339,0.589,10.0,6.0,0.027,1.03,0.104,-0.077,0.02%,1.04,0.4,0.0,0.0,HR
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Kyle Manzardo PH-DH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.23,0.266,0.365,0.631,5.0,3.0,0.008,0.12,0.008,0.0,0.01%,0.12,0.2,0.0,0.0,2B
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Daniel Schneemann RF,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.385,0.556,0.615,1.171,13.0,7.0,-0.06,1.05,0.012,-0.071,-0.04%,1.06,-0.4,2.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Will Brennan RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.233,0.293,0.36,0.653,7.0,5.0,-0.012,0.42,0.0,-0.012,-0.01%,0.43,-0.3,1.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Brayan Rocchio SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.214,0.313,0.286,0.599,14.0,9.0,-0.007,0.74,0.042,-0.049,-0.00%,0.75,-0.4,0.0,1.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Carlos Carrasco P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Tim Herrin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Nick Sandlin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Sam Hentges P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Hunter Gaddis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Emmanuel Clase P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202406090,CLE,https://www.baseball-reference.com/boxes/MIA/MIA202406090.shtml,ClevelandGuardiansbatting,Team Totals,35.0,6.0,10.0,6.0,4.0,10.0,40.0,0.286,0.375,0.514,0.889,169.0,101.0,0.269,0.86,0.942,-0.672,0.16%,0.87,1.1,27.0,9.0,

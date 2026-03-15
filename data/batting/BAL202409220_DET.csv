@@ -1,0 +1,22 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Parker Meadows CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.234,0.3,0.423,0.724,18.0,13.0,-0.067,0.66,0.0,-0.067,-0.09%,1.42,-0.7,5.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Kerry Carpenter RF,3.0,2.0,2.0,2.0,0.0,0.0,3.0,0.29,0.351,0.601,0.952,6.0,5.0,0.247,0.81,0.262,-0.015,0.32%,1.75,1.9,0.0,0.0,2·HR
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Justyn-Henry Malloy PH,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.207,0.295,0.374,0.668,3.0,1.0,0.032,0.84,0.032,0.0,0.04%,1.82,0.4,0.0,0.0,HBP
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Wenceel Pérez PR-RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.238,0.293,0.379,0.673,,,,,,,,,,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Matt Vierling LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.257,0.31,0.426,0.735,19.0,11.0,-0.012,0.75,0.037,-0.049,-0.01%,1.63,-0.2,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Riley Greene DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.262,0.351,0.485,0.835,20.0,14.0,-0.077,0.95,0.0,-0.077,-0.10%,2.06,-0.8,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Colt Keith 2B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.261,0.311,0.381,0.692,16.0,13.0,-0.091,0.9,0.0,-0.091,-0.12%,1.95,-0.9,0.0,4.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Spencer Torkelson 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.218,0.289,0.368,0.657,15.0,10.0,0.07,0.56,0.117,-0.047,0.09%,1.21,0.4,10.0,0.0,HR
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Jace Jung 3B,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.25,0.36,0.316,0.675,10.0,8.0,0.015,0.3,0.021,-0.006,0.02%,0.65,0.1,0.0,4.0,2B
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Andy Ibáñez PH-3B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.247,0.299,0.363,0.662,7.0,5.0,-0.023,0.92,0.0,-0.023,-0.03%,1.99,-0.2,0.0,1.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Zach McKinstry PH-3B,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.219,0.282,0.344,0.625,6.0,2.0,0.016,0.44,0.016,0.0,0.02%,0.95,0.2,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Trey Sweeney SS,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.247,0.29,0.43,0.72,13.0,9.0,0.067,0.75,0.103,-0.036,0.09%,1.62,0.5,1.0,1.0,2B
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Jake Rogers C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.197,0.255,0.355,0.61,12.0,7.0,-0.045,0.65,0.013,-0.057,-0.06%,1.4,-0.6,10.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Ty Madden P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Sean Guenther P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Brenan Hanifee P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Will Vest P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Jason Foley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202409220,DET,https://www.baseball-reference.com/boxes/BAL/BAL202409220.shtml,DetroitTigersbatting,Team Totals,32.0,4.0,5.0,4.0,3.0,11.0,36.0,0.156,0.25,0.5,0.75,145.0,98.0,0.132,0.72,0.601,-0.468,0.17%,1.57,-0.1,27.0,11.0,

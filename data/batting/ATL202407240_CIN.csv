@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Jonathan India 2B,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.271,0.374,0.415,0.789,21.0,11.0,-0.042,0.34,0.001,-0.043,0%,0.0,-0.6,1.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,5.0,3.0,3.0,1.0,0.0,1.0,5.0,0.262,0.353,0.496,0.849,16.0,13.0,0.148,0.52,0.154,-0.006,0%,0.0,1.0,0.0,3.0,"HR,2·SB"
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Jeimer Candelario DH,4.0,1.0,0.0,0.0,0.0,2.0,5.0,0.233,0.291,0.443,0.734,19.0,12.0,-0.05,0.55,0.005,-0.055,0%,0.0,-0.8,0.0,0.0,HBP
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Spencer Steer 1B,5.0,2.0,3.0,3.0,0.0,0.0,5.0,0.241,0.331,0.439,0.77,15.0,11.0,0.31,0.55,0.313,-0.004,0%,0.0,3.7,2.0,0.0,"3B,2·2B"
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Tyler Stephenson C,3.0,2.0,1.0,0.0,2.0,1.0,5.0,0.24,0.318,0.433,0.751,22.0,11.0,0.012,0.34,0.024,-0.012,0%,0.0,-0.0,14.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Jake Fraley LF,5.0,1.0,3.0,2.0,0.0,0.0,5.0,0.282,0.332,0.375,0.707,18.0,12.0,0.132,0.42,0.155,-0.024,0%,0.0,2.1,2.0,0.0,"HR,SB"
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Noelvi Marte 3B,5.0,0.0,1.0,2.0,0.0,2.0,5.0,0.181,0.216,0.289,0.505,18.0,13.0,0.118,0.44,0.133,-0.016,0%,0.0,0.6,3.0,1.0,2B
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Rece Hinds RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.316,0.35,0.868,1.218,10.0,8.0,-0.037,0.35,0.0,-0.037,0%,0.0,-1.0,2.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Will Benson CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.195,0.281,0.393,0.675,18.0,14.0,-0.029,0.31,0.002,-0.031,0%,0.0,-0.5,3.0,0.0,2B
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Frankie Montas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Sam Moll P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Lucas Sims P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Tony Santillan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Justin Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407240,CIN,https://www.baseball-reference.com/boxes/ATL/ATL202407240.shtml,CincinnatiRedsbatting,Team Totals,39.0,9.0,12.0,8.0,3.0,11.0,43.0,0.308,0.372,0.615,0.987,157.0,105.0,0.562,0.43,0.787,-0.228,0.00%,0.0,4.4,27.0,4.0,

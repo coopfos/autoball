@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Charlie Blackmon RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.259,0.332,0.412,0.744,12.0,9.0,-0.107,1.14,0.021,-0.129,0%,0.0,-1.0,1.0,0.0,CS
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Sam Hilliard LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.217,0.296,0.435,0.731,,,,,,,,,,0.0,0.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.29,0.314,0.491,0.805,15.0,10.0,-0.074,1.15,0.024,-0.098,0%,0.0,-0.5,2.0,4.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.272,0.334,0.479,0.813,17.0,10.0,0.206,1.01,0.274,-0.068,0%,0.0,0.3,2.0,0.0,HR
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.262,0.349,0.442,0.791,21.0,12.0,0.086,0.8,0.113,-0.027,0%,0.0,0.6,0.0,2.0,2B
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Kris Bryant DH,3.0,0.0,1.0,1.0,0.0,1.0,4.0,0.194,0.307,0.278,0.585,14.0,10.0,0.025,1.2,0.112,-0.086,0%,0.0,0.5,0.0,0.0,HBP
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.263,0.309,0.382,0.691,15.0,11.0,-0.09,1.23,0.025,-0.114,0%,0.0,-0.8,1.0,1.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Michael Toglia 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.207,0.271,0.493,0.764,15.0,12.0,-0.118,1.13,0.0,-0.118,0%,0.0,-1.1,10.0,1.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Elias Díaz C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.275,0.322,0.388,0.71,16.0,10.0,-0.036,0.86,0.038,-0.075,0%,0.0,-0.2,8.0,1.0,2B
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Jake Cave LF-RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.251,0.298,0.36,0.658,23.0,16.0,-0.032,0.9,0.037,-0.069,0%,0.0,-0.2,3.0,0.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Kyle Freeland P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407310,COL,https://www.baseball-reference.com/boxes/ANA/ANA202407310.shtml,ColoradoRockiesbatting,Team Totals,34.0,2.0,8.0,2.0,1.0,11.0,36.0,0.235,0.278,0.382,0.66,148.0,100.0,-0.14,1.05,0.644,-0.784,0.00%,0.0,-2.4,27.0,10.0,

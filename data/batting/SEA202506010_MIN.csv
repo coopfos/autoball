@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Trevor Larnach RF,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.257,0.322,0.416,0.738,15.0,9.0,-0.057,1.44,0.044,-0.101,-0.04%,1.64,-0.2,1.0,0.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.248,0.339,0.379,0.718,13.0,9.0,-0.142,1.49,0.0,-0.142,-0.10%,1.71,-0.9,10.0,1.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Matt Wallner DH,2.0,0.0,1.0,0.0,1.0,0.0,4.0,0.27,0.395,0.508,0.903,17.0,8.0,0.057,1.17,0.09,-0.033,0.04%,1.33,0.4,0.0,0.0,HBP
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.247,0.289,0.388,0.677,22.0,14.0,-0.202,2.0,0.0,-0.202,-0.14%,2.28,-1.2,1.0,1.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Willi Castro LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.246,0.329,0.408,0.736,16.0,10.0,-0.133,1.35,0.0,-0.133,-0.09%,1.55,-0.7,1.0,0.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Kody Clemens 2B,2.0,1.0,0.0,0.0,2.0,0.0,4.0,0.243,0.341,0.541,0.882,23.0,11.0,0.201,2.01,0.28,-0.08,0.14%,2.29,0.4,0.0,3.0,CS
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Ty France 1B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.261,0.326,0.36,0.685,12.0,8.0,0.062,1.69,0.122,-0.06,0.04%,1.93,0.1,7.0,0.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Jonah Bride PR-1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.185,0.255,0.207,0.461,,,,,,,,,,0.0,0.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Harrison Bader CF,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.271,0.358,0.429,0.787,24.0,14.0,-0.021,1.96,0.05,-0.071,-0.01%,2.23,-0.5,3.0,0.0,SF
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.127,0.195,0.197,0.392,8.0,5.0,-0.044,0.92,0.0,-0.044,-0.03%,1.05,-0.3,2.0,0.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Brooks Lee PH-3B,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.237,0.276,0.342,0.618,8.0,5.0,-0.025,3.23,0.089,-0.114,-0.02%,3.7,0.0,0.0,0.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Chris Paddack P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Griffin Jax P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202506010,MIN,https://www.baseball-reference.com/boxes/SEA/SEA202506010.shtml,MinnesotaTwinsbatting,Team Totals,31.0,1.0,6.0,1.0,3.0,9.0,36.0,0.194,0.278,0.194,0.471,158.0,93.0,-0.304,1.7,0.675,-0.98,-0.21%,1.95,-2.9,25.0,7.0,

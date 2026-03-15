@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202404230,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,BostonRedSoxpitching,"Tanner Houck, L (3-2)",6,5,2,2,3,4,0,1.65,25,91,62,36,13,13,11,7,5,0,55.0,,,-0.018,1.29,-0.01%,1.3,0.9
+CLE202404230,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,BostonRedSoxpitching,Brennan Bernardino,1,0,0,0,1,0,0,1.08,4,14,7,6,1,0,1,2,0,0,,2.0,1.0,-0.026,2.05,-0.02%,2.07,0.5
+CLE202404230,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,BostonRedSoxpitching,Cam Booser,1,2,2,2,2,2,1,9.0,7,24,14,8,4,2,1,2,1,0,,0.0,0.0,-0.098,0.22,-0.06%,0.22,-1.5
+CLE202404230,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202404230.shtml,BostonRedSoxpitching,Team Totals,8,7,4,4,6,6,1,4.5,36,129,83,50,18,15,13,11,6,0,55.0,2.0,1.0,-0.142,1.17,-0.09%,1.18,-0.1

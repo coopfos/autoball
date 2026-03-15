@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Jeremy Peña SS,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.309,0.373,0.48,0.853,9.0,3.0,0.195,0.91,0.195,0.0,0.15%,1.13,2.4,2.0,3.0,SB
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Isaac Paredes 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.252,0.349,0.445,0.794,11.0,10.0,-0.139,1.27,0.0,-0.139,-0.10%,1.59,-1.8,1.0,2.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Jose Altuve LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.263,0.31,0.411,0.721,12.0,10.0,-0.156,1.31,0.0,-0.156,-0.12%,1.64,-1.8,2.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Brendan Rodgers 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.261,0.26,0.521,,,,,,,,,,0.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Christian Walker 1B,3.0,0.0,1.0,1.0,1.0,2.0,4.0,0.211,0.277,0.357,0.633,13.0,8.0,0.034,1.14,0.1,-0.066,0.03%,1.41,0.3,5.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Yainer Diaz C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.231,0.268,0.379,0.648,11.0,7.0,-0.085,0.81,0.0,-0.085,-0.06%,1.0,-1.1,10.0,1.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Victor Caratini DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.282,0.355,0.409,0.764,14.0,8.0,-0.045,0.59,0.0,-0.045,-0.03%,0.74,-0.5,0.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Cam Smith RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.255,0.341,0.379,0.72,18.0,11.0,-0.043,0.57,0.0,-0.043,-0.03%,0.71,-0.5,2.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Jacob Melton CF,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.333,0.333,0.333,0.667,14.0,9.0,0.01,0.58,0.033,-0.023,0.01%,0.73,0.1,4.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Mauricio Dubón 2B-LF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.268,0.304,0.361,0.665,17.0,11.0,-0.009,0.84,0.032,-0.041,-0.01%,1.05,-0.1,1.0,2.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Hunter Brown P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Bryan King P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Bryan Abreu P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Josh Hader P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202506010,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202506010.shtml,HoustonAstrosbatting,Team Totals,29.0,1.0,4.0,1.0,3.0,11.0,32.0,0.138,0.219,0.138,0.357,119.0,77.0,-0.238,0.93,0.36,-0.598,-0.18%,1.16,-2.9,27.0,8.0,

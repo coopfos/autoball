@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,3.0,2.0,1.0,0.0,2.0,1.0,5.0,0.246,0.38,0.454,0.834,29.0,13.0,0.134,1.03,0.154,-0.02,0.09%,1.12,0.8,0.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,5.0,1.0,2.0,0.0,0.0,2.0,5.0,0.316,0.364,0.5,0.864,22.0,17.0,0.042,1.78,0.169,-0.126,0.03%,1.94,1.1,0.0,2.0,2B
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.271,0.367,0.533,0.9,31.0,20.0,-0.094,1.82,0.105,-0.199,-0.06%,1.99,-0.8,5.0,3.0,2B
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 3B,5.0,1.0,1.0,3.0,0.0,0.0,5.0,0.296,0.353,0.478,0.831,14.0,10.0,0.043,1.83,0.193,-0.149,0.03%,2.0,0.9,1.0,2.0,SB
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Edmundo Sosa PR-3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.269,0.325,0.441,0.766,,,,,,,,,,0.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh CF,3.0,0.0,2.0,2.0,2.0,1.0,5.0,0.253,0.33,0.43,0.76,31.0,17.0,0.204,1.8,0.237,-0.033,0.13%,1.97,2.6,3.0,0.0,SB
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.253,0.309,0.382,0.691,19.0,12.0,-0.298,2.01,0.0,-0.298,-0.19%,2.19,-2.2,13.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,4.0,0.0,0.0,0.0,0.0,2.0,5.0,0.239,0.292,0.405,0.697,17.0,10.0,-0.217,1.73,0.009,-0.225,-0.14%,1.89,-1.0,0.0,0.0,HBP
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.241,0.322,0.349,0.67,13.0,10.0,-0.193,1.57,0.0,-0.193,-0.13%,1.71,-1.2,3.0,1.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Austin Hays LF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.253,0.31,0.396,0.706,13.0,9.0,-0.026,0.68,0.025,-0.051,-0.02%,0.75,-0.3,2.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Orion Kerkering P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Kolby Allard P,,,,,,,,,,,,,,,,,,,,,2.0,1.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Jeff Hoffman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Matt Strahm P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,José Alvarado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Carlos Estévez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202408030,PHI,https://www.baseball-reference.com/boxes/SEA/SEA202408030.shtml,PhiladelphiaPhilliesbatting,Team Totals,38.0,5.0,8.0,5.0,5.0,12.0,44.0,0.211,0.318,0.263,0.581,189.0,118.0,-0.405,1.61,0.892,-1.294,-0.26%,1.76,-0.1,29.0,9.0,

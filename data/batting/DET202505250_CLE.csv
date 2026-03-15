@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Angel Martínez 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.272,0.295,0.392,0.687,14.0,10.0,-0.089,0.75,0.0,-0.089,-0.07%,1.03,-1.5,2.0,1.0,GDP
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Gabriel Arias SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.232,0.293,0.354,0.646,13.0,11.0,-0.043,0.43,0.0,-0.043,-0.03%,0.59,-0.6,3.0,1.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,José Ramírez DH,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.309,0.365,0.516,0.881,5.0,5.0,-0.014,0.38,0.009,-0.023,-0.01%,0.52,0.1,0.0,0.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Lane Thomas CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.125,0.164,0.143,0.307,16.0,11.0,-0.044,0.59,0.0,-0.044,-0.04%,0.81,-0.7,3.0,0.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Kyle Manzardo 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.216,0.305,0.463,0.768,10.0,6.0,-0.029,0.38,0.0,-0.029,-0.02%,0.52,-0.5,2.0,0.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Jhonkensy Noel RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.146,0.172,0.236,0.408,7.0,6.0,-0.02,0.27,0.0,-0.02,-0.02%,0.37,-0.4,4.0,0.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Will Wilson 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.2,0.294,0.267,0.561,8.0,6.0,-0.003,0.5,0.025,-0.028,-0.00%,0.68,0.2,1.0,1.0,2B
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Austin Hedges C,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.122,0.232,0.306,0.538,14.0,12.0,-0.038,0.48,0.0,-0.038,-0.03%,0.66,-0.7,8.0,1.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Nolan Jones LF,2.0,0.0,0.0,0.0,0.0,1.0,3.0,0.182,0.275,0.281,0.556,7.0,5.0,-0.001,0.37,0.015,-0.015,-0.00%,0.51,-0.1,1.0,0.0,HBP
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Logan Allen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Jakob Junis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Nic Enright P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202505250,CLE,https://www.baseball-reference.com/boxes/DET/DET202505250.shtml,ClevelandGuardiansbatting,Team Totals,28.0,0.0,2.0,0.0,0.0,13.0,29.0,0.071,0.103,0.107,0.211,94.0,72.0,-0.281,0.47,0.049,-0.329,-0.23%,0.64,-4.3,24.0,4.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202507270,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507270.shtml,Athleticspitching,"J.T. Ginn, W (2-2)",6,3,0,0,0,4,0,3.89,21,77,48,27,10,11,10,6,3,0,70.0,,,0.275,0.9,0.00%,0.02,3.0
+HOU202507270,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507270.shtml,Athleticspitching,Jack Perkins,2,2,0,0,1,1,0,2.55,10,35,23,12,7,4,3,5,2,0,,0.0,0.0,0.063,0.71,0.00%,0.02,1.0
+HOU202507270,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507270.shtml,Athleticspitching,Ben Bowden,1,2,1,1,0,0,0,9.0,5,19,13,9,3,1,0,5,1,0,,0.0,0.0,0.001,0.03,0.00%,0.0,-0.5
+HOU202507270,ATH,https://www.baseball-reference.com/boxes/HOU/HOU202507270.shtml,Athleticspitching,Team Totals,9,7,1,1,1,5,0,1.0,36,131,84,48,20,16,13,16,6,0,70.0,0.0,0.0,0.339,0.73,0.01%,0.02,3.5

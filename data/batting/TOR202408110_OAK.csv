@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Lawrence Butler RF,5.0,2.0,3.0,1.0,0.0,0.0,5.0,0.248,0.307,0.469,0.776,19.0,11.0,0.102,0.29,0.104,-0.002,0%,0.0,1.1,2.0,0.0,"2B,SB,GDP"
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Brent Rooker DH,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.291,0.367,0.585,0.952,15.0,12.0,0.066,0.4,0.082,-0.016,0%,0.0,0.9,0.0,0.0,2B
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,JJ Bleday CF,4.0,1.0,3.0,3.0,1.0,0.0,5.0,0.243,0.323,0.442,0.764,18.0,8.0,0.157,0.36,0.165,-0.008,0.00%,0.0,2.1,1.0,0.0,"HR,CS"
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Seth Brown 1B,4.0,1.0,0.0,0.0,0.0,1.0,5.0,0.209,0.269,0.365,0.634,17.0,9.0,0.009,0.21,0.021,-0.012,0%,0.0,-0.7,14.0,0.0,HBP
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Abraham Toro 3B,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.242,0.29,0.355,0.644,22.0,17.0,-0.03,0.25,0.0,-0.03,0%,0.0,-1.2,1.0,3.0,
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,1.0,3.0,2.0,0.0,0.0,4.0,0.201,0.266,0.376,0.642,14.0,10.0,0.108,0.24,0.112,-0.004,0%,0.0,2.3,2.0,5.0,"HR,2·2B"
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Kyle McCann C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.266,0.355,0.413,0.768,24.0,14.0,-0.014,0.14,0.0,-0.014,0%,0.0,-1.0,5.0,0.0,
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Daz Cameron LF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.185,0.279,0.38,0.659,19.0,12.0,0.0,0.1,0.008,-0.008,0%,0.0,-0.5,1.0,0.0,2B
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Max Schuemann SS,1.0,1.0,0.0,0.0,3.0,0.0,4.0,0.248,0.344,0.345,0.689,25.0,11.0,0.003,0.17,0.006,-0.004,0%,0.0,0.6,1.0,6.0,
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,JP Sears P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Michel Otañez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202408110,OAK,https://www.baseball-reference.com/boxes/TOR/TOR202408110.shtml,OaklandAthleticsbatting,Team Totals,36.0,8.0,12.0,7.0,4.0,9.0,41.0,0.333,0.415,0.639,1.054,173.0,104.0,0.401,0.25,0.498,-0.098,0.00%,0.0,3.6,27.0,15.0,

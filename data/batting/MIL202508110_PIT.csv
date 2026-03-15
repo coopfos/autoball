@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Liover Peguero 1B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.204,0.264,0.469,0.734,16.0,11.0,-0.099,0.72,0.0,-0.099,0%,0.0,-1.2,7.0,2.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Tommy Pham LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.262,0.332,0.366,0.698,9.0,7.0,-0.065,0.61,0.0,-0.065,0%,0.0,-0.9,0.0,0.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Bryan Reynolds RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.242,0.3,0.388,0.688,22.0,13.0,-0.021,0.3,0.007,-0.028,0%,0.0,-0.3,2.0,0.0,2B
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.276,0.322,0.403,0.725,15.0,10.0,-0.046,0.45,0.0,-0.046,0%,0.0,-0.8,0.0,1.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.245,0.333,0.379,0.712,12.0,6.0,-0.013,0.37,0.009,-0.022,0%,0.0,-0.3,0.0,0.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Alexander Canario CF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.202,0.274,0.301,0.574,9.0,7.0,-0.026,0.48,0.0,-0.026,0%,0.0,-0.3,0.0,0.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Jack Suwinski PH-CF,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.126,0.29,0.218,0.508,5.0,1.0,0.006,0.16,0.006,0.0,0%,0.0,0.3,0.0,0.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Joey Bart C,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.241,0.348,0.309,0.657,8.0,6.0,0.092,0.58,0.114,-0.022,0%,0.0,0.2,10.0,0.0,"HR,GDP"
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Jared Triolo SS,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.18,0.276,0.279,0.555,9.0,7.0,0.089,0.7,0.1,-0.011,0%,0.0,0.5,1.0,1.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.271,0.31,0.334,0.644,9.0,6.0,-0.053,0.53,0.0,-0.053,0%,0.0,-0.7,2.0,2.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Andrew Heaney P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Chase Shugart P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Kyle Nicolas P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508110,PIT,https://www.baseball-reference.com/boxes/MIL/MIL202508110.shtml,PittsburghPiratesbatting,Team Totals,29.0,1.0,3.0,1.0,2.0,5.0,31.0,0.103,0.161,0.241,0.403,114.0,74.0,-0.136,0.52,0.236,-0.372,0.00%,0.0,-3.5,24.0,8.0,

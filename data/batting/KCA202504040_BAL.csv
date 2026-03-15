@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.25,0.5,12.0,9.0,-0.018,1.15,0.061,-0.079,-0.01%,1.04,-0.5,2.0,1.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.258,0.343,0.484,0.827,16.0,10.0,-0.138,1.24,0.024,-0.162,-0.07%,1.12,-0.6,5.0,0.0,GDP
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.321,0.387,0.643,1.03,15.0,12.0,-0.081,0.82,0.0,-0.081,-0.04%,0.74,-0.9,0.0,1.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.31,0.412,0.69,1.101,19.0,10.0,-0.025,0.57,0.023,-0.048,-0.01%,0.52,0.1,0.0,0.0,2B
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Ryan O'Hearn DH,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.273,0.36,0.364,0.724,22.0,12.0,-0.011,0.71,0.04,-0.051,-0.01%,0.65,-0.2,0.0,0.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Tyler O'Neill RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.346,0.379,0.538,0.918,11.0,9.0,0.049,1.06,0.115,-0.066,0.03%,0.96,0.3,6.0,0.0,2B
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Heston Kjerstad LF,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.333,0.357,0.417,0.774,18.0,13.0,-0.034,1.2,0.025,-0.059,-0.02%,1.09,-0.2,4.0,0.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.24,0.269,0.32,0.589,9.0,6.0,0.033,1.1,0.105,-0.072,0.02%,0.99,0.4,5.0,2.0,GDP
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.269,0.296,0.423,0.719,10.0,7.0,-0.114,1.52,0.0,-0.114,-0.06%,1.38,-0.8,1.0,3.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Dean Kremer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Cionel Pérez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202504040,BAL,https://www.baseball-reference.com/boxes/KCA/KCA202504040.shtml,BaltimoreOriolesbatting,Team Totals,31.0,2.0,6.0,1.0,2.0,5.0,33.0,0.194,0.242,0.258,0.5,132.0,88.0,-0.339,1.02,0.393,-0.732,-0.18%,0.92,-2.4,24.0,8.0,

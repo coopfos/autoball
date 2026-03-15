@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Matt Vierling RF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.288,0.322,0.503,0.825,25.0,14.0,-0.002,0.56,0.06,-0.062,-0.00%,0.39,-0.0,4.0,0.0,2B
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Riley Greene CF,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.234,0.338,0.443,0.78,9.0,6.0,0.042,1.2,0.103,-0.061,0.02%,0.84,1.2,2.0,0.0,"HR,IW"
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Mark Canha DH,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.247,0.358,0.401,0.759,18.0,12.0,0.022,1.02,0.073,-0.051,0.01%,0.71,0.1,0.0,0.0,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Gio Urshela 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.268,0.304,0.34,0.644,23.0,17.0,-0.08,0.71,0.022,-0.102,-0.03%,0.5,-0.3,0.0,2.0,"HR,GDP"
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Colt Keith 2B,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.238,0.297,0.294,0.591,13.0,10.0,-0.03,0.69,0.025,-0.054,-0.01%,0.48,0.0,1.0,4.0,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Akil Baddoo LF,4.0,1.0,1.0,1.0,0.0,3.0,4.0,0.286,0.25,1.0,1.25,11.0,10.0,0.102,0.64,0.144,-0.041,0.04%,0.45,0.2,0.0,0.0,HR
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Spencer Torkelson 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.205,0.271,0.337,0.608,23.0,15.0,-0.05,0.49,0.0,-0.05,-0.02%,0.34,-0.8,7.0,1.0,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Javier Báez SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.194,0.223,0.267,0.49,12.0,10.0,-0.054,0.52,0.001,-0.055,-0.02%,0.36,-0.3,0.0,1.0,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Carson Kelly C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.226,0.308,0.333,0.641,10.0,8.0,0.073,0.56,0.106,-0.032,0.03%,0.39,0.2,12.0,0.0,3B
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Jack Flaherty P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Alex Faedo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BOS202405300,DET,https://www.baseball-reference.com/boxes/BOS/BOS202405300.shtml,DetroitTigersbatting,Team Totals,35.0,5.0,8.0,5.0,2.0,14.0,37.0,0.229,0.27,0.571,0.842,144.0,102.0,0.023,0.71,0.534,-0.508,0.01%,0.49,0.3,27.0,9.0,

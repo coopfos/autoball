@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202408190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408190.shtml,LosAngelesDodgerspitching,"Gavin Stone, W (11-5)",7,2,0,0,2,10,0,3.44,24,90,59,26,15,18,7,5,3,0,81.0,,,0.435,1.06,0.34%,1.39,3.4
+LAN202408190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408190.shtml,LosAngelesDodgerspitching,"Joe Kelly, H (13)",1,0,0,0,0,1,0,4.88,3,13,8,5,0,3,1,1,1,0,,0.0,0.0,0.04,0.53,0.03%,0.7,0.5
+LAN202408190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408190.shtml,LosAngelesDodgerspitching,"Evan Phillips, S (16)",1,0,0,0,0,1,0,3.4,3,13,9,4,1,4,0,2,0,0,,0.0,0.0,0.031,0.41,0.03%,0.54,0.5
+LAN202408190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408190.shtml,LosAngelesDodgerspitching,Team Totals,9,2,0,0,2,12,0,0.0,30,116,76,35,16,25,8,8,4,0,81.0,0.0,0.0,0.506,0.94,0.40%,1.24,4.3

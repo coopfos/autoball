@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202509180,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202509180.shtml,SanFranciscoGiantspitching,"Logan Webb, L (14-11)",7,4,2,1,1,5,0,3.27,26,103,71,43,7,21,11,9,3,0,67.0,,,0.082,1.02,0.03%,0.66,1.5
+LAN202509180,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202509180.shtml,SanFranciscoGiantspitching,Joey Lucchesi,1,1,0,0,0,0,0,3.22,4,13,9,7,0,2,2,2,1,0,,0.0,0.0,0.031,0.63,0.01%,0.4,0.5
+LAN202509180,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202509180.shtml,SanFranciscoGiantspitching,Team Totals,8,5,2,1,1,5,0,1.12,30,116,80,50,7,23,13,11,4,0,67.0,0.0,0.0,0.113,0.97,0.04%,0.62,2.0

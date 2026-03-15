@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Nico Hoerner 2B,5.0,2.0,1.0,1.0,0.0,0.0,6.0,0.245,0.33,0.335,0.665,15.0,10.0,-0.033,0.51,0.029,-0.061,-0.01%,0.17,-0.1,1.0,1.0,HBP
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Michael Busch 1B,6.0,2.0,4.0,1.0,0.0,1.0,6.0,0.273,0.365,0.473,0.838,18.0,13.0,0.126,0.45,0.149,-0.023,0.03%,0.15,2.0,4.0,1.0,HR
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Cody Bellinger CF-RF,5.0,1.0,1.0,0.0,1.0,1.0,6.0,0.265,0.326,0.408,0.734,24.0,13.0,0.027,0.44,0.043,-0.016,0.01%,0.15,-0.7,4.0,0.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Seiya Suzuki RF,5.0,1.0,2.0,2.0,0.0,2.0,5.0,0.258,0.33,0.461,0.791,19.0,14.0,0.025,0.6,0.096,-0.071,0.01%,0.2,1.2,1.0,0.0,2B
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Pete Crow-Armstrong PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.199,0.247,0.294,0.541,,,,,,,,,,0.0,0.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,2.0,2.0,3.0,1.0,1.0,5.0,0.244,0.358,0.455,0.813,24.0,15.0,0.227,0.68,0.231,-0.005,0.05%,0.23,2.3,3.0,0.0,HR
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Christopher Morel DH,4.0,0.0,1.0,0.0,1.0,2.0,5.0,0.199,0.305,0.367,0.672,22.0,14.0,0.094,0.61,0.098,-0.004,0.02%,0.21,0.8,0.0,0.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Dansby Swanson SS,5.0,0.0,0.0,1.0,0.0,3.0,5.0,0.201,0.276,0.335,0.611,19.0,15.0,-0.018,0.79,0.009,-0.027,-0.00%,0.27,-1.1,2.0,2.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Miles Mastrobuoni 3B,3.0,1.0,2.0,0.0,2.0,0.0,5.0,0.172,0.262,0.207,0.468,26.0,12.0,0.042,0.49,0.045,-0.003,0.01%,0.16,1.2,1.0,2.0,SB
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Tomás Nido C,4.0,0.0,1.0,1.0,0.0,1.0,5.0,0.204,0.233,0.319,0.552,16.0,12.0,-0.035,0.85,0.011,-0.046,-0.01%,0.29,-0.8,10.0,0.0,SF
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Jameson Taillon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Tyson Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Hunter Bigge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407090,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407090.shtml,ChicagoCubsbatting,Team Totals,41.0,9.0,14.0,9.0,5.0,11.0,48.0,0.341,0.417,0.512,0.929,183.0,118.0,0.455,0.59,0.711,-0.256,0.09%,0.2,4.9,27.0,6.0,

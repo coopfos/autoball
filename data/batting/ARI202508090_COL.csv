@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Tyler Freeman RF,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.296,0.378,0.391,0.77,18.0,10.0,-0.127,1.47,0.058,-0.186,0%,0.0,-1.0,5.0,0.0,GDP
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,1.0,2.0,1.0,1.0,1.0,5.0,0.274,0.316,0.452,0.768,19.0,12.0,0.195,1.5,0.271,-0.076,0%,0.0,1.8,3.0,1.0,SB
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Hunter Goodman C,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.278,0.326,0.522,0.848,15.0,11.0,-0.227,1.61,0.0,-0.227,0%,0.0,-1.8,6.0,1.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.276,0.343,0.463,0.806,13.0,8.0,-0.079,1.54,0.077,-0.155,0%,0.0,-0.2,0.0,0.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Warming Bernabel 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.346,0.358,0.654,1.012,8.0,7.0,-0.049,1.38,0.052,-0.101,0%,0.0,-0.1,7.0,0.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.229,0.276,0.353,0.629,9.0,7.0,0.18,1.07,0.224,-0.044,0%,0.0,1.3,4.0,0.0,HR
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Kyle Karros 3B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.333,0.5,0.5,1.0,15.0,7.0,-0.049,1.03,0.055,-0.104,0%,0.0,0.1,0.0,2.0,"2B,GDP"
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Braxton Fulford DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.22,0.245,0.36,0.605,9.0,5.0,-0.04,1.53,0.068,-0.109,0%,0.0,-1.0,0.0,0.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Kyle Farmer 2B,2.0,1.0,1.0,1.0,2.0,0.0,4.0,0.217,0.272,0.34,0.612,18.0,9.0,0.095,1.5,0.161,-0.067,0%,0.0,1.2,0.0,2.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Bradley Blalock P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Dugan Darnell P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Juan Mejia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202508090,COL,https://www.baseball-reference.com/boxes/ARI/ARI202508090.shtml,ColoradoRockiesbatting,Team Totals,34.0,5.0,9.0,5.0,6.0,6.0,40.0,0.265,0.375,0.382,0.757,124.0,76.0,-0.101,1.42,0.966,-1.069,0.00%,0.0,0.3,25.0,6.0,

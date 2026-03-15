@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.244,0.317,0.54,0.857,16.0,10.0,-0.094,0.81,0.0,-0.094,-0.02%,0.3,-1.0,3.0,0.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.285,0.392,0.555,0.947,16.0,8.0,-0.013,0.57,0.032,-0.045,-0.00%,0.21,0.1,4.0,1.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.275,0.375,0.421,0.796,25.0,17.0,-0.104,0.99,0.0,-0.104,-0.02%,0.36,-1.2,0.0,4.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.247,0.319,0.579,0.898,17.0,10.0,-0.002,0.58,0.038,-0.039,0%,0.22,-0.2,2.0,3.0,HBP
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Adrian Del Castillo DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.318,0.318,0.364,0.682,16.0,11.0,-0.066,0.61,0.001,-0.067,-0.01%,0.23,-0.3,0.0,0.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Jake McCarthy LF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.158,0.232,0.277,0.509,17.0,11.0,0.138,0.61,0.155,-0.017,0.03%,0.23,1.0,2.0,0.0,"3B,2B"
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,James McCann C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.31,0.431,0.5,0.931,19.0,14.0,-0.145,0.89,0.0,-0.145,-0.03%,0.33,-1.9,5.0,0.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.244,0.291,0.362,0.653,11.0,6.0,-0.1,1.16,0.0,-0.1,-0.02%,0.43,-1.1,1.0,0.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Tristin English 1B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.077,0.077,0.154,0.231,10.0,9.0,0.034,0.81,0.07,-0.036,0.01%,0.3,0.1,6.0,1.0,2B
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Zac Gallen P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Brandyn Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,John Curtiss P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202507270,ARI,https://www.baseball-reference.com/boxes/PIT/PIT202507270.shtml,ArizonaDiamondbacksbatting,Team Totals,32.0,0.0,5.0,0.0,1.0,13.0,34.0,0.156,0.206,0.281,0.487,147.0,96.0,-0.352,0.76,0.296,-0.647,-0.08%,0.28,-4.5,24.0,10.0,

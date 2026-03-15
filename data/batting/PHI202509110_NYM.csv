@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.263,0.337,0.451,0.787,13.0,8.0,0.05,0.76,0.08,-0.03,0.04%,1.04,0.5,0.0,4.0,SB
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Juan Soto RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.264,0.4,0.528,0.928,13.0,10.0,-0.024,1.1,0.053,-0.077,-0.02%,1.51,-0.1,0.0,0.0,SB
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.267,0.344,0.511,0.854,19.0,13.0,-0.103,0.85,0.0,-0.103,-0.08%,1.17,-1.1,10.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.241,0.297,0.438,0.736,14.0,12.0,0.037,0.66,0.069,-0.031,0.03%,0.91,0.4,0.0,3.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Brandon Nimmo LF,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.261,0.328,0.439,0.767,7.0,5.0,0.034,1.11,0.08,-0.045,0.03%,1.53,0.5,1.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Starling Marte DH,3.0,0.0,1.0,2.0,0.0,2.0,3.0,0.273,0.346,0.415,0.761,12.0,7.0,0.069,0.87,0.1,-0.031,0.06%,1.19,1.1,0.0,0.0,2B
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Jeff McNeil CF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.261,0.35,0.441,0.791,10.0,7.0,-0.054,0.45,0.0,-0.054,-0.04%,0.62,-0.9,1.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Luisangel Acuña 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.234,0.286,0.275,0.561,11.0,8.0,-0.068,0.88,0.0,-0.068,-0.06%,1.21,-0.8,1.0,2.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Hayden Senger C,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.181,0.221,0.194,0.415,5.0,5.0,-0.022,0.43,0.0,-0.022,-0.02%,0.59,-0.3,10.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Francisco Alvarez PH-C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,0.332,0.412,0.744,4.0,2.0,-0.026,1.01,0.0,-0.026,-0.02%,1.39,-0.2,1.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,David Peterson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Brooks Raley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202509110,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202509110.shtml,NewYorkMetsbatting,Team Totals,31.0,4.0,5.0,4.0,0.0,13.0,31.0,0.161,0.161,0.194,0.355,108.0,77.0,-0.107,0.81,0.382,-0.487,-0.09%,1.12,-0.8,24.0,10.0,

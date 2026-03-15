@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.321,0.377,0.538,0.915,23.0,12.0,0.002,0.75,0.048,-0.046,0.00%,0.61,0.3,1.0,2.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Joc Pederson DH,1.0,0.0,0.0,0.0,2.0,1.0,4.0,0.319,0.485,0.532,1.017,19.0,8.0,0.088,0.83,0.104,-0.016,0.04%,0.68,1.1,0.0,0.0,HBP
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.288,0.339,0.481,0.82,14.0,13.0,-0.197,1.11,0.0,-0.197,-0.10%,0.91,-2.2,3.0,0.0,2·GDP
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Christian Walker 1B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.263,0.383,0.404,0.787,18.0,11.0,0.006,0.71,0.049,-0.043,0.00%,0.57,0.2,9.0,0.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.235,0.306,0.347,0.653,16.0,12.0,-0.078,0.82,0.0,-0.078,-0.04%,0.67,-1.4,0.0,2.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.246,0.35,0.348,0.698,12.0,10.0,-0.077,0.76,0.0,-0.077,-0.04%,0.62,-0.8,5.0,1.0,GDP
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Corbin Carroll CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.202,0.313,0.253,0.566,8.0,7.0,-0.038,0.51,0.0,-0.038,-0.02%,0.42,-0.4,4.0,0.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Kevin Newman SS,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.186,0.205,0.372,0.577,6.0,5.0,0.107,0.63,0.124,-0.017,0.05%,0.51,0.8,1.0,3.0,HR
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Pavin Smith RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.2,0.25,0.467,0.717,11.0,7.0,-0.049,0.66,0.0,-0.049,-0.02%,0.54,-0.5,1.0,0.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Zac Gallen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Scott McGough P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Justin Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202404260,ARI,https://www.baseball-reference.com/boxes/SEA/SEA202404260.shtml,ArizonaDiamondbacksbatting,Team Totals,27.0,1.0,3.0,1.0,4.0,7.0,32.0,0.111,0.25,0.222,0.472,127.0,85.0,-0.236,0.77,0.325,-0.561,-0.12%,0.63,-3.0,24.0,8.0,

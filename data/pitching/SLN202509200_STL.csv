@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202509200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202509200.shtml,StLouisCardinalspitching,Miles Mikolas,5.0,7,2,2,2,3,0,4.76,24,95,64,39,4,21,10,9,7,0,46.0,,,0.05,1.1,0.00%,0.02,0.8
+SLN202509200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202509200.shtml,StLouisCardinalspitching,"Kyle Leahy, BS (4)",2.0,1,0,0,0,1,0,3.25,7,24,17,10,2,5,2,4,4,0,,1.0,1.0,0.096,1.39,0.00%,0.02,0.6
+SLN202509200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202509200.shtml,StLouisCardinalspitching,Riley O'Brien,1.1,0,0,0,1,1,0,2.01,5,19,12,8,0,4,2,1,1,0,,0.0,0.0,0.105,1.99,0.00%,0.03,0.5
+SLN202509200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202509200.shtml,StLouisCardinalspitching,"JoJo Romero, L (4-6)",1.2,1,1,0,0,0,0,2.12,6,17,13,8,1,4,3,3,2,0,,1.0,0.0,0.077,3.13,0.00%,0.04,0.6
+SLN202509200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202509200.shtml,StLouisCardinalspitching,Team Totals,10.0,9,3,2,3,5,0,1.8,42,155,106,65,7,34,17,17,14,0,46.0,2.0,1.0,0.328,1.54,0.00%,0.02,2.5

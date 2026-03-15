@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.303,0.363,0.546,0.909,16.0,10.0,-0.111,1.16,0.0,-0.111,-0.04%,0.73,-1.1,1.0,1.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,James Wood LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.285,0.382,0.534,0.916,12.0,10.0,-0.092,0.81,0.0,-0.092,-0.03%,0.51,-1.0,0.0,0.0,GDP
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Nathaniel Lowe 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.223,0.294,0.389,0.683,11.0,9.0,-0.029,0.64,0.018,-0.047,-0.01%,0.4,-0.4,6.0,1.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.276,0.32,0.365,0.685,14.0,7.0,-0.082,0.79,0.0,-0.082,-0.03%,0.5,-0.7,14.0,0.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.231,0.282,0.365,0.647,12.0,6.0,0.169,0.75,0.17,-0.001,0.06%,0.47,1.1,4.0,2.0,2·2B
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Josh Bell DH,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.154,0.254,0.295,0.55,16.0,9.0,-0.003,1.7,0.075,-0.077,-0.00%,1.07,-0.3,0.0,0.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Robert Hassell III CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.25,0.25,0.25,0.5,8.0,6.0,-0.162,2.05,0.0,-0.162,-0.06%,1.29,-1.1,1.0,0.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,José Tena 3B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.247,0.302,0.351,0.652,14.0,11.0,-0.168,1.78,0.057,-0.224,-0.06%,1.12,-1.0,0.0,3.0,"2B,GDP"
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Daylen Lile RF,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.5,0.5,0.5,1.0,3.0,2.0,-0.019,1.19,0.028,-0.046,-0.01%,0.75,-0.1,1.0,0.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Alex Call PH-RF,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.276,0.393,0.378,0.771,5.0,1.0,0.027,0.56,0.027,0.0,0.01%,0.35,0.4,0.0,0.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,MacKenzie Gore P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Jackson Rutledge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Zach Brzykcy P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Andrew Chafin P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202505230,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202505230.shtml,WashingtonNationalsbatting,Team Totals,29.0,0.0,5.0,0.0,3.0,3.0,32.0,0.172,0.25,0.276,0.526,111.0,71.0,-0.47,1.14,0.375,-0.842,-0.18%,0.71,-4.3,27.0,9.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHA202509150,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509150.shtml,BaltimoreOriolespitching,"Kyle Bradish, W (1-1)",5,4,1,1,4,9,0,2.45,21,88,55,23,16,16,3,5,3,0,60.0,,,0.165,1.23,0.00%,0.0,1.5
+CHA202509150,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509150.shtml,BaltimoreOriolespitching,"Kade Strowd, H (5)",1,0,0,0,0,2,0,1.57,3,16,10,6,2,2,1,0,0,0,,0.0,0.0,0.054,0.71,0.00%,0.0,0.5
+CHA202509150,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509150.shtml,BaltimoreOriolespitching,"Dietrich Enns, S (2)",3,0,0,0,0,4,0,4.04,9,32,23,12,8,3,0,5,1,0,,0.0,0.0,0.144,0.63,0.00%,0.0,1.5
+CHA202509150,BAL,https://www.baseball-reference.com/boxes/CHA/CHA202509150.shtml,BaltimoreOriolespitching,Team Totals,9,4,1,1,4,15,0,1.0,33,136,88,41,26,21,4,10,4,0,60.0,0.0,0.0,0.363,1.02,0.00%,0.0,3.4

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Charlie Blackmon DH,4.0,0.0,3.0,0.0,0.0,0.0,4.0,0.368,0.4,0.579,0.979,9.0,7.0,0.032,0.4,0.046,-0.014,0.02%,0.33,1.1,0.0,0.0,2B
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.12,0.12,0.16,0.28,14.0,10.0,-0.091,0.54,0.0,-0.091,-0.04%,0.44,-1.7,0.0,1.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Nolan Jones LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.083,0.12,0.208,0.328,17.0,12.0,-0.024,0.23,0.0,-0.024,-0.01%,0.2,-0.9,0.0,0.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Kris Bryant RF,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.2,0.0,0.2,11.0,7.0,0.03,0.32,0.039,-0.008,0.01%,0.26,0.2,2.0,0.0,2·HBP
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,2.0,0.0,1.0,0.0,1.0,0.0,3.0,0.4,0.458,0.45,0.908,18.0,10.0,0.065,0.56,0.065,0.0,0.03%,0.46,0.5,0.0,2.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Alan Trejo PH-3B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.01,0.0,0.0,0%,0.01,-0.3,0.0,1.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Elias Díaz C,3.0,1.0,0.0,0.0,0.0,1.0,4.0,0.176,0.222,0.353,0.575,13.0,9.0,-0.065,0.6,0.0,-0.065,-0.03%,0.5,-0.8,7.0,0.0,HBP
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.211,0.318,0.368,0.687,21.0,12.0,-0.033,0.58,0.008,-0.042,-0.02%,0.48,0.1,0.0,4.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Michael Toglia 1B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.25,0.333,0.625,0.958,19.0,13.0,-0.056,0.54,0.001,-0.057,-0.03%,0.45,0.3,10.0,0.0,"HR,GDP"
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.25,0.286,0.4,0.686,15.0,12.0,-0.03,0.27,0.001,-0.031,-0.01%,0.22,-0.7,4.0,0.0,GDP
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Kyle Freeland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Anthony Molina P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHN202404020,COL,https://www.baseball-reference.com/boxes/CHN/CHN202404020.shtml,ColoradoRockiesbatting,Team Totals,31.0,2.0,7.0,2.0,2.0,6.0,36.0,0.226,0.333,0.355,0.688,138.0,93.0,-0.172,0.43,0.16,-0.332,-0.08%,0.36,-2.4,24.0,9.0,

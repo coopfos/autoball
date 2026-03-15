@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Xavier Edwards SS,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.383,0.456,0.47,0.925,15.0,10.0,-0.017,0.62,0.038,-0.055,0%,0.0,0.2,2.0,2.0,SB
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Jake Burger 1B,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.239,0.286,0.427,0.713,20.0,15.0,-0.014,0.6,0.042,-0.056,0%,0.0,-0.4,6.0,1.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.241,0.289,0.414,0.703,18.0,12.0,-0.037,0.66,0.042,-0.08,0%,0.0,0.5,4.0,0.0,"HR,GDP"
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Derek Hill PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.25,0.288,0.446,0.735,3.0,3.0,0.0,0.02,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Jonah Bride DH,4.0,0.0,2.0,1.0,1.0,0.0,5.0,0.262,0.333,0.443,0.776,17.0,11.0,0.034,0.48,0.063,-0.03,0%,0.0,0.7,0.0,0.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Kyle Stowers LF,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.232,0.241,0.357,0.599,25.0,16.0,-0.042,0.58,0.017,-0.059,0%,0.0,-1.0,3.0,0.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.219,0.305,0.279,0.583,8.0,5.0,-0.001,0.76,0.044,-0.045,0%,0.0,-0.3,0.0,2.0,HBP
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Otto Lopez 2B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.232,0.263,0.309,0.572,13.0,9.0,-0.087,0.75,0.019,-0.106,0%,0.0,-0.6,1.0,3.0,GDP
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Vidal Bruján CF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.219,0.308,0.318,0.627,20.0,10.0,-0.036,0.52,0.01,-0.046,0%,0.0,-0.8,5.0,0.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Nick Fortes C,2.0,0.0,1.0,0.0,0.0,0.0,3.0,0.219,0.246,0.288,0.534,9.0,5.0,0.027,0.38,0.035,-0.008,0%,0.0,0.4,5.0,0.0,HBP
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Ali Sánchez PR-C,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.17,0.25,0.17,0.42,4.0,3.0,-0.011,0.43,0.0,-0.011,0%,0.0,-0.3,0.0,0.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Roddery Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Shaun Anderson P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIA202408050,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202408050.shtml,MiamiMarlinsbatting,Team Totals,37.0,3.0,11.0,2.0,2.0,9.0,41.0,0.297,0.366,0.378,0.744,152.0,99.0,-0.184,0.58,0.31,-0.496,0.00%,0.0,-1.9,27.0,8.0,

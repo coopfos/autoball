@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202406070,MIL,https://www.baseball-reference.com/boxes/DET/DET202406070.shtml,MilwaukeeBrewerspitching,"Tobias Myers, W (2-2)",8,1,0,0,3,5,0,4.15,27,100,64,35,5,24,8,11,5,0,82.0,,,0.118,0.29,0.08%,0.35,3.9
+DET202406070,MIL,https://www.baseball-reference.com/boxes/DET/DET202406070.shtml,MilwaukeeBrewerspitching,James Meeker,1,1,0,0,1,0,0,0.0,4,16,8,5,0,3,2,1,1,0,,0.0,0.0,0.0,0.01,0.00%,0.01,0.5
+DET202406070,MIL,https://www.baseball-reference.com/boxes/DET/DET202406070.shtml,MilwaukeeBrewerspitching,Team Totals,9,2,0,0,4,5,0,0.0,31,116,72,40,5,27,10,12,6,0,82.0,0.0,0.0,0.118,0.25,0.08%,0.3,4.4

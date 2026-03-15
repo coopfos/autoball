@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.246,0.34,0.367,0.707,12.0,8.0,-0.017,0.56,0.025,-0.042,0%,0.01,-0.4,7.0,0.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,0.0,3.0,0.0,0.0,1.0,4.0,0.266,0.33,0.463,0.793,14.0,9.0,0.023,0.63,0.049,-0.026,0%,0.01,0.1,0.0,3.0,SB
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.256,0.315,0.428,0.743,13.0,10.0,-0.074,0.7,0.0,-0.074,-0.00%,0.01,-1.2,8.0,0.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Willie Calhoun DH,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.248,0.316,0.385,0.701,15.0,9.0,-0.049,0.49,0.004,-0.053,0%,0.01,0.2,0.0,0.0,HR
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.233,0.312,0.394,0.706,13.0,9.0,0.032,0.47,0.058,-0.026,0%,0.01,-0.0,2.0,0.0,2B
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Anthony Rendon 3B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.24,0.31,0.287,0.596,19.0,12.0,-0.028,0.41,0.005,-0.032,0%,0.0,-0.1,2.0,1.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Mickey Moniak CF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.226,0.266,0.362,0.629,19.0,10.0,0.005,0.52,0.026,-0.021,0%,0.01,-0.4,5.0,0.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Brandon Drury 2B,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.158,0.246,0.195,0.441,26.0,15.0,0.056,0.67,0.064,-0.008,0.00%,0.01,0.3,1.0,2.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Jo Adell RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.203,0.279,0.4,0.679,13.0,7.0,-0.176,1.32,0.0,-0.176,-0.00%,0.02,-2.0,2.0,0.0,GDP
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Carson Fulmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Kenny Rosenberg P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Roansy Contreras P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408130,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202408130.shtml,LosAngelesAngelsbatting,Team Totals,32.0,1.0,7.0,1.0,3.0,10.0,35.0,0.219,0.286,0.344,0.629,144.0,89.0,-0.228,0.62,0.231,-0.458,-0.00%,0.01,-3.5,27.0,6.0,

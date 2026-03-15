@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Xavier Edwards SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.358,0.438,0.437,0.875,18.0,12.0,0.059,0.64,0.077,-0.019,0%,0.0,0.4,1.0,1.0,"2B,SB"
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Jake Burger 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.253,0.304,0.48,0.784,11.0,9.0,-0.047,0.81,0.03,-0.077,0%,0.0,0.2,5.0,1.0,HR
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Jonah Bride DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.275,0.376,0.473,0.849,15.0,10.0,0.04,0.68,0.078,-0.039,0%,0.0,0.1,0.0,0.0,2B
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.242,0.295,0.418,0.713,14.0,10.0,-0.089,0.97,0.017,-0.106,0%,0.0,-0.6,1.0,0.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Derek Hill CF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.256,0.284,0.444,0.729,12.0,9.0,0.066,0.92,0.129,-0.063,0%,0.0,-0.1,4.0,0.0,"2B,GDP"
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Otto Lopez 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.23,0.266,0.301,0.566,16.0,9.0,0.041,0.62,0.062,-0.022,0%,0.0,0.4,1.0,3.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,3.0,0.0,0.0,1.0,0.0,0.0,3.0,0.208,0.29,0.264,0.554,13.0,9.0,-0.005,1.1,0.02,-0.025,0%,0.0,-0.3,0.0,0.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Kyle Stowers PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.195,0.23,0.28,0.51,3.0,3.0,-0.004,0.15,0.0,-0.004,0%,0.0,-0.2,0.0,0.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,David Hensley LF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.143,0.294,0.214,0.508,12.0,9.0,-0.058,0.73,0.0,-0.058,0%,0.0,-0.6,2.0,0.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Ali Sánchez C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.145,0.203,0.159,0.362,14.0,9.0,-0.033,0.45,0.0,-0.033,0%,0.0,-0.5,9.0,1.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Roddery Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,John McMillon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408160,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408160.shtml,MiamiMarlinsbatting,Team Totals,32.0,3.0,6.0,3.0,2.0,6.0,34.0,0.188,0.235,0.375,0.61,128.0,89.0,-0.03,0.75,0.413,-0.446,0.00%,0.0,-1.3,24.0,6.0,

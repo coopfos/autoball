@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Masyn Winn SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.271,0.317,0.408,0.725,13.0,7.0,-0.059,0.91,0.023,-0.082,0%,0.0,-1.0,0.0,5.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Alec Burleson DH,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.27,0.313,0.431,0.744,17.0,10.0,0.034,1.04,0.081,-0.047,0%,0.0,-0.1,0.0,0.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Paul Goldschmidt 1B,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.245,0.302,0.411,0.714,22.0,13.0,-0.078,0.97,0.009,-0.087,0%,0.0,-0.5,9.0,1.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.267,0.319,0.393,0.713,18.0,12.0,0.064,1.14,0.128,-0.064,0%,0.0,0.8,0.0,3.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Brendan Donovan 2B-LF,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.27,0.336,0.401,0.737,14.0,7.0,0.017,0.66,0.056,-0.039,0%,0.0,1.5,3.0,0.0,2B
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Lars Nootbaar LF-RF,3.0,0.0,0.0,1.0,0.0,1.0,4.0,0.245,0.336,0.403,0.739,14.0,9.0,0.044,0.6,0.076,-0.033,0%,0.0,0.6,1.0,0.0,SF
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Jordan Walker RF,2.0,0.0,1.0,0.0,1.0,1.0,3.0,0.186,0.252,0.331,0.582,15.0,8.0,0.015,0.86,0.04,-0.025,0%,0.0,0.5,0.0,0.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Thomas Saggese 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.167,0.167,0.292,0.458,3.0,2.0,-0.005,0.32,0.0,-0.005,0%,0.0,-0.7,0.0,0.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Pedro Pagés C,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.244,0.282,0.381,0.663,16.0,12.0,-0.025,0.78,0.044,-0.069,0%,0.0,0.1,12.0,1.0,GDP
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Michael Siani CF,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.238,0.282,0.297,0.578,14.0,10.0,-0.058,0.65,0.0,-0.058,0%,0.0,-1.1,1.0,0.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Andre Pallante P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Andrew Kittredge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Ryan Fernandez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202409160,STL,https://www.baseball-reference.com/boxes/SLN/SLN202409160.shtml,StLouisCardinalsbatting,Team Totals,30.0,4.0,7.0,4.0,4.0,8.0,35.0,0.233,0.314,0.267,0.581,146.0,90.0,-0.051,0.84,0.457,-0.509,0.00%,0.0,-0.0,27.0,10.0,

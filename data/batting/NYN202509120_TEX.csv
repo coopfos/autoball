@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Josh Smith SS,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.256,0.341,0.373,0.714,16.0,9.0,0.051,0.37,0.064,-0.013,0.05%,0.56,1.0,0.0,1.0,2B
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Wyatt Langford LF,3.0,1.0,0.0,0.0,1.0,1.0,5.0,0.242,0.342,0.433,0.775,21.0,13.0,-0.043,0.54,0.014,-0.057,-0.04%,0.81,-0.2,5.0,0.0,HBP
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Joc Pederson DH,1.0,1.0,0.0,0.0,2.0,0.0,3.0,0.174,0.28,0.33,0.611,14.0,6.0,0.037,0.66,0.04,-0.003,0.03%,0.99,0.3,0.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Dylan Moore PH-DH-DH,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.202,0.265,0.385,0.65,3.0,3.0,0.058,0.53,0.058,0.0,0.05%,0.8,1.6,0.0,0.0,HR
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Rowdy Tellez PH-DH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.218,0.266,0.425,0.691,4.0,2.0,-0.005,0.19,0.0,-0.005,-0.00%,0.29,-0.8,0.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Jake Burger 1B,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.248,0.282,0.448,0.73,17.0,12.0,-0.055,0.57,0.011,-0.066,-0.05%,0.85,-0.8,4.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Josh Jung 3B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.252,0.295,0.393,0.688,14.0,13.0,0.079,0.53,0.102,-0.023,0.07%,0.79,0.7,0.0,0.0,2B
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Alejandro Osuna RF,5.0,1.0,1.0,1.0,0.0,0.0,5.0,0.189,0.313,0.225,0.539,18.0,13.0,0.068,0.47,0.087,-0.019,0.06%,0.7,-0.8,5.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Jonah Heim C,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.214,0.273,0.332,0.604,23.0,11.0,0.008,0.36,0.022,-0.014,0.01%,0.55,-0.4,5.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Cody Freeman 2B,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.211,0.23,0.324,0.554,16.0,10.0,0.113,0.67,0.127,-0.014,0.10%,1.01,1.2,0.0,1.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Ezequiel Duran 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.227,0.276,0.302,0.578,,,,,,,,,,0.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Michael Helman CF,4.0,0.0,2.0,2.0,0.0,0.0,4.0,0.271,0.338,0.61,0.949,13.0,9.0,0.064,0.41,0.084,-0.02,0.06%,0.62,1.7,7.0,0.0,2B
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Jacob deGrom P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Phil Maton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202509120,TEX,https://www.baseball-reference.com/boxes/NYN/NYN202509120.shtml,TexasRangersbatting,Team Totals,37.0,8.0,11.0,8.0,5.0,3.0,43.0,0.297,0.395,0.459,0.855,159.0,101.0,0.375,0.49,0.609,-0.234,0.34%,0.74,3.6,27.0,3.0,

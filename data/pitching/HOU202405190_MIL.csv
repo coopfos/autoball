@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202405190,MIL,https://www.baseball-reference.com/boxes/HOU/HOU202405190.shtml,MilwaukeeBrewerspitching,"Colin Rea, L (3-2)",4.1,8,5,5,4,5,1,4.07,24,96,56,30,7,19,6,9,6,0,28.0,,,-0.33,0.81,-0.23%,0.95,-3.5
+HOU202405190,MIL,https://www.baseball-reference.com/boxes/HOU/HOU202405190.shtml,MilwaukeeBrewerspitching,Thyago Vieira,1.2,3,1,1,1,3,1,5.64,9,37,22,10,7,5,1,4,1,0,,2.0,0.0,0.004,0.25,0.00%,0.29,0.4
+HOU202405190,MIL,https://www.baseball-reference.com/boxes/HOU/HOU202405190.shtml,MilwaukeeBrewerspitching,Mitch White,2.0,3,3,3,1,2,1,7.71,11,41,24,19,3,2,4,3,1,0,,0.0,0.0,-0.09,0.28,-0.06%,0.32,-2.0
+HOU202405190,MIL,https://www.baseball-reference.com/boxes/HOU/HOU202405190.shtml,MilwaukeeBrewerspitching,Team Totals,8.0,14,9,9,6,10,3,10.12,44,174,102,59,17,26,11,16,8,0,28.0,2.0,0.0,-0.416,0.56,-0.29%,0.66,-5.2

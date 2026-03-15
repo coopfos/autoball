@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Luis Arráez DH,4.0,1.0,0.0,0.0,0.0,1.0,5.0,0.335,0.373,0.402,0.776,14.0,11.0,-0.075,0.76,0.014,-0.089,-0.04%,0.74,-0.5,0.0,0.0,HBP
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.265,0.343,0.434,0.777,19.0,12.0,0.014,0.94,0.064,-0.049,0.01%,0.91,0.2,2.0,0.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.251,0.315,0.379,0.693,16.0,12.0,0.229,1.56,0.253,-0.024,0.13%,1.51,2.1,0.0,1.0,SB
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Jurickson Profar LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.329,0.424,0.491,0.914,12.0,9.0,-0.125,1.49,0.019,-0.143,-0.07%,1.45,-1.2,2.0,0.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Donovan Solano 1B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.352,0.426,0.463,0.889,21.0,15.0,-0.097,1.36,0.029,-0.126,-0.06%,1.32,-1.1,8.0,2.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.258,0.318,0.438,0.756,21.0,15.0,-0.045,1.44,0.055,-0.1,-0.03%,1.4,0.1,5.0,6.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.224,0.332,0.388,0.72,19.0,11.0,-0.041,1.31,0.059,-0.1,-0.02%,1.27,-0.3,1.0,4.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.268,0.305,0.343,0.648,18.0,11.0,-0.149,1.52,0.0,-0.149,-0.09%,1.48,-1.1,2.0,0.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Luis Campusano C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.22,0.274,0.345,0.618,9.0,7.0,-0.088,1.21,0.0,-0.088,-0.05%,1.18,-0.6,3.0,0.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,David Peralta PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.176,0.222,0.176,0.399,4.0,2.0,-0.024,0.94,0.0,-0.024,-0.01%,0.91,-0.2,0.0,0.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Adam Mazur P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Yuki Matsui P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Enyel De Los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202406040,SDP,https://www.baseball-reference.com/boxes/ANA/ANA202406040.shtml,SanDiegoPadresbatting,Team Totals,34.0,2.0,7.0,2.0,2.0,9.0,37.0,0.206,0.27,0.206,0.476,153.0,105.0,-0.401,1.23,0.493,-0.892,-0.23%,1.2,-2.4,24.0,14.0,

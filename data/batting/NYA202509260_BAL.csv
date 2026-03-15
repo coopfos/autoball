@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,3.0,1.0,0.0,0.0,2.0,0.0,5.0,0.244,0.317,0.379,0.696,21.0,9.0,-0.104,1.37,0.04,-0.143,0%,0.0,-0.6,0.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,5.0,1.0,3.0,3.0,0.0,1.0,5.0,0.266,0.314,0.453,0.767,15.0,13.0,0.312,0.88,0.35,-0.039,0%,0.0,3.0,1.0,3.0,HR
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.273,0.347,0.433,0.779,19.0,10.0,-0.05,0.7,0.027,-0.077,0%,0.0,-0.5,1.0,1.0,SB
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Tyler O'Neill RF,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.197,0.294,0.399,0.692,21.0,11.0,0.013,0.86,0.095,-0.082,0%,0.0,-0.1,2.0,0.0,HR
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Dylan Beavers LF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.24,0.383,0.423,0.806,9.0,6.0,-0.038,0.76,0.0,-0.038,0%,0.0,-0.4,3.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Dylan Carlson LF,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.203,0.278,0.336,0.614,9.0,4.0,0.076,0.96,0.076,0.0,0%,0.0,0.6,1.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Jeremiah Jackson PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.281,0.33,0.455,0.785,4.0,3.0,-0.015,0.47,0.0,-0.015,0%,0.0,-0.6,0.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Adley Rutschman C,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.223,0.307,0.37,0.677,15.0,8.0,0.018,1.19,0.085,-0.067,0%,0.0,-0.1,8.0,2.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Colton Cowser CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.2,0.275,0.394,0.669,13.0,9.0,-0.033,1.2,0.019,-0.052,0%,0.0,-0.3,2.0,0.0,2B
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Samuel Basallo DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.17,0.235,0.34,0.574,21.0,15.0,-0.156,1.09,0.0,-0.156,0%,0.0,-1.4,0.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Coby Mayo 1B,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.217,0.299,0.38,0.678,16.0,10.0,0.011,1.06,0.036,-0.026,0%,0.0,-0.0,6.0,1.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Trevor Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Colin Selby P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,José Castillo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202509260,BAL,https://www.baseball-reference.com/boxes/NYA/NYA202509260.shtml,BaltimoreOriolesbatting,Team Totals,35.0,4.0,7.0,4.0,6.0,13.0,41.0,0.2,0.317,0.4,0.717,163.0,98.0,0.034,0.99,0.728,-0.695,0.00%,0.0,-0.4,24.0,7.0,

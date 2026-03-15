@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202506170,DET,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,DetroitTigerspitching,"Casey Mize, W (7-2)",6,5,3,2,0,4,0,2.96,23,92,58,37,10,11,8,11,5,0,56.0,,,-0.019,1.01,-0.01%,0.98,-0.0
+DET202506170,DET,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,DetroitTigerspitching,"Chase Lee, H (2)",1,0,0,0,0,1,0,2.01,3,12,7,4,1,2,1,1,0,0,,0.0,0.0,0.095,1.26,0.06%,1.23,0.5
+DET202506170,DET,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,DetroitTigerspitching,Tommy Kahnle,1,0,0,0,0,1,0,1.45,3,14,10,6,2,2,2,0,0,0,,0.0,0.0,0.023,0.29,0.01%,0.28,0.5
+DET202506170,DET,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,DetroitTigerspitching,Brenan Hanifee,1,0,0,0,0,0,0,3.5,3,11,6,5,0,1,1,2,1,0,,0.0,0.0,0.014,0.18,0.01%,0.18,0.5
+DET202506170,DET,https://www.baseball-reference.com/boxes/DET/DET202506170.shtml,DetroitTigerspitching,Team Totals,9,5,3,2,0,6,0,2.0,32,129,81,52,13,16,12,14,6,0,56.0,0.0,0.0,0.113,0.89,0.07%,0.87,1.4

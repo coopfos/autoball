@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Luis Arráez DH,5.0,1.0,3.0,2.0,0.0,0.0,5.0,0.306,0.339,0.382,0.721,22.0,10.0,0.168,0.39,0.17,-0.002,0.14%,0.54,2.5,0.0,0.0,HR
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Jurickson Profar LF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.289,0.386,0.471,0.858,17.0,11.0,-0.093,0.33,0.0,-0.093,-0.08%,0.46,-1.9,1.0,0.0,2B
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Tyler Wade PR-LF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.224,0.297,0.24,0.537,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Jake Cronenworth 1B,4.0,0.0,1.0,1.0,1.0,1.0,5.0,0.246,0.321,0.406,0.726,32.0,18.0,0.035,0.24,0.052,-0.017,0.03%,0.33,0.6,7.0,1.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Manny Machado 3B,5.0,0.0,3.0,1.0,0.0,0.0,5.0,0.27,0.321,0.448,0.769,12.0,9.0,0.016,0.16,0.019,-0.003,0.01%,0.22,0.9,0.0,1.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Xander Bogaerts 2B,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.272,0.318,0.373,0.691,17.0,13.0,0.0,0.28,0.017,-0.018,0%,0.39,-0.7,0.0,2.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.288,0.318,0.484,0.803,20.0,14.0,-0.028,0.46,0.012,-0.039,-0.02%,0.64,-0.6,0.0,0.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,David Peralta RF,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.278,0.342,0.432,0.774,17.0,9.0,0.029,0.33,0.034,-0.005,0.03%,0.46,0.7,4.0,0.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Bryce Johnson PR-RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.228,0.302,0.263,0.565,,,,,,,,,,0.0,0.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Kyle Higashioka C,4.0,2.0,2.0,3.0,0.0,0.0,4.0,0.226,0.271,0.516,0.787,8.0,6.0,0.167,0.46,0.171,-0.004,0.14%,0.64,1.8,14.0,0.0,"HR,2B"
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Mason McCoy SS,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.375,0.5,0.375,0.875,16.0,13.0,0.008,0.21,0.018,-0.01,0.01%,0.29,-0.4,0.0,3.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Joe Musgrove P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Jason Adam P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Sean Reynolds P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202408230,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408230.shtml,SanDiegoPadresbatting,Team Totals,39.0,7.0,16.0,7.0,2.0,6.0,41.0,0.41,0.439,0.615,1.054,161.0,103.0,0.302,0.31,0.493,-0.191,0.25%,0.43,3.0,27.0,8.0,

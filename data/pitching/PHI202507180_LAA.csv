@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,Ryan Zeferjahn,1.0,1,1,1,0,2,1,5.75,4,17,12,5,1,6,1,1,0,0,49.0,,,-0.052,0.6,-0.02%,0.4,-0.5
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,Jake Eder,3.0,4,3,3,3,0,1,3.65,15,61,36,26,2,8,5,7,5,0,,0.0,0.0,-0.151,1.12,-0.06%,0.74,-1.4
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,Brock Burke,1.1,1,0,0,0,2,0,3.52,5,15,12,7,2,3,2,1,1,0,,0.0,0.0,0.102,1.37,0.04%,0.9,0.8
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,"Sam Bachman, W (2-2)",0.2,0,0,0,0,0,0,3.09,2,10,6,3,0,3,1,1,1,0,,0.0,0.0,0.043,0.84,0.02%,0.56,0.3
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,"Reid Detmers, H (9)",1.0,0,0,0,0,2,0,4.06,3,14,9,4,3,2,1,0,0,0,,0.0,0.0,0.086,1.1,0.03%,0.73,0.5
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,"José Fermin, H (3)",1.0,1,1,1,0,1,1,4.15,4,11,8,4,2,2,2,1,0,0,,0.0,0.0,0.003,1.86,0.00%,1.23,-0.5
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,"Kenley Jansen, S (17)",1.0,0,0,0,0,0,0,3.28,3,7,5,4,0,1,1,2,0,0,,0.0,0.0,0.211,2.72,0.08%,1.8,0.5
+PHI202507180,LAA,https://www.baseball-reference.com/boxes/PHI/PHI202507180.shtml,LosAngelesAngelspitching,Team Totals,9.0,7,5,5,3,7,3,5.0,36,135,88,53,10,25,13,13,7,0,49.0,0.0,0.0,0.242,1.29,0.10%,0.85,-0.2

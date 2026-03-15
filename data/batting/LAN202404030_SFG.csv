@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.25,0.303,0.357,0.66,12.0,8.0,-0.092,0.91,0.0,-0.092,-0.05%,0.88,-0.8,5.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,LaMonte Wade Jr. 1B,2.0,1.0,0.0,0.0,2.0,1.0,4.0,0.316,0.409,0.368,0.778,19.0,8.0,0.049,0.91,0.088,-0.038,0.03%,0.88,0.5,3.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Jorge Soler DH,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.28,0.387,0.6,0.987,13.0,9.0,0.121,0.98,0.172,-0.051,0.07%,0.94,1.4,0.0,0.0,"HR,2B"
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Michael Conforto LF,4.0,0.0,1.0,2.0,0.0,2.0,4.0,0.37,0.414,0.778,1.192,17.0,13.0,0.055,1.47,0.145,-0.09,0.03%,1.42,0.6,2.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.233,0.281,0.5,0.781,15.0,11.0,-0.18,1.7,0.0,-0.18,-0.10%,1.64,-1.0,0.0,1.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Thairo Estrada 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.148,0.143,0.259,0.402,19.0,14.0,-0.137,1.32,0.0,-0.137,-0.08%,1.28,-0.8,4.0,4.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.182,0.0,0.182,17.0,11.0,-0.119,1.18,0.0,-0.119,-0.07%,1.14,-0.7,3.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.375,0.444,0.563,1.007,10.0,8.0,0.1,0.77,0.13,-0.03,0.06%,0.74,1.0,6.0,1.0,HR
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Nick Ahmed SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.238,0.273,0.286,0.558,17.0,11.0,-0.058,0.75,0.0,-0.058,-0.03%,0.72,-0.5,1.0,1.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Kyle Harrison P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Erik Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Taylor Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202404030,SFG,https://www.baseball-reference.com/boxes/LAN/LAN202404030.shtml,SanFranciscoGiantsbatting,Team Totals,32.0,4.0,5.0,4.0,2.0,12.0,34.0,0.156,0.206,0.375,0.581,139.0,93.0,-0.261,1.13,0.535,-0.795,-0.15%,1.09,-0.3,24.0,7.0,

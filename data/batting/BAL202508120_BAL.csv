@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.251,0.302,0.39,0.692,12.0,9.0,-0.117,1.57,0.023,-0.14,-0.00%,0.07,-0.6,2.0,1.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Jordan Westburg 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.262,0.307,0.464,0.771,12.0,8.0,-0.142,1.39,0.0,-0.142,-0.00%,0.07,-0.7,0.0,3.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.284,0.354,0.468,0.822,14.0,5.0,0.022,1.16,0.08,-0.059,0.00%,0.06,0.0,4.0,3.0,2B
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Adley Rutschman C,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.235,0.322,0.391,0.713,15.0,10.0,-0.031,1.84,0.072,-0.103,-0.00%,0.09,-0.5,6.0,2.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Ryan Mountcastle DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.239,0.274,0.348,0.623,17.0,13.0,-0.243,2.4,0.0,-0.243,-0.01%,0.11,-0.9,0.0,0.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Coby Mayo 1B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.212,0.288,0.364,0.651,11.0,8.0,-0.098,1.3,0.0,-0.098,-0.00%,0.06,-0.5,6.0,1.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Ryan Noda RF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.114,0.291,0.182,0.473,12.0,8.0,0.026,1.18,0.07,-0.043,0.00%,0.06,-0.1,3.0,1.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Daniel Johnson PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.172,0.226,0.345,0.571,,,,,,,,,,0.0,0.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Dylan Carlson LF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.186,0.229,0.288,0.517,14.0,10.0,-0.088,1.89,0.031,-0.118,-0.00%,0.09,-0.3,3.0,0.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Greg Allen CF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,9.0,6.0,-0.09,1.29,0.0,-0.09,-0.00%,0.06,-0.7,2.0,0.0,GDP
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Jeremiah Jackson PH-RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.24,0.269,0.36,0.629,1.0,1.0,-0.067,2.41,0.0,-0.067,-0.00%,0.11,-0.2,0.0,0.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Dean Kremer P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Rico Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202508120,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202508120.shtml,BaltimoreOriolesbatting,Team Totals,31.0,0.0,5.0,0.0,1.0,9.0,32.0,0.161,0.188,0.194,0.381,117.0,78.0,-0.828,1.61,0.276,-1.103,-0.02%,0.08,-4.3,27.0,11.0,

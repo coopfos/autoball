@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Michael Harris II CF,5.0,2.0,3.0,1.0,0.0,1.0,5.0,0.254,0.296,0.369,0.665,25.0,14.0,0.128,0.36,0.129,0.0,0.09%,0.43,1.6,3.0,0.0,2B
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Austin Riley 3B,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.256,0.321,0.461,0.782,21.0,13.0,0.047,0.38,0.065,-0.018,0.03%,0.46,-0.1,0.0,1.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Marcell Ozuna DH,3.0,3.0,3.0,3.0,1.0,0.0,4.0,0.307,0.379,0.59,0.968,18.0,10.0,0.167,0.57,0.167,0.0,0.12%,0.69,2.8,0.0,0.0,HR
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Luke Williams PH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.071,0.188,0.071,0.259,3.0,1.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Matt Olson 1B,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.229,0.312,0.424,0.736,22.0,13.0,-0.037,0.31,0.0,-0.037,-0.03%,0.38,-1.2,4.0,0.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Travis d'Arnaud C,3.0,2.0,1.0,2.0,0.0,0.0,4.0,0.253,0.312,0.481,0.793,11.0,7.0,0.01,0.32,0.041,-0.031,0.01%,0.38,1.6,10.0,0.0,"2B,HBP,GDP"
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Sean Murphy C,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.226,0.313,0.396,0.709,4.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.3,5.0,0.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Ramón Laureano RF,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.222,0.291,0.392,0.684,13.0,7.0,0.001,0.15,0.016,-0.015,0%,0.18,2.5,0.0,0.0,"HR,2B"
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Jarred Kelenic LF,4.0,0.0,0.0,1.0,1.0,1.0,5.0,0.235,0.29,0.401,0.691,23.0,13.0,-0.017,0.16,0.003,-0.02,-0.01%,0.2,-0.1,1.0,0.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Orlando Arcia SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.227,0.273,0.352,0.625,12.0,8.0,0.009,0.15,0.015,-0.005,0.01%,0.18,-0.4,2.0,3.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Whit Merrifield 2B,4.0,2.0,1.0,1.0,0.0,0.0,4.0,0.208,0.302,0.309,0.611,18.0,10.0,0.029,0.31,0.046,-0.017,0.02%,0.37,0.3,2.0,2.0,"HR,SB"
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Chris Sale P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Pierce Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202408170,ATL,https://www.baseball-reference.com/boxes/ANA/ANA202408170.shtml,AtlantaBravesbatting,Team Totals,38.0,11.0,12.0,10.0,4.0,7.0,43.0,0.316,0.395,0.632,1.027,170.0,99.0,0.337,0.28,0.482,-0.143,0.24%,0.34,6.6,27.0,6.0,

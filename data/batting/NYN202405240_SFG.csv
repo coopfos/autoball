@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Luis Matos CF,5.0,0.0,0.0,1.0,0.0,0.0,5.0,0.28,0.294,0.46,0.754,11.0,7.0,-0.112,1.02,0.0,-0.112,-0.06%,0.92,-1.7,4.0,0.0,GDP
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,LaMonte Wade Jr. 1B,4.0,1.0,0.0,0.0,0.0,1.0,4.0,0.328,0.469,0.416,0.885,18.0,9.0,-0.073,0.78,0.0,-0.073,-0.04%,0.7,-0.9,5.0,0.0,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Thairo Estrada 2B,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.244,0.275,0.43,0.705,13.0,9.0,0.019,0.47,0.047,-0.029,0.01%,0.42,0.8,1.0,2.0,2B
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.245,0.312,0.434,0.745,22.0,11.0,-0.039,1.12,0.03,-0.069,-0.02%,1.01,-0.5,0.0,2.0,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,4.0,1.0,2.0,4.0,0.0,0.0,4.0,0.301,0.352,0.495,0.847,14.0,9.0,0.608,1.17,0.64,-0.033,0.33%,1.05,3.4,12.0,1.0,"HR,SB"
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Jorge Soler DH,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.215,0.302,0.383,0.684,17.0,10.0,0.059,0.62,0.11,-0.051,0.03%,0.56,0.5,0.0,0.0,HR
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Heliot Ramos LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.281,0.339,0.439,0.777,22.0,12.0,-0.06,0.8,0.013,-0.073,-0.03%,0.72,-0.6,2.0,0.0,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.225,0.286,0.38,0.666,20.0,14.0,0.073,0.67,0.118,-0.046,0.04%,0.6,1.0,0.0,0.0,HR
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Marco Luciano SS,4.0,1.0,3.0,0.0,0.0,1.0,4.0,0.409,0.48,0.591,1.071,21.0,12.0,0.143,0.68,0.158,-0.015,0.08%,0.61,1.7,3.0,0.0,3B
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Kyle Harrison P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Nick Avila P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Ryan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202405240,SFG,https://www.baseball-reference.com/boxes/NYN/NYN202405240.shtml,SanFranciscoGiantsbatting,Team Totals,35.0,8.0,9.0,8.0,2.0,6.0,37.0,0.257,0.297,0.6,0.897,158.0,93.0,0.618,0.83,1.116,-0.501,0.33%,0.74,3.7,27.0,5.0,

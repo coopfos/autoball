@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Andy Ibáñez 2B,2.0,1.0,0.0,0.0,1.0,0.0,3.0,0.288,0.313,0.424,0.736,15.0,10.0,0.02,0.84,0.053,-0.033,0.01%,0.7,0.0,2.0,0.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Colt Keith PH-2B,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.197,0.259,0.22,0.479,4.0,3.0,0.067,1.46,0.067,0.0,0.03%,1.22,0.4,0.0,0.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Mark Canha LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.24,0.36,0.413,0.773,11.0,8.0,-0.116,1.6,0.0,-0.116,-0.06%,1.33,-0.8,4.0,0.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Riley Greene DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.249,0.354,0.467,0.821,14.0,9.0,0.048,1.64,0.125,-0.076,0.02%,1.37,0.1,0.0,0.0,SB
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Matt Vierling CF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.261,0.286,0.41,0.696,17.0,11.0,-0.037,1.5,0.118,-0.155,-0.02%,1.26,-0.2,3.0,0.0,2B
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Gio Urshela 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.288,0.297,0.342,0.64,20.0,13.0,-0.155,1.72,0.026,-0.181,-0.08%,1.44,-0.9,1.0,3.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Wenceel Pérez RF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.301,0.377,0.527,0.904,15.0,10.0,0.008,1.21,0.099,-0.091,0.01%,1.01,-0.1,0.0,0.0,"SB,GDP"
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Spencer Torkelson 1B,4.0,2.0,1.0,1.0,0.0,1.0,4.0,0.227,0.291,0.36,0.651,18.0,11.0,-0.029,1.46,0.083,-0.112,-0.01%,1.22,0.3,4.0,2.0,HR
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Javier Báez SS,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.209,0.236,0.288,0.524,11.0,9.0,-0.024,1.21,0.069,-0.092,-0.01%,1.01,0.2,4.0,1.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Carson Kelly C,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.225,0.321,0.296,0.617,4.0,3.0,-0.045,0.82,0.0,-0.045,-0.02%,0.69,-0.4,2.0,1.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Kerry Carpenter PH,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.276,0.326,0.528,0.854,3.0,3.0,0.155,1.61,0.155,0.0,0.08%,1.34,0.8,0.0,0.0,3B
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Jake Rogers C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.189,0.255,0.289,0.544,,,,,,,,,,3.0,0.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Matt Manning P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Alex Faedo P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ARI202405190,DET,https://www.baseball-reference.com/boxes/ARI/ARI202405190.shtml,DetroitTigersbatting,Team Totals,33.0,4.0,8.0,4.0,2.0,7.0,35.0,0.242,0.286,0.424,0.71,132.0,90.0,-0.108,1.39,0.795,-0.901,-0.05%,1.16,-0.6,24.0,8.0,

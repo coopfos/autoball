@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.238,0.315,0.349,0.664,22.0,13.0,0.14,0.86,0.157,-0.018,0.11%,1.15,1.2,1.0,1.0,2B
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Juan Soto RF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.297,0.429,0.603,1.032,14.0,8.0,-0.033,0.89,0.029,-0.062,-0.03%,1.18,-0.6,2.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Aaron Judge CF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.333,0.464,0.728,1.192,11.0,7.0,-0.056,0.8,0.066,-0.122,-0.04%,1.07,-0.4,4.0,0.0,"HR,GDP"
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.241,0.3,0.485,0.785,13.0,8.0,0.094,0.55,0.139,-0.045,0.07%,0.73,0.3,0.0,0.0,HR
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.256,0.326,0.442,0.768,14.0,10.0,-0.039,0.52,0.0,-0.039,-0.03%,0.69,-0.5,0.0,2.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Jose Trevino C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.239,0.31,0.403,0.713,12.0,10.0,-0.042,0.55,0.0,-0.042,-0.03%,0.74,-0.5,9.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Anthony Volpe SS,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.25,0.303,0.389,0.692,10.0,7.0,0.007,0.42,0.023,-0.016,0.01%,0.56,-0.1,0.0,2.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Alex Verdugo LF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.226,0.288,0.352,0.64,12.0,4.0,0.003,0.75,0.032,-0.029,0.00%,1.0,-0.0,2.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Ben Rice 1B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.183,0.28,0.373,0.653,12.0,8.0,-0.041,0.86,0.003,-0.043,-0.03%,1.14,-0.3,9.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Luke Weaver P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Jake Cousins P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408230,NYY,https://www.baseball-reference.com/boxes/NYA/NYA202408230.shtml,NewYorkYankeesbatting,Team Totals,29.0,3.0,5.0,2.0,2.0,5.0,31.0,0.172,0.226,0.414,0.64,120.0,75.0,0.033,0.7,0.449,-0.416,0.03%,0.93,-1.0,27.0,5.0,

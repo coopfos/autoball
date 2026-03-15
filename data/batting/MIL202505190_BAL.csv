@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.273,0.333,0.441,0.774,10.0,10.0,-0.214,1.75,0.013,-0.228,-0.03%,0.38,-1.0,1.0,1.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Ryan Mountcastle 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.226,0.261,0.329,0.59,14.0,10.0,-0.101,0.98,0.0,-0.101,-0.01%,0.21,-0.8,6.0,1.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.253,0.302,0.462,0.764,20.0,10.0,0.004,0.79,0.049,-0.045,0.00%,0.17,-0.2,1.0,2.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Ramón Laureano RF,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.272,0.327,0.543,0.87,18.0,11.0,0.18,1.25,0.203,-0.023,0.02%,0.27,1.4,1.0,1.0,HR
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Ryan O'Hearn DH,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.294,0.386,0.5,0.886,16.0,10.0,-0.113,1.65,0.027,-0.14,-0.01%,0.35,-0.7,0.0,0.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Ramón Urías 3B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.267,0.333,0.372,0.705,11.0,10.0,-0.042,1.56,0.089,-0.13,-0.01%,0.34,0.1,2.0,2.0,2B
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Cedric Mullins CF,3.0,1.0,1.0,3.0,1.0,0.0,4.0,0.229,0.331,0.471,0.803,8.0,4.0,0.399,2.06,0.437,-0.039,0.05%,0.44,2.1,4.0,0.0,"HR,SB"
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Dylan Carlson LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.095,0.0,0.095,21.0,13.0,-0.078,1.8,0.072,-0.15,-0.01%,0.39,-0.4,2.0,0.0,CS
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Maverick Handley C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.059,0.105,0.059,0.164,7.0,6.0,-0.078,1.06,0.0,-0.078,-0.01%,0.23,-0.6,7.0,0.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Adley Rutschman PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.208,0.299,0.338,0.637,5.0,4.0,-0.113,4.05,0.0,-0.113,-0.01%,0.87,-0.4,0.0,0.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Dean Kremer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202505190,BAL,https://www.baseball-reference.com/boxes/MIL/MIL202505190.shtml,BaltimoreOriolesbatting,Team Totals,33.0,4.0,6.0,4.0,4.0,9.0,37.0,0.182,0.27,0.394,0.664,130.0,88.0,-0.156,1.54,0.89,-1.047,-0.02%,0.33,-0.4,24.0,9.0,

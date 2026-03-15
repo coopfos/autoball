@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.278,0.35,0.476,0.827,27.0,18.0,-0.046,1.43,0.084,-0.13,-0.03%,1.43,0.2,4.0,3.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Brandon Nimmo LF,5.0,1.0,0.0,0.0,0.0,3.0,5.0,0.236,0.299,0.443,0.742,19.0,15.0,-0.099,1.56,0.061,-0.16,-0.06%,1.56,-0.3,2.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Juan Soto RF,4.0,1.0,1.0,1.0,1.0,1.0,5.0,0.253,0.389,0.466,0.855,18.0,8.0,0.078,1.42,0.158,-0.08,0.05%,1.42,1.0,3.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,1.0,0.0,0.0,2.0,5.0,0.298,0.397,0.584,0.981,25.0,16.0,0.124,1.57,0.224,-0.101,0.07%,1.57,0.3,10.0,0.0,"2B,HBP"
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Jeff McNeil 2B-CF,4.0,0.0,1.0,0.0,1.0,0.0,5.0,0.269,0.364,0.538,0.902,21.0,16.0,-0.011,1.89,0.073,-0.084,-0.01%,1.89,-0.7,0.0,2.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Starling Marte DH,4.0,0.0,3.0,3.0,1.0,1.0,5.0,0.254,0.357,0.393,0.75,20.0,10.0,0.216,2.31,0.344,-0.129,0.13%,2.31,2.7,0.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Tyrone Taylor CF,3.0,0.0,0.0,1.0,0.0,1.0,3.0,0.234,0.3,0.332,0.632,9.0,6.0,-0.048,1.58,0.018,-0.066,-0.03%,1.58,-1.1,2.0,0.0,GDP
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Brett Baty PH-2B,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.221,0.271,0.409,0.68,8.0,3.0,-0.071,4.11,0.027,-0.098,-0.04%,4.1,-0.2,1.0,1.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Luisangel Acuña PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.239,0.289,0.283,0.571,,,,,,,,,,0.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Ronny Mauricio 3B,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.179,0.281,0.321,0.603,22.0,15.0,-0.235,2.55,0.059,-0.295,-0.14%,2.54,-1.6,1.0,2.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Francisco Alvarez C,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.241,0.328,0.324,0.652,18.0,9.0,0.07,1.47,0.14,-0.071,0.04%,1.47,0.5,4.0,1.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Paul Blackburn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Max Kranick P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Justin Garza P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202506130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202506130.shtml,NewYorkMetsbatting,Team Totals,36.0,5.0,7.0,5.0,7.0,13.0,44.0,0.194,0.341,0.222,0.563,187.0,116.0,-0.022,1.86,1.188,-1.214,-0.01%,1.86,0.8,27.0,9.0,

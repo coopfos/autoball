@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetspitching,"Luis Severino, W (4-2)",8,7,1,1,0,4,0,3.25,27,92,62,38,9,15,14,9,4,0,68.0,,,0.294,0.57,0.07%,0.22,2.9
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetspitching,Danny Young,1,0,0,0,0,1,0,0.0,3,11,9,2,3,4,1,1,1,0,,0.0,0.0,0.001,0.01,0.00%,0.0,0.5
+WAS202406050,NYM,https://www.baseball-reference.com/boxes/WAS/WAS202406050.shtml,NewYorkMetspitching,Team Totals,9,7,1,1,0,5,0,1.0,30,103,71,40,12,19,15,10,5,0,68.0,0.0,0.0,0.295,0.52,0.07%,0.2,3.4

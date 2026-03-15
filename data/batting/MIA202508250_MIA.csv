@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Xavier Edwards 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.291,0.349,0.368,0.716,22.0,14.0,0.055,0.54,0.088,-0.033,0.00%,0.03,0.5,2.0,0.0,3B
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Jakob Marsee CF-LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.329,0.398,0.671,1.069,18.0,9.0,-0.086,0.67,0.0,-0.086,-0.00%,0.04,-0.9,1.0,0.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Agustín Ramírez C,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.23,0.288,0.428,0.716,10.0,5.0,-0.061,0.96,0.029,-0.09,-0.00%,0.06,-0.5,13.0,0.0,HBP
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Liam Hicks 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.255,0.35,0.35,0.699,6.0,6.0,-0.064,0.83,0.0,-0.064,-0.00%,0.05,-0.7,5.0,2.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Otto Lopez SS,1.0,1.0,0.0,0.0,2.0,0.0,3.0,0.24,0.311,0.359,0.67,12.0,4.0,0.073,1.24,0.097,-0.024,0.00%,0.07,0.7,1.0,2.0,SB
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Eric Wagaman DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.235,0.286,0.37,0.656,14.0,8.0,-0.097,1.36,0.0,-0.097,-0.00%,0.08,-1.0,0.0,0.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Troy Johnston LF,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.271,0.3,0.375,0.675,14.0,8.0,0.084,1.17,0.134,-0.049,0.00%,0.07,0.4,2.0,0.0,2B
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Derek Hill CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.211,0.274,0.333,0.608,,,,,,,,,,0.0,0.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Joey Wiemer RF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.2,0.2,0.2,0.4,12.0,7.0,-0.108,1.08,0.039,-0.147,-0.00%,0.07,-1.2,1.0,0.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Maximo Acosta 3B,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.167,0.211,0.667,0.877,10.0,9.0,0.04,0.66,0.08,-0.04,0.00%,0.04,0.6,0.0,2.0,HR
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Edward Cabrera P,,,,,,,,,,,,,,,,,,,,,2.0,1.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Tyler Zuber P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Josh Simpson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202508250,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202508250.shtml,MiamiMarlinsbatting,Team Totals,26.0,2.0,4.0,2.0,2.0,5.0,29.0,0.154,0.241,0.385,0.626,118.0,70.0,-0.164,0.91,0.467,-0.63,-0.01%,0.06,-2.2,27.0,7.0,

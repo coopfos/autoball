@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202504190,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504190.shtml,StLouisCardinalspitching,"Matthew Liberatore, L (1-2)",6.2,6,2,2,1,6,0,3.6,27,100,66,41,12,13,9,11,5,0,59.0,,,0.015,0.69,0.01%,0.58,1.1
+NYN202504190,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504190.shtml,StLouisCardinalspitching,John King,1.1,2,1,1,0,1,1,5.4,6,16,14,9,1,4,4,1,0,0,,1.0,0.0,-0.016,0.17,-0.01%,0.14,-0.3
+NYN202504190,STL,https://www.baseball-reference.com/boxes/NYN/NYN202504190.shtml,StLouisCardinalspitching,Team Totals,8.0,8,3,3,1,7,1,3.38,33,116,80,50,13,17,13,12,5,0,59.0,1.0,0.0,-0.001,0.59,-0.00%,0.49,0.8

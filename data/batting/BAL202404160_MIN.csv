@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Edouard Julien 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.189,0.283,0.453,0.736,17.0,10.0,-0.018,0.34,0.009,-0.027,-0.01%,0.29,-0.4,0.0,2.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Ryan Jeffers DH,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.292,0.358,0.563,0.921,16.0,11.0,0.019,0.28,0.029,-0.01,0.01%,0.24,-0.0,0.0,0.0,2B
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Alex Kirilloff 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.286,0.333,0.531,0.864,11.0,8.0,-0.044,0.39,0.012,-0.056,-0.02%,0.33,-0.1,7.0,0.0,GDP
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Byron Buxton CF,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.208,0.246,0.321,0.566,15.0,11.0,-0.015,0.47,0.016,-0.031,-0.01%,0.39,0.6,3.0,0.0,3B
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Jair Camargo PH,0.0,1.0,0.0,0.0,1.0,0.0,1.0,,1.0,,,7.0,3.0,0.0,0.01,0.0,0.0,0%,0.01,0.4,0.0,0.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Trevor Larnach LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.25,0.25,0.25,0.5,13.0,9.0,-0.029,0.29,0.001,-0.03,-0.01%,0.25,-0.2,3.0,0.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,José Miranda 3B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.286,0.348,0.429,0.776,12.0,8.0,-0.016,0.17,0.001,-0.017,-0.01%,0.15,0.5,1.0,0.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Willi Castro SS,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.111,0.231,0.2,0.431,20.0,13.0,0.031,0.25,0.036,-0.005,0.02%,0.21,-0.5,0.0,3.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Manuel Margot RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.189,0.286,0.27,0.556,17.0,9.0,-0.032,0.4,0.002,-0.034,-0.02%,0.34,-0.8,4.0,0.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Christian Vázquez C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.133,0.156,0.233,0.39,12.0,9.0,-0.045,0.26,0.003,-0.048,-0.02%,0.22,-0.6,6.0,0.0,GDP
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Chris Paddack P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Jay Jackson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202404160,MIN,https://www.baseball-reference.com/boxes/BAL/BAL202404160.shtml,MinnesotaTwinsbatting,Team Totals,32.0,3.0,7.0,3.0,4.0,10.0,36.0,0.219,0.306,0.313,0.618,140.0,91.0,-0.149,0.3,0.109,-0.258,-0.08%,0.26,-1.1,24.0,6.0,

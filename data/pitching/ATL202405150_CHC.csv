@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202405150,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405150.shtml,ChicagoCubspitching,"Javier Assad, W (4-0)",6,4,0,0,1,7,0,1.49,23,86,58,36,5,17,9,6,4,0,70.0,,,0.225,0.57,0.17%,0.7,3.1
+ATL202405150,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405150.shtml,ChicagoCubspitching,Ben Brown,2,4,1,1,0,3,0,3.78,9,28,19,10,6,3,3,3,3,0,,0.0,0.0,0.01,0.32,0.01%,0.4,0.0
+ATL202405150,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405150.shtml,ChicagoCubspitching,Luke Little,1,0,0,0,1,1,0,6.3,5,14,9,4,1,4,1,1,0,0,,0.0,0.0,0.003,0.23,0.00%,0.28,0.5
+ATL202405150,CHC,https://www.baseball-reference.com/boxes/ATL/ATL202405150.shtml,ChicagoCubspitching,Team Totals,9,8,1,1,2,11,0,1.0,37,128,86,50,12,24,13,10,7,0,70.0,0.0,0.0,0.238,0.46,0.18%,0.57,3.6

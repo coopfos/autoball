@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202507010,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202507010.shtml,MiamiMarlinspitching,"Edward Cabrera, W (3-2)",7,2,0,0,1,6,0,3.41,24,93,58,27,14,17,11,6,1,0,78.0,,,0.471,1.15,0.06%,0.25,3.7
+MIA202507010,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202507010.shtml,MiamiMarlinspitching,"Anthony Bender, H (14)",1,0,0,0,0,1,0,2.21,3,11,8,5,1,2,1,1,0,0,,0.0,0.0,0.123,1.6,0.02%,0.35,0.5
+MIA202507010,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202507010.shtml,MiamiMarlinspitching,"Ronny Henriquez, S (4)",1,0,0,0,0,2,0,2.85,3,13,8,4,2,2,0,1,0,0,,0.0,0.0,0.077,0.99,0.01%,0.22,0.5
+MIA202507010,MIA,https://www.baseball-reference.com/boxes/MIA/MIA202507010.shtml,MiamiMarlinspitching,Team Totals,9,2,0,0,1,9,0,0.0,30,117,74,36,17,21,12,8,1,0,78.0,0.0,0.0,0.671,1.18,0.09%,0.26,4.7

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,James Wood LF,5.0,1.0,2.0,2.0,0.0,3.0,5.0,0.256,0.357,0.484,0.84,23.0,14.0,0.102,0.69,0.158,-0.056,0%,0.0,1.1,2.0,0.0,"HR,2B"
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,CJ Abrams SS,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.267,0.332,0.45,0.782,8.0,7.0,-0.062,0.57,0.007,-0.069,0%,0.0,-0.8,0.0,2.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Paul DeJong 2B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.225,0.273,0.382,0.655,15.0,9.0,0.112,0.55,0.146,-0.035,0%,0.0,0.5,2.0,3.0,"HR,SB,GDP"
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Josh Bell 1B,3.0,1.0,2.0,1.0,1.0,0.0,4.0,0.229,0.327,0.391,0.719,15.0,7.0,0.114,0.54,0.121,-0.008,0%,0.0,1.5,8.0,0.0,"HR,2B"
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Nathaniel Lowe 1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.216,0.288,0.369,0.657,,,,,,,,,,1.0,0.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Riley Adams C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.18,0.236,0.36,0.596,21.0,11.0,-0.03,0.69,0.02,-0.05,0%,0.0,-0.4,8.0,0.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Drew Millas DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.324,0.359,0.405,0.764,19.0,12.0,-0.079,0.78,0.0,-0.079,0%,0.0,-1.3,0.0,0.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Daylen Lile RF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.249,0.296,0.382,0.678,13.0,8.0,-0.015,0.48,0.024,-0.039,0%,0.0,-0.1,2.0,0.0,SB
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Robert Hassell III RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.265,0.365,0.63,,,,,,,,,,0.0,0.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Brady House 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.242,0.261,0.329,0.59,10.0,7.0,0.008,0.46,0.039,-0.03,0%,0.0,-0.3,0.0,6.0,2B
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.228,0.298,0.268,0.566,23.0,10.0,-0.027,0.5,0.026,-0.053,0%,0.0,-0.4,3.0,0.0,"SB,CS"
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Brad Lord P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Konnor Pilkington P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Cole Henry P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202508090,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202508090.shtml,WashingtonNationalsbatting,Team Totals,36.0,4.0,11.0,4.0,3.0,7.0,39.0,0.306,0.359,0.639,0.998,147.0,85.0,0.123,0.58,0.541,-0.419,0.00%,0.0,-0.2,27.0,12.0,

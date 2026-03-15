@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+COL202405260,PHI,https://www.baseball-reference.com/boxes/COL/COL202405260.shtml,PhiladelphiaPhilliespitching,"Ranger Suárez, L (9-1)",6,3,5,4,4,9,1,1.75,25,100,61,31,18,12,4,8,4,0,53.0,,,-0.225,0.53,-0.10%,0.41,-1.7
+COL202405260,PHI,https://www.baseball-reference.com/boxes/COL/COL202405260.shtml,PhiladelphiaPhilliespitching,Orion Kerkering,1,2,0,0,0,0,0,1.56,5,15,9,5,3,1,4,1,1,0,,0.0,0.0,0.015,0.24,0.01%,0.18,0.5
+COL202405260,PHI,https://www.baseball-reference.com/boxes/COL/COL202405260.shtml,PhiladelphiaPhilliespitching,Seranthony Domínguez,1,1,0,0,0,1,0,6.0,4,16,12,7,2,3,0,3,2,0,,0.0,0.0,0.008,0.13,0.00%,0.1,0.5
+COL202405260,PHI,https://www.baseball-reference.com/boxes/COL/COL202405260.shtml,PhiladelphiaPhilliespitching,Team Totals,8,6,5,4,4,10,1,4.5,34,131,82,43,23,16,8,12,7,0,53.0,0.0,0.0,-0.202,0.44,-0.09%,0.34,-0.6

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202508240,HOU,https://www.baseball-reference.com/boxes/BAL/BAL202508240.shtml,HoustonAstrospitching,"Spencer Arrighetti, L (1-5)",5.2,6,2,2,0,2,1,6.21,22,97,67,45,2,20,10,10,7,0,51.0,,,0.014,0.93,0.01%,1.2,0.7
+BAL202508240,HOU,https://www.baseball-reference.com/boxes/BAL/BAL202508240.shtml,HoustonAstrospitching,John Rooney,1.1,1,1,1,1,2,1,6.75,6,23,14,4,4,6,1,2,0,0,,1.0,0.0,-0.054,0.7,-0.04%,0.9,-0.3
+BAL202508240,HOU,https://www.baseball-reference.com/boxes/BAL/BAL202508240.shtml,HoustonAstrospitching,Craig Kimbrel,1.0,1,0,0,0,2,0,0.0,3,16,9,3,2,4,0,1,1,0,,0.0,0.0,0.03,0.53,0.02%,0.68,0.5
+BAL202508240,HOU,https://www.baseball-reference.com/boxes/BAL/BAL202508240.shtml,HoustonAstrospitching,Team Totals,8.0,8,3,3,1,6,2,3.38,31,136,90,52,8,30,11,13,8,0,51.0,1.0,0.0,-0.01,0.85,-0.01%,1.1,0.9

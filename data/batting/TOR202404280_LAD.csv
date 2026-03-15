@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Mookie Betts SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.387,0.482,0.655,1.138,16.0,12.0,0.116,1.36,0.191,-0.075,0.08%,1.58,0.3,3.0,2.0,2B
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.336,0.399,0.639,1.038,14.0,9.0,-0.159,1.37,0.0,-0.159,-0.11%,1.59,-1.1,0.0,0.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.306,0.425,0.435,0.861,12.0,11.0,0.08,1.14,0.104,-0.024,0.06%,1.32,0.9,9.0,0.0,"HR,IW"
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.257,0.323,0.46,0.783,8.0,8.0,-0.171,1.78,0.0,-0.171,-0.12%,2.06,-1.2,0.0,0.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Max Muncy 3B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.258,0.357,0.495,0.852,21.0,14.0,-0.121,2.01,0.058,-0.18,-0.08%,2.33,-0.5,1.0,1.0,2B
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Andy Pages RF,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.302,0.326,0.535,0.861,9.0,6.0,-0.051,1.08,0.063,-0.114,-0.04%,1.25,-0.5,3.0,0.0,"2B,CS"
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,James Outman CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.173,0.256,0.284,0.54,14.0,9.0,-0.058,1.19,0.028,-0.086,-0.04%,1.39,-0.4,0.0,0.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.187,0.247,0.213,0.46,21.0,15.0,-0.055,1.07,0.036,-0.091,-0.04%,1.24,-0.4,1.0,5.0,2B
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Austin Barnes C,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.238,0.385,0.238,0.623,17.0,10.0,-0.004,1.4,0.066,-0.07,-0.00%,1.62,-0.4,7.0,0.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Michael Grove P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Ryan Yarbrough P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Nabil Crismatt P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404280,LAD,https://www.baseball-reference.com/boxes/TOR/TOR202404280.shtml,LosAngelesDodgersbatting,Team Totals,33.0,1.0,6.0,1.0,2.0,8.0,35.0,0.182,0.229,0.394,0.623,132.0,94.0,-0.423,1.37,0.546,-0.97,-0.30%,1.59,-3.4,24.0,9.0,

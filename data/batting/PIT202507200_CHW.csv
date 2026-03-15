@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Chase Meidroth SS,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.241,0.326,0.292,0.618,19.0,12.0,0.029,0.45,0.062,-0.033,0%,0.0,-0.1,2.0,2.0,2B
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Austin Slater RF,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.236,0.306,0.418,0.724,23.0,14.0,-0.005,0.51,0.031,-0.036,0%,0.0,-0.9,1.0,0.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Edgar Quero C,4.0,1.0,0.0,0.0,1.0,0.0,5.0,0.268,0.35,0.356,0.706,13.0,6.0,-0.056,0.56,0.012,-0.068,0%,0.0,-0.8,12.0,0.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 1B,5.0,2.0,2.0,3.0,0.0,0.0,5.0,0.222,0.301,0.398,0.699,17.0,11.0,0.239,0.57,0.25,-0.011,0%,0.0,3.0,8.0,3.0,"HR,2B"
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Mike Tauchman DH,3.0,1.0,2.0,3.0,0.0,1.0,4.0,0.289,0.383,0.464,0.847,14.0,9.0,0.089,0.28,0.096,-0.007,0%,0.0,2.3,0.0,0.0,"HR,2B,HBP"
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.201,0.289,0.342,0.631,12.0,11.0,0.041,0.37,0.056,-0.015,0%,0.0,0.0,1.0,0.0,SB
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.27,0.296,0.417,0.712,16.0,13.0,-0.036,0.24,0.0,-0.036,0%,0.0,-1.1,0.0,2.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Colson Montgomery 3B,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.263,0.364,0.342,0.706,12.0,11.0,0.017,0.37,0.033,-0.016,0%,0.0,-0.3,0.0,3.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Michael A. Taylor LF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.224,0.294,0.399,0.693,19.0,12.0,0.029,0.21,0.032,-0.003,0%,0.0,0.4,1.0,0.0,2B
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Aaron Civale P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Grant Taylor P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Dan Altavilla P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Mike Vasil P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202507200,CHW,https://www.baseball-reference.com/boxes/PIT/PIT202507200.shtml,ChicagoWhiteSoxbatting,Team Totals,37.0,7.0,10.0,7.0,2.0,8.0,40.0,0.27,0.325,0.541,0.866,145.0,99.0,0.347,0.41,0.572,-0.225,0.00%,0.0,2.5,27.0,10.0,

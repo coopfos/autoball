@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.263,0.333,0.467,0.8,14.0,12.0,-0.195,1.02,0.0,-0.195,-0.15%,1.34,-2.0,2.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Luis Arráez DH,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.283,0.318,0.404,0.722,16.0,12.0,0.022,1.33,0.099,-0.077,0.02%,1.74,0.3,0.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Manny Machado 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.316,0.38,0.506,0.886,17.0,13.0,0.0,1.23,0.118,-0.118,0%,1.61,-0.3,2.0,2.0,"HR,GDP"
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Jackson Merrill CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.301,0.34,0.479,0.819,12.0,9.0,-0.097,0.94,0.0,-0.097,-0.08%,1.24,-1.1,4.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Gavin Sheets 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.259,0.318,0.477,0.794,17.0,10.0,-0.036,0.61,0.014,-0.049,-0.03%,0.8,-0.4,4.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Jose Iglesias 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.254,0.31,0.297,0.607,,,,,,,,,,0.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Xander Bogaerts SS,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.239,0.324,0.33,0.654,23.0,15.0,-0.023,0.57,0.02,-0.043,-0.02%,0.75,-0.1,2.0,1.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B-1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.246,0.377,0.415,0.792,12.0,10.0,-0.051,0.69,0.013,-0.063,-0.04%,0.9,-0.6,2.0,1.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Tyler Wade LF,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.231,0.326,0.269,0.595,7.0,6.0,0.016,0.92,0.04,-0.024,0.01%,1.2,0.2,2.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Brandon Lockridge PH-LF,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.236,0.286,0.292,0.577,8.0,5.0,0.019,0.52,0.027,-0.008,0.01%,0.68,0.0,1.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Martín Maldonado C,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.179,0.207,0.274,0.481,15.0,9.0,0.161,1.03,0.192,-0.03,0.13%,1.34,1.4,8.0,1.0,2B
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Randy Vásquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Wandy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Robert Suarez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202506060,SDP,https://www.baseball-reference.com/boxes/MIL/MIL202506060.shtml,SanDiegoPadresbatting,Team Totals,34.0,2.0,8.0,2.0,3.0,12.0,37.0,0.235,0.297,0.353,0.65,141.0,101.0,-0.184,0.91,0.523,-0.704,-0.14%,1.19,-2.6,27.0,5.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,6.0,1.0,3.0,2.0,0.0,0.0,6.0,0.253,0.327,0.368,0.695,18.0,13.0,0.03,0.22,0.039,-0.01,0.01%,0.14,1.7,2.0,3.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Juan Soto RF,6.0,2.0,2.0,0.0,0.0,0.0,6.0,0.288,0.418,0.575,0.993,23.0,16.0,0.071,0.36,0.075,-0.005,0.03%,0.23,-0.3,2.0,0.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Aaron Judge CF,3.0,2.0,2.0,1.0,1.0,1.0,4.0,0.321,0.456,0.688,1.144,17.0,11.0,0.11,0.71,0.112,-0.002,0.04%,0.45,2.4,2.0,0.0,HR
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Trent Grisham CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.187,0.291,0.374,0.666,5.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,4.0,2.0,2.0,3.0,1.0,1.0,5.0,0.234,0.297,0.476,0.773,15.0,9.0,0.015,0.67,0.091,-0.076,0.01%,0.42,1.5,0.0,0.0,"HR,GDP"
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Jasson Domínguez LF,4.0,0.0,1.0,1.0,1.0,2.0,5.0,0.194,0.31,0.306,0.615,23.0,14.0,0.089,0.34,0.094,-0.006,0.03%,0.22,1.0,1.0,0.0,SB
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Jon Berti 3B,4.0,0.0,2.0,0.0,0.0,1.0,5.0,0.283,0.338,0.333,0.672,21.0,13.0,-0.016,0.22,0.008,-0.025,-0.01%,0.14,0.0,0.0,3.0,"SB,HBP"
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,2.0,1.0,2.0,1.0,0.0,5.0,0.248,0.296,0.373,0.669,23.0,14.0,0.087,0.2,0.09,-0.003,0.03%,0.12,0.8,1.0,4.0,"HR,SB"
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 1B,4.0,1.0,0.0,0.0,1.0,2.0,5.0,0.247,0.297,0.364,0.662,15.0,9.0,-0.022,0.18,0.0,-0.022,-0.01%,0.11,-0.9,11.0,1.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Jose Trevino C,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.217,0.288,0.36,0.647,18.0,11.0,-0.02,0.13,0.001,-0.02,-0.01%,0.08,-0.2,8.0,1.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Tim Mayza P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202409210,NYY,https://www.baseball-reference.com/boxes/OAK/OAK202409210.shtml,NewYorkYankeesbatting,Team Totals,40.0,10.0,14.0,9.0,6.0,8.0,47.0,0.35,0.447,0.575,1.022,178.0,112.0,0.344,0.32,0.51,-0.169,0.13%,0.2,5.8,27.0,12.0,

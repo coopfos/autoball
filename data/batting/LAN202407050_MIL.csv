@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.29,0.351,0.413,0.764,10.0,8.0,-0.04,1.11,0.045,-0.084,-0.03%,1.64,-0.2,2.0,1.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,William Contreras C,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.295,0.356,0.443,0.799,18.0,12.0,0.011,1.06,0.071,-0.06,0.01%,1.58,0.2,10.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.324,0.402,0.504,0.906,18.0,12.0,-0.125,1.21,0.0,-0.125,-0.11%,1.78,-1.0,0.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Willy Adames SS,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.234,0.321,0.402,0.724,15.0,11.0,0.116,1.45,0.176,-0.059,0.10%,2.14,0.9,0.0,2.0,SB
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Garrett Mitchell CF,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.154,0.353,0.154,0.507,25.0,13.0,0.003,0.9,0.03,-0.026,0.00%,1.33,-0.0,2.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,4.0,1.0,1.0,4.0,0.0,2.0,4.0,0.218,0.311,0.402,0.713,15.0,12.0,0.271,1.23,0.31,-0.039,0.24%,1.81,2.3,5.0,0.0,HR
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.266,0.342,0.333,0.676,11.0,7.0,-0.059,0.78,0.0,-0.059,-0.05%,1.15,-0.6,2.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Jackson Chourio LF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.251,0.3,0.397,0.696,15.0,11.0,-0.041,0.73,0.026,-0.067,-0.04%,1.08,-0.4,3.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Andruw Monasterio 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.194,0.28,0.269,0.549,7.0,5.0,-0.047,0.62,0.0,-0.047,-0.04%,0.92,-0.4,0.0,2.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Aaron Civale P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Bryan Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Elvis Peguero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Hoby Milner P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202407050,MIL,https://www.baseball-reference.com/boxes/LAN/LAN202407050.shtml,MilwaukeeBrewersbatting,Team Totals,31.0,5.0,4.0,5.0,2.0,11.0,33.0,0.129,0.182,0.226,0.408,134.0,91.0,0.089,1.04,0.658,-0.566,0.08%,1.54,0.7,24.0,5.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202408120,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,MilwaukeeBrewerspitching,"Freddy Peralta, L (7-7)",6,5,4,4,2,4,2,4.11,25,96,56,31,10,15,7,12,5,0,48.0,,,-0.142,0.73,-0.13%,1.08,-0.9
+MIL202408120,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,MilwaukeeBrewerspitching,Bryan Hudson,1,1,1,1,1,0,0,1.74,5,24,17,10,1,6,2,2,2,0,,0.0,0.0,-0.057,0.54,-0.05%,0.8,-0.5
+MIL202408120,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,MilwaukeeBrewerspitching,Bryse Wilson,2,0,0,0,0,3,0,3.94,6,25,18,8,4,6,2,1,0,0,,0.0,0.0,0.025,0.16,0.02%,0.24,1.0
+MIL202408120,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202408120.shtml,MilwaukeeBrewerspitching,Team Totals,9,6,5,5,3,7,2,5.0,36,145,91,49,15,27,11,15,7,0,48.0,0.0,0.0,-0.174,0.61,-0.16%,0.9,-0.4

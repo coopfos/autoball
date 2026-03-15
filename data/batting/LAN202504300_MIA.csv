@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Xavier Edwards SS,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.264,0.331,0.304,0.635,10.0,8.0,-0.071,0.53,0.0,-0.071,-0.03%,0.32,-1.2,5.0,2.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Jesús Sánchez CF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.2,0.31,0.3,0.61,15.0,11.0,0.017,0.53,0.053,-0.036,0.01%,0.32,-0.5,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Agustín Ramírez DH,4.0,1.0,0.0,0.0,0.0,2.0,4.0,0.29,0.333,0.71,1.043,15.0,13.0,-0.071,0.75,0.0,-0.071,-0.03%,0.46,-0.7,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Eric Wagaman LF-1B,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.247,0.298,0.402,0.7,19.0,12.0,-0.055,0.71,0.009,-0.064,-0.02%,0.43,-0.6,3.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Kyle Stowers RF,4.0,2.0,4.0,4.0,0.0,0.0,4.0,0.323,0.396,0.51,0.907,9.0,7.0,0.276,0.56,0.276,0.0,0.10%,0.34,4.2,2.0,0.0,"2·HR,2B"
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Connor Norby 3B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.262,0.311,0.405,0.716,12.0,10.0,-0.094,0.89,0.0,-0.094,-0.03%,0.54,-0.5,2.0,1.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Matt Mervis 1B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.213,0.286,0.52,0.806,5.0,4.0,-0.053,0.98,0.0,-0.053,-0.02%,0.6,-0.5,5.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Javier Sanoja PH-LF,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.308,0.339,0.385,0.724,12.0,5.0,-0.009,0.18,0.001,-0.009,-0.00%,0.11,0.2,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Otto Lopez 2B,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.229,0.294,0.33,0.624,16.0,8.0,-0.051,0.51,0.001,-0.051,-0.02%,0.31,0.1,0.0,4.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Liam Hicks C,4.0,0.0,2.0,3.0,0.0,0.0,4.0,0.254,0.338,0.356,0.694,23.0,17.0,0.0,0.34,0.021,-0.021,0%,0.21,2.0,7.0,0.0,2B
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Cal Quantrill P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Anthony Veneziano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Anthony Bender P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Lake Bachar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Luarbert Arias P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202504300,MIA,https://www.baseball-reference.com/boxes/LAN/LAN202504300.shtml,MiamiMarlinsbatting,Team Totals,36.0,7.0,9.0,7.0,2.0,12.0,38.0,0.25,0.289,0.472,0.762,136.0,95.0,-0.111,0.6,0.361,-0.47,-0.04%,0.36,2.5,24.0,8.0,

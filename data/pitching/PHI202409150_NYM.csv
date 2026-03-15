@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202409150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409150.shtml,NewYorkMetspitching,David Peterson,7.2,4,1,1,1,6,0,2.85,28,99,65,39,16,10,12,9,7,0,72.0,,,0.153,1.22,0.14%,1.88,2.6
+PHI202409150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409150.shtml,NewYorkMetspitching,Phil Maton,0.1,0,0,0,0,0,0,3.72,1,5,3,2,1,0,0,1,0,0,,1.0,0.0,0.093,3.41,0.09%,5.26,0.4
+PHI202409150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409150.shtml,NewYorkMetspitching,"Edwin Díaz, L (5-4)",0.2,2,1,1,0,2,0,3.74,4,16,13,8,2,3,0,2,2,0,,0.0,0.0,-0.363,2.7,-0.34%,4.17,-0.7
+PHI202409150,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202409150.shtml,NewYorkMetspitching,Team Totals,8.2,6,2,2,1,8,0,2.08,33,120,81,49,19,13,12,12,9,0,72.0,1.0,0.0,-0.117,1.46,-0.11%,2.25,2.3

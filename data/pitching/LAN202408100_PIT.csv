@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202408100,PIT,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,PittsburghPiratespitching,"Paul Skenes, L (6-2)",6,6,4,4,1,8,1,2.25,25,91,61,35,12,14,7,9,4,0,51.0,,,-0.172,0.64,-0.03%,0.21,-1.1
+LAN202408100,PIT,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,PittsburghPiratespitching,Ben Heller,2,2,0,0,1,4,0,24.75,9,39,24,12,5,7,2,2,2,0,,0.0,0.0,0.008,0.16,0.00%,0.05,1.0
+LAN202408100,PIT,https://www.baseball-reference.com/boxes/LAN/LAN202408100.shtml,PittsburghPiratespitching,Team Totals,8,8,4,4,2,12,1,4.5,34,130,85,47,17,21,9,11,6,0,51.0,0.0,0.0,-0.164,0.51,-0.03%,0.17,-0.2

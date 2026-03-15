@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Marcus Semien 2B,4.0,0.0,3.0,3.0,1.0,0.0,5.0,0.265,0.33,0.438,0.768,21.0,13.0,0.145,0.78,0.156,-0.011,0.07%,0.63,3.4,2.0,1.0,"2B,SB"
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Corey Seager SS,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.262,0.354,0.467,0.821,15.0,8.0,-0.168,1.27,0.0,-0.168,-0.08%,1.02,-1.8,0.0,1.0,GDP
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Adolis García RF,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.218,0.276,0.417,0.693,13.0,6.0,-0.03,0.62,0.026,-0.055,-0.01%,0.5,0.2,0.0,0.0,SB
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Nathaniel Lowe 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.257,0.355,0.335,0.691,15.0,12.0,-0.055,0.7,0.01,-0.065,-0.03%,0.56,0.3,6.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Wyatt Langford LF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.244,0.303,0.326,0.629,16.0,10.0,-0.02,0.7,0.021,-0.041,-0.01%,0.56,-0.3,1.0,0.0,SB
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Travis Jankowski CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.235,0.292,0.296,0.588,21.0,13.0,-0.07,0.77,0.007,-0.077,-0.03%,0.62,-0.5,1.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Robbie Grossman DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.205,0.321,0.25,0.571,11.0,9.0,-0.019,0.48,0.019,-0.038,-0.01%,0.39,0.2,0.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Ezequiel Duran 3B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.263,0.302,0.336,0.638,8.0,6.0,-0.026,0.67,0.026,-0.052,-0.01%,0.54,-0.7,0.0,3.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Andrew Knizner C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.127,0.14,0.182,0.322,11.0,10.0,-0.051,0.67,0.0,-0.051,-0.03%,0.54,-0.7,14.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Josh Smith PH,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.294,0.384,0.436,0.82,4.0,0.0,0.023,0.41,0.023,0.0,0.01%,0.33,1.0,0.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Sam Huff PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Nathan Eovaldi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Jonathan Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202406150,TEX,https://www.baseball-reference.com/boxes/SEA/SEA202406150.shtml,TexasRangersbatting,Team Totals,35.0,5.0,9.0,5.0,3.0,7.0,38.0,0.257,0.316,0.286,0.602,135.0,87.0,-0.271,0.74,0.288,-0.558,-0.13%,0.6,1.0,24.0,7.0,

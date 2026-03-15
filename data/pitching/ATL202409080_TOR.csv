@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,Yariel Rodríguez,5.0,2,1,1,1,6,1,4.42,17,73,44,24,10,10,2,8,4,0,64.0,,,0.129,0.75,0.00%,0.01,1.6
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,Tommy Nance,1.0,1,0,0,0,0,0,2.87,4,11,9,5,0,4,3,1,0,0,,0.0,0.0,0.048,1.01,0.00%,0.01,0.5
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,Brendon Little,1.0,0,0,0,0,0,0,3.4,3,12,8,4,2,2,2,1,1,0,,0.0,0.0,0.044,0.58,0.00%,0.01,0.5
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,"Erik Swanson, H (8)",0.2,1,0,0,0,1,0,6.16,3,11,9,6,3,0,2,0,0,0,,0.0,0.0,0.03,3.25,0.00%,0.03,0.1
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,"Génesis Cabrera, H (12)",0.1,0,0,0,0,0,0,2.96,1,4,2,1,0,1,1,0,0,0,,1.0,0.0,0.113,4.07,0.00%,0.04,0.4
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,"Chad Green, BS (3)",1.0,2,1,1,0,0,0,2.85,4,13,10,7,2,1,2,2,1,0,,0.0,0.0,-0.296,4.07,-0.00%,0.04,-0.5
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,"Zach Pop, L (1-4)",1.0,2,2,0,2,0,0,5.89,9,22,15,11,0,4,5,2,1,0,,0.0,0.0,-0.24,3.93,-0.00%,0.04,-2.1
+ATL202409080,TOR,https://www.baseball-reference.com/boxes/ATL/ATL202409080.shtml,TorontoBlueJayspitching,Team Totals,10.0,8,4,2,3,7,1,1.8,41,146,97,58,17,22,17,14,7,0,64.0,1.0,0.0,-0.172,2.05,-0.00%,0.02,0.5

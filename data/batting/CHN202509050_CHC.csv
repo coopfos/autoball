@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Michael Busch 1B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.257,0.335,0.487,0.821,12.0,7.0,-0.033,0.26,0.0,-0.033,-0.01%,0.17,-1.0,7.0,0.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Ian Happ LF,2.0,4.0,1.0,1.0,3.0,0.0,5.0,0.239,0.342,0.415,0.757,25.0,10.0,0.052,0.27,0.054,-0.002,0.02%,0.18,2.0,2.0,0.0,HR
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Seiya Suzuki DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.244,0.323,0.468,0.791,18.0,12.0,0.054,0.32,0.065,-0.011,0.02%,0.21,0.7,0.0,0.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,3.0,1.0,2.0,2.0,0.0,1.0,5.0,0.253,0.291,0.494,0.786,19.0,13.0,0.04,0.48,0.04,0.0,0.01%,0.32,0.5,3.0,0.0,"SB,2·SF"
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,2.0,2.0,2.0,1.0,0.0,5.0,0.29,0.339,0.386,0.724,19.0,10.0,0.13,0.3,0.134,-0.004,0.05%,0.19,1.8,2.0,3.0,"HR,2B"
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Willi Castro RF,3.0,1.0,1.0,2.0,1.0,0.0,5.0,0.231,0.313,0.38,0.694,14.0,7.0,0.049,0.36,0.054,-0.005,0.02%,0.24,1.7,2.0,0.0,"2B,HBP"
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,1.0,1.0,3.0,1.0,0.0,5.0,0.247,0.298,0.425,0.723,21.0,12.0,0.163,0.28,0.171,-0.008,0.06%,0.18,1.6,1.0,3.0,"HR,SB"
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Matt Shaw 3B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.229,0.296,0.398,0.694,25.0,16.0,-0.004,0.12,0.001,-0.005,-0.00%,0.07,-0.3,1.0,2.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Reese McGuire C,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.23,0.252,0.451,0.703,13.0,11.0,0.018,0.14,0.028,-0.01,0.01%,0.1,0.2,9.0,0.0,HR
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Javier Assad P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Andrew Kittredge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Taylor Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Porter Hodge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202509050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202509050.shtml,ChicagoCubsbatting,Team Totals,32.0,11.0,10.0,11.0,8.0,5.0,43.0,0.312,0.442,0.75,1.192,166.0,98.0,0.469,0.29,0.547,-0.078,0.18%,0.19,7.2,27.0,8.0,

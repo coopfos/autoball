@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.29,0.394,0.567,0.961,16.0,11.0,-0.08,0.61,0.0,-0.08,-0.02%,0.25,-1.0,5.0,1.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.249,0.329,0.558,0.887,16.0,13.0,0.009,0.53,0.054,-0.045,0.00%,0.22,-0.0,2.0,0.0,2B
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.251,0.297,0.422,0.718,25.0,19.0,-0.062,0.69,0.018,-0.08,-0.01%,0.29,-0.6,2.0,0.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,3.0,3.0,2.0,2.0,1.0,0.0,4.0,0.249,0.318,0.568,0.886,18.0,11.0,0.252,0.94,0.273,-0.02,0.06%,0.39,1.9,1.0,2.0,2·HR
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Josh Naylor 1B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.295,0.364,0.46,0.823,13.0,9.0,0.057,1.1,0.097,-0.04,0.01%,0.45,0.5,6.0,1.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Randal Grichuk DH,3.0,0.0,1.0,1.0,0.0,2.0,3.0,0.242,0.282,0.466,0.747,12.0,9.0,0.043,0.72,0.07,-0.028,0.01%,0.3,0.9,0.0,0.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Jake McCarthy PH-DH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.141,0.229,0.247,0.476,6.0,4.0,-0.09,3.93,0.0,-0.09,-0.02%,1.62,-0.8,0.0,0.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,James McCann C,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.375,0.516,0.708,1.224,22.0,17.0,0.004,1.7,0.093,-0.089,0.00%,0.7,0.3,6.0,1.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,3.0,0.0,0.0,1.0,1.0,1.0,4.0,0.248,0.298,0.37,0.668,17.0,9.0,0.049,1.93,0.116,-0.067,0.01%,0.8,0.4,1.0,0.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.266,0.368,0.415,0.783,17.0,11.0,-0.2,2.25,0.016,-0.216,-0.05%,0.93,-1.0,0.0,6.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Zac Gallen P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Andrew Saalfrank P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Juan Morillo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202507120,ARI,https://www.baseball-reference.com/boxes/ANA/ANA202507120.shtml,ArizonaDiamondbacksbatting,Team Totals,35.0,5.0,8.0,5.0,4.0,8.0,39.0,0.229,0.308,0.429,0.736,162.0,113.0,-0.018,1.2,0.737,-0.755,-0.00%,0.5,0.5,24.0,12.0,

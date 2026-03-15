@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHA202404280,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202404280.shtml,ChicagoWhiteSoxpitching,"Erick Fedde, W (2-0)",8.1,7,2,2,0,9,1,2.6,32,108,72,44,12,16,6,17,4,0,70.0,,,0.37,1.03,0.03%,0.16,1.7
+CHA202404280,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202404280.shtml,ChicagoWhiteSoxpitching,"Jordan Leasure, S (1)",0.2,0,0,0,0,0,0,1.59,2,6,3,2,1,0,1,1,0,0,,1.0,0.0,0.092,1.67,0.01%,0.26,0.7
+CHA202404280,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202404280.shtml,ChicagoWhiteSoxpitching,Team Totals,9.0,7,2,2,0,9,1,2.0,34,114,75,46,13,16,7,18,4,0,70.0,1.0,0.0,0.462,1.06,0.04%,0.16,2.3

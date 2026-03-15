@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Xavier Edwards SS,4.0,2.0,4.0,1.0,1.0,0.0,5.0,0.379,0.462,0.494,0.956,19.0,10.0,0.218,0.62,0.218,0.0,0%,0.0,2.8,0.0,2.0,"HR,3B,2B"
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Bryan De La Cruz LF-RF,4.0,0.0,2.0,1.0,1.0,1.0,5.0,0.245,0.289,0.417,0.707,14.0,8.0,0.077,0.92,0.126,-0.049,0%,0.0,1.2,1.0,0.0,2B
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Josh Bell 1B,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.239,0.305,0.394,0.699,26.0,16.0,-0.054,1.05,0.058,-0.112,0%,0.0,-0.8,5.0,0.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Jake Burger DH,2.0,0.0,0.0,0.0,0.0,1.0,4.0,0.233,0.281,0.399,0.68,13.0,8.0,0.01,1.45,0.088,-0.078,0%,0.0,-0.0,0.0,0.0,2·HBP
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.243,0.292,0.414,0.706,12.0,10.0,-0.174,2.15,0.0,-0.174,0%,0.0,-1.8,3.0,0.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Emmanuel Rivera PH-3B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.213,0.299,0.263,0.561,4.0,3.0,-0.013,0.51,0.0,-0.013,0%,0.0,-0.2,0.0,0.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Otto Lopez 2B-LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.23,0.261,0.315,0.576,19.0,12.0,-0.143,1.39,0.0,-0.143,0%,0.0,-1.6,4.0,2.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Jonah Bride 3B-2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.229,0.263,0.257,0.52,19.0,14.0,-0.064,0.62,0.0,-0.064,0%,0.0,-0.8,1.0,3.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Nick Gordon CF,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.231,0.265,0.384,0.649,14.0,9.0,-0.027,0.6,0.032,-0.059,0%,0.0,-0.5,1.0,0.0,"CS,HBP"
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Ali Sánchez C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.184,0.244,0.184,0.428,16.0,9.0,-0.057,0.76,0.0,-0.057,0%,0.0,-0.7,9.0,1.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Forrest Wall PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.233,0.303,0.233,0.536,3.0,3.0,-0.005,0.17,0.0,-0.005,0%,0.0,-0.2,0.0,0.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Kyle Tyler P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Emmanuel Ramirez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Andrew Nardi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202407280,MIA,https://www.baseball-reference.com/boxes/MIL/MIL202407280.shtml,MiamiMarlinsbatting,Team Totals,33.0,2.0,7.0,2.0,3.0,11.0,39.0,0.212,0.333,0.424,0.758,159.0,102.0,-0.232,0.98,0.522,-0.754,0.00%,0.0,-2.6,24.0,9.0,

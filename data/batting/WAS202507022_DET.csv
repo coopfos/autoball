@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Justyn-Henry Malloy DH,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.208,0.339,0.281,0.62,16.0,9.0,-0.051,0.69,0.0,-0.051,-0.02%,0.52,-0.5,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Riley Greene PH-DH-DH,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.296,0.346,0.552,0.898,19.0,13.0,-0.056,1.19,0.0,-0.056,-0.03%,0.9,-0.4,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Gleyber Torres 2B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.279,0.383,0.428,0.811,24.0,14.0,-0.01,0.71,0.039,-0.049,-0.00%,0.54,-0.4,1.0,3.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Jahmai Jones LF,3.0,1.0,2.0,2.0,1.0,0.0,4.0,0.343,0.425,0.657,1.082,16.0,7.0,0.407,1.37,0.437,-0.03,0.18%,1.03,2.0,0.0,0.0,2B
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Parker Meadows CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.188,0.27,0.313,0.582,,,,,,,,,,1.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Spencer Torkelson 1B,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.234,0.336,0.485,0.821,18.0,10.0,0.079,1.03,0.138,-0.06,0.03%,0.77,0.9,4.0,0.0,2B
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Matt Vierling CF-LF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.235,0.3,0.235,0.535,28.0,16.0,0.07,1.22,0.115,-0.044,0.03%,0.92,0.4,3.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Wenceel Pérez RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.273,0.324,0.566,0.89,19.0,16.0,-0.168,1.6,0.0,-0.168,-0.08%,1.2,-1.4,3.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Dillon Dingler C,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.271,0.304,0.427,0.73,7.0,2.0,0.023,1.22,0.033,-0.01,0.01%,0.92,0.2,8.0,1.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Colt Keith PH,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.258,0.339,0.418,0.756,4.0,2.0,0.041,2.39,0.041,0.0,0.02%,1.79,0.5,0.0,0.0,2B
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Jake Rogers C,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.19,0.294,0.31,0.604,6.0,3.0,0.012,0.45,0.012,0.0,0.01%,0.34,0.1,3.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Javier Báez SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.284,0.322,0.457,0.778,16.0,12.0,-0.065,1.77,0.071,-0.136,-0.03%,1.33,-0.8,1.0,2.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Zach McKinstry 3B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.29,0.361,0.456,0.816,11.0,9.0,-0.11,1.56,0.0,-0.11,-0.05%,1.17,-0.7,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Trey Sweeney PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.221,0.281,0.313,0.594,6.0,3.0,-0.004,0.15,0.0,-0.004,-0.00%,0.11,-0.2,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Jack Flaherty P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Chase Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Tommy Kahnle P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Brenan Hanifee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202507022,DET,https://www.baseball-reference.com/boxes/WAS/WAS202507022.shtml,DetroitTigersbatting,Team Totals,34.0,4.0,8.0,4.0,4.0,6.0,38.0,0.235,0.316,0.324,0.639,190.0,116.0,0.168,1.21,0.886,-0.718,0.08%,0.91,-0.3,24.0,6.0,

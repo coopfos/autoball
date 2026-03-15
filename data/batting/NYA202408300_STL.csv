@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Masyn Winn SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.285,0.333,0.426,0.759,22.0,13.0,-0.105,1.04,0.0,-0.105,-0.01%,0.24,-0.9,1.0,1.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Alec Burleson DH,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.28,0.318,0.457,0.775,9.0,9.0,-0.044,0.71,0.015,-0.058,-0.01%,0.16,-0.3,0.0,0.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,4.0,2.0,2.0,1.0,0.0,0.0,4.0,0.272,0.323,0.405,0.728,13.0,7.0,0.086,0.58,0.108,-0.022,0.01%,0.14,1.0,1.0,0.0,HR
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Brendan Donovan 2B,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.263,0.328,0.389,0.717,22.0,15.0,0.034,1.28,0.115,-0.081,0.01%,0.3,0.4,0.0,1.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Paul Goldschmidt 1B,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.24,0.3,0.403,0.703,9.0,7.0,0.232,1.03,0.232,0.0,0.03%,0.24,2.1,6.0,0.0,2B
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Lars Nootbaar LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.233,0.321,0.378,0.699,13.0,10.0,-0.127,1.52,0.051,-0.177,-0.02%,0.35,-1.2,0.0,0.0,2·GDP
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Jordan Walker RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.151,0.229,0.233,0.462,11.0,9.0,-0.062,1.12,0.044,-0.107,-0.01%,0.26,-0.6,1.0,0.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Pedro Pagés C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.241,0.287,0.345,0.631,13.0,10.0,-0.162,1.52,0.0,-0.162,-0.02%,0.36,-1.4,13.0,0.0,GDP
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Victor Scott II CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.171,0.21,0.279,0.489,12.0,8.0,-0.051,0.67,0.0,-0.051,-0.01%,0.16,-0.4,2.0,0.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Erick Fedde P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,John King P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Riley O'Brien P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202408300,STL,https://www.baseball-reference.com/boxes/NYA/NYA202408300.shtml,StLouisCardinalsbatting,Team Totals,34.0,3.0,10.0,3.0,0.0,6.0,34.0,0.294,0.294,0.412,0.706,124.0,88.0,-0.199,1.05,0.565,-0.763,-0.03%,0.24,-1.5,24.0,4.0,

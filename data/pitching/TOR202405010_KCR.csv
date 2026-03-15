@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalspitching,"Seth Lugo, W (5-1)",7,2,1,1,2,8,1,1.6,25,101,62,30,5,27,8,7,3,0,75.0,,,0.318,0.89,0.22%,1.01,2.4
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalspitching,Chris Stratton,1,1,0,0,0,1,0,5.79,4,19,12,5,4,3,2,1,0,0,,0.0,0.0,0.014,0.18,0.01%,0.21,0.5
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalspitching,Nick Anderson,1,1,0,0,0,1,0,3.0,4,15,9,4,3,2,0,3,2,0,,0.0,0.0,0.007,0.14,0.01%,0.17,0.5
+TOR202405010,KCR,https://www.baseball-reference.com/boxes/TOR/TOR202405010.shtml,KansasCityRoyalspitching,Team Totals,9,4,1,1,2,10,1,1.0,33,135,83,39,12,32,10,11,5,0,75.0,0.0,0.0,0.339,0.71,0.23%,0.81,3.4

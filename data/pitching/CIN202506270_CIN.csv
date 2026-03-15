@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202506270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202506270.shtml,CincinnatiRedspitching,"Nick Martinez, W (5-8)",8,1,1,1,2,6,0,4.12,27,112,75,37,13,25,9,10,5,0,80.0,,,0.239,0.38,0.14%,0.37,2.8
+CIN202506270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202506270.shtml,CincinnatiRedspitching,Taylor Rogers,1,0,0,0,2,2,0,3.04,5,25,15,8,4,3,0,1,0,0,,2.0,1.0,0.004,0.05,0.00%,0.05,1.0
+CIN202506270,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202506270.shtml,CincinnatiRedspitching,Team Totals,9,1,1,1,4,8,0,1.0,32,137,90,45,17,28,9,11,5,0,80.0,2.0,1.0,0.243,0.33,0.14%,0.32,3.9

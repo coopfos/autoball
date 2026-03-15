@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Xavier Edwards 2B,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.309,0.368,0.386,0.754,18.0,9.0,0.04,1.47,0.138,-0.098,0.01%,0.35,0.0,0.0,1.0,SB
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Kyle Stowers LF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.285,0.365,0.538,0.903,17.0,10.0,-0.05,1.2,0.057,-0.107,-0.01%,0.29,0.1,2.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Agustín Ramírez DH,3.0,1.0,1.0,1.0,2.0,0.0,5.0,0.236,0.287,0.439,0.726,22.0,11.0,0.085,1.13,0.165,-0.08,0.01%,0.27,1.6,0.0,0.0,2B
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Liam Hicks C,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.261,0.353,0.363,0.716,23.0,17.0,-0.11,1.25,0.043,-0.153,-0.02%,0.3,-1.6,8.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Otto Lopez SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.241,0.312,0.365,0.677,13.0,10.0,0.102,0.99,0.159,-0.057,0.01%,0.24,0.8,1.0,2.0,CS
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Jakob Marsee CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.395,0.5,0.791,1.291,15.0,9.0,-0.075,1.02,0.0,-0.075,-0.01%,0.24,-0.8,2.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Heriberto Hernández RF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.287,0.34,0.483,0.822,15.0,10.0,0.03,1.07,0.081,-0.051,0.00%,0.26,0.2,6.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Troy Johnston 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.154,0.185,0.192,0.377,16.0,9.0,-0.044,0.86,0.021,-0.065,-0.01%,0.21,-0.8,5.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Graham Pauley 3B,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.237,0.32,0.385,0.705,10.0,5.0,0.018,1.05,0.029,-0.011,0.00%,0.26,0.2,0.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Javier Sanoja PH-3B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.243,0.286,0.387,0.674,6.0,5.0,-0.04,0.7,0.0,-0.04,-0.01%,0.17,-0.4,0.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Edward Cabrera P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Lake Bachar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Valente Bellozo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202508140,MIA,https://www.baseball-reference.com/boxes/CLE/CLE202508140.shtml,MiamiMarlinsbatting,Team Totals,34.0,4.0,7.0,2.0,6.0,6.0,40.0,0.206,0.325,0.235,0.56,155.0,95.0,-0.044,1.12,0.693,-0.737,-0.01%,0.27,-0.5,24.0,3.0,

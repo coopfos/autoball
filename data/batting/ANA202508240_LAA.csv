@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Zach Neto SS,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.264,0.32,0.47,0.791,18.0,12.0,-0.018,1.22,0.068,-0.086,-0.00%,0.16,0.0,1.0,3.0,SB
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Mike Trout DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.235,0.366,0.436,0.802,17.0,11.0,-0.16,1.49,0.0,-0.16,-0.01%,0.19,-1.1,0.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,2.0,2.0,2.0,0.0,1.0,4.0,0.233,0.316,0.488,0.803,16.0,11.0,0.141,1.14,0.209,-0.068,0.01%,0.15,1.7,2.0,0.0,"HR,2B"
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Jo Adell RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.236,0.298,0.483,0.782,13.0,8.0,-0.074,1.02,0.017,-0.09,-0.01%,0.13,-0.4,2.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Luis Rengifo 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.249,0.297,0.349,0.645,16.0,11.0,0.216,1.74,0.266,-0.051,0.02%,0.22,0.9,1.0,0.0,SB
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Travis d'Arnaud C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.201,0.262,0.354,0.617,17.0,12.0,-0.226,2.27,0.0,-0.226,-0.02%,0.29,-1.1,5.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Niko Kavadas 1B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.143,0.25,0.143,0.393,9.0,5.0,-0.027,0.53,0.0,-0.027,-0.00%,0.07,-0.3,8.0,1.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Oswald Peraza PH-1B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.15,0.205,0.231,0.437,6.0,3.0,-0.049,1.91,0.0,-0.049,-0.00%,0.25,-0.2,2.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Yoán Moncada PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.234,0.327,0.467,0.794,7.0,3.0,0.126,4.69,0.126,0.0,0.01%,0.61,0.4,0.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Matthew Lugo PR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.238,0.256,0.548,0.803,,,,,,,,,,0.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Christian Moore 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.186,0.288,0.314,0.602,18.0,11.0,-0.211,2.49,0.014,-0.225,-0.02%,0.32,-0.8,1.0,3.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Bryce Teodosio CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.226,0.288,0.321,0.609,10.0,8.0,-0.186,2.29,0.028,-0.214,-0.01%,0.3,-0.7,4.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Kyle Hendricks P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Andrew Chafin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Chase Silseth P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Ryan Zeferjahn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,José Fermin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202508240,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202508240.shtml,LosAngelesAngelsbatting,Team Totals,35.0,3.0,7.0,2.0,1.0,9.0,36.0,0.2,0.222,0.314,0.537,147.0,95.0,-0.468,1.72,0.728,-1.196,-0.04%,0.22,-1.5,27.0,9.0,

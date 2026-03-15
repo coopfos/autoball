@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,2.0,1.0,1.0,1.0,1.0,5.0,0.278,0.346,0.56,0.907,18.0,11.0,0.082,0.77,0.151,-0.069,0.03%,0.55,0.6,4.0,0.0,"HR,SB"
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.254,0.323,0.429,0.751,19.0,12.0,-0.09,0.74,0.0,-0.09,-0.04%,0.53,-1.4,0.0,0.0,GDP
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Willi Castro 2B-RF,2.0,1.0,0.0,1.0,1.0,1.0,4.0,0.276,0.364,0.448,0.812,13.0,8.0,0.042,0.75,0.079,-0.037,0.02%,0.54,0.6,0.0,0.0,"SB,SH"
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.262,0.303,0.385,0.688,13.0,9.0,-0.064,0.7,0.003,-0.067,-0.03%,0.5,-0.6,0.0,1.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Matt Wallner RF,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.207,0.302,0.45,0.752,7.0,4.0,0.011,0.58,0.028,-0.016,0.01%,0.41,0.1,0.0,0.0,2B
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Ty France PH-1B,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0.262,0.326,0.376,0.702,10.0,5.0,0.005,0.67,0.01,-0.005,0.00%,0.47,0.0,3.0,0.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Brooks Lee 3B,4.0,0.0,2.0,2.0,0.0,0.0,4.0,0.281,0.316,0.417,0.733,11.0,9.0,0.181,0.85,0.196,-0.014,0.08%,0.61,1.7,3.0,4.0,2B
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Kody Clemens 1B-2B,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.205,0.301,0.472,0.774,14.0,8.0,-0.052,0.8,0.01,-0.062,-0.02%,0.57,-0.3,5.0,0.0,HBP
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Harrison Bader LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.248,0.33,0.401,0.731,9.0,8.0,-0.013,0.83,0.046,-0.059,-0.01%,0.59,-0.7,1.0,0.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Christian Vázquez C,2.0,0.0,0.0,0.0,1.0,0.0,4.0,0.172,0.246,0.266,0.512,15.0,9.0,-0.023,0.89,0.027,-0.05,-0.01%,0.64,-0.3,11.0,0.0,HBP
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,David Festa P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Danny Coulombe P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Louis Varland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Griffin Jax P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Jhoan Duran P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506270,MIN,https://www.baseball-reference.com/boxes/DET/DET202506270.shtml,MinnesotaTwinsbatting,Team Totals,31.0,4.0,6.0,4.0,4.0,9.0,38.0,0.194,0.324,0.355,0.679,129.0,83.0,0.079,0.77,0.55,-0.469,0.04%,0.55,-0.4,27.0,6.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Josh Rojas LF,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.348,0.417,0.533,0.95,17.0,10.0,-0.003,0.34,0.019,-0.023,-0.00%,0.36,-0.2,2.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Julio Rodríguez CF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.262,0.317,0.309,0.625,19.0,10.0,-0.04,0.4,0.0,-0.041,-0.03%,0.43,-0.7,4.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Cal Raleigh C,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.209,0.298,0.452,0.75,14.0,10.0,-0.024,0.29,0.0,-0.024,-0.02%,0.32,-0.6,5.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Seby Zavala C,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.185,0.185,0.259,0.444,5.0,3.0,-0.001,0.02,0.0,-0.001,0%,0.02,-0.7,3.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Mitch Haniger RF,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.213,0.273,0.37,0.643,13.0,9.0,0.02,0.35,0.034,-0.014,0.01%,0.38,0.2,0.0,0.0,2B
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Sam Haggerty RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,0.1,1.0,1.0,0.0,0.01,0.0,0.0,0%,0.01,-0.5,1.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Mitch Garver DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.176,0.289,0.343,0.632,19.0,11.0,-0.034,0.29,0.0,-0.034,-0.02%,0.31,-0.3,0.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Jorge Polanco 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.182,0.291,0.299,0.59,18.0,9.0,-0.026,0.23,0.0,-0.026,-0.02%,0.26,-1.1,2.0,1.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Luke Raley 1B,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.243,0.274,0.329,0.603,16.0,8.0,0.037,0.2,0.042,-0.005,0.02%,0.21,0.6,4.0,2.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Luis Urías 3B,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.176,0.3,0.412,0.712,12.0,8.0,-0.013,0.21,0.006,-0.018,-0.01%,0.23,-0.3,0.0,0.0,"HBP,GDP"
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Leo Rivas SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.333,0.333,0.667,1.0,19.0,11.0,-0.019,0.13,0.0,-0.019,-0.01%,0.14,-0.1,1.0,3.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Logan Gilbert P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Eduard Bazardo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Tyson Miller P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIN202405090,SEA,https://www.baseball-reference.com/boxes/MIN/MIN202405090.shtml,SeattleMarinersbatting,Team Totals,32.0,1.0,6.0,1.0,2.0,15.0,36.0,0.188,0.257,0.219,0.476,153.0,90.0,-0.103,0.25,0.101,-0.205,-0.07%,0.27,-3.5,24.0,6.0,

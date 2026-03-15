@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Jarren Duran CF,2.0,1.0,1.0,0.0,2.0,0.0,4.0,0.293,0.352,0.518,0.87,19.0,9.0,0.068,1.06,0.085,-0.017,0.04%,1.14,0.8,0.0,0.0,"2B,SB"
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Wilyer Abreu RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.264,0.332,0.498,0.831,22.0,13.0,-0.135,1.16,0.0,-0.135,-0.09%,1.25,-1.5,5.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Triston Casas 1B,3.0,0.0,1.0,1.0,1.0,2.0,4.0,0.262,0.367,0.495,0.862,16.0,9.0,0.057,0.88,0.102,-0.045,0.04%,0.94,0.8,8.0,2.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Rafael Devers 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.292,0.369,0.574,0.943,19.0,12.0,-0.095,0.77,0.0,-0.095,-0.06%,0.82,-1.4,0.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Rob Refsnyder LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.289,0.369,0.46,0.829,16.0,9.0,-0.048,0.46,0.0,-0.048,-0.03%,0.49,-0.5,1.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Masataka Yoshida DH,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.296,0.37,0.443,0.813,17.0,11.0,0.065,0.86,0.095,-0.029,0.04%,0.92,0.5,0.0,0.0,SB
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Connor Wong C,4.0,1.0,0.0,0.0,0.0,0.0,4.0,0.286,0.34,0.426,0.766,16.0,12.0,-0.091,0.98,0.0,-0.091,-0.06%,1.06,-1.0,9.0,1.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,David Hamilton 2B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.254,0.309,0.409,0.718,12.0,9.0,-0.031,0.82,0.046,-0.077,-0.02%,0.89,0.3,1.0,2.0,HR
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Ceddanne Rafaela SS,4.0,0.0,2.0,2.0,0.0,0.0,4.0,0.262,0.293,0.409,0.702,9.0,7.0,0.23,0.86,0.255,-0.025,0.15%,0.92,1.8,1.0,7.0,2·2B
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Cooper Criswell P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Zack Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Josh Winckowski P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Greg Weissert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Brennan Bernardino P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Chris Martin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202408210,BOS,https://www.baseball-reference.com/boxes/HOU/HOU202408210.shtml,BostonRedSoxbatting,Team Totals,33.0,4.0,7.0,4.0,3.0,10.0,36.0,0.212,0.278,0.394,0.672,146.0,91.0,0.02,0.88,0.583,-0.562,0.01%,0.94,-0.3,27.0,12.0,

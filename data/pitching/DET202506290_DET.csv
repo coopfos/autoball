@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202506290,DET,https://www.baseball-reference.com/boxes/DET/DET202506290.shtml,DetroitTigerspitching,"Tarik Skubal, W (10-2)",7,1,0,0,1,13,0,2.15,23,93,67,25,22,20,3,6,2,0,87.0,,,0.365,0.79,0.22%,0.8,3.4
+DET202506290,DET,https://www.baseball-reference.com/boxes/DET/DET202506290.shtml,DetroitTigerspitching,"Tommy Kahnle, H (11)",1,1,0,0,0,0,0,1.77,3,13,8,7,0,1,2,1,0,0,,0.0,0.0,0.041,0.91,0.02%,0.91,0.5
+DET202506290,DET,https://www.baseball-reference.com/boxes/DET/DET202506290.shtml,DetroitTigerspitching,"Will Vest, S (13)",1,0,0,0,0,1,0,2.37,3,8,6,3,2,1,1,1,0,0,,0.0,0.0,0.031,0.41,0.02%,0.41,0.5
+DET202506290,DET,https://www.baseball-reference.com/boxes/DET/DET202506290.shtml,DetroitTigerspitching,Team Totals,9,2,0,0,1,14,0,0.0,29,114,81,35,24,22,6,8,2,0,87.0,0.0,0.0,0.437,0.77,0.26%,0.77,4.3

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Lawrence Butler RF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.27,0.326,0.512,0.838,11.0,6.0,-0.09,1.05,0.012,-0.102,0%,0.0,-0.8,1.0,0.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Brent Rooker DH,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.301,0.371,0.581,0.952,7.0,6.0,0.085,0.98,0.172,-0.087,0%,0.0,1.1,0.0,0.0,HR
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,JJ Bleday CF,3.0,0.0,2.0,0.0,1.0,1.0,4.0,0.248,0.329,0.456,0.785,24.0,14.0,0.055,0.81,0.091,-0.036,0%,0.0,0.6,3.0,0.0,2·2B
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Seth Brown LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.238,0.293,0.397,0.691,16.0,11.0,-0.135,1.31,0.0,-0.135,0%,0.0,-1.1,3.0,0.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.217,0.278,0.379,0.657,11.0,8.0,-0.031,0.97,0.039,-0.069,0%,0.0,-0.2,4.0,1.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Tyler Soderstrom 1B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.209,0.295,0.386,0.68,11.0,8.0,-0.059,1.29,0.0,-0.059,0%,0.0,-0.6,3.0,1.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Tyler Nevin PH-1B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.197,0.286,0.327,0.614,8.0,7.0,-0.062,1.25,0.0,-0.062,0%,0.0,-0.4,2.0,0.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Max Schuemann 3B,4.0,0.0,0.0,0.0,0.0,4.0,4.0,0.222,0.311,0.313,0.624,16.0,12.0,-0.088,0.87,0.0,-0.088,0%,0.0,-0.8,0.0,1.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Kyle McCann C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.244,0.327,0.389,0.716,10.0,6.0,-0.076,1.01,0.0,-0.076,0%,0.0,-0.7,6.0,0.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Shea Langeliers PH,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.219,0.28,0.438,0.719,1.0,1.0,0.024,0.42,0.024,0.0,0%,0.0,1.0,0.0,0.0,HR
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Nick Allen SS,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.186,0.231,0.267,0.498,12.0,8.0,0.044,0.86,0.094,-0.05,0%,0.0,0.6,0.0,3.0,2·2B
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,JP Sears P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Tyler Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,T.J. McFarland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409150,OAK,https://www.baseball-reference.com/boxes/CHA/CHA202409150.shtml,OaklandAthleticsbatting,Team Totals,34.0,3.0,7.0,3.0,2.0,10.0,36.0,0.206,0.25,0.5,0.75,127.0,87.0,-0.333,1.0,0.432,-0.764,0.00%,0.0,-1.3,24.0,6.0,

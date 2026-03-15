@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202408250,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408250.shtml,LosAngelesDodgerspitching,Gavin Stone,7,3,1,1,2,7,1,3.33,26,80,53,26,13,14,6,11,4,0,72.0,,,0.239,1.14,0.19%,1.52,2.4
+LAN202408250,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408250.shtml,LosAngelesDodgerspitching,"Blake Treinen, W (6-3)",1,1,0,0,0,1,0,2.7,4,10,8,4,2,2,1,2,0,0,,0.0,0.0,0.104,1.86,0.08%,2.48,0.5
+LAN202408250,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408250.shtml,LosAngelesDodgerspitching,"Anthony Banda, S (2)",1,1,0,0,0,1,0,2.18,4,14,10,4,4,2,0,3,1,0,,0.0,0.0,0.071,1.4,0.06%,1.87,0.5
+LAN202408250,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202408250.shtml,LosAngelesDodgerspitching,Team Totals,9,5,1,1,2,9,1,1.0,34,104,71,34,19,18,7,16,5,0,72.0,0.0,0.0,0.414,1.25,0.33%,1.67,3.3

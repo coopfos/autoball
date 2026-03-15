@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.304,0.363,0.459,0.823,18.0,8.0,-0.049,0.63,0.013,-0.062,-0.04%,0.81,-0.6,0.0,2.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.24,0.372,0.524,0.896,21.0,13.0,-0.075,0.58,0.0,-0.075,-0.06%,0.74,-1.5,0.0,0.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 1B,4.0,0.0,3.0,0.0,1.0,0.0,5.0,0.291,0.33,0.414,0.744,16.0,10.0,0.091,0.44,0.091,0.0,0.07%,0.56,1.5,7.0,1.0,2B
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.281,0.322,0.428,0.75,6.0,5.0,-0.018,0.9,0.065,-0.083,-0.01%,1.15,0.7,4.0,0.0,2B
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Max Kepler LF,3.0,1.0,0.0,0.0,2.0,0.0,5.0,0.218,0.311,0.405,0.715,33.0,18.0,-0.013,0.7,0.06,-0.073,-0.01%,0.89,-1.7,1.0,0.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,5.0,1.0,1.0,1.0,0.0,3.0,5.0,0.241,0.308,0.364,0.672,18.0,13.0,0.094,1.04,0.165,-0.071,0.07%,1.34,0.1,12.0,0.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,3.0,1.0,2.0,3.0,1.0,1.0,4.0,0.237,0.302,0.34,0.642,18.0,9.0,0.155,0.74,0.185,-0.03,0.12%,0.95,2.4,1.0,1.0,"HR,SB"
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Edmundo Sosa 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.263,0.308,0.343,0.652,12.0,11.0,-0.055,0.53,0.0,-0.055,-0.04%,0.68,-1.1,0.0,0.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh CF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.257,0.348,0.375,0.723,17.0,9.0,-0.022,0.49,0.015,-0.036,-0.02%,0.63,-0.3,1.0,0.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Ranger Suárez P,,,,,,,,,,,,,,,,,,,,,1.0,3.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Orion Kerkering P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Matt Strahm P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202506180,PHI,https://www.baseball-reference.com/boxes/MIA/MIA202506180.shtml,PhiladelphiaPhilliesbatting,Team Totals,36.0,4.0,9.0,4.0,6.0,9.0,42.0,0.25,0.357,0.389,0.746,159.0,96.0,0.108,0.69,0.594,-0.485,0.08%,0.88,-0.7,27.0,8.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Tyler Freeman 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.277,0.352,0.356,0.708,13.0,11.0,-0.094,0.91,0.0,-0.094,0%,0.0,-0.8,0.0,3.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Mickey Moniak RF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.262,0.301,0.494,0.795,13.0,11.0,0.019,1.08,0.074,-0.056,0%,0.0,0.2,1.0,0.0,SB
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Hunter Goodman C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.28,0.326,0.534,0.86,14.0,10.0,-0.111,1.08,0.012,-0.123,0%,0.0,-0.9,10.0,0.0,GDP
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Jordan Beck LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.267,0.329,0.434,0.763,18.0,12.0,-0.063,0.95,0.019,-0.082,0%,0.0,-0.5,4.0,0.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.263,0.31,0.418,0.728,17.0,10.0,-0.097,1.26,0.0,-0.097,0%,0.0,-0.9,0.0,1.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Brenton Doyle CF,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.243,0.286,0.389,0.675,9.0,8.0,0.025,0.79,0.062,-0.037,0%,0.0,0.4,1.0,0.0,2B
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Kyle Karros 3B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.23,0.304,0.3,0.604,14.0,10.0,-0.087,0.98,0.0,-0.087,0%,0.0,-0.8,0.0,1.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Yanquiel Fernández DH,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.252,0.278,0.369,0.648,14.0,10.0,-0.094,1.18,0.0,-0.094,0%,0.0,-0.8,0.0,0.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Michael Toglia 1B,3.0,0.0,0.0,0.0,0.0,3.0,3.0,0.19,0.258,0.353,0.611,14.0,11.0,-0.072,0.89,0.0,-0.072,0%,0.0,-0.6,8.0,0.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,McCade Brown P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Jaden Hill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Jimmy Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202509110,COL,https://www.baseball-reference.com/boxes/SDN/SDN202509110.shtml,ColoradoRockiesbatting,Team Totals,31.0,0.0,4.0,0.0,0.0,14.0,31.0,0.129,0.129,0.161,0.29,126.0,93.0,-0.574,0.99,0.167,-0.742,0.00%,0.0,-4.7,24.0,7.0,

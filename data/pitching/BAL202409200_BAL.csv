@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202409200,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409200.shtml,BaltimoreOriolespitching,"Corbin Burnes, W (15-8)",7,3,0,0,3,8,0,2.95,26,91,60,28,10,22,6,9,2,0,76.0,,,0.218,0.54,0.10%,0.43,3.2
+BAL202409200,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409200.shtml,BaltimoreOriolespitching,Danny Coulombe,1,2,0,0,0,2,0,2.33,5,24,14,8,3,3,1,2,1,0,,0.0,0.0,0.002,0.07,0.00%,0.05,0.5
+BAL202409200,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409200.shtml,BaltimoreOriolespitching,Jacob Webb,1,2,1,1,1,0,0,3.25,6,23,16,10,1,5,2,3,0,0,,0.0,0.0,0.001,0.02,0.00%,0.02,-0.5
+BAL202409200,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409200.shtml,BaltimoreOriolespitching,Team Totals,9,7,1,1,4,10,0,1.0,37,138,90,46,14,30,9,14,3,0,76.0,0.0,0.0,0.221,0.38,0.10%,0.3,3.1

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Oneil Cruz SS,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.267,0.302,0.433,0.735,18.0,10.0,0.109,1.3,0.229,-0.12,0.08%,1.51,0.4,1.0,2.0,"HR,GDP"
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Bryan Reynolds LF,1.0,1.0,1.0,0.0,3.0,0.0,4.0,0.274,0.384,0.452,0.835,27.0,12.0,0.14,0.95,0.14,0.0,0.10%,1.1,1.3,3.0,0.0,SB
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.276,0.386,0.345,0.731,9.0,4.0,0.062,1.24,0.136,-0.074,0.04%,1.44,0.7,0.0,3.0,2B
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Jack Suwinski CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.17,0.245,0.255,0.501,21.0,16.0,-0.184,1.65,0.0,-0.184,-0.13%,1.91,-1.6,3.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Edward Olivares DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.308,0.357,0.564,0.921,12.0,9.0,-0.054,1.22,0.047,-0.101,-0.04%,1.41,-0.4,0.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Rowdy Tellez 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.231,0.333,0.308,0.641,19.0,12.0,-0.118,1.2,0.0,-0.118,-0.08%,1.39,-0.9,7.0,1.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Connor Joe RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.292,0.393,0.458,0.851,21.0,15.0,-0.118,1.31,0.0,-0.118,-0.08%,1.51,-0.8,1.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Henry Davis C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.186,0.302,0.256,0.558,21.0,11.0,-0.109,1.03,0.0,-0.109,-0.08%,1.2,-0.7,9.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Alika Williams 2B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.294,0.333,0.412,0.745,22.0,12.0,0.029,1.15,0.089,-0.06,0.02%,1.33,0.4,0.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Marco Gonzales P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Aroldis Chapman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Colin Holderman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Hunter Stratton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Jose Hernandez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Roansy Contreras P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202404130,PIT,https://www.baseball-reference.com/boxes/PHI/PHI202404130.shtml,PittsburghPiratesbatting,Team Totals,31.0,3.0,5.0,3.0,5.0,10.0,36.0,0.161,0.278,0.29,0.568,170.0,101.0,-0.243,1.21,0.641,-0.884,-0.17%,1.4,-1.5,25.0,6.0,

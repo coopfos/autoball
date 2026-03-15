@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202407120,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202407120.shtml,BostonRedSoxpitching,"Cooper Criswell, L (3-4)",6,9,5,5,2,1,1,4.5,29,104,70,46,6,18,13,12,4,0,33.0,,,-0.243,0.91,-0.20%,1.23,-1.9
+BOS202407120,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202407120.shtml,BostonRedSoxpitching,Cam Booser,1,0,0,0,0,0,0,2.9,3,14,9,6,2,1,1,2,0,0,,0.0,0.0,0.013,0.17,0.01%,0.23,0.5
+BOS202407120,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202407120.shtml,BostonRedSoxpitching,Greg Weissert,2,1,1,1,0,1,1,4.39,7,21,15,9,0,6,0,6,0,0,,0.0,0.0,-0.013,0.06,-0.01%,0.09,0.0
+BOS202407120,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202407120.shtml,BostonRedSoxpitching,Team Totals,9,10,6,6,2,2,2,6.0,39,139,94,61,8,25,14,20,4,0,33.0,0.0,0.0,-0.243,0.7,-0.20%,0.94,-1.3

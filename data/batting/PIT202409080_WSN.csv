@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.238,0.307,0.422,0.728,13.0,10.0,0.04,0.73,0.097,-0.057,0%,0.0,0.3,1.0,3.0,HR
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,James Wood LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.274,0.367,0.413,0.78,15.0,10.0,-0.054,0.65,0.008,-0.062,0%,0.0,-0.3,4.0,0.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Andrés Chaparro DH,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.256,0.312,0.5,0.812,16.0,12.0,-0.02,0.5,0.022,-0.042,0%,0.0,0.7,0.0,0.0,2B
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.285,0.324,0.445,0.769,14.0,11.0,-0.045,0.44,0.0,-0.045,0%,0.0,-0.8,3.0,3.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.228,0.262,0.37,0.632,12.0,10.0,0.009,0.62,0.053,-0.044,0%,0.0,-0.2,7.0,0.0,2B
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,José Tena 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.293,0.33,0.38,0.71,9.0,7.0,0.04,0.55,0.065,-0.025,0%,0.0,0.0,0.0,2.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Dylan Crews RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.217,0.302,0.478,0.78,14.0,10.0,-0.071,0.74,0.0,-0.071,0%,0.0,-0.9,1.0,0.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Joey Gallo 1B,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.162,0.288,0.313,0.601,8.0,6.0,-0.076,1.18,0.0,-0.076,0%,0.0,-0.9,6.0,1.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Juan Yepez PH-1B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.282,0.337,0.446,0.783,3.0,3.0,-0.007,0.28,0.0,-0.007,0%,0.0,-0.2,0.0,0.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.258,0.317,0.34,0.657,10.0,6.0,0.066,0.71,0.081,-0.015,0%,0.0,0.7,2.0,0.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Patrick Corbin P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Zach Brzykcy P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Eduardo Salazar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202409080,WSN,https://www.baseball-reference.com/boxes/PIT/PIT202409080.shtml,WashingtonNationalsbatting,Team Totals,33.0,3.0,6.0,3.0,0.0,10.0,33.0,0.182,0.182,0.333,0.515,114.0,85.0,-0.118,0.64,0.326,-0.444,0.00%,0.0,-1.6,24.0,11.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Taylor Ward LF,2.0,1.0,0.0,1.0,2.0,2.0,5.0,0.286,0.353,0.357,0.71,25.0,13.0,-0.01,2.45,0.059,-0.069,-0.01%,2.26,0.1,1.0,0.0,"SF,IW"
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,5.0,0.0,2.0,1.0,0.0,2.0,5.0,0.294,0.294,0.294,0.588,18.0,13.0,0.277,2.02,0.324,-0.047,0.15%,1.86,1.7,7.0,2.0,SB
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Mike Trout RF,3.0,0.0,0.0,2.0,0.0,1.0,5.0,0.077,0.176,0.077,0.253,16.0,10.0,-0.06,1.98,0.034,-0.094,-0.03%,1.82,-1.2,4.0,0.0,2·SF
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Jorge Soler DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.231,0.313,0.308,0.62,11.0,6.0,-0.014,1.45,0.082,-0.096,-0.01%,1.34,-0.3,0.0,0.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Yoán Moncada 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.1,0.308,0.1,0.408,8.0,7.0,-0.163,1.66,0.0,-0.163,-0.09%,1.53,-0.9,0.0,3.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.167,0.167,0.417,0.583,19.0,12.0,-0.154,1.56,0.0,-0.154,-0.08%,1.44,-0.9,9.0,0.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Luis Rengifo 2B,3.0,2.0,0.0,0.0,1.0,0.0,4.0,0.143,0.25,0.143,0.393,21.0,12.0,-0.074,1.11,0.025,-0.099,-0.04%,1.03,-0.4,3.0,1.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Kyren Paris CF,2.0,2.0,1.0,1.0,2.0,0.0,4.0,0.375,0.5,1.0,1.5,17.0,8.0,0.328,1.75,0.343,-0.015,0.18%,1.61,2.0,4.0,1.0,"3B,SB"
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Kevin Newman SS,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,12.0,11.0,-0.118,2.44,0.005,-0.123,-0.07%,2.25,-0.9,1.0,2.0,SH
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Tyler Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Reid Detmers P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Ryan Zeferjahn P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Garrett McDaniels P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Ryan Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202503310,LAA,https://www.baseball-reference.com/boxes/SLN/SLN202503310.shtml,LosAngelesAngelsbatting,Team Totals,30.0,5.0,4.0,5.0,5.0,10.0,39.0,0.133,0.237,0.2,0.437,147.0,92.0,0.012,1.85,0.872,-0.86,0.01%,1.71,-0.7,30.0,10.0,

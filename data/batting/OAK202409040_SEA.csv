@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,J.P. Crawford SS,6.0,1.0,1.0,0.0,0.0,1.0,6.0,0.195,0.298,0.327,0.625,23.0,17.0,-0.039,0.39,0.017,-0.056,-0.01%,0.18,-0.3,2.0,3.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Julio Rodríguez CF,6.0,1.0,1.0,1.0,0.0,0.0,6.0,0.258,0.316,0.37,0.686,19.0,12.0,-0.028,0.29,0.008,-0.037,-0.01%,0.13,-0.3,1.0,0.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Cal Raleigh C,5.0,2.0,1.0,0.0,1.0,1.0,6.0,0.207,0.3,0.419,0.719,23.0,15.0,-0.024,0.17,0.001,-0.025,-0.01%,0.08,0.2,14.0,1.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Randy Arozarena LF,4.0,3.0,2.0,2.0,0.0,2.0,5.0,0.218,0.333,0.39,0.723,21.0,13.0,0.023,0.42,0.049,-0.025,0.01%,0.19,2.1,2.0,0.0,"2B,HBP"
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Justin Turner 1B,4.0,2.0,1.0,0.0,1.0,0.0,5.0,0.251,0.347,0.367,0.713,15.0,8.0,-0.058,0.51,0.001,-0.058,-0.02%,0.23,0.3,6.0,1.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Víctor Robles RF,4.0,3.0,3.0,3.0,1.0,0.0,5.0,0.282,0.349,0.41,0.759,16.0,10.0,0.062,0.38,0.066,-0.004,0.02%,0.17,3.3,1.0,0.0,2·2B
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Mitch Garver DH,5.0,1.0,2.0,4.0,0.0,1.0,5.0,0.167,0.287,0.324,0.612,20.0,15.0,0.298,0.72,0.301,-0.004,0.08%,0.33,1.8,0.0,0.0,2B
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Luis Urías 3B,4.0,2.0,3.0,4.0,1.0,0.0,5.0,0.174,0.283,0.384,0.667,19.0,12.0,0.111,0.43,0.142,-0.032,0.03%,0.2,3.7,0.0,2.0,"HR,2·2B"
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Dylan Moore 2B,4.0,1.0,2.0,2.0,0.0,1.0,5.0,0.205,0.318,0.378,0.696,18.0,13.0,0.046,0.38,0.077,-0.031,0.01%,0.17,1.0,0.0,0.0,"2B,SB,SF"
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,George Kirby P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,JT Chargois P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Tayler Saucedo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Eduard Bazardo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Jhonathan Díaz P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+OAK202409040,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202409040.shtml,SeattleMarinersbatting,Team Totals,42.0,16.0,16.0,16.0,4.0,6.0,48.0,0.381,0.438,0.619,1.057,174.0,115.0,0.391,0.4,0.662,-0.272,0.11%,0.18,11.8,27.0,7.0,

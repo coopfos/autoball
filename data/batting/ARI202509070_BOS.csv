@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Masataka Yoshida DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.234,0.286,0.344,0.629,14.0,11.0,-0.113,1.04,0.0,-0.113,-0.07%,1.01,-0.9,0.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Carlos Narváez PH-DH-C,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.249,0.319,0.419,0.738,4.0,3.0,0.043,0.48,0.043,0.0,0.03%,0.47,0.9,3.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Alex Bregman 3B,4.0,1.0,0.0,0.0,1.0,2.0,5.0,0.278,0.36,0.477,0.837,21.0,12.0,-0.041,0.95,0.049,-0.09,-0.02%,0.92,0.0,1.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Jarren Duran LF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.257,0.334,0.442,0.776,25.0,16.0,-0.096,0.92,0.0,-0.096,-0.06%,0.89,-1.1,5.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Trevor Story SS,3.0,1.0,2.0,1.0,0.0,1.0,4.0,0.262,0.308,0.436,0.744,18.0,11.0,0.224,1.44,0.25,-0.026,0.13%,1.39,2.0,1.0,2.0,"2B,SB,HBP"
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Nathaniel Lowe 1B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.226,0.301,0.39,0.692,19.0,11.0,0.005,1.77,0.109,-0.105,0.00%,1.72,0.1,8.0,1.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Rob Refsnyder RF,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.277,0.36,0.484,0.843,11.0,5.0,-0.085,1.79,0.021,-0.106,-0.05%,1.74,-0.7,1.0,0.0,GDP
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Romy Gonzalez PH-2B,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.307,0.342,0.492,0.834,5.0,4.0,0.041,2.56,0.06,-0.019,0.02%,2.48,0.2,0.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,David Hamilton 2B,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.203,0.259,0.316,0.575,10.0,9.0,0.011,2.36,0.135,-0.124,0.01%,2.29,-0.3,0.0,5.0,"SB,GDP"
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Nate Eaton RF,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.26,0.321,0.32,0.641,7.0,3.0,0.081,3.07,0.081,0.0,0.05%,2.98,0.4,0.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.245,0.288,0.416,0.703,18.0,15.0,-0.212,2.5,0.042,-0.254,-0.12%,2.43,-1.0,3.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Connor Wong C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.192,0.262,0.238,0.5,14.0,7.0,0.238,2.07,0.341,-0.103,0.14%,2.0,0.8,4.0,0.0,GDP
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Nick Sogard PH,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.254,0.324,0.343,0.668,3.0,2.0,0.443,4.49,0.443,0.0,0.26%,4.36,1.9,0.0,0.0,2B
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Aroldis Chapman P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Brayan Bello P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Zack Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Garrett Whitlock P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ARI202509070,BOS,https://www.baseball-reference.com/boxes/ARI/ARI202509070.shtml,BostonRedSoxbatting,Team Totals,34.0,7.0,8.0,5.0,4.0,6.0,39.0,0.235,0.333,0.294,0.627,169.0,109.0,0.539,1.71,1.574,-1.036,0.31%,1.66,2.3,27.0,9.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202504220,SDP,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,SanDiegoPadrespitching,"Nick Pivetta, W (4-1)",7,2,0,0,2,6,0,1.2,25,91,58,32,11,15,5,12,2,0,77.0,,,0.443,0.94,0.29%,1.03,3.5
+DET202504220,SDP,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,SanDiegoPadrespitching,"Jason Adam, H (9)",1,1,0,0,0,0,0,0.69,4,13,9,7,2,0,2,2,0,0,,0.0,0.0,0.09,1.69,0.06%,1.84,0.5
+DET202504220,SDP,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,SanDiegoPadrespitching,"Robert Suarez, S (10)",1,0,0,0,0,1,0,0.0,3,12,9,7,1,1,0,2,0,0,,0.0,0.0,0.093,1.21,0.06%,1.32,0.5
+DET202504220,SDP,https://www.baseball-reference.com/boxes/DET/DET202504220.shtml,SanDiegoPadrespitching,Team Totals,9,3,0,0,2,7,0,0.0,32,116,76,46,14,16,7,16,2,0,77.0,0.0,0.0,0.626,1.05,0.41%,1.16,4.6

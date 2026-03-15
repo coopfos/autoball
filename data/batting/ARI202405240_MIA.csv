@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.254,0.327,0.425,0.752,18.0,11.0,-0.064,0.75,0.01,-0.073,-0.01%,0.1,-0.6,3.0,0.0,
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Bryan De La Cruz DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.259,0.316,0.434,0.75,11.0,6.0,-0.037,0.55,0.013,-0.05,-0.00%,0.07,-0.6,0.0,0.0,CS
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Josh Bell 1B,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.228,0.312,0.358,0.669,16.0,9.0,-0.035,0.48,0.004,-0.039,-0.00%,0.06,-0.3,11.0,1.0,HBP
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.224,0.309,0.259,0.568,,,,,,,,,,0.0,0.0,
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.222,0.284,0.289,0.573,14.0,5.0,0.019,0.56,0.054,-0.035,0.00%,0.07,-0.3,3.0,0.0,GDP
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Jake Burger 3B-1B,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.175,0.211,0.3,0.511,13.0,9.0,0.123,0.76,0.142,-0.019,0.01%,0.1,1.0,2.0,5.0,HR
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Nick Gordon LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.234,0.261,0.391,0.652,7.0,6.0,-0.082,0.77,0.036,-0.118,-0.01%,0.1,-1.2,0.0,0.0,"2B,CS,GDP"
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Tim Anderson SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.211,0.245,0.233,0.478,11.0,7.0,0.026,0.79,0.062,-0.036,0.00%,0.1,-0.1,2.0,1.0,
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Otto Lopez 2B,3.0,0.0,2.0,2.0,0.0,0.0,3.0,0.302,0.338,0.492,0.83,11.0,5.0,0.126,1.06,0.133,-0.007,0.01%,0.14,1.3,0.0,4.0,
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.151,0.186,0.237,0.422,16.0,9.0,-0.047,0.72,0.0,-0.047,-0.00%,0.09,-0.8,6.0,0.0,
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Braxton Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202405240,MIA,https://www.baseball-reference.com/boxes/ARI/ARI202405240.shtml,MiamiMarlinsbatting,Team Totals,32.0,3.0,9.0,3.0,1.0,5.0,34.0,0.281,0.324,0.406,0.73,117.0,67.0,0.029,0.7,0.454,-0.424,0.00%,0.09,-1.6,27.0,11.0,

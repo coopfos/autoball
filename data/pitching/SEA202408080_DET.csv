@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202408080,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408080.shtml,DetroitTigerspitching,Brenan Hanifee,2.0,0,0,0,1,1,0,3.0,7,28,18,10,2,6,4,1,0,0,56.0,,,0.094,0.67,0.01%,0.09,0.9
+SEA202408080,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408080.shtml,DetroitTigerspitching,Bryan Sammons,4.1,3,1,1,1,4,1,4.15,17,64,42,26,8,8,5,7,1,0,,0.0,0.0,0.123,1.08,0.01%,0.15,0.8
+SEA202408080,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408080.shtml,DetroitTigerspitching,"Tyler Holton, H (7)",1.2,2,1,1,0,0,0,2.76,5,13,10,7,2,1,3,2,1,0,,1.0,0.0,0.074,1.77,0.01%,0.25,0.6
+SEA202408080,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408080.shtml,DetroitTigerspitching,"Will Vest, BS (5), L (2-4)",0.2,2,2,2,1,2,0,3.16,5,29,17,8,3,6,0,2,2,0,,1.0,1.0,-0.834,4.75,-0.07%,0.66,-2.5
+SEA202408080,DET,https://www.baseball-reference.com/boxes/SEA/SEA202408080.shtml,DetroitTigerspitching,Team Totals,8.2,7,4,4,3,7,1,4.15,34,134,87,51,15,21,12,12,4,0,56.0,2.0,1.0,-0.543,1.64,-0.04%,0.23,-0.3

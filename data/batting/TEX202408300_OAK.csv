@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Lawrence Butler RF,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.254,0.311,0.502,0.813,9.0,8.0,-0.066,0.68,0.01,-0.076,0%,0.0,-0.3,3.0,0.0,2B
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Brent Rooker DH,4.0,3.0,2.0,2.0,1.0,0.0,5.0,0.287,0.366,0.575,0.941,22.0,12.0,0.166,0.51,0.177,-0.011,0%,0.0,1.7,0.0,0.0,2·HR
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,JJ Bleday CF,5.0,2.0,2.0,4.0,0.0,2.0,5.0,0.251,0.33,0.468,0.798,19.0,12.0,0.263,0.66,0.298,-0.034,0%,0.0,3.1,0.0,0.0,"HR,2B"
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Shea Langeliers C,5.0,1.0,2.0,2.0,0.0,0.0,5.0,0.223,0.288,0.446,0.734,24.0,15.0,0.015,0.23,0.028,-0.012,0%,0.0,2.0,7.0,0.0,HR
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Seth Brown 1B,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.234,0.297,0.39,0.687,14.0,10.0,-0.013,0.4,0.023,-0.036,0%,0.0,0.1,11.0,0.0,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Daz Cameron LF,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.195,0.266,0.352,0.617,15.0,12.0,-0.047,0.37,0.002,-0.049,0%,0.0,-1.1,1.0,0.0,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.203,0.268,0.366,0.634,16.0,11.0,-0.041,0.43,0.0,-0.041,0%,0.0,-0.9,3.0,2.0,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Max Schuemann 3B,3.0,1.0,0.0,0.0,0.0,2.0,4.0,0.232,0.325,0.326,0.651,18.0,12.0,-0.041,0.48,0.01,-0.051,0%,0.0,-0.1,0.0,5.0,"SB,HBP"
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Jacob Wilson SS,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.3,0.385,0.3,0.685,17.0,8.0,0.037,0.38,0.046,-0.009,0%,0.0,0.2,2.0,5.0,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,JP Sears P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Michel Otañez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Ross Stripling P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202408300,OAK,https://www.baseball-reference.com/boxes/TEX/TEX202408300.shtml,OaklandAthleticsbatting,Team Totals,39.0,9.0,11.0,9.0,2.0,8.0,42.0,0.282,0.333,0.641,0.974,154.0,100.0,0.273,0.46,0.594,-0.319,0.00%,0.0,4.7,27.0,14.0,

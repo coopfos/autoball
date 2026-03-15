@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202405110,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405110.shtml,LosAngelesAngelspitching,"Tyler Anderson, W (3-4)",6.2,7,3,3,1,4,0,2.92,27,93,60,39,10,11,9,13,3,0,51.0,,,0.03,0.85,0.01%,0.31,0.0
+ANA202405110,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405110.shtml,LosAngelesAngelspitching,"Adam Cimber, H (4)",0.1,0,0,0,0,0,0,2.6,1,2,2,1,0,1,0,1,0,0,,2.0,0.0,0.064,2.49,0.01%,0.91,0.4
+ANA202405110,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405110.shtml,LosAngelesAngelspitching,Hunter Strickland,1.0,1,0,0,0,1,0,2.3,4,20,13,8,0,5,1,2,0,0,,0.0,0.0,0.006,0.07,0.00%,0.03,0.5
+ANA202405110,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405110.shtml,LosAngelesAngelspitching,Carson Fulmer,1.0,0,0,0,0,0,0,3.0,3,14,8,6,0,2,1,2,0,0,,0.0,0.0,0.002,0.03,0.00%,0.01,0.5
+ANA202405110,LAA,https://www.baseball-reference.com/boxes/ANA/ANA202405110.shtml,LosAngelesAngelspitching,Team Totals,9.0,8,3,3,1,5,0,3.0,35,129,83,54,10,19,11,18,3,0,51.0,2.0,0.0,0.102,0.75,0.02%,0.28,1.4

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Bryson Stott DH,4.0,2.0,1.0,1.0,1.0,1.0,5.0,0.243,0.334,0.355,0.689,22.0,15.0,-0.001,0.82,0.047,-0.048,-0.00%,0.68,0.0,0.0,0.0,SB
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,5.0,2.0,2.0,4.0,0.0,1.0,5.0,0.341,0.386,0.51,0.895,13.0,8.0,0.348,0.73,0.386,-0.038,0.17%,0.6,3.0,1.0,1.0,2·HR
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 1B,5.0,0.0,3.0,0.0,0.0,1.0,5.0,0.3,0.351,0.492,0.843,10.0,10.0,0.033,0.3,0.043,-0.01,0.02%,0.25,0.1,7.0,1.0,2B
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.238,0.295,0.397,0.692,15.0,12.0,0.002,0.56,0.041,-0.039,0.00%,0.46,-0.1,0.0,0.0,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Edmundo Sosa 3B,4.0,1.0,1.0,0.0,0.0,1.0,5.0,0.27,0.331,0.465,0.797,17.0,12.0,0.02,0.9,0.069,-0.05,0.01%,0.74,0.1,0.0,2.0,"2B,HBP"
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Whit Merrifield 2B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.19,0.274,0.279,0.553,10.0,10.0,-0.019,1.2,0.095,-0.114,-0.01%,0.99,0.1,1.0,1.0,2·SB
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Rafael Marchán C,5.0,0.0,2.0,0.0,0.0,2.0,5.0,0.268,0.302,0.537,0.839,21.0,16.0,-0.024,0.82,0.058,-0.082,-0.01%,0.68,-0.3,11.0,0.0,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Johan Rojas CF,5.0,2.0,2.0,1.0,0.0,0.0,5.0,0.23,0.266,0.289,0.556,16.0,10.0,0.023,0.81,0.12,-0.097,0.01%,0.67,1.0,2.0,0.0,SB
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Cristian Pache LF,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.187,0.286,0.242,0.527,24.0,15.0,-0.003,0.9,0.078,-0.08,-0.00%,0.75,-0.4,4.0,0.0,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Aaron Nola P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Orion Kerkering P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,José Alvarado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Jeff Hoffman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202407050,PHI,https://www.baseball-reference.com/boxes/ATL/ATL202407050.shtml,PhiladelphiaPhilliesbatting,Team Totals,43.0,8.0,15.0,6.0,1.0,8.0,45.0,0.349,0.378,0.535,0.913,148.0,108.0,0.379,0.8,0.937,-0.558,0.19%,0.66,3.4,27.0,5.0,

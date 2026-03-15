@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Jackson Holliday 2B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.253,0.323,0.394,0.717,11.0,7.0,-0.009,0.83,0.035,-0.044,0%,0.0,-0.0,2.0,1.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Emmanuel Rivera PH-3B,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.25,0.291,0.283,0.575,3.0,2.0,0.002,0.04,0.002,0.0,0%,0.0,0.6,0.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Dylan Beavers RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.282,0.44,0.394,0.834,18.0,13.0,-0.071,0.72,0.0,-0.071,0%,0.0,-2.0,3.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Gunnar Henderson SS,2.0,0.0,1.0,0.0,1.0,0.0,3.0,0.271,0.347,0.442,0.789,15.0,9.0,0.089,0.95,0.105,-0.016,0%,0.0,0.9,2.0,2.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Jorge Mateo PH-SS,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.182,0.229,0.273,0.501,6.0,3.0,0.0,0.01,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Jeremiah Jackson 3B-2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.285,0.315,0.467,0.782,17.0,13.0,-0.143,0.97,0.0,-0.143,0%,0.0,-1.8,0.0,2.0,GDP
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Samuel Basallo DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.179,0.238,0.333,0.571,21.0,15.0,-0.082,0.76,0.0,-0.082,0%,0.0,-1.0,0.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Coby Mayo 1B,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.193,0.267,0.355,0.622,14.0,9.0,0.056,0.61,0.106,-0.05,0%,0.0,0.6,5.0,0.0,HR
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Colton Cowser CF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.201,0.271,0.386,0.657,15.0,11.0,-0.012,0.48,0.033,-0.044,0%,0.0,0.4,2.0,0.0,HR
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Dylan Carlson LF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.202,0.274,0.337,0.61,7.0,6.0,-0.038,0.51,0.0,-0.038,0%,0.0,-0.4,1.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Alex Jackson C,3.0,0.0,2.0,0.0,0.0,0.0,3.0,0.244,0.311,0.524,0.836,11.0,6.0,-0.006,0.46,0.017,-0.022,0%,0.0,0.3,9.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Albert Suárez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Grant Wolfram P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Carson Ragsdale P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Luis Vázquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202509140,BAL,https://www.baseball-reference.com/boxes/TOR/TOR202509140.shtml,BaltimoreOriolesbatting,Team Totals,32.0,2.0,7.0,2.0,2.0,8.0,34.0,0.219,0.265,0.406,0.671,138.0,94.0,-0.214,0.66,0.298,-0.51,0.00%,0.0,-2.6,24.0,6.0,

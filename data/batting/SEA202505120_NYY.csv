@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Trent Grisham CF,6.0,2.0,3.0,2.0,0.0,2.0,6.0,0.288,0.373,0.663,1.036,22.0,14.0,0.251,0.52,0.278,-0.027,0.20%,0.68,1.8,3.0,0.0,2·HR
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Aaron Judge RF,3.0,1.0,2.0,1.0,2.0,0.0,6.0,0.414,0.5,0.783,1.283,23.0,12.0,0.086,0.44,0.101,-0.015,0.07%,0.57,1.0,4.0,0.0,"2B,SF"
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Ben Rice DH,6.0,1.0,1.0,0.0,0.0,2.0,6.0,0.256,0.36,0.558,0.918,20.0,14.0,0.085,0.7,0.143,-0.058,0.07%,0.92,-0.7,0.0,0.0,"2B,GDP"
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,5.0,2.0,2.0,1.0,0.0,1.0,5.0,0.35,0.398,0.497,0.894,14.0,11.0,0.034,0.88,0.097,-0.063,0.03%,1.15,0.3,6.0,0.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Cody Bellinger LF,4.0,2.0,2.0,1.0,1.0,2.0,5.0,0.23,0.303,0.385,0.688,26.0,15.0,0.05,0.71,0.081,-0.031,0.04%,0.93,0.7,0.0,0.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Anthony Volpe SS,3.0,1.0,2.0,2.0,2.0,0.0,5.0,0.245,0.335,0.442,0.777,20.0,11.0,0.088,0.74,0.1,-0.011,0.07%,0.97,2.6,0.0,1.0,HR
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,1.0,1.0,4.0,0.0,1.0,5.0,0.215,0.281,0.479,0.76,17.0,14.0,0.041,1.05,0.126,-0.085,0.03%,1.37,1.3,10.0,0.0,"HR,SF"
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.243,0.322,0.308,0.631,15.0,9.0,-0.023,0.62,0.027,-0.05,-0.02%,0.81,-0.3,3.0,2.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Jorbit Vivas 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.158,0.304,0.211,0.515,,,,,,,,,,0.0,0.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Oswald Peraza 2B-3B,4.0,0.0,1.0,0.0,0.0,1.0,5.0,0.204,0.278,0.388,0.666,14.0,11.0,-0.078,0.68,0.005,-0.082,-0.06%,0.89,0.3,1.0,1.0,"2B,HBP"
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Clarke Schmidt P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Mark Leiter Jr. P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Tim Hill P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Devin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Ian Hamilton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202505120,NYY,https://www.baseball-reference.com/boxes/SEA/SEA202505120.shtml,NewYorkYankeesbatting,Team Totals,39.0,11.0,15.0,11.0,6.0,9.0,48.0,0.385,0.458,0.769,1.228,171.0,111.0,0.534,0.7,0.958,-0.422,0.42%,0.91,7.0,27.0,7.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202407300,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407300.shtml,NewYorkMetspitching,"Sean Manaea, W (7-4)",7.0,2,0,0,1,11,0,3.5,24,96,70,31,23,16,7,5,0,0,83.0,,,0.41,0.85,0.27%,0.94,3.4
+NYN202407300,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407300.shtml,NewYorkMetspitching,"Ryne Stanek, H (16)",0.2,0,0,0,1,0,0,4.87,4,20,12,7,2,3,1,2,0,0,,0.0,0.0,0.003,2.37,0.00%,2.62,0.1
+NYN202407300,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407300.shtml,NewYorkMetspitching,"Edwin Díaz, S (13)",1.1,0,0,0,0,2,0,3.77,4,20,14,8,3,3,1,1,1,0,,2.0,0.0,0.139,1.37,0.09%,1.52,0.9
+NYN202407300,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407300.shtml,NewYorkMetspitching,Team Totals,9.0,2,0,0,2,13,0,0.0,32,136,96,46,28,22,9,8,1,0,83.0,2.0,0.0,0.552,1.1,0.37%,1.22,4.3

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.125,0.16,0.125,0.285,9.0,6.0,-0.027,1.48,0.072,-0.099,-0.01%,1.11,-0.0,1.0,0.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Yoán Moncada 3B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.273,0.36,0.455,0.815,18.0,11.0,-0.097,1.24,0.078,-0.174,-0.04%,0.93,-1.2,0.0,2.0,GDP
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.208,0.24,0.5,0.74,16.0,11.0,-0.128,1.11,0.0,-0.128,-0.06%,0.83,-1.3,2.0,0.0,GDP
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Gavin Sheets DH,2.0,0.0,2.0,0.0,2.0,0.0,4.0,0.375,0.615,0.5,1.115,14.0,6.0,0.188,0.84,0.188,0.0,0.08%,0.64,1.7,0.0,0.0,2B
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn 1B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.25,0.318,0.25,0.568,13.0,10.0,0.074,1.36,0.152,-0.078,0.03%,1.02,0.2,13.0,0.0,GDP
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Braden Shewmake SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.231,0.286,0.462,0.747,17.0,9.0,-0.235,1.49,0.0,-0.235,-0.11%,1.11,-1.2,1.0,4.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.067,0.125,0.067,0.192,15.0,10.0,-0.147,1.33,0.0,-0.147,-0.07%,1.0,-1.4,2.0,0.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Nicky Lopez 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.188,0.235,0.188,0.423,13.0,7.0,-0.031,0.78,0.029,-0.06,-0.01%,0.58,-0.4,1.0,5.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Korey Lee C,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.375,0.375,0.875,1.25,13.0,8.0,0.067,0.74,0.086,-0.02,0.03%,0.56,0.2,4.0,1.0,2B
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Michael Soroka P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Deivi García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Dominic Leone P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Bryan Shaw P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202404040,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202404040.shtml,ChicagoWhiteSoxbatting,Team Totals,32.0,1.0,8.0,1.0,4.0,4.0,36.0,0.25,0.333,0.313,0.646,128.0,78.0,-0.336,1.15,0.605,-0.941,-0.15%,0.86,-3.5,24.0,14.0,

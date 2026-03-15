@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Víctor Robles CF,5.0,1.0,0.0,0.0,0.0,3.0,5.0,0.252,0.333,0.364,0.697,21.0,16.0,-0.093,1.14,0.033,-0.127,-0.06%,1.3,-0.5,4.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Jorge Polanco 2B,4.0,0.0,1.0,1.0,1.0,1.0,5.0,0.215,0.297,0.354,0.651,26.0,16.0,0.024,1.65,0.161,-0.136,0.02%,1.88,0.4,0.0,2.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Randy Arozarena LF,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.222,0.334,0.399,0.733,27.0,14.0,-0.083,1.43,0.062,-0.145,-0.06%,1.62,-0.2,2.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Cal Raleigh C,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.216,0.311,0.444,0.755,26.0,16.0,-0.127,1.61,0.057,-0.184,-0.09%,1.83,-0.2,9.0,0.0,CS
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Julio Rodríguez DH,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.263,0.313,0.371,0.684,15.0,9.0,0.052,1.48,0.115,-0.063,0.04%,1.68,0.8,0.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Dominic Canzone PR-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.218,0.293,0.408,0.701,,,,,,,,,,0.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Luke Raley 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.23,0.294,0.423,0.717,18.0,13.0,-0.029,1.22,0.058,-0.088,-0.02%,1.38,-0.6,8.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Mitch Haniger RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.207,0.288,0.343,0.632,21.0,13.0,-0.129,1.24,0.0,-0.129,-0.09%,1.41,-1.7,4.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Josh Rojas 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.234,0.315,0.35,0.665,12.0,8.0,-0.152,1.56,0.0,-0.152,-0.10%,1.78,-1.1,0.0,1.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Dylan Moore SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.204,0.313,0.385,0.697,17.0,10.0,-0.045,1.22,0.056,-0.101,-0.03%,1.39,-0.3,1.0,3.0,2B
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Bryan Woo P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Yimi García P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Collin Snider P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202408140,SEA,https://www.baseball-reference.com/boxes/DET/DET202408140.shtml,SeattleMarinersbatting,Team Totals,36.0,2.0,5.0,2.0,4.0,11.0,40.0,0.139,0.225,0.167,0.392,183.0,115.0,-0.582,1.41,0.542,-1.125,-0.40%,1.6,-3.5,28.0,9.0,

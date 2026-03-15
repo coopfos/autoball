@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,4.0,0.0,1.0,0.0,0.0,0.0,5.0,0.289,0.387,0.526,0.914,13.0,8.0,-0.02,0.88,0.053,-0.073,-0.00%,0.11,-0.3,3.0,1.0,HBP
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.29,0.391,0.452,0.843,25.0,17.0,-0.124,0.99,0.0,-0.124,-0.01%,0.12,-1.7,1.0,1.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,4.0,1.0,0.0,0.0,1.0,2.0,5.0,0.254,0.331,0.545,0.876,29.0,17.0,-0.021,0.8,0.059,-0.08,-0.00%,0.1,-0.6,3.0,0.0,"SB,GDP"
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,2.0,3.0,0.0,1.0,0.0,5.0,0.249,0.297,0.421,0.718,20.0,10.0,0.08,0.73,0.096,-0.016,0.01%,0.09,1.1,3.0,0.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.282,0.333,0.446,0.779,22.0,13.0,-0.001,1.12,0.072,-0.073,0%,0.14,0.0,5.0,0.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Blaze Alexander 3B,3.0,2.0,2.0,0.0,2.0,0.0,5.0,0.232,0.327,0.423,0.75,24.0,14.0,0.137,1.1,0.166,-0.029,0.01%,0.14,1.1,0.0,4.0,"2B,GDP"
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Tyler Locklear 1B,3.0,0.0,0.0,2.0,0.0,0.0,4.0,0.178,0.268,0.26,0.529,9.0,5.0,0.082,1.58,0.107,-0.025,0.01%,0.2,0.6,6.0,1.0,HBP
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,0.0,2.0,2.0,0.0,2.0,4.0,0.255,0.295,0.38,0.676,20.0,14.0,0.03,1.35,0.147,-0.117,0.00%,0.17,0.7,5.0,0.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Ildemaro Vargas DH,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.234,0.25,0.383,0.633,13.0,9.0,0.076,1.23,0.125,-0.049,0.01%,0.15,0.5,0.0,0.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Nabil Crismatt P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Taylor Rashi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202508280,ARI,https://www.baseball-reference.com/boxes/MIL/MIL202508280.shtml,ArizonaDiamondbacksbatting,Team Totals,36.0,6.0,11.0,6.0,4.0,5.0,42.0,0.306,0.405,0.333,0.738,175.0,107.0,0.239,1.06,0.825,-0.586,0.02%,0.13,1.4,27.0,8.0,

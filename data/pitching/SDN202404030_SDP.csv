@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202404030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404030.shtml,SanDiegoPadrespitching,"Joe Musgrove, W (1-1)",6.0,5,1,1,1,7,0,6.28,22,88,52,25,12,15,4,8,5,0,64.0,,,0.235,1.06,0.12%,0.88,2.0
+SDN202404030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404030.shtml,SanDiegoPadrespitching,"Tom Cosgrove, H (2)",1.0,0,0,0,1,2,0,14.54,4,23,12,7,2,3,0,1,1,0,,0.0,0.0,0.071,1.66,0.03%,1.38,0.5
+SDN202404030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404030.shtml,SanDiegoPadrespitching,"Wandy Peralta, H (2)",0.1,0,1,0,0,0,0,2.7,3,11,4,3,1,0,1,0,0,0,,0.0,0.0,-0.164,2.63,-0.08%,2.18,-1.2
+SDN202404030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404030.shtml,SanDiegoPadrespitching,"Robert Suarez, S (3)",1.2,1,0,0,2,2,0,2.25,7,33,20,15,3,2,1,2,2,0,,1.0,0.0,0.33,4.02,0.17%,3.34,1.2
+SDN202404030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202404030.shtml,SanDiegoPadrespitching,Team Totals,9.0,6,2,1,4,11,0,1.0,36,155,88,50,18,20,6,11,8,0,64.0,1.0,0.0,0.472,1.81,0.23%,1.51,2.6

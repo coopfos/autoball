@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202506220,TEX,https://www.baseball-reference.com/boxes/PIT/PIT202506220.shtml,TexasRangerspitching,"Jack Leiter, L (4-5)",4,5,3,3,2,2,0,4.55,19,88,51,32,13,6,4,11,6,0,40.0,,,-0.079,1.18,-0.04%,1.04,-0.3
+PIT202506220,TEX,https://www.baseball-reference.com/boxes/PIT/PIT202506220.shtml,TexasRangerspitching,Caleb Boushley,4,10,5,5,1,1,0,5.04,22,72,51,33,4,14,7,13,7,0,,1.0,1.0,-0.341,0.55,-0.18%,0.48,-3.6
+PIT202506220,TEX,https://www.baseball-reference.com/boxes/PIT/PIT202506220.shtml,TexasRangerspitching,Team Totals,8,15,8,8,3,3,0,9.0,41,160,102,65,17,20,11,24,13,0,40.0,1.0,1.0,-0.42,0.84,-0.22%,0.74,-3.9

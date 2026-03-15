@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Anthony Volpe SS,3.0,2.0,1.0,0.0,1.0,0.0,5.0,0.279,0.352,0.438,0.789,20.0,13.0,0.067,0.37,0.09,-0.023,0.04%,0.4,1.0,1.0,2.0,"3B,SH"
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Juan Soto RF,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.315,0.413,0.581,0.995,18.0,11.0,0.132,0.45,0.177,-0.045,0.08%,0.48,1.5,6.0,0.0,"HR,2B"
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Aaron Judge CF,4.0,1.0,1.0,2.0,0.0,1.0,5.0,0.275,0.411,0.619,1.03,25.0,16.0,0.084,0.36,0.089,-0.005,0.05%,0.38,0.2,2.0,0.0,"HR,SF"
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Trent Grisham CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.056,0.227,0.139,0.366,,,,,,,,,,0.0,0.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Alex Verdugo LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.256,0.322,0.417,0.739,13.0,10.0,-0.007,0.15,0.005,-0.012,-0.00%,0.16,-0.3,5.0,0.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.246,0.295,0.52,0.816,10.0,6.0,0.061,0.31,0.083,-0.023,0.04%,0.34,1.2,0.0,0.0,HR
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Anthony Rizzo 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.249,0.313,0.381,0.694,14.0,8.0,-0.018,0.18,0.0,-0.018,-0.01%,0.2,-0.5,6.0,0.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.221,0.298,0.318,0.616,17.0,10.0,0.007,0.14,0.019,-0.012,0.01%,0.15,0.6,1.0,2.0,HR
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.209,0.307,0.302,0.609,9.0,7.0,0.033,0.25,0.036,-0.003,0.02%,0.27,0.2,6.0,0.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Jon Berti 3B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.273,0.322,0.327,0.649,15.0,10.0,-0.029,0.32,0.005,-0.034,-0.02%,0.35,-0.4,0.0,2.0,SB
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.252,0.292,0.371,0.663,,,,,,,,,,0.0,0.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Carlos Rodón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Dennis Santana P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Yoendrys Gómez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202405240,NYY,https://www.baseball-reference.com/boxes/SDN/SDN202405240.shtml,NewYorkYankeesbatting,Team Totals,35.0,8.0,10.0,7.0,2.0,7.0,39.0,0.286,0.316,0.714,1.03,141.0,91.0,0.33,0.29,0.504,-0.175,0.21%,0.31,3.4,27.0,7.0,

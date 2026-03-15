@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Adam Frazier 2B,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.221,0.294,0.303,0.597,17.0,12.0,-0.044,0.35,0.0,-0.044,-0.01%,0.07,-0.8,3.0,2.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.254,0.352,0.385,0.737,17.0,10.0,-0.011,0.32,0.012,-0.023,-0.00%,0.06,0.4,0.0,0.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Bryan Reynolds RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.194,0.259,0.309,0.568,15.0,8.0,-0.02,0.4,0.011,-0.031,-0.00%,0.07,-0.3,1.0,0.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Joey Bart C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.281,0.401,0.36,0.761,14.0,10.0,-0.057,0.53,0.004,-0.062,-0.01%,0.1,-0.9,6.0,0.0,GDP
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Alexander Canario LF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.21,0.279,0.339,0.618,8.0,6.0,-0.005,0.36,0.017,-0.022,-0.00%,0.07,0.4,3.0,1.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa SS,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.283,0.331,0.354,0.685,16.0,11.0,0.025,0.48,0.039,-0.014,0.00%,0.09,-0.5,1.0,2.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Matt Gorski 1B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.211,0.211,0.421,0.632,23.0,13.0,0.154,0.75,0.198,-0.044,0.02%,0.14,0.5,7.0,0.0,HR
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Ji Hwan Bae CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.091,0.167,0.091,0.258,16.0,11.0,0.012,0.29,0.026,-0.014,0.00%,0.06,-0.2,5.0,0.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Jared Triolo 3B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.154,0.221,0.282,0.503,12.0,8.0,0.097,0.47,0.117,-0.021,0.01%,0.09,1.1,0.0,1.0,HR
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Bailey Falter P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Chase Shugart P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,David Bednar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Dennis Santana P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202505140,PIT,https://www.baseball-reference.com/boxes/NYN/NYN202505140.shtml,PittsburghPiratesbatting,Team Totals,35.0,4.0,9.0,4.0,2.0,9.0,37.0,0.257,0.297,0.429,0.726,138.0,89.0,0.151,0.44,0.424,-0.275,0.02%,0.08,-0.2,27.0,7.0,

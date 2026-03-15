@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TBA202408120,HOU,https://www.baseball-reference.com/boxes/TBA/TBA202408120.shtml,HoustonAstrospitching,"Framber Valdez, W (12-5)",5.2,3,1,1,1,9,0,3.38,21,101,60,29,10,21,6,5,0,0,67.0,,,0.165,0.58,0.13%,0.77,1.7
+TBA202408120,HOU,https://www.baseball-reference.com/boxes/TBA/TBA202408120.shtml,HoustonAstrospitching,Tayler Scott,1.1,1,0,0,0,2,0,1.77,5,24,15,8,4,3,0,3,1,0,,1.0,0.0,0.028,0.26,0.02%,0.35,0.7
+TBA202408120,HOU,https://www.baseball-reference.com/boxes/TBA/TBA202408120.shtml,HoustonAstrospitching,Kaleb Ort,2.0,0,0,0,0,2,0,0.9,6,19,12,7,2,3,0,4,0,0,,0.0,0.0,0.02,0.13,0.02%,0.18,1.0
+TBA202408120,HOU,https://www.baseball-reference.com/boxes/TBA/TBA202408120.shtml,HoustonAstrospitching,Team Totals,9.0,4,1,1,1,13,0,1.0,32,144,87,44,16,27,6,12,1,0,67.0,1.0,0.0,0.213,0.44,0.17%,0.59,3.3

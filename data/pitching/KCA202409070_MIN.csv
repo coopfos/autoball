@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+KCA202409070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,MinnesotaTwinspitching,Bailey Ober,7.0,1,0,0,0,7,0,3.77,23,83,59,31,11,17,7,8,0,0,82.0,,,0.44,0.92,0.31%,1.06,3.5
+KCA202409070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,MinnesotaTwinspitching,"Jhoan Duran, H (6), L (6-9)",0.1,2,3,3,0,1,0,3.99,4,17,10,5,2,3,0,2,2,0,,0.0,0.0,-0.242,2.33,-0.17%,2.71,-1.4
+KCA202409070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,MinnesotaTwinspitching,"Griffin Jax, BS (5)",0.2,3,1,1,0,0,0,2.01,4,8,8,5,1,2,2,2,2,0,,2.0,2.0,-0.521,2.83,-0.36%,3.29,-2.1
+KCA202409070,MIN,https://www.baseball-reference.com/boxes/KCA/KCA202409070.shtml,MinnesotaTwinspitching,Team Totals,8.0,6,4,4,0,8,0,4.5,31,108,77,41,14,22,9,12,4,0,82.0,2.0,2.0,-0.323,1.35,-0.23%,1.56,0.0

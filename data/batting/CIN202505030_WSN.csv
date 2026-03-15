@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,3.0,2.0,0.0,1.0,1.0,6.0,0.289,0.341,0.53,0.871,29.0,21.0,0.035,0.91,0.09,-0.055,0.01%,0.56,0.8,3.0,1.0,"SB,HBP"
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Amed Rosario 3B,6.0,1.0,3.0,4.0,0.0,0.0,6.0,0.276,0.288,0.448,0.736,13.0,9.0,0.279,1.02,0.343,-0.064,0.10%,0.63,2.6,0.0,1.0,"HR,2B"
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,James Wood DH,6.0,2.0,4.0,0.0,0.0,1.0,6.0,0.273,0.384,0.547,0.931,20.0,13.0,0.182,0.68,0.187,-0.006,0.07%,0.42,1.3,0.0,0.0,"2B,SB"
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Nathaniel Lowe 1B,5.0,1.0,3.0,2.0,1.0,1.0,6.0,0.252,0.326,0.441,0.767,24.0,14.0,-0.028,1.07,0.081,-0.109,-0.01%,0.67,1.7,3.0,0.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Alex Call LF,4.0,1.0,1.0,1.0,2.0,1.0,6.0,0.328,0.432,0.414,0.846,24.0,10.0,0.073,0.94,0.114,-0.041,0.03%,0.58,0.4,4.0,0.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,5.0,0.0,0.0,1.0,0.0,1.0,6.0,0.231,0.283,0.333,0.617,19.0,12.0,-0.092,0.99,0.0,-0.092,-0.03%,0.61,-2.0,1.0,1.0,SF
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Dylan Crews RF,3.0,1.0,0.0,0.0,1.0,0.0,5.0,0.195,0.248,0.327,0.575,16.0,8.0,-0.081,0.88,0.029,-0.11,-0.03%,0.54,-0.3,2.0,0.0,"SB,HBP"
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Riley Adams C,5.0,0.0,1.0,2.0,0.0,2.0,5.0,0.182,0.182,0.364,0.545,20.0,16.0,-0.065,0.86,0.026,-0.091,-0.02%,0.53,0.7,9.0,3.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,2.0,1.0,1.0,0.0,1.0,5.0,0.224,0.33,0.263,0.593,20.0,13.0,0.181,1.0,0.182,-0.002,0.07%,0.62,1.0,4.0,0.0,"SB,HBP,SH"
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Trevor Williams P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Andrew Chafin P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Jackson Rutledge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Eduardo Salazar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505030,WSN,https://www.baseball-reference.com/boxes/CIN/CIN202505030.shtml,WashingtonNationalsbatting,Team Totals,41.0,11.0,15.0,11.0,5.0,8.0,51.0,0.366,0.46,0.488,0.948,185.0,116.0,0.484,0.93,1.052,-0.57,0.18%,0.58,6.2,27.0,6.0,

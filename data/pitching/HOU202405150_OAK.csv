@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202405150,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405150.shtml,OaklandAthleticspitching,"Aaron Brooks, L (0-1)",7.0,7,3,3,1,5,0,3.86,28,84,60,38,9,13,7,15,9,0,55.0,,,-0.098,0.59,-0.04%,0.38,0.4
+HOU202405150,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405150.shtml,OaklandAthleticspitching,T.J. McFarland,0.2,1,0,0,0,0,0,4.58,3,9,6,4,0,2,3,0,0,0,,0.0,0.0,0.003,0.1,0.00%,0.06,0.3
+HOU202405150,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405150.shtml,OaklandAthleticspitching,Tyler Ferguson,0.1,0,0,0,0,0,0,0.0,1,2,2,1,0,1,1,0,0,0,,1.0,0.0,0.003,0.11,0.00%,0.07,0.2
+HOU202405150,OAK,https://www.baseball-reference.com/boxes/HOU/HOU202405150.shtml,OaklandAthleticspitching,Team Totals,8.0,8,3,3,1,5,0,3.38,32,95,68,43,9,16,11,15,9,0,55.0,1.0,0.0,-0.092,0.53,-0.04%,0.34,0.8

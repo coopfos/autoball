@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202409120,CIN,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,CincinnatiRedspitching,Jakob Junis,5.0,3,1,1,0,3,1,2.73,18,69,48,25,6,17,8,7,2,0,60.0,,,0.125,0.82,0.00%,0.0,1.5
+SLN202409120,CIN,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,CincinnatiRedspitching,"Carson Spiers, L (5-6)",2.2,7,5,4,3,4,1,5.49,18,67,46,27,6,13,4,7,3,0,,0.0,0.0,-0.275,0.97,0.00%,0.0,-3.3
+SLN202409120,CIN,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,CincinnatiRedspitching,Casey Legumina,0.1,0,0,0,0,0,0,9.95,2,7,5,3,0,2,2,0,0,0,,3.0,1.0,-0.005,0.03,0.00%,0.0,-0.2
+SLN202409120,CIN,https://www.baseball-reference.com/boxes/SLN/SLN202409120.shtml,CincinnatiRedspitching,Team Totals,8.0,10,6,5,3,7,2,5.62,38,143,99,55,12,32,14,14,5,0,60.0,3.0,1.0,-0.155,0.85,0.00%,0.0,-2.0

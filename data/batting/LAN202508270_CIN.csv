@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,TJ Friedl CF,4.0,0.0,2.0,0.0,1.0,0.0,5.0,0.266,0.364,0.376,0.739,15.0,7.0,0.046,0.64,0.08,-0.034,0.02%,0.48,0.7,3.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Noelvi Marte RF,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.293,0.332,0.513,0.845,15.0,9.0,-0.013,1.17,0.129,-0.142,-0.01%,0.88,-0.2,1.0,0.0,HR
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,5.0,0.0,1.0,0.0,0.0,4.0,5.0,0.272,0.343,0.45,0.793,28.0,17.0,-0.025,0.81,0.05,-0.075,-0.01%,0.61,-0.7,1.0,1.0,SB
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Austin Hays LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.266,0.323,0.449,0.773,18.0,8.0,-0.059,0.8,0.013,-0.071,-0.03%,0.6,-0.6,4.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Gavin Lux DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.275,0.352,0.38,0.732,19.0,12.0,-0.101,0.94,0.0,-0.101,-0.04%,0.7,-1.1,0.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Spencer Steer 1B,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.235,0.305,0.396,0.701,22.0,13.0,0.071,1.05,0.112,-0.04,0.03%,0.79,0.6,3.0,1.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Jose Trevino C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.245,0.285,0.373,0.658,17.0,10.0,-0.004,0.97,0.048,-0.052,-0.00%,0.72,-0.1,10.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Ke'Bryan Hayes 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.236,0.284,0.31,0.594,18.0,12.0,-0.142,1.01,0.0,-0.142,-0.06%,0.76,-1.6,1.0,2.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Matt McLain 2B,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.221,0.299,0.329,0.627,14.0,10.0,-0.054,1.13,0.022,-0.077,-0.02%,0.85,-0.6,0.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Will Benson PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.218,0.269,0.404,0.673,4.0,4.0,-0.004,0.17,0.0,-0.004,-0.00%,0.13,-0.2,0.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Nick Lodolo P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Scott Barlow P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Sam Moll P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Connor Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Brent Suter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508270,CIN,https://www.baseball-reference.com/boxes/LAN/LAN202508270.shtml,CincinnatiRedsbatting,Team Totals,33.0,1.0,6.0,1.0,6.0,19.0,39.0,0.182,0.308,0.273,0.58,170.0,102.0,-0.285,0.91,0.454,-0.738,-0.13%,0.68,-3.6,24.0,4.0,

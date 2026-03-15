@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202407020,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407020.shtml,TexasRangerspitching,"Nathan Eovaldi, W (5-3)",7,1,0,0,0,6,0,3.15,22,92,61,37,7,17,7,9,4,0,81.0,,,0.191,0.38,0.04%,0.12,3.4
+TEX202407020,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407020.shtml,TexasRangerspitching,Jonathan Hernández,2,1,0,0,0,1,0,3.98,7,27,20,14,3,3,3,3,2,0,,0.0,0.0,0.004,0.05,0.00%,0.01,1.0
+TEX202407020,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407020.shtml,TexasRangerspitching,Team Totals,9,2,0,0,0,7,0,0.0,29,119,81,51,10,20,10,12,6,0,81.0,0.0,0.0,0.195,0.29,0.04%,0.09,4.3

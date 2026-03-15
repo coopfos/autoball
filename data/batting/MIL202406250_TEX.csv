@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Marcus Semien 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.248,0.311,0.408,0.719,18.0,11.0,-0.124,1.22,0.0,-0.124,-0.04%,0.67,-1.0,1.0,1.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Corey Seager SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.255,0.339,0.441,0.78,12.0,9.0,-0.059,1.29,0.04,-0.099,-0.02%,0.71,-0.3,1.0,3.0,2B
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Josh Smith 3B,3.0,0.0,1.0,1.0,0.0,1.0,4.0,0.3,0.396,0.472,0.868,16.0,10.0,0.058,1.2,0.131,-0.073,0.02%,0.66,0.6,1.0,4.0,HBP
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Adolis García RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.219,0.281,0.409,0.689,13.0,8.0,-0.126,1.35,0.015,-0.141,-0.04%,0.74,-1.0,3.0,0.0,GDP
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Wyatt Langford LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.249,0.305,0.361,0.666,14.0,11.0,-0.117,1.08,0.0,-0.117,-0.04%,0.59,-0.9,1.0,0.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Nathaniel Lowe 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.253,0.346,0.333,0.68,12.0,7.0,-0.067,0.87,0.0,-0.067,-0.02%,0.48,-0.5,8.0,0.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Jonah Heim C,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.228,0.281,0.328,0.609,11.0,7.0,0.035,0.91,0.067,-0.032,0.01%,0.5,0.1,6.0,0.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Ezequiel Duran DH,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.256,0.294,0.324,0.618,9.0,8.0,-0.097,1.35,0.0,-0.097,-0.03%,0.74,-0.7,0.0,0.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Leody Taveras CF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.215,0.284,0.327,0.61,9.0,7.0,-0.005,1.36,0.059,-0.064,-0.00%,0.75,-0.1,2.0,0.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Andrew Heaney P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Brock Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Dane Dunning P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+MIL202406250,TEX,https://www.baseball-reference.com/boxes/MIL/MIL202406250.shtml,TexasRangersbatting,Team Totals,31.0,1.0,5.0,1.0,0.0,7.0,32.0,0.161,0.188,0.194,0.381,114.0,78.0,-0.502,1.19,0.312,-0.814,-0.17%,0.65,-3.6,24.0,9.0,

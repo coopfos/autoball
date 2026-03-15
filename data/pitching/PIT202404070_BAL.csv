@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202404070,BAL,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,BaltimoreOriolespitching,Dean Kremer,7.0,5,1,0,0,6,0,2.19,26,91,69,41,7,21,8,12,4,0,71.0,,,0.362,1.14,0.20%,1.04,2.6
+PIT202404070,BAL,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,BaltimoreOriolespitching,"Keegan Akin, H (1)",1.0,0,0,0,0,0,0,0.0,3,8,6,4,1,1,0,3,0,0,,0.0,0.0,0.143,1.87,0.08%,1.72,0.5
+PIT202404070,BAL,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,BaltimoreOriolespitching,"Yennier Cano, BS (1), L (1-1)",0.2,2,2,1,1,0,0,1.8,5,21,12,9,0,3,2,2,2,0,,0.0,0.0,-0.796,5.53,-0.44%,5.07,-1.7
+PIT202404070,BAL,https://www.baseball-reference.com/boxes/PIT/PIT202404070.shtml,BaltimoreOriolespitching,Team Totals,8.2,7,3,1,1,6,0,1.04,34,120,87,54,8,25,10,17,6,0,71.0,0.0,0.0,-0.291,1.85,-0.16%,1.69,1.4

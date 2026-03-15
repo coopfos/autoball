@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TBA202404020,TEX,https://www.baseball-reference.com/boxes/TBA/TBA202404020.shtml,TexasRangerspitching,"Andrew Heaney, L (0-1)",4.2,4,3,1,0,7,0,1.93,20,90,60,36,15,9,3,9,3,0,55.0,,,0.067,0.88,0.04%,0.91,0.9
+TBA202404020,TEX,https://www.baseball-reference.com/boxes/TBA/TBA202404020.shtml,TexasRangerspitching,Yerry Rodríguez,1.1,2,2,2,0,1,1,5.4,6,25,17,10,6,1,2,3,1,0,,2.0,2.0,-0.238,0.52,-0.15%,0.53,-3.0
+TBA202404020,TEX,https://www.baseball-reference.com/boxes/TBA/TBA202404020.shtml,TexasRangerspitching,Jacob Latz,2.0,1,0,0,1,1,0,0.0,8,30,17,11,5,1,1,4,1,0,,0.0,0.0,0.008,0.1,0.01%,0.1,1.0
+TBA202404020,TEX,https://www.baseball-reference.com/boxes/TBA/TBA202404020.shtml,TexasRangerspitching,Team Totals,8.0,7,5,1,1,9,1,1.12,34,145,94,57,26,11,6,16,5,0,55.0,2.0,2.0,-0.163,0.63,-0.10%,0.65,-1.2

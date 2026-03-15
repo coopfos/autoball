@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,4.0,1.0,1.0,0.0,1.0,0.0,5.0,0.251,0.301,0.371,0.672,15.0,8.0,-0.014,0.28,0.008,-0.022,-0.01%,0.31,-0.6,1.0,3.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,5.0,2.0,3.0,2.0,0.0,0.0,5.0,0.326,0.375,0.563,0.937,16.0,11.0,-0.011,0.26,0.018,-0.028,-0.01%,0.29,2.5,2.0,2.0,2B
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,4.0,0.0,1.0,1.0,1.0,0.0,5.0,0.239,0.315,0.426,0.741,21.0,11.0,-0.007,0.21,0.012,-0.019,-0.01%,0.23,0.6,12.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Salvador Perez C,2.0,0.0,2.0,0.0,3.0,0.0,5.0,0.302,0.381,0.488,0.869,23.0,11.0,0.058,0.3,0.058,0.0,0.04%,0.33,2.0,5.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Nelson Velázquez RF,4.0,0.0,0.0,1.0,0.0,1.0,5.0,0.207,0.281,0.388,0.669,19.0,14.0,-0.087,0.54,0.0,-0.087,-0.06%,0.6,-2.4,1.0,0.0,"SF,2·GDP"
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Nick Loftin 2B,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.271,0.369,0.286,0.655,14.0,12.0,-0.027,0.2,0.0,-0.027,-0.02%,0.23,-1.5,2.0,6.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Freddy Fermin DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.298,0.344,0.404,0.748,17.0,11.0,0.021,0.28,0.027,-0.005,0.01%,0.31,0.1,0.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Garrett Hampson LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.302,0.348,0.36,0.708,18.0,11.0,-0.02,0.2,0.002,-0.022,-0.01%,0.21,-0.6,1.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Kyle Isbel CF,3.0,2.0,2.0,0.0,1.0,0.0,4.0,0.229,0.279,0.355,0.635,19.0,9.0,-0.006,0.2,0.008,-0.015,-0.00%,0.22,0.4,3.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Dan Altavilla P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Daniel Lynch IV P,,,,,,,,,,,,,,,,,,,,,0.0,3.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Angel Zerpa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,John Schreiber P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202406120,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202406120.shtml,KansasCityRoyalsbatting,Team Totals,35.0,5.0,11.0,4.0,6.0,5.0,42.0,0.314,0.405,0.343,0.748,162.0,98.0,-0.093,0.28,0.133,-0.225,-0.06%,0.31,0.5,27.0,14.0,

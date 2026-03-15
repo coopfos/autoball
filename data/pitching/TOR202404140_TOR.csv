@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TOR202404140,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404140.shtml,TorontoBlueJayspitching,"José Berríos, W (3-0)",7,2,0,0,2,7,0,1.05,27,100,66,34,16,16,9,7,1,0,78.0,,,0.303,0.99,0.15%,0.82,3.4
+TOR202404140,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404140.shtml,TorontoBlueJayspitching,Génesis Cabrera,1,0,0,0,0,0,0,9.53,3,13,10,7,0,3,2,1,1,0,,0.0,0.0,0.022,0.29,0.01%,0.24,0.5
+TOR202404140,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404140.shtml,TorontoBlueJayspitching,Nate Pearson,1,0,0,0,0,3,0,0.0,3,16,10,1,3,6,0,0,0,0,,0.0,0.0,0.006,0.08,0.00%,0.06,0.5
+TOR202404140,TOR,https://www.baseball-reference.com/boxes/TOR/TOR202404140.shtml,TorontoBlueJayspitching,Team Totals,9,2,0,0,2,10,0,0.0,33,129,86,42,19,25,11,8,2,0,78.0,0.0,0.0,0.331,0.85,0.17%,0.71,4.4

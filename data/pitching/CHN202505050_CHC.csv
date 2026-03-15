@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202505050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505050.shtml,ChicagoCubspitching,"Matthew Boyd, W (3-2)",6,5,2,2,0,7,1,2.75,23,94,64,40,14,10,8,7,4,0,61.0,,,0.1,1.02,0.08%,1.31,0.9
+CHN202505050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505050.shtml,ChicagoCubspitching,Caleb Thielbar,1,1,0,0,0,2,0,3.55,4,10,10,3,2,5,0,2,1,0,,0.0,0.0,0.005,0.07,0.00%,0.09,0.5
+CHN202505050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505050.shtml,ChicagoCubspitching,Gavin Hollowell,2,1,0,0,0,1,0,0.0,7,31,24,16,1,7,2,4,2,0,,0.0,0.0,0.004,0.03,0.00%,0.03,1.0
+CHN202505050,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202505050.shtml,ChicagoCubspitching,Team Totals,9,7,2,2,0,10,1,2.0,34,135,98,59,17,22,10,13,7,0,61.0,0.0,0.0,0.109,0.72,0.08%,0.92,2.4

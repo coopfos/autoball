@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Parker Meadows CF,4.0,1.0,1.0,1.0,1.0,0.0,5.0,0.225,0.304,0.411,0.714,24.0,13.0,0.058,0.79,0.121,-0.062,0.00%,0.09,0.6,3.0,0.0,3B
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Riley Greene DH,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.263,0.355,0.482,0.837,22.0,10.0,-0.041,0.75,0.033,-0.074,-0.00%,0.09,-0.0,0.0,0.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Kerry Carpenter RF,4.0,2.0,2.0,0.0,0.0,1.0,5.0,0.28,0.335,0.582,0.917,23.0,15.0,0.095,0.73,0.115,-0.02,0.01%,0.09,0.5,2.0,0.0,2B
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Colt Keith 2B,4.0,1.0,3.0,3.0,1.0,1.0,5.0,0.264,0.316,0.398,0.713,15.0,9.0,0.317,1.3,0.332,-0.015,0.02%,0.15,4.2,3.0,2.0,2B
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Jace Jung 3B,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.226,0.333,0.258,0.591,15.0,11.0,-0.048,1.31,0.111,-0.159,-0.00%,0.15,-1.1,0.0,2.0,GDP
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Spencer Torkelson 1B,4.0,1.0,1.0,0.0,1.0,2.0,5.0,0.213,0.28,0.354,0.634,25.0,14.0,0.029,1.16,0.109,-0.081,0.00%,0.14,0.1,8.0,1.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Zach McKinstry LF,1.0,1.0,1.0,0.0,1.0,0.0,2.0,0.21,0.27,0.34,0.611,11.0,5.0,0.102,1.06,0.102,0.0,0.01%,0.12,0.9,1.0,0.0,2·SB
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Andy Ibáñez PH-LF,3.0,1.0,1.0,3.0,0.0,1.0,3.0,0.261,0.305,0.403,0.709,15.0,9.0,0.126,1.15,0.127,-0.001,0.01%,0.14,1.5,2.0,0.0,HR
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Trey Sweeney SS,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.211,0.211,0.421,0.632,17.0,11.0,0.022,1.04,0.097,-0.075,0.00%,0.12,0.5,2.0,4.0,2B
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Dillon Dingler C,5.0,0.0,0.0,0.0,0.0,4.0,5.0,0.17,0.204,0.34,0.545,18.0,14.0,-0.172,0.9,0.0,-0.172,-0.01%,0.1,-2.4,6.0,0.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Beau Brieske P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Bryan Sammons P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Will Vest P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Tyler Holton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Jason Foley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202408250,DET,https://www.baseball-reference.com/boxes/CHA/CHA202408250.shtml,DetroitTigersbatting,Team Totals,39.0,9.0,14.0,9.0,5.0,11.0,45.0,0.359,0.432,0.564,0.996,185.0,111.0,0.488,1.01,1.147,-0.659,0.04%,0.12,4.7,27.0,9.0,

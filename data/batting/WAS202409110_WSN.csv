@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,CJ Abrams SS,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.239,0.306,0.426,0.732,13.0,10.0,0.116,0.75,0.143,-0.027,0%,0.0,1.1,2.0,2.0,HR
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Dylan Crews RF,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.222,0.295,0.444,0.74,20.0,12.0,0.147,0.76,0.156,-0.009,0%,0.0,1.4,2.0,0.0,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Andrés Chaparro DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.25,0.317,0.489,0.806,15.0,9.0,-0.079,0.73,0.025,-0.104,0%,0.0,-0.7,0.0,0.0,"2B,GDP"
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,James Wood LF,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.277,0.367,0.416,0.783,16.0,12.0,0.059,0.8,0.085,-0.026,0%,0.0,1.0,3.0,0.0,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Juan Yepez 1B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.287,0.34,0.448,0.788,14.0,8.0,0.009,0.64,0.039,-0.031,0%,0.0,-0.4,8.0,1.0,GDP
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,José Tena 2B,4.0,1.0,2.0,0.0,0.0,2.0,4.0,0.31,0.343,0.41,0.753,15.0,10.0,-0.036,0.46,0.016,-0.052,0%,0.0,-0.6,1.0,1.0,SB
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Keibert Ruiz C,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.228,0.262,0.37,0.632,16.0,12.0,-0.003,0.85,0.052,-0.055,0%,0.0,0.3,8.0,0.0,2B
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Ildemaro Vargas 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.257,0.304,0.332,0.636,15.0,10.0,-0.082,0.73,0.0,-0.082,0%,0.0,-1.2,2.0,3.0,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Jacob Young CF,2.0,1.0,0.0,0.0,0.0,1.0,3.0,0.255,0.315,0.336,0.651,14.0,8.0,0.025,0.52,0.04,-0.015,0%,0.0,0.1,0.0,0.0,HBP
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Jake Irvin P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Derek Law P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Kyle Finnegan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+WAS202409110,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202409110.shtml,WashingtonNationalsbatting,Team Totals,34.0,5.0,13.0,4.0,0.0,10.0,35.0,0.382,0.4,0.529,0.929,138.0,91.0,0.156,0.69,0.556,-0.401,0.00%,0.0,1.1,27.0,9.0,

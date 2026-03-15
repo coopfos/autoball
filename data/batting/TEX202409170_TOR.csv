@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,George Springer RF,4.0,2.0,2.0,0.0,1.0,0.0,5.0,0.223,0.308,0.38,0.687,20.0,12.0,-0.005,1.3,0.144,-0.149,0%,0.0,0.3,0.0,0.0,3B
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Bo Bichette SS,5.0,0.0,2.0,1.0,0.0,1.0,5.0,0.225,0.277,0.322,0.598,16.0,11.0,0.004,1.1,0.072,-0.068,0%,0.0,0.6,0.0,2.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,5.0,2.0,3.0,1.0,0.0,1.0,5.0,0.322,0.397,0.545,0.942,22.0,16.0,0.061,1.31,0.146,-0.085,0%,0.0,1.5,6.0,1.0,2B
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Spencer Horwitz DH,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.272,0.362,0.459,0.821,19.0,12.0,-0.053,1.1,0.073,-0.126,0%,0.0,-0.7,0.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,3.0,0.0,1.0,1.0,2.0,1.0,5.0,0.247,0.313,0.351,0.664,20.0,12.0,0.117,1.12,0.173,-0.056,0%,0.0,1.2,9.0,1.0,2B
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Ernie Clement 3B,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.261,0.281,0.41,0.691,14.0,11.0,-0.058,1.13,0.085,-0.142,0%,0.0,-0.7,0.0,2.0,GDP
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Nathan Lukes CF,3.0,1.0,1.0,1.0,2.0,0.0,5.0,0.356,0.423,0.511,0.934,21.0,13.0,0.057,0.75,0.088,-0.031,0%,0.0,1.0,3.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Davis Schneider LF,5.0,2.0,2.0,2.0,0.0,1.0,5.0,0.203,0.291,0.366,0.657,21.0,13.0,0.203,0.8,0.267,-0.063,0%,0.0,0.9,3.0,0.0,HR
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Leo Jimenez 2B,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.229,0.337,0.373,0.71,16.0,9.0,-0.008,0.81,0.045,-0.053,0%,0.0,-0.2,2.0,3.0,HBP
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Chris Bassitt P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Ryan Burr P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Zach Pop P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Tommy Nance P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Brendon Little P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Luis Frías P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Erik Swanson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202409170,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202409170.shtml,TorontoBlueJaysbatting,Team Totals,38.0,8.0,13.0,7.0,5.0,6.0,44.0,0.342,0.432,0.526,0.958,169.0,109.0,0.318,1.06,1.093,-0.773,0.00%,0.0,3.7,24.0,10.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Will Benson RF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.214,0.289,0.437,0.726,17.0,11.0,-0.015,1.02,0.041,-0.056,-0.01%,1.07,-0.3,3.0,0.0,SB
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Elly De La Cruz SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.279,0.385,0.577,0.962,15.0,10.0,-0.083,0.91,0.012,-0.095,-0.05%,0.95,-0.6,6.0,1.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Spencer Steer LF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.252,0.367,0.43,0.797,13.0,10.0,-0.037,0.88,0.039,-0.076,-0.02%,0.92,0.3,2.0,0.0,2B
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Jonathan India 2B,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.228,0.345,0.304,0.65,8.0,6.0,-0.01,0.88,0.058,-0.068,-0.01%,0.92,0.6,2.0,0.0,SB
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Nick Martini DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.194,0.218,0.361,0.579,12.0,9.0,-0.073,0.72,0.0,-0.073,-0.05%,0.76,-0.7,0.0,0.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Santiago Espinal 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.185,0.24,0.246,0.486,26.0,17.0,-0.11,1.04,0.0,-0.11,-0.07%,1.09,-0.9,0.0,1.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Jeimer Candelario 1B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.189,0.282,0.378,0.659,17.0,14.0,0.04,0.86,0.087,-0.047,0.03%,0.9,1.1,3.0,0.0,HR
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Luke Maile C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.175,0.267,0.275,0.542,12.0,8.0,-0.055,0.89,0.018,-0.073,-0.03%,0.93,-0.6,6.0,0.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Stuart Fairchild CF,3.0,1.0,1.0,1.0,0.0,0.0,3.0,0.2,0.273,0.267,0.539,9.0,6.0,0.003,1.03,0.067,-0.065,0.00%,1.08,0.5,2.0,0.0,HR
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Nick Martinez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Buck Farmer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Emilio Pagán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Justin Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Sam Moll P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202404300,CIN,https://www.baseball-reference.com/boxes/SDN/SDN202404300.shtml,CincinnatiRedsbatting,Team Totals,35.0,4.0,8.0,4.0,0.0,9.0,35.0,0.229,0.229,0.429,0.657,129.0,91.0,-0.34,0.92,0.322,-0.663,-0.22%,0.96,-0.6,24.0,2.0,

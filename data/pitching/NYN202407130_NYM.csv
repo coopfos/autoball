@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202407130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407130.shtml,NewYorkMetspitching,Christian Scott,4.1,7,3,3,1,5,2,4.36,21,82,51,33,6,12,4,10,3,0,41.0,,,-0.137,0.94,-0.07%,0.84,-1.5
+NYN202407130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407130.shtml,NewYorkMetspitching,"José Buttó, W (4-3)",2.2,1,0,0,1,5,0,2.56,9,41,26,7,10,9,1,2,1,0,,2.0,0.0,0.082,1.72,0.04%,1.54,0.9
+NYN202407130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407130.shtml,NewYorkMetspitching,"Dedniel Núñez, S (1)",2.0,0,0,0,0,3,0,2.35,5,20,16,9,3,4,1,1,0,0,,2.0,0.0,0.348,1.65,0.19%,1.48,1.9
+NYN202407130,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202407130.shtml,NewYorkMetspitching,Team Totals,9.0,8,3,3,2,13,2,3.0,35,143,93,49,19,25,6,13,4,0,41.0,4.0,0.0,0.293,1.24,0.16%,1.1,1.3

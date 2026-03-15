@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202408100,CIN,https://www.baseball-reference.com/boxes/MIL/MIL202408100.shtml,CincinnatiRedspitching,Nick Martinez,7,1,0,0,0,7,0,3.16,22,94,60,31,9,20,6,8,2,0,82.0,,,0.448,0.89,0.08%,0.28,3.6
+MIL202408100,CIN,https://www.baseball-reference.com/boxes/MIL/MIL202408100.shtml,CincinnatiRedspitching,"Tony Santillan, L (0-1)",1,1,1,1,0,2,1,1.8,4,21,14,8,4,2,1,1,0,0,,0.0,0.0,-0.226,1.14,-0.04%,0.35,-0.5
+MIL202408100,CIN,https://www.baseball-reference.com/boxes/MIL/MIL202408100.shtml,CincinnatiRedspitching,Team Totals,8,2,1,1,0,9,1,1.12,26,115,74,39,13,22,7,9,2,0,82.0,0.0,0.0,0.222,0.93,0.04%,0.29,3.1

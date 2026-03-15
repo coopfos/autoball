@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202409030,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409030.shtml,BaltimoreOriolespitching,"Cade Povich, W (2-7)",7.1,5,0,0,0,10,0,5.76,27,98,70,34,11,25,10,7,2,0,78.0,,,0.113,0.26,0.09%,0.35,3.2
+BAL202409030,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409030.shtml,BaltimoreOriolespitching,Burch Smith,0.2,0,0,0,0,0,0,4.53,2,9,5,4,1,0,1,1,0,0,,1.0,0.0,0.0,0.01,0.00%,0.01,0.5
+BAL202409030,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409030.shtml,BaltimoreOriolespitching,Craig Kimbrel,1.0,1,0,0,1,0,0,3.99,5,20,10,5,1,4,1,3,2,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+BAL202409030,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202409030.shtml,BaltimoreOriolespitching,Team Totals,9.0,6,0,0,1,10,0,0.0,34,127,85,43,13,29,12,11,4,0,78.0,1.0,0.0,0.113,0.2,0.09%,0.28,4.1

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202408030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408030.shtml,SanDiegoPadrespitching,Martín Pérez,6,3,1,1,0,7,1,4.96,21,80,60,29,15,16,5,9,2,0,69.0,,,0.214,0.78,0.18%,1.1,2.0
+SDN202408030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408030.shtml,SanDiegoPadrespitching,"Jason Adam, W (5-2)",1,1,0,0,0,1,0,2.39,4,13,9,4,3,2,0,3,2,0,,0.0,0.0,0.088,1.42,0.07%,2.0,0.5
+SDN202408030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408030.shtml,SanDiegoPadrespitching,"Tanner Scott, H (2)",1,1,1,1,0,2,1,1.35,4,12,11,5,4,2,1,1,0,0,,0.0,0.0,0.003,1.26,0.00%,1.78,-0.5
+SDN202408030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408030.shtml,SanDiegoPadrespitching,"Robert Suarez, S (24)",1,0,0,0,0,1,0,1.44,3,9,7,4,2,1,2,0,0,0,,0.0,0.0,0.163,2.14,0.14%,3.03,0.5
+SDN202408030,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202408030.shtml,SanDiegoPadrespitching,Team Totals,9,5,2,2,0,11,2,2.0,32,114,87,42,24,21,8,13,4,0,69.0,0.0,0.0,0.468,1.05,0.40%,1.48,2.6

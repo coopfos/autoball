@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202407140,CHC,https://www.baseball-reference.com/boxes/SLN/SLN202407140.shtml,ChicagoCubspitching,"Jameson Taillon, W (7-4)",5.2,7,3,3,0,3,1,3.1,23,83,57,40,5,12,7,13,6,0,46.0,,,0.034,1.13,0.01%,0.58,-0.2
+SLN202407140,CHC,https://www.baseball-reference.com/boxes/SLN/SLN202407140.shtml,ChicagoCubspitching,"Drew Smyly, H (3)",1.1,0,0,0,0,0,0,3.09,4,16,9,6,0,3,2,2,2,0,,1.0,0.0,0.08,0.76,0.03%,0.39,0.7
+SLN202407140,CHC,https://www.baseball-reference.com/boxes/SLN/SLN202407140.shtml,ChicagoCubspitching,Jorge López,2.0,1,0,0,1,2,0,3.18,8,30,21,14,1,6,4,1,0,0,,0.0,0.0,0.023,0.38,0.01%,0.19,1.0
+SLN202407140,CHC,https://www.baseball-reference.com/boxes/SLN/SLN202407140.shtml,ChicagoCubspitching,Team Totals,9.0,8,3,3,1,5,1,3.0,35,129,87,60,6,21,13,16,8,0,46.0,1.0,0.0,0.137,0.92,0.04%,0.47,1.5

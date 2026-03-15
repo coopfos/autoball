@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Ben Rice DH,4.0,1.0,1.0,0.0,2.0,0.0,6.0,0.35,0.48,0.75,1.23,30.0,15.0,0.029,0.65,0.066,-0.037,0.02%,0.63,-0.8,0.0,0.0,"SB,CS"
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Aaron Judge RF,5.0,1.0,1.0,2.0,1.0,3.0,6.0,0.379,0.455,1.103,1.558,24.0,15.0,0.015,0.61,0.066,-0.051,0.01%,0.6,1.1,2.0,0.0,"HR,SB"
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Jazz Chisholm Jr. 2B,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.241,0.313,0.655,0.968,17.0,12.0,-0.098,0.72,0.0,-0.098,-0.06%,0.7,-1.5,2.0,1.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Paul Goldschmidt 1B,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.28,0.357,0.44,0.797,13.0,10.0,-0.053,0.59,0.009,-0.062,-0.03%,0.57,-0.6,5.0,1.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Austin Wells C,4.0,1.0,0.0,0.0,0.0,1.0,5.0,0.19,0.32,0.524,0.844,22.0,16.0,-0.065,0.63,0.011,-0.076,-0.04%,0.62,-1.0,11.0,0.0,HBP
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,2.0,3.0,1.0,0.0,0.0,5.0,0.286,0.355,0.75,1.105,23.0,14.0,0.051,0.47,0.081,-0.03,0.03%,0.46,1.1,0.0,2.0,"2B,CS,HBP"
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Trent Grisham CF,3.0,2.0,1.0,0.0,2.0,2.0,5.0,0.462,0.588,0.769,1.357,22.0,12.0,0.048,0.43,0.052,-0.005,0.03%,0.42,0.3,5.0,0.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Jasson Domínguez LF,4.0,1.0,2.0,2.0,0.0,1.0,5.0,0.292,0.393,0.5,0.893,21.0,11.0,0.213,0.76,0.217,-0.004,0.12%,0.74,2.5,1.0,0.0,"2B,HBP"
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,4.0,0.0,3.0,4.0,1.0,1.0,5.0,0.316,0.381,0.316,0.697,22.0,13.0,0.217,0.69,0.217,-0.001,0.13%,0.68,3.4,0.0,2.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Max Fried P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Fernando Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Brent Headrick P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Devin Williams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202504040,NYY,https://www.baseball-reference.com/boxes/PIT/PIT202504040.shtml,NewYorkYankeesbatting,Team Totals,38.0,9.0,13.0,9.0,6.0,11.0,47.0,0.342,0.468,0.474,0.942,194.0,118.0,0.357,0.6,0.719,-0.364,0.21%,0.58,4.4,27.0,9.0,

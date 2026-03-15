@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.294,0.357,0.42,0.777,21.0,14.0,0.037,0.39,0.076,-0.038,0.03%,0.54,0.1,0.0,2.0,3B
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Tyler Black 1B,2.0,0.0,1.0,1.0,1.0,1.0,3.0,0.242,0.324,0.303,0.627,10.0,6.0,0.037,0.5,0.053,-0.016,0.03%,0.69,1.1,5.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Jackson Chourio PH-LF,2.0,1.0,2.0,0.0,0.0,0.0,2.0,0.23,0.278,0.362,0.64,7.0,5.0,0.009,0.1,0.009,0.0,0.01%,0.13,0.7,0.0,0.0,2B
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Christian Yelich DH,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.316,0.395,0.485,0.879,15.0,12.0,-0.02,0.26,0.008,-0.027,-0.02%,0.36,-0.6,0.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Willy Adames SS,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.246,0.335,0.438,0.773,11.0,9.0,0.006,0.4,0.038,-0.031,0.01%,0.55,-1.2,1.0,3.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Jake Bauers RF-1B,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.217,0.308,0.398,0.705,15.0,11.0,-0.008,0.59,0.032,-0.04,-0.01%,0.81,0.4,3.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.278,0.383,0.449,0.831,15.0,12.0,0.029,0.38,0.042,-0.013,0.02%,0.53,0.5,4.0,1.0,SB
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Sal Frelick LF-RF,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.258,0.335,0.331,0.665,13.0,9.0,0.152,0.89,0.16,-0.009,0.12%,1.22,1.7,4.0,0.0,"2B,SB"
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Gary Sánchez C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.218,0.293,0.401,0.694,16.0,10.0,-0.092,0.6,0.0,-0.092,-0.08%,0.83,-2.0,6.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,4.0,1.0,2.0,2.0,0.0,1.0,4.0,0.248,0.321,0.367,0.688,20.0,12.0,0.137,0.66,0.158,-0.02,0.11%,0.9,0.9,4.0,0.0,2B
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Tobias Myers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Bryan Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Trevor Megill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406230,MIL,https://www.baseball-reference.com/boxes/SDN/SDN202406230.shtml,MilwaukeeBrewersbatting,Team Totals,39.0,6.0,14.0,6.0,1.0,10.0,40.0,0.359,0.375,0.487,0.862,143.0,100.0,0.287,0.47,0.576,-0.286,0.24%,0.64,1.4,27.0,6.0,

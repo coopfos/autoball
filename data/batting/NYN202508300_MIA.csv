@@ -1,0 +1,21 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Xavier Edwards 2B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.284,0.341,0.357,0.699,23.0,15.0,-0.022,0.64,0.036,-0.057,0%,0.02,-0.7,1.0,5.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Otto Lopez SS,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.245,0.312,0.366,0.679,17.0,13.0,0.003,0.68,0.055,-0.052,0%,0.02,-0.1,2.0,4.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Agustín Ramírez C,5.0,2.0,2.0,0.0,0.0,1.0,5.0,0.231,0.287,0.422,0.71,25.0,16.0,0.113,0.99,0.132,-0.018,0.00%,0.03,0.9,8.0,0.0,"2B,SB"
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Heriberto Hernández DH,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.268,0.328,0.436,0.764,12.0,7.0,0.097,1.18,0.127,-0.03,0.00%,0.03,1.3,0.0,0.0,2·2B
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Troy Johnston PH-DH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.305,0.339,0.424,0.762,5.0,3.0,-0.031,0.77,0.0,-0.031,-0.00%,0.02,-0.4,0.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Eric Wagaman 1B,3.0,2.0,2.0,2.0,1.0,1.0,4.0,0.239,0.289,0.373,0.662,19.0,10.0,0.186,1.22,0.203,-0.017,0.00%,0.04,1.9,10.0,0.0,2B
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Liam Hicks PH-1B,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.262,0.355,0.366,0.721,7.0,3.0,0.008,0.9,0.008,0.0,0%,0.02,0.2,1.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Connor Norby 3B,2.0,2.0,1.0,3.0,2.0,0.0,5.0,0.246,0.297,0.373,0.67,22.0,10.0,0.168,1.4,0.18,-0.012,0.00%,0.04,2.5,2.0,2.0,"2B,SF"
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Dane Myers RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.233,0.292,0.325,0.618,6.0,3.0,-0.026,1.15,0.0,-0.026,0%,0.03,-0.5,0.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Jakob Marsee LF,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.343,0.414,0.618,1.031,14.0,8.0,0.025,0.63,0.056,-0.031,0%,0.02,0.6,1.0,0.0,SB
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Joey Wiemer LF-RF,5.0,0.0,3.0,3.0,0.0,1.0,5.0,0.263,0.25,0.316,0.566,19.0,13.0,0.092,0.72,0.141,-0.049,0.00%,0.02,2.5,1.0,1.0,2B
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Derek Hill CF,4.0,0.0,0.0,0.0,0.0,2.0,5.0,0.214,0.277,0.333,0.611,13.0,9.0,-0.024,0.49,0.024,-0.048,0%,0.01,-1.8,1.0,0.0,"HBP,GDP"
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Edward Cabrera P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Lake Bachar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Cade Gibson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Ronny Henriquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Tyler Phillips P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYN202508300,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202508300.shtml,MiamiMarlinsbatting,Team Totals,38.0,11.0,13.0,10.0,5.0,10.0,45.0,0.342,0.422,0.5,0.922,182.0,110.0,0.589,0.88,0.962,-0.371,0.01%,0.02,6.6,27.0,13.0,

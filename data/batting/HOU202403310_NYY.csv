@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,4.0,2.0,1.0,0.0,1.0,0.0,5.0,0.133,0.316,0.133,0.449,17.0,9.0,0.013,1.26,0.091,-0.078,0.01%,1.34,-0.5,2.0,4.0,SB
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Juan Soto RF,5.0,0.0,3.0,1.0,0.0,1.0,5.0,0.529,0.6,0.765,1.365,22.0,13.0,0.394,1.52,0.45,-0.056,0.25%,1.61,1.4,2.0,0.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Aaron Judge CF,4.0,0.0,0.0,1.0,0.0,2.0,5.0,0.125,0.211,0.188,0.398,21.0,11.0,-0.077,1.21,0.024,-0.101,-0.05%,1.28,-0.8,2.0,0.0,SF
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Anthony Rizzo 1B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.267,0.389,0.333,0.722,17.0,11.0,0.085,0.97,0.124,-0.04,0.05%,1.03,0.4,5.0,1.0,2B
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Giancarlo Stanton DH,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.214,0.214,0.5,0.714,17.0,12.0,-0.061,1.38,0.064,-0.125,-0.04%,1.47,-0.3,0.0,0.0,2B
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Alex Verdugo LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.2,0.235,0.2,0.435,14.0,9.0,-0.028,1.28,0.04,-0.068,-0.02%,1.35,-0.5,4.0,0.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Jon Berti 3B,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.25,0.25,0.25,0.5,17.0,11.0,-0.037,1.69,0.122,-0.159,-0.02%,1.79,-0.2,1.0,1.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Jose Trevino C,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.143,0.25,0.143,0.393,20.0,12.0,-0.023,1.52,0.097,-0.119,-0.01%,1.61,0.2,8.0,1.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Oswaldo Cabrera SS,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.438,0.471,0.875,1.346,17.0,9.0,-0.055,1.15,0.037,-0.092,-0.03%,1.22,-0.1,1.0,1.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Clarke Schmidt P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Jonathan Loáisiga P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Caleb Ferguson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Nick Burdi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202403310,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403310.shtml,NewYorkYankeesbatting,Team Totals,36.0,4.0,10.0,4.0,2.0,12.0,39.0,0.278,0.308,0.333,0.641,162.0,97.0,0.211,1.33,1.049,-0.838,0.13%,1.41,-0.3,27.0,8.0,

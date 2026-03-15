@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,1.0,0.0,0.0,0.0,1.0,5.0,0.071,0.188,0.071,0.259,14.0,9.0,-0.062,0.52,0.001,-0.063,-0.03%,0.43,-0.5,2.0,0.0,HBP
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Jesse Winker LF,4.0,2.0,1.0,0.0,1.0,0.0,5.0,0.269,0.457,0.308,0.765,26.0,15.0,-0.025,0.46,0.02,-0.046,-0.01%,0.38,0.6,1.0,0.0,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Lane Thomas RF,5.0,1.0,3.0,3.0,0.0,0.0,5.0,0.231,0.311,0.308,0.619,24.0,14.0,0.138,0.47,0.157,-0.019,0.07%,0.39,2.2,3.0,0.0,HR
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Joey Gallo 1B,5.0,1.0,1.0,0.0,0.0,3.0,5.0,0.182,0.308,0.455,0.762,26.0,15.0,-0.032,0.39,0.014,-0.046,-0.02%,0.32,-0.8,9.0,2.0,2B
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Joey Meneses DH,4.0,0.0,0.0,0.0,1.0,2.0,5.0,0.211,0.295,0.237,0.532,28.0,16.0,-0.043,0.35,0.001,-0.043,-0.02%,0.29,-0.1,0.0,0.0,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Keibert Ruiz C,3.0,1.0,0.0,0.0,2.0,2.0,5.0,0.194,0.265,0.29,0.555,22.0,11.0,0.012,0.38,0.03,-0.019,0.01%,0.31,-0.9,7.0,0.0,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Ildemaro Vargas SS,2.0,1.0,1.0,2.0,3.0,0.0,5.0,0.35,0.48,0.5,0.98,21.0,6.0,0.071,0.49,0.082,-0.012,0.03%,0.41,2.6,1.0,0.0,2B
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Trey Lipscomb 3B,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.265,0.286,0.353,0.639,18.0,13.0,0.218,0.92,0.231,-0.013,0.11%,0.76,0.7,0.0,3.0,3·SB
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.321,0.345,0.5,0.845,17.0,10.0,0.044,0.74,0.08,-0.036,0.02%,0.61,-0.1,2.0,3.0,SB
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Trevor Williams P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Derek Law P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Matt Barnes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202404080,WSN,https://www.baseball-reference.com/boxes/SFN/SFN202404080.shtml,WashingtonNationalsbatting,Team Totals,36.0,8.0,10.0,7.0,7.0,10.0,44.0,0.278,0.409,0.417,0.826,196.0,109.0,0.321,0.54,0.616,-0.297,0.16%,0.45,3.8,27.0,9.0,

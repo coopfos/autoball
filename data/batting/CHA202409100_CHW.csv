@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Nicky Lopez 2B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.241,0.311,0.297,0.607,15.0,10.0,-0.071,0.94,0.015,-0.086,0%,0.0,-0.8,0.0,2.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.221,0.271,0.388,0.659,19.0,12.0,-0.015,0.72,0.032,-0.047,0%,0.0,-0.3,2.0,0.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.221,0.284,0.378,0.662,14.0,12.0,-0.089,0.84,0.0,-0.089,0%,0.0,-0.9,3.0,0.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn DH,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.246,0.3,0.404,0.703,15.0,12.0,0.021,0.64,0.055,-0.034,0%,0.0,0.3,0.0,0.0,2B
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.24,0.312,0.359,0.671,23.0,15.0,-0.083,0.85,0.0,-0.083,0%,0.0,-1.0,6.0,0.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Korey Lee C,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.209,0.242,0.338,0.58,21.0,12.0,-0.058,0.67,0.004,-0.062,0%,0.0,-0.4,8.0,1.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.215,0.261,0.277,0.537,15.0,13.0,-0.045,0.71,0.019,-0.064,0%,0.0,-0.4,2.0,0.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Bryan Ramos 3B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.192,0.218,0.288,0.507,16.0,9.0,-0.012,0.74,0.038,-0.05,0%,0.0,-0.6,3.0,1.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Jacob Amaya SS,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.226,0.273,0.258,0.531,12.0,4.0,-0.046,1.02,0.016,-0.062,0%,0.0,-0.2,3.0,2.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Jonathan Cannon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Gus Varland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Sean Burke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202409100,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202409100.shtml,ChicagoWhiteSoxbatting,Team Totals,32.0,0.0,5.0,0.0,3.0,6.0,35.0,0.156,0.229,0.188,0.416,150.0,99.0,-0.398,0.79,0.179,-0.577,0.00%,0.0,-4.3,27.0,6.0,

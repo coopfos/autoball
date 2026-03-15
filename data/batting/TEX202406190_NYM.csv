@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.238,0.308,0.422,0.73,14.0,8.0,-0.021,0.83,0.046,-0.067,-0.01%,0.55,0.1,0.0,2.0,SB
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Brandon Nimmo LF-CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.24,0.355,0.411,0.766,12.0,9.0,-0.024,1.34,0.078,-0.102,-0.01%,0.88,-0.2,5.0,0.0,2B
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,J.D. Martinez DH,2.0,1.0,0.0,0.0,2.0,2.0,4.0,0.282,0.356,0.494,0.85,21.0,9.0,0.029,1.18,0.079,-0.051,0.01%,0.78,0.2,0.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.243,0.321,0.475,0.796,17.0,11.0,0.155,1.49,0.27,-0.114,0.06%,0.98,0.8,3.0,0.0,HR
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Starling Marte RF,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.279,0.331,0.421,0.752,14.0,10.0,0.113,1.37,0.186,-0.073,0.04%,0.9,0.9,5.0,0.0,2B
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.305,0.362,0.533,0.895,18.0,11.0,-0.142,0.95,0.0,-0.142,-0.06%,0.63,-1.2,0.0,1.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.268,0.302,0.366,0.668,22.0,13.0,-0.034,1.21,0.059,-0.094,-0.01%,0.8,-0.4,10.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Jose Iglesias 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.37,0.433,0.444,0.878,7.0,5.0,-0.056,1.11,0.0,-0.056,-0.02%,0.73,-0.5,1.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Jeff McNeil PH-2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.219,0.286,0.305,0.591,1.0,1.0,-0.056,2.45,0.0,-0.056,-0.02%,1.62,-0.4,0.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Harrison Bader CF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.269,0.315,0.383,0.698,7.0,5.0,-0.039,0.8,0.0,-0.039,-0.02%,0.53,-0.3,0.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,DJ Stewart PH-LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.183,0.34,0.348,0.688,1.0,1.0,-0.048,2.05,0.0,-0.048,-0.02%,1.35,-0.3,0.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Sean Manaea P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Sean Reid-Foley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Drew Smith P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Adrian Houser P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202406190,NYM,https://www.baseball-reference.com/boxes/TEX/TEX202406190.shtml,NewYorkMetsbatting,Team Totals,32.0,3.0,5.0,3.0,2.0,12.0,34.0,0.156,0.206,0.313,0.518,134.0,83.0,-0.123,1.22,0.718,-0.842,-0.05%,0.8,-1.3,24.0,4.0,

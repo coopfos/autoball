@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Mike Trout DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.233,0.365,0.422,0.787,18.0,11.0,-0.157,1.54,0.0,-0.157,0%,0.0,-1.1,0.0,0.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Chris Taylor RF-2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.192,0.264,0.323,0.587,15.0,10.0,-0.028,1.46,0.066,-0.094,0%,0.0,-0.2,1.0,0.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Yoán Moncada 3B,1.0,0.0,0.0,0.0,2.0,0.0,3.0,0.246,0.35,0.474,0.823,15.0,6.0,0.037,1.03,0.047,-0.01,0%,0.0,0.3,0.0,3.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Matthew Lugo PH-RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.232,0.243,0.464,0.707,2.0,1.0,-0.037,1.53,0.0,-0.037,0%,0.0,-0.1,0.0,0.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.224,0.315,0.458,0.773,23.0,16.0,-0.18,1.71,0.0,-0.18,0%,0.0,-1.2,3.0,0.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Luis Rengifo 2B-3B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.243,0.294,0.338,0.632,14.0,9.0,-0.007,1.7,0.105,-0.112,0%,0.0,-0.0,1.0,1.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Oswald Peraza SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.169,0.228,0.251,0.479,14.0,10.0,-0.156,1.66,0.0,-0.156,0%,0.0,-0.8,1.0,3.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Logan Davidson 1B,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.2,0.263,0.343,0.606,17.0,11.0,0.126,1.43,0.206,-0.08,0%,0.0,0.5,10.0,0.0,2B
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Sebastián Rivero C,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.214,0.267,0.357,0.624,9.0,7.0,-0.031,0.63,0.0,-0.031,0%,0.0,-0.2,3.0,1.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Jo Adell PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.241,0.301,0.503,0.804,4.0,3.0,-0.06,2.2,0.0,-0.06,0%,0.0,-0.3,0.0,0.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Chad Wallach C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,4.0,0.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Bryce Teodosio CF,2.0,0.0,1.0,0.0,0.0,0.0,3.0,0.221,0.265,0.327,0.592,11.0,8.0,0.002,1.26,0.038,-0.036,0%,0.0,0.1,1.0,0.0,"SB,HBP"
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Yusei Kikuchi P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Connor Brogdon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202509120,LAA,https://www.baseball-reference.com/boxes/SEA/SEA202509120.shtml,LosAngelesAngelsbatting,Team Totals,31.0,1.0,4.0,1.0,2.0,11.0,34.0,0.129,0.206,0.161,0.367,142.0,92.0,-0.491,1.47,0.462,-0.953,0.00%,0.0,-3.1,24.0,10.0,

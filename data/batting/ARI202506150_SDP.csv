@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,5.0,3.0,4.0,1.0,0.0,1.0,5.0,0.277,0.356,0.473,0.829,20.0,12.0,0.114,0.67,0.136,-0.022,0.08%,0.83,2.4,0.0,0.0,"2·2B,SB"
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Luis Arráez 1B,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.274,0.308,0.394,0.702,11.0,10.0,-0.019,0.8,0.064,-0.083,-0.01%,1.0,-0.0,3.0,0.0,2B
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Manny Machado DH,5.0,0.0,1.0,2.0,0.0,2.0,5.0,0.316,0.376,0.5,0.876,21.0,12.0,-0.057,0.67,0.017,-0.074,-0.04%,0.84,-0.3,0.0,0.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Gavin Sheets LF,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.266,0.324,0.477,0.801,26.0,18.0,0.073,0.51,0.083,-0.011,0.05%,0.63,0.4,1.0,0.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Tyler Wade LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.22,0.317,0.275,0.592,,,,,,,,,,0.0,0.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Xander Bogaerts SS,5.0,1.0,1.0,1.0,0.0,1.0,5.0,0.231,0.31,0.314,0.625,12.0,10.0,0.086,0.81,0.143,-0.056,0.07%,1.0,-0.1,2.0,0.0,2B
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,4.0,1.0,1.0,2.0,0.0,0.0,4.0,0.241,0.367,0.4,0.767,26.0,17.0,0.079,0.81,0.129,-0.05,0.06%,1.01,0.6,2.0,1.0,HR
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Jose Iglesias 3B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.236,0.3,0.276,0.576,20.0,13.0,-0.053,0.49,0.0,-0.053,-0.04%,0.61,-0.8,0.0,1.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Brandon Lockridge CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.224,0.267,0.271,0.537,14.0,10.0,0.02,0.45,0.04,-0.02,0.01%,0.56,0.0,3.0,0.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Elias Díaz C,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.219,0.292,0.336,0.628,12.0,9.0,0.008,0.64,0.052,-0.044,0.01%,0.79,1.2,14.0,0.0,"HR,2B"
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Nick Pivetta P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Sean Reynolds P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202506150,SDP,https://www.baseball-reference.com/boxes/ARI/ARI202506150.shtml,SanDiegoPadresbatting,Team Totals,40.0,8.0,13.0,8.0,1.0,9.0,41.0,0.325,0.341,0.6,0.941,162.0,111.0,0.251,0.65,0.664,-0.413,0.19%,0.81,3.4,27.0,2.0,

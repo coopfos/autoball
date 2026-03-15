@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,JJ Bleday CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.243,0.324,0.437,0.762,11.0,8.0,-0.058,0.58,0.0,-0.058,0%,0.0,-0.8,2.0,0.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Brent Rooker DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.293,0.365,0.562,0.927,19.0,14.0,-0.04,0.41,0.0,-0.04,0%,0.0,-0.6,0.0,0.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Tyler Soderstrom 1B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.233,0.315,0.429,0.743,17.0,9.0,-0.023,0.31,0.007,-0.03,0%,0.0,0.0,6.0,3.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Seth Brown RF,4.0,2.0,2.0,0.0,0.0,1.0,4.0,0.231,0.283,0.379,0.662,16.0,11.0,-0.032,0.6,0.018,-0.05,0%,0.0,0.4,1.0,0.0,2B
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Zack Gelof 2B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.211,0.27,0.362,0.632,12.0,10.0,-0.024,0.56,0.02,-0.043,0%,0.0,-0.2,0.0,1.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Tyler Nevin 3B,3.0,0.0,1.0,2.0,0.0,1.0,3.0,0.204,0.288,0.331,0.618,8.0,6.0,0.001,0.38,0.023,-0.022,0%,0.0,1.6,0.0,0.0,2B
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Darell Hernaiz 3B,1.0,0.0,1.0,2.0,0.0,0.0,1.0,0.192,0.261,0.242,0.503,1.0,1.0,0.054,0.95,0.054,0.0,0%,0.0,1.5,0.0,1.0,2B
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Kyle McCann C,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.236,0.318,0.371,0.69,20.0,11.0,-0.073,0.92,0.01,-0.083,0%,0.0,-0.7,7.0,1.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Daz Cameron LF,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.2,0.258,0.329,0.587,6.0,4.0,-0.02,0.41,0.0,-0.02,0%,0.0,-0.3,0.0,0.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Max Schuemann PH-LF,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.22,0.311,0.308,0.619,11.0,6.0,-0.057,1.06,0.0,-0.057,0%,0.0,-0.7,1.0,0.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Nick Allen SS,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.175,0.216,0.247,0.463,12.0,10.0,-0.02,0.31,0.003,-0.022,0%,0.0,-0.2,5.0,3.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Mitch Spence P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Joe Boyle P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Kyle Muller P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SEA202409290,OAK,https://www.baseball-reference.com/boxes/SEA/SEA202409290.shtml,OaklandAthleticsbatting,Team Totals,34.0,4.0,7.0,4.0,1.0,12.0,35.0,0.206,0.229,0.294,0.523,133.0,90.0,-0.292,0.55,0.135,-0.425,0.00%,0.0,-0.0,24.0,10.0,

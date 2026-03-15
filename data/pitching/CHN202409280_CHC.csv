@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202409280,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409280.shtml,ChicagoCubspitching,Kyle Hendricks,7.1,2,0,0,2,2,0,5.92,26,81,53,34,5,14,10,12,3,0,74.0,,,0.485,1.1,0.00%,0.0,3.7
+CHN202409280,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409280.shtml,ChicagoCubspitching,"Tyson Miller, W (5-1)",0.2,1,0,0,0,0,0,2.32,2,8,6,3,2,1,0,2,1,0,,0.0,0.0,0.059,1.59,0.00%,0.0,0.3
+CHN202409280,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409280.shtml,ChicagoCubspitching,"Porter Hodge, S (9)",1.0,0,0,0,0,1,0,1.88,3,12,7,5,1,1,2,0,0,0,,0.0,0.0,0.032,0.42,0.00%,0.0,0.5
+CHN202409280,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202409280.shtml,ChicagoCubspitching,Team Totals,9.0,3,0,0,2,3,0,0.0,31,101,66,42,8,16,12,14,4,0,74.0,0.0,0.0,0.576,1.08,0.00%,0.0,4.4

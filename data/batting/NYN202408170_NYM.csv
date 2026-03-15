@@ -1,0 +1,14 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Francisco Lindor SS,3.0,2.0,2.0,1.0,1.0,0.0,4.0,0.265,0.338,0.472,0.81,17.0,9.0,0.082,0.57,0.111,-0.029,0.05%,0.55,0.9,0.0,2.0,HR
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.279,0.34,0.558,0.898,16.0,10.0,0.066,0.51,0.088,-0.023,0.04%,0.49,0.8,1.0,3.0,2B
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Brandon Nimmo LF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.228,0.342,0.408,0.75,14.0,9.0,0.011,0.53,0.051,-0.041,0.01%,0.51,-0.2,1.0,0.0,3B
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,J.D. Martinez DH,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.257,0.345,0.433,0.777,12.0,7.0,-0.039,0.57,0.011,-0.05,-0.02%,0.55,-0.6,0.0,0.0,GDP
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.243,0.327,0.472,0.799,20.0,12.0,0.043,0.57,0.094,-0.051,0.03%,0.55,0.1,10.0,0.0,HR
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Jesse Winker RF,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.261,0.368,0.408,0.776,16.0,10.0,0.061,0.65,0.079,-0.018,0.03%,0.63,0.8,1.0,0.0,
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Tyrone Taylor RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.24,0.288,0.398,0.686,6.0,3.0,-0.001,0.04,0.0,-0.001,-0.00%,0.04,-0.2,0.0,0.0,
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.252,0.315,0.397,0.712,13.0,9.0,-0.044,0.4,0.0,-0.044,-0.03%,0.38,-1.1,10.0,0.0,
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Jeff McNeil 2B,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.238,0.298,0.394,0.692,19.0,9.0,0.002,0.21,0.013,-0.01,0.00%,0.2,0.1,1.0,3.0,
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Harrison Bader CF,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.262,0.307,0.391,0.698,14.0,8.0,0.001,0.36,0.013,-0.012,0.00%,0.34,-0.2,2.0,0.0,HBP
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Luis Severino P,,,,,,,,,,,,,,,,,,,,,1.0,3.0,
+NYN202408170,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,NewYorkMetsbatting,Team Totals,30.0,4.0,7.0,4.0,4.0,7.0,35.0,0.233,0.343,0.533,0.876,147.0,86.0,0.182,0.47,0.46,-0.279,0.10%,0.45,0.2,27.0,11.0,

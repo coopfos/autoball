@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202505020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505020.shtml,BostonRedSoxpitching,Brayan Bello,6.2,4,1,1,1,5,1,2.55,25,102,61,33.0,11,17,11,8,5,0,66.0,,,0.286,1.06,0.18%,1.14,2.2
+BOS202505020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505020.shtml,BostonRedSoxpitching,"Justin Wilson, W (1-0)",0.1,0,0,0,0,0,0,4.0,0,2,0,,0,0,0,0,0,0,,1.0,0.0,0.041,1.47,0.03%,1.58,0.2
+BOS202505020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505020.shtml,BostonRedSoxpitching,"Greg Weissert, H (3)",1.0,1,0,0,0,3,0,3.38,4,14,10,3.0,2,5,0,1,1,0,,0.0,0.0,0.074,1.03,0.05%,1.11,0.5
+BOS202505020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505020.shtml,BostonRedSoxpitching,Liam Hendriks,1.0,1,0,0,0,1,0,3.6,3,10,7,3.0,1,3,1,1,1,0,,0.0,0.0,0.006,0.26,0.00%,0.29,0.5
+BOS202505020,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202505020.shtml,BostonRedSoxpitching,Team Totals,9.0,6,1,1,1,9,1,1.0,32,128,78,39.0,14,25,12,10,7,0,66.0,1.0,0.0,0.407,1.0,0.26%,1.07,3.4

@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202503290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202503290.shtml,SeattleMarinerspitching,"Bryce Miller, L (0-1)",5.2,6,3,3,2,4,1,4.76,24,90,61,40,9,12,7,11,7,0,47.0,,,-0.139,1.13,-0.08%,1.13,-0.6
+SEA202503290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202503290.shtml,SeattleMarinerspitching,Collin Snider,1.0,1,1,0,0,1,0,0.0,5,18,14,10,2,2,2,2,0,0,,1.0,0.0,-0.094,0.99,-0.06%,0.99,-0.6
+SEA202503290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202503290.shtml,SeattleMarinerspitching,Gabe Speier,0.2,1,0,0,0,1,0,0.0,3,11,7,6,0,1,2,0,0,0,,1.0,0.0,0.013,0.41,0.01%,0.41,0.2
+SEA202503290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202503290.shtml,SeattleMarinerspitching,Eduard Bazardo,1.2,1,0,0,0,1,0,7.71,6,27,18,9,1,8,1,4,1,0,,1.0,0.0,0.037,0.32,0.02%,0.32,0.9
+SEA202503290,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202503290.shtml,SeattleMarinerspitching,Team Totals,9.0,9,4,3,2,7,1,3.0,38,146,100,65,12,23,12,17,8,0,47.0,3.0,0.0,-0.183,0.93,-0.11%,0.93,-0.1

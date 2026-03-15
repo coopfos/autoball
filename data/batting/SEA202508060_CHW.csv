@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Mike Tauchman DH,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.286,0.373,0.465,0.839,25.0,16.0,0.144,1.01,0.181,-0.038,0%,0.0,1.9,0.0,0.0,HR
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Corey Julks PR-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,4.0,1.0,1.0,1.0,1.0,2.0,5.0,0.28,0.309,0.445,0.754,18.0,12.0,-0.063,1.38,0.076,-0.138,0%,0.0,0.2,0.0,3.0,HR
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,5.0,0.0,1.0,1.0,0.0,0.0,5.0,0.23,0.298,0.427,0.724,16.0,13.0,-0.089,1.29,0.037,-0.126,0%,0.0,0.1,2.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.219,0.302,0.361,0.662,12.0,8.0,0.028,1.16,0.121,-0.093,0%,0.0,0.6,5.0,0.0,SB
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Colson Montgomery SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.245,0.29,0.543,0.833,21.0,12.0,-0.11,1.16,0.0,-0.11,0%,0.0,-1.6,0.0,2.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Curtis Mead 1B,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.225,0.314,0.333,0.647,19.0,12.0,0.0,0.94,0.059,-0.059,0%,0.0,-0.4,6.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Kyle Teel C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.257,0.354,0.367,0.721,19.0,14.0,-0.05,0.52,0.0,-0.05,0%,0.0,-0.7,9.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Michael A. Taylor RF,4.0,2.0,2.0,1.0,0.0,1.0,4.0,0.215,0.278,0.397,0.675,17.0,11.0,0.027,0.53,0.057,-0.031,0%,0.0,1.3,2.0,0.0,"HR,2B"
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Brooks Baldwin 3B,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.236,0.284,0.368,0.652,17.0,11.0,0.075,0.61,0.095,-0.019,0%,0.0,0.5,0.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Jonathan Cannon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Tyler Alexander P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Steven Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Brandon Eisert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202508060,CHW,https://www.baseball-reference.com/boxes/SEA/SEA202508060.shtml,ChicagoWhiteSoxbatting,Team Totals,36.0,6.0,9.0,6.0,4.0,14.0,40.0,0.25,0.325,0.528,0.853,164.0,109.0,-0.038,0.98,0.626,-0.664,0.00%,0.0,1.9,24.0,6.0,

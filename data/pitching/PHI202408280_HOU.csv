@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202408280,HOU,https://www.baseball-reference.com/boxes/PHI/PHI202408280.shtml,HoustonAstrospitching,"Spencer Arrighetti, W (7-11)",7.2,2,0,0,4,11,0,4.63,29,103,65,30,18,17,5,9,5,0,82.0,,,0.222,0.44,0.14%,0.47,3.5
+PHI202408280,HOU,https://www.baseball-reference.com/boxes/PHI/PHI202408280.shtml,HoustonAstrospitching,Bryan King,1.1,1,0,0,0,1,0,2.05,5,19,12,6,2,4,2,1,0,0,,2.0,0.0,0.0,0.01,0.00%,0.01,1.0
+PHI202408280,HOU,https://www.baseball-reference.com/boxes/PHI/PHI202408280.shtml,HoustonAstrospitching,Team Totals,9.0,3,0,0,4,12,0,0.0,34,122,77,36,20,21,7,10,5,0,82.0,2.0,0.0,0.222,0.37,0.14%,0.4,4.5

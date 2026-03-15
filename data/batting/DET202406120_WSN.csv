@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,CJ Abrams SS,5.0,2.0,2.0,2.0,0.0,0.0,5.0,0.248,0.296,0.472,0.768,14.0,9.0,0.172,0.68,0.215,-0.044,0.06%,0.43,0.7,2.0,2.0,"HR,2B"
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Lane Thomas RF,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.223,0.292,0.338,0.63,19.0,11.0,-0.052,0.72,0.048,-0.101,-0.02%,0.45,-0.7,3.0,0.0,"SB,CS"
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Jesse Winker LF,3.0,1.0,2.0,1.0,2.0,1.0,5.0,0.262,0.38,0.393,0.772,20.0,11.0,0.178,0.79,0.182,-0.004,0.07%,0.49,2.4,3.0,0.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Eddie Rosario DH,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.187,0.24,0.352,0.591,13.0,10.0,-0.025,0.74,0.035,-0.059,-0.01%,0.47,-0.2,0.0,0.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.268,0.306,0.395,0.701,14.0,10.0,0.024,0.85,0.083,-0.06,0.01%,0.53,0.4,0.0,2.0,SB
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Joey Meneses 1B,4.0,0.0,2.0,1.0,1.0,0.0,5.0,0.237,0.299,0.304,0.603,24.0,10.0,0.116,0.67,0.145,-0.029,0.04%,0.42,2.0,7.0,1.0,2B
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Keibert Ruiz C,3.0,0.0,1.0,1.0,1.0,0.0,5.0,0.2,0.236,0.294,0.53,23.0,15.0,0.013,0.6,0.028,-0.015,0.01%,0.38,0.8,9.0,1.0,SF
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Nick Senzel 3B,5.0,0.0,1.0,0.0,0.0,1.0,5.0,0.238,0.349,0.422,0.771,18.0,13.0,-0.056,0.69,0.025,-0.081,-0.02%,0.43,-1.0,0.0,2.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.262,0.323,0.308,0.631,9.0,7.0,0.0,0.57,0.065,-0.066,0%,0.36,-1.8,2.0,0.0,"2B,CS"
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Jake Irvin P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Hunter Harvey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Kyle Finnegan P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202406120,WSN,https://www.baseball-reference.com/boxes/DET/DET202406120.shtml,WashingtonNationalsbatting,Team Totals,38.0,7.0,13.0,6.0,5.0,5.0,44.0,0.342,0.409,0.5,0.909,154.0,96.0,0.37,0.69,0.826,-0.459,0.14%,0.43,2.6,27.0,8.0,

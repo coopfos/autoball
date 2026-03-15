@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202408280,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202408280.shtml,BostonRedSoxpitching,"Brayan Bello, W (12-6)",8,2,0,0,1,9,0,4.66,26,97,66,34,14,18,12,4,1,0,86.0,,,0.593,1.16,0.23%,0.75,4.2
+BOS202408280,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202408280.shtml,BostonRedSoxpitching,"Kenley Jansen, S (25)",1,0,0,0,0,1,0,2.85,3,6,6,4,0,2,0,2,1,0,,0.0,0.0,0.035,0.45,0.01%,0.29,0.5
+BOS202408280,BOS,https://www.baseball-reference.com/boxes/BOS/BOS202408280.shtml,BostonRedSoxpitching,Team Totals,9,2,0,0,1,10,0,0.0,29,103,72,38,14,20,12,6,2,0,86.0,0.0,0.0,0.628,1.08,0.24%,0.7,4.7

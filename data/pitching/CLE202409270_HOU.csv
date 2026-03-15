@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202409270,HOU,https://www.baseball-reference.com/boxes/CLE/CLE202409270.shtml,HoustonAstrospitching,"Ronel Blanco, W (13-6)",5.0,1,0,0,2,3,0,2.8,17,86,56,41,4,11,9,3,0,0,66.0,,,0.239,0.76,0.00%,0.01,2.4
+CLE202409270,HOU,https://www.baseball-reference.com/boxes/CLE/CLE202409270.shtml,HoustonAstrospitching,Spencer Arrighetti,2.1,0,0,0,3,4,0,4.53,11,52,26,11,5,10,2,1,0,0,,0.0,0.0,-0.009,0.42,0.00%,0.0,-0.1
+CLE202409270,HOU,https://www.baseball-reference.com/boxes/CLE/CLE202409270.shtml,HoustonAstrospitching,"Bryan Abreu, H (38)",0.2,0,0,0,0,2,0,3.1,2,12,8,3,2,3,0,0,0,0,,3.0,0.0,0.065,1.36,0.00%,0.01,1.6
+CLE202409270,HOU,https://www.baseball-reference.com/boxes/CLE/CLE202409270.shtml,HoustonAstrospitching,Josh Hader,1.0,2,2,2,1,1,0,3.8,6,23,16,9,4,3,1,3,2,0,,0.0,0.0,0.007,0.89,0.00%,0.01,-1.5
+CLE202409270,HOU,https://www.baseball-reference.com/boxes/CLE/CLE202409270.shtml,HoustonAstrospitching,Team Totals,9.0,3,2,2,6,10,0,2.0,36,173,106,64,15,27,12,7,2,0,66.0,3.0,0.0,0.302,0.71,0.00%,0.0,2.4

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,CJ Abrams SS,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.298,0.365,0.632,0.997,24.0,14.0,-0.008,0.74,0.047,-0.054,-0.00%,0.67,-0.0,0.0,3.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Jesse Winker DH,3.0,1.0,2.0,2.0,0.0,0.0,4.0,0.373,0.5,0.608,1.108,13.0,7.0,0.12,1.1,0.168,-0.048,0.07%,1.0,1.4,0.0,0.0,"HR,2B,HBP"
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Lane Thomas RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.203,0.263,0.29,0.553,12.0,7.0,-0.019,1.21,0.058,-0.077,-0.01%,1.11,-0.1,0.0,0.0,SB
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Joey Gallo 1B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.14,0.279,0.368,0.648,16.0,10.0,-0.099,0.78,0.0,-0.099,-0.05%,0.71,-1.1,8.0,1.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.292,0.306,0.5,0.806,15.0,10.0,-0.124,1.15,0.0,-0.124,-0.07%,1.05,-1.2,2.0,3.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Nick Senzel 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.286,0.375,0.286,0.661,7.0,5.0,-0.063,0.58,0.003,-0.066,-0.03%,0.53,-0.3,0.0,1.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Eddie Rosario LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.122,0.119,0.244,0.363,13.0,8.0,-0.047,0.47,0.0,-0.047,-0.03%,0.43,-0.7,1.0,0.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Drew Millas C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.167,0.167,0.167,0.333,14.0,9.0,-0.064,0.85,0.0,-0.064,-0.03%,0.77,-0.6,7.0,2.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.229,0.289,0.286,0.575,14.0,9.0,0.02,0.93,0.055,-0.035,0.01%,0.85,0.3,5.0,0.0,SB
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Patrick Corbin P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Derek Law P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202404160,WSN,https://www.baseball-reference.com/boxes/LAN/LAN202404160.shtml,WashingtonNationalsbatting,Team Totals,32.0,2.0,6.0,2.0,1.0,5.0,34.0,0.188,0.235,0.313,0.548,128.0,79.0,-0.284,0.87,0.331,-0.614,-0.15%,0.79,-2.3,24.0,11.0,

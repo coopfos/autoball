@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Xavier Edwards SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.348,0.429,0.426,0.854,5.0,4.0,-0.118,0.8,0.0,-0.118,0%,0.0,-1.4,0.0,4.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Jake Burger 3B,3.0,0.0,1.0,0.0,0.0,0.0,4.0,0.254,0.305,0.482,0.787,8.0,5.0,0.049,0.55,0.074,-0.025,0%,0.0,0.7,0.0,2.0,"2B,HBP"
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Jesús Sánchez DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.239,0.292,0.414,0.706,15.0,11.0,-0.073,0.66,0.0,-0.073,0%,0.0,-1.0,0.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Jonah Bride 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.263,0.363,0.453,0.815,16.0,10.0,-0.081,0.78,0.0,-0.081,0%,0.0,-1.1,10.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Derek Hill CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.245,0.273,0.426,0.698,15.0,10.0,-0.056,0.54,0.0,-0.056,0%,0.0,-0.8,1.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Kyle Stowers LF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.19,0.233,0.274,0.507,20.0,12.0,-0.007,0.41,0.013,-0.02,0%,0.0,-0.2,2.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Otto Lopez 2B,3.0,0.0,1.0,0.0,0.0,2.0,3.0,0.232,0.266,0.305,0.571,13.0,11.0,-0.009,0.58,0.027,-0.036,0%,0.0,-0.0,1.0,3.0,2B
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Vidal Bruján RF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.216,0.302,0.321,0.623,10.0,7.0,0.028,0.85,0.057,-0.029,0%,0.0,0.1,3.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Nick Fortes C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.22,0.247,0.294,0.54,11.0,8.0,-0.051,0.84,0.007,-0.058,0%,0.0,-0.5,7.0,0.0,2B
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Max Meyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Emmanuel Ramirez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Brett de Geus P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Calvin Faucher P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYN202408170,MIA,https://www.baseball-reference.com/boxes/NYN/NYN202408170.shtml,MiamiMarlinsbatting,Team Totals,30.0,0.0,4.0,0.0,1.0,8.0,32.0,0.133,0.188,0.233,0.421,113.0,78.0,-0.318,0.67,0.178,-0.496,0.00%,0.0,-4.3,24.0,10.0,

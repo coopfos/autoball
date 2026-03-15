@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Trevor Larnach LF,1.0,1.0,0.0,0.0,2.0,0.0,3.0,0.255,0.328,0.443,0.771,15.0,6.0,0.057,0.91,0.079,-0.022,0.03%,0.91,0.7,1.0,0.0,SB
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Manuel Margot PH-LF,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.216,0.281,0.276,0.557,10.0,6.0,0.031,0.86,0.046,-0.015,0.02%,0.86,0.2,0.0,0.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Alex Kirilloff DH,3.0,1.0,1.0,0.0,0.0,1.0,3.0,0.216,0.279,0.412,0.691,8.0,7.0,0.006,1.03,0.059,-0.053,0.00%,1.02,0.6,0.0,0.0,2B
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Ryan Jeffers PH-DH,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0.239,0.329,0.511,0.84,10.0,3.0,-0.039,1.32,0.012,-0.051,-0.02%,1.31,-0.3,0.0,0.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,1.0,2.0,2.0,0.0,1.0,5.0,0.253,0.322,0.443,0.765,14.0,9.0,0.028,1.06,0.124,-0.096,0.02%,1.05,0.4,0.0,1.0,"HR,SF"
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Max Kepler RF,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.261,0.325,0.444,0.769,10.0,9.0,-0.055,0.99,0.052,-0.108,-0.03%,0.99,-0.4,2.0,0.0,2B
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Willi Castro CF,4.0,0.0,1.0,0.0,0.0,0.0,5.0,0.254,0.332,0.407,0.739,15.0,11.0,-0.015,0.77,0.06,-0.076,-0.01%,0.77,-0.1,5.0,0.0,HBP
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,José Miranda 3B,4.0,0.0,1.0,0.0,0.0,0.0,5.0,0.273,0.307,0.461,0.768,19.0,12.0,0.025,0.95,0.078,-0.053,0.01%,0.94,0.1,1.0,0.0,HBP
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.222,0.304,0.397,0.701,27.0,18.0,0.021,1.01,0.1,-0.078,0.01%,1.0,0.2,5.0,1.0,2B
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Kyle Farmer 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.172,0.274,0.253,0.527,14.0,9.0,-0.148,1.52,0.0,-0.148,-0.09%,1.51,-1.4,0.0,2.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Christian Vázquez C,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.169,0.194,0.237,0.431,15.0,7.0,0.072,1.03,0.141,-0.069,0.04%,1.02,0.5,9.0,0.0,HR
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Pablo López P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Jorge Alcala P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Josh Staumont P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202406060,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202406060.shtml,MinnesotaTwinsbatting,Team Totals,36.0,5.0,10.0,5.0,4.0,6.0,43.0,0.278,0.372,0.528,0.9,157.0,97.0,-0.017,1.02,0.751,-0.769,-0.01%,1.01,0.5,24.0,5.0,

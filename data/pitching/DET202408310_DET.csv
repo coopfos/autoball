@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigerspitching,"Tarik Skubal, W (16-4)",8,4,1,1,0,8,1,2.51,27,98,72,39,14,19,10,9,3,0,78.0,,,0.468,1.05,0.08%,0.32,2.9
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigerspitching,"Tyler Holton, S (6)",1,0,0,0,1,0,0,2.44,4,17,9,8,0,1,0,3,2,0,,0.0,0.0,0.16,2.28,0.03%,0.69,0.5
+DET202408310,DET,https://www.baseball-reference.com/boxes/DET/DET202408310.shtml,DetroitTigerspitching,Team Totals,9,4,1,1,1,8,1,1.0,31,115,81,47,14,20,10,12,5,0,78.0,0.0,0.0,0.628,1.21,0.11%,0.36,3.4

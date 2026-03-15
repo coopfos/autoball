@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Jazz Chisholm Jr. DH,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.255,0.324,0.419,0.743,19.0,13.0,-0.001,0.84,0.085,-0.086,0%,0.0,0.1,0.0,0.0,HR
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Bryan De La Cruz LF,4.0,1.0,3.0,1.0,0.0,0.0,5.0,0.247,0.295,0.422,0.717,17.0,11.0,0.211,0.74,0.221,-0.01,0.00%,0.0,1.9,2.0,0.0,HR
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Josh Bell 1B,5.0,0.0,1.0,0.0,0.0,2.0,5.0,0.227,0.288,0.348,0.636,21.0,14.0,-0.146,1.12,0.022,-0.167,0%,0.0,-1.2,4.0,0.0,GDP
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.244,0.294,0.416,0.71,14.0,10.0,0.112,0.9,0.139,-0.027,0%,0.0,0.9,3.0,0.0,2·2B
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Jake Burger 3B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.215,0.256,0.349,0.605,16.0,12.0,-0.137,1.44,0.041,-0.178,0%,0.01,-1.3,0.0,1.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Xavier Edwards SS,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.31,0.383,0.381,0.764,18.0,9.0,0.129,1.56,0.22,-0.091,0%,0.01,1.2,1.0,2.0,SB
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Nick Gordon CF-2B,4.0,0.0,1.0,0.0,0.0,3.0,4.0,0.226,0.254,0.387,0.641,21.0,14.0,-0.124,1.37,0.025,-0.149,0%,0.0,-1.1,7.0,0.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Vidal Bruján 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.218,0.296,0.318,0.614,21.0,13.0,-0.16,1.43,0.0,-0.16,0%,0.0,-1.5,3.0,0.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Dane Myers PH-CF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.266,0.333,0.43,0.764,4.0,3.0,-0.027,1.11,0.0,-0.027,0%,0.0,-0.3,0.0,0.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Nick Fortes C,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.177,0.204,0.246,0.45,16.0,11.0,0.006,1.12,0.095,-0.089,0%,0.0,-0.0,4.0,0.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Roddery Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Andrew Nardi P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202407110,MIA,https://www.baseball-reference.com/boxes/HOU/HOU202407110.shtml,MiamiMarlinsbatting,Team Totals,37.0,3.0,11.0,3.0,1.0,13.0,39.0,0.297,0.316,0.514,0.829,167.0,110.0,-0.137,1.17,0.848,-0.984,0.00%,0.0,-1.3,24.0,4.0,

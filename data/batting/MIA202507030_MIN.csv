@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.272,0.337,0.545,0.881,15.0,11.0,-0.082,0.83,0.0,-0.082,-0.03%,0.48,-1.0,2.0,0.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.25,0.315,0.418,0.733,12.0,7.0,0.034,0.68,0.07,-0.037,0.01%,0.4,0.4,0.0,0.0,2B
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Willi Castro 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.271,0.356,0.434,0.79,17.0,10.0,-0.073,0.78,0.021,-0.094,-0.03%,0.46,-1.0,3.0,0.0,"SB,GDP"
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Brooks Lee SS,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.27,0.302,0.401,0.703,16.0,13.0,-0.093,0.85,0.0,-0.093,-0.03%,0.5,-1.2,0.0,2.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Ty France 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.256,0.317,0.364,0.681,14.0,9.0,-0.062,0.58,0.0,-0.062,-0.02%,0.34,-0.9,4.0,1.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Matt Wallner RF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.199,0.295,0.444,0.739,16.0,9.0,-0.003,0.4,0.033,-0.035,-0.00%,0.24,0.5,0.0,0.0,HR
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.208,0.288,0.311,0.599,6.0,4.0,-0.007,0.37,0.013,-0.02,-0.00%,0.21,-0.1,2.0,1.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Harrison Bader LF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.247,0.325,0.391,0.716,10.0,7.0,-0.006,0.61,0.023,-0.028,-0.00%,0.36,-0.1,4.0,0.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Christian Vázquez C,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.165,0.243,0.256,0.499,6.0,5.0,0.015,0.62,0.029,-0.015,0.01%,0.36,0.2,7.0,0.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Ryan Jeffers PH-C,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.231,0.331,0.376,0.706,4.0,3.0,-0.044,1.66,0.0,-0.044,-0.01%,0.97,-0.4,1.0,0.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,David Festa P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Justin Topa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Kody Funderburk P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+MIA202507030,MIN,https://www.baseball-reference.com/boxes/MIA/MIA202507030.shtml,MinnesotaTwinsbatting,Team Totals,32.0,1.0,5.0,1.0,1.0,10.0,33.0,0.156,0.182,0.281,0.463,116.0,78.0,-0.321,0.68,0.189,-0.51,-0.11%,0.4,-3.7,24.0,7.0,

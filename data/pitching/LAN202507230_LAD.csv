@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202507230,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,LosAngelesDodgerspitching,Tyler Glasnow,7,3,1,1,1,12,1,2.75,25,106,69,31,19,19,5,7,2,0,78.0,,,0.333,0.92,0.29%,1.35,2.5
+LAN202507230,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,LosAngelesDodgerspitching,Kirby Yates,0,0,2,2,3,0,0,4.45,3,18,6,3,0,3,0,0,0,0,,0.0,0.0,-0.373,3.23,-0.33%,4.73,-1.8
+LAN202507230,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,LosAngelesDodgerspitching,"Alex Vesia, BS (1)",1,1,0,0,0,0,0,2.59,3,10,7,5,1,1,2,1,1,0,,3.0,2.0,-0.068,2.48,-0.06%,3.63,0.3
+LAN202507230,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,LosAngelesDodgerspitching,"Anthony Banda, W (5-1)",1,1,0,0,0,3,0,3.83,4,17,13,5,5,3,0,1,1,0,,0.0,0.0,0.039,0.68,0.03%,0.99,0.5
+LAN202507230,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202507230.shtml,LosAngelesDodgerspitching,Team Totals,9,5,3,3,4,15,1,3.0,35,151,95,44,25,26,7,9,4,0,78.0,3.0,2.0,-0.069,1.36,-0.06%,1.99,1.6

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202504170,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202504170.shtml,PittsburghPiratespitching,"Andrew Heaney, W (1-1)",7.1,5,0,0,2,4,0,2.13,28,95,61,35,8,18,12,10,6,0,70.0,,,0.422,1.36,0.17%,0.88,3.4
+PIT202504170,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202504170.shtml,PittsburghPiratespitching,"Ryan Borucki, H (4)",1.0,0,0,0,0,0,0,4.0,3,8,7,4,2,1,2,1,0,0,,1.0,0.0,0.241,3.08,0.09%,2.0,0.9
+PIT202504170,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202504170.shtml,PittsburghPiratespitching,"Dennis Santana, S (2)",0.2,0,0,0,0,1,0,2.0,2,9,5,2,1,2,1,0,0,0,,0.0,0.0,0.091,1.78,0.03%,1.16,0.3
+PIT202504170,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202504170.shtml,PittsburghPiratespitching,Team Totals,9.0,5,0,0,2,5,0,0.0,33,112,73,41,11,21,15,11,6,0,70.0,1.0,0.0,0.754,1.54,0.29%,1.0,4.6

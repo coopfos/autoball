@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202505300,TBR,https://www.baseball-reference.com/boxes/HOU/HOU202505300.shtml,TampaBayRayspitching,Ryan Pepiot,6.2,2,0,0,1,4,0,3.21,22,93,61,38,9,14,3,14,5,0,73.0,,,0.451,1.04,0.28%,1.08,3.3
+HOU202505300,TBR,https://www.baseball-reference.com/boxes/HOU/HOU202505300.shtml,TampaBayRayspitching,"Kevin Kelly, BS (1)",1.1,4,1,1,0,2,0,4.26,7,19,11,6,2,3,4,1,1,0,,1.0,0.0,-0.142,2.44,-0.09%,2.52,-0.3
+HOU202505300,TBR,https://www.baseball-reference.com/boxes/HOU/HOU202505300.shtml,TampaBayRayspitching,"Garrett Cleavinger, L (0-1)",0.2,1,1,1,0,2,1,2.49,3,11,7,3,3,1,0,1,0,0,,0.0,0.0,-0.361,1.82,-0.22%,1.89,-0.6
+HOU202505300,TBR,https://www.baseball-reference.com/boxes/HOU/HOU202505300.shtml,TampaBayRayspitching,Team Totals,8.2,7,2,2,1,8,1,2.08,32,123,79,47,14,18,7,16,6,0,73.0,1.0,0.0,-0.052,1.45,-0.03%,1.5,2.5

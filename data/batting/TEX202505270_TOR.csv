@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Bo Bichette DH,4.0,0.0,1.0,0.0,1.0,1.0,5.0,0.27,0.319,0.391,0.71,24.0,13.0,0.038,1.28,0.121,-0.083,0.02%,1.14,0.4,0.0,0.0,2B
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.274,0.378,0.418,0.796,19.0,10.0,-0.087,1.36,0.027,-0.113,-0.05%,1.22,-0.6,8.0,0.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Daulton Varsho CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.207,0.227,0.573,0.8,14.0,9.0,-0.201,1.78,0.0,-0.201,-0.11%,1.6,-1.5,1.0,0.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Alejandro Kirk C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.286,0.329,0.37,0.699,13.0,10.0,-0.054,1.39,0.053,-0.107,-0.03%,1.25,-0.4,8.0,0.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,George Springer LF,2.0,0.0,1.0,0.0,1.0,0.0,4.0,0.25,0.369,0.436,0.805,13.0,6.0,0.123,1.4,0.172,-0.049,0.07%,1.26,0.9,0.0,0.0,"2B,HBP"
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Anthony Santander RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.185,0.274,0.315,0.588,13.0,8.0,-0.099,1.75,0.032,-0.131,-0.05%,1.57,-0.5,2.0,0.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Addison Barger 3B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.243,0.31,0.398,0.708,18.0,13.0,-0.106,1.78,0.012,-0.118,-0.06%,1.59,-0.9,2.0,0.0,IW
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Ernie Clement SS,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.245,0.293,0.311,0.604,15.0,11.0,-0.124,2.09,0.048,-0.172,-0.07%,1.87,-0.7,2.0,2.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Michael Stefanic 2B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.2,0.294,0.2,0.494,18.0,11.0,-0.082,1.57,0.041,-0.124,-0.04%,1.41,-0.7,1.0,3.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Bowden Francis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Yariel Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Chad Green P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202505270,TOR,https://www.baseball-reference.com/boxes/TEX/TEX202505270.shtml,TorontoBlueJaysbatting,Team Totals,31.0,0.0,4.0,0.0,6.0,8.0,38.0,0.129,0.289,0.194,0.483,147.0,91.0,-0.592,1.58,0.506,-1.098,-0.32%,1.42,-4.1,24.0,6.0,

@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 3B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.221,0.31,0.342,0.652,12.0,7.0,-0.034,0.44,0.008,-0.041,-0.00%,0.07,0.6,0.0,3.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Josh Rojas 2B-LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.143,0.25,0.143,0.393,17.0,13.0,-0.039,0.39,0.0,-0.039,-0.00%,0.07,-1.1,2.0,2.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.186,0.29,0.314,0.604,15.0,11.0,-0.021,0.27,0.0,-0.021,-0.00%,0.04,-0.5,2.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Tim Elko 1B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.133,0.133,0.333,0.467,4.0,3.0,-0.002,0.08,0.0,-0.002,0%,0.01,-0.3,1.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.189,0.221,0.329,0.55,22.0,13.0,-0.037,0.36,0.0,-0.037,-0.00%,0.06,-0.9,0.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Matt Thaiss C,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.225,0.391,0.324,0.715,17.0,10.0,-0.002,0.23,0.014,-0.016,0%,0.04,-0.1,5.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 1B-2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.267,0.286,0.373,0.659,10.0,7.0,-0.027,0.35,0.0,-0.027,-0.00%,0.05,-0.7,5.0,1.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Joshua Palacios RF,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.206,0.325,0.279,0.604,7.0,7.0,-0.031,0.42,0.002,-0.033,-0.00%,0.07,-0.1,4.0,0.0,2B
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Brooks Baldwin LF-CF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.221,0.26,0.344,0.604,12.0,7.0,-0.019,0.33,0.003,-0.023,-0.00%,0.05,-0.2,1.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Jacob Amaya SS,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.097,0.119,0.113,0.232,9.0,7.0,-0.018,0.24,0.0,-0.018,-0.00%,0.04,-0.7,4.0,2.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Bryse Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Jared Shuster P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Yoendrys Gómez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CIN202505150,CHW,https://www.baseball-reference.com/boxes/CIN/CIN202505150.shtml,ChicagoWhiteSoxbatting,Team Totals,31.0,1.0,4.0,1.0,1.0,6.0,32.0,0.129,0.156,0.161,0.318,125.0,85.0,-0.23,0.33,0.027,-0.257,-0.02%,0.05,-3.9,24.0,8.0,

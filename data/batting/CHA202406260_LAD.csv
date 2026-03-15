@@ -1,0 +1,13 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,2.0,2.0,1.0,1.0,2.0,0.0,4.0,0.322,0.402,0.643,1.045,17.0,6.0,0.165,0.76,0.173,-0.007,0.10%,0.78,1.8,0.0,0.0,HR
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Teoscar Hernández LF,3.0,0.0,0.0,1.0,0.0,2.0,4.0,0.252,0.318,0.487,0.804,22.0,14.0,-0.032,0.82,0.002,-0.034,-0.02%,0.83,-1.0,3.0,0.0,SF
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,4.0,0.0,1.0,2.0,0.0,1.0,4.0,0.299,0.4,0.505,0.905,13.0,9.0,0.083,0.57,0.103,-0.021,0.05%,0.58,1.0,6.0,1.0,2B
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Jason Heyward RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.22,0.319,0.43,0.749,11.0,6.0,-0.03,0.3,0.0,-0.03,-0.02%,0.3,-0.8,3.0,0.0,
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Andy Pages CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.251,0.304,0.407,0.711,18.0,11.0,-0.038,0.35,0.004,-0.041,-0.02%,0.35,-0.5,4.0,0.0,
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Gavin Lux 2B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.221,0.269,0.3,0.569,17.0,12.0,-0.031,0.31,0.0,-0.031,-0.02%,0.32,-0.8,0.0,3.0,
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Miguel Rojas SS,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.284,0.327,0.44,0.766,12.0,9.0,0.012,0.22,0.023,-0.011,0.01%,0.22,0.5,2.0,3.0,2B
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.2,0.269,0.303,0.572,24.0,14.0,0.015,0.41,0.034,-0.019,0.01%,0.42,-0.4,1.0,1.0,
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Austin Barnes C,4.0,1.0,1.0,0.0,0.0,3.0,4.0,0.206,0.289,0.221,0.51,17.0,12.0,0.03,0.56,0.052,-0.022,0.02%,0.57,-0.1,7.0,0.0,
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Gavin Stone P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CHA202406260,LAD,https://www.baseball-reference.com/boxes/CHA/CHA202406260.shtml,LosAngelesDodgersbatting,Team Totals,32.0,4.0,6.0,4.0,3.0,12.0,36.0,0.188,0.25,0.344,0.594,151.0,93.0,0.174,0.47,0.391,-0.216,0.11%,0.48,-0.3,27.0,8.0,

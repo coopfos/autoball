@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,J.P. Crawford SS,4.0,1.0,1.0,1.0,1.0,0.0,5.0,0.14,0.232,0.26,0.492,15.0,9.0,0.044,1.08,0.124,-0.08,0.02%,0.83,0.7,2.0,1.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Julio Rodríguez CF,5.0,0.0,1.0,0.0,0.0,4.0,5.0,0.196,0.255,0.216,0.47,16.0,13.0,-0.071,1.06,0.037,-0.109,-0.03%,0.81,-0.7,2.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Ty France 1B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.316,0.35,0.368,0.718,13.0,10.0,0.009,0.8,0.101,-0.092,0.00%,0.61,0.4,6.0,1.0,2B
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Mitch Haniger RF,4.0,0.0,1.0,2.0,1.0,2.0,5.0,0.262,0.354,0.452,0.807,23.0,13.0,-0.009,1.39,0.102,-0.111,-0.00%,1.06,1.3,4.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Jorge Polanco 2B,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.167,0.259,0.229,0.488,22.0,14.0,-0.113,1.04,0.007,-0.12,-0.05%,0.8,-1.1,3.0,2.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Mitch Garver DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.167,0.225,0.25,0.475,19.0,12.0,-0.074,0.97,0.012,-0.086,-0.03%,0.75,-0.5,0.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Luke Raley PR-DH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.15,0.15,0.2,0.35,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Cal Raleigh C,3.0,1.0,1.0,2.0,1.0,1.0,4.0,0.194,0.256,0.361,0.618,14.0,7.0,0.294,1.58,0.341,-0.047,0.14%,1.21,1.2,10.0,0.0,HR
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Dylan Moore LF-3B,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.211,0.375,0.421,0.796,14.0,8.0,-0.003,1.1,0.069,-0.071,-0.00%,0.84,-0.1,0.0,1.0,SB
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Luis Urías 3B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.158,0.273,0.421,0.694,7.0,6.0,-0.064,1.04,0.0,-0.064,-0.03%,0.8,-0.6,1.0,1.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Dominic Canzone PH-LF,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.233,0.303,0.567,0.87,13.0,7.0,-0.007,0.7,0.019,-0.026,-0.00%,0.54,0.0,1.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Logan Gilbert P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Ryne Stanek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202404100,SEA,https://www.baseball-reference.com/boxes/TOR/TOR202404100.shtml,SeattleMarinersbatting,Team Totals,36.0,6.0,6.0,6.0,5.0,15.0,41.0,0.167,0.268,0.278,0.546,156.0,99.0,0.006,1.09,0.812,-0.806,0.00%,0.84,0.5,30.0,6.0,

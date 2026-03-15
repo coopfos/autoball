@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202405230,DET,https://www.baseball-reference.com/boxes/DET/DET202405230.shtml,DetroitTigerspitching,"Jack Flaherty, L (1-4)",6.1,7,3,3,1,9,2,3.84,25,103,65,30,12,23,6,9,7,0,55.0,,,-0.123,1.1,-0.05%,0.71,0.2
+DET202405230,DET,https://www.baseball-reference.com/boxes/DET/DET202405230.shtml,DetroitTigerspitching,Alex Faedo,1.2,3,3,3,1,1,0,3.6,9,32,20,12,5,3,1,6,3,0,,0.0,0.0,-0.093,0.44,-0.04%,0.28,-2.3
+DET202405230,DET,https://www.baseball-reference.com/boxes/DET/DET202405230.shtml,DetroitTigerspitching,Mason Englert,1.0,3,3,3,0,1,1,27.0,6,23,14,8,5,1,1,4,1,0,,0.0,0.0,-0.005,0.03,-0.00%,0.02,-2.5
+DET202405230,DET,https://www.baseball-reference.com/boxes/DET/DET202405230.shtml,DetroitTigerspitching,Team Totals,9.0,13,9,9,2,11,3,9.0,40,158,99,50,22,27,8,19,11,0,55.0,0.0,0.0,-0.221,0.8,-0.09%,0.51,-4.6

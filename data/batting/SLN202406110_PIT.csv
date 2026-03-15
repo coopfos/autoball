@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.238,0.338,0.379,0.716,13.0,9.0,0.031,1.66,0.117,-0.085,0.01%,1.32,-0.1,0.0,0.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Bryan Reynolds LF,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.263,0.333,0.425,0.758,18.0,9.0,0.274,1.66,0.309,-0.035,0.13%,1.32,1.4,1.0,0.0,3B
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Connor Joe RF-1B,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.259,0.336,0.434,0.77,9.0,5.0,0.117,1.39,0.14,-0.023,0.06%,1.1,1.2,3.0,0.0,HBP
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Oneil Cruz SS,3.0,0.0,0.0,1.0,0.0,2.0,4.0,0.243,0.298,0.429,0.727,16.0,13.0,-0.148,1.31,0.0,-0.148,-0.07%,1.04,-1.6,0.0,0.0,SF
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.247,0.321,0.325,0.646,9.0,8.0,-0.258,1.35,0.0,-0.258,-0.12%,1.07,-2.0,1.0,4.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.308,0.342,0.5,0.842,14.0,11.0,0.092,0.85,0.132,-0.041,0.04%,0.68,-0.0,2.0,3.0,2B
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Rowdy Tellez 1B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.208,0.27,0.282,0.552,7.0,4.0,-0.059,1.17,0.0,-0.059,-0.03%,0.93,-0.5,6.0,1.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Michael A. Taylor PH-CF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.198,0.245,0.252,0.497,2.0,1.0,-0.13,2.25,0.0,-0.13,-0.06%,1.79,-0.6,0.0,0.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Yasmani Grandal C,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.163,0.193,0.275,0.468,13.0,7.0,-0.09,1.38,0.037,-0.127,-0.04%,1.1,-0.4,10.0,0.0,GDP
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Jack Suwinski CF-RF,2.0,1.0,0.0,0.0,1.0,2.0,3.0,0.173,0.266,0.301,0.567,13.0,6.0,0.027,1.52,0.082,-0.055,0.01%,1.2,-0.0,3.0,0.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Paul Skenes P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Aroldis Chapman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Colin Holderman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,David Bednar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202406110,PIT,https://www.baseball-reference.com/boxes/SLN/SLN202406110.shtml,PittsburghPiratesbatting,Team Totals,28.0,2.0,3.0,2.0,3.0,7.0,33.0,0.107,0.212,0.214,0.426,114.0,73.0,-0.144,1.4,0.817,-0.961,-0.07%,1.11,-2.6,27.0,9.0,

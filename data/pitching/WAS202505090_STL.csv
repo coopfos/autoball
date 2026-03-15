@@ -1,0 +1,3 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalspitching,"Erick Fedde, W (3-3)",9,6,0,0,0,8,0,3.86,31,109,68,40,8,20,12,11,6,0,83,,,0.223,0.48,0.12%,0.43,4.3
+WAS202505090,STL,https://www.baseball-reference.com/boxes/WAS/WAS202505090.shtml,StLouisCardinalspitching,Team Totals,9,6,0,0,0,8,0,0.0,31,109,68,40,8,20,12,11,6,0,83,,,0.223,0.48,0.12%,0.43,4.3

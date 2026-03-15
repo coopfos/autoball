@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202408060,MIN,https://www.baseball-reference.com/boxes/CHN/CHN202408060.shtml,MinnesotaTwinspitching,"Pablo López, L (10-8)",5,7,4,4,1,2,1,4.74,22,88,55,37,6,12,8,11,5,0,38.0,,,-0.185,0.7,-0.15%,0.94,-1.6
+CHN202408060,MIN,https://www.baseball-reference.com/boxes/CHN/CHN202408060.shtml,MinnesotaTwinspitching,Randy Dobnak,3,4,3,3,1,1,0,9.64,14,49,31,21,2,8,5,7,3,0,,0.0,0.0,-0.101,0.23,-0.08%,0.32,-1.5
+CHN202408060,MIN,https://www.baseball-reference.com/boxes/CHN/CHN202408060.shtml,MinnesotaTwinspitching,Team Totals,8,11,7,7,2,3,1,7.88,36,137,86,58,8,20,13,18,8,0,38.0,0.0,0.0,-0.286,0.52,-0.23%,0.7,-3.1

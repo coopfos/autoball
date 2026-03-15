@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202506070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506070.shtml,PittsburghPiratespitching,Andrew Heaney,6,4,1,1,0,5,1,3.24,21,71,47,31,7,9,3,13,6,0,65.0,,,0.088,0.91,0.00%,0.07,1.1
+PIT202506070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506070.shtml,PittsburghPiratespitching,"Isaac Mattson, W (1-0)",1,0,0,0,0,1,0,2.25,3,15,9,3,1,5,0,2,0,0,,1.0,0.0,0.258,2.25,0.01%,0.17,1.4
+PIT202506070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506070.shtml,PittsburghPiratespitching,"Dennis Santana, H (8)",1,0,0,0,0,1,0,2.0,3,10,9,5,2,2,0,2,1,0,,0.0,0.0,0.122,1.59,0.01%,0.12,0.5
+PIT202506070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506070.shtml,PittsburghPiratespitching,"David Bednar, S (8)",1,0,0,0,0,1,0,3.74,3,7,5,3,1,1,2,0,0,0,,0.0,0.0,0.165,2.15,0.01%,0.16,0.5
+PIT202506070,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506070.shtml,PittsburghPiratespitching,Team Totals,9,4,1,1,0,8,1,1.0,30,103,70,42,11,17,5,17,7,0,65.0,1.0,0.0,0.633,1.22,0.03%,0.09,3.6

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202505200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202505200.shtml,StLouisCardinalspitching,Erick Fedde,5.0,5,4,4,0,2,2,3.77,20,63,44,28,4,12,9,9,1,0,43.0,,,-0.203,0.54,-0.14%,0.63,-1.5
+SLN202505200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202505200.shtml,StLouisCardinalspitching,Steven Matz,2.2,0,0,0,0,2,0,1.74,8,34,23,13,2,8,3,3,2,0,,0.0,0.0,0.174,0.86,0.12%,1.01,1.4
+SLN202505200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202505200.shtml,StLouisCardinalspitching,"Kyle Leahy, L (1-1)",1.1,2,1,1,0,1,0,1.29,6,19,17,10,4,3,0,5,2,0,,0.0,0.0,-0.275,1.57,-0.19%,1.83,-0.4
+SLN202505200,STL,https://www.baseball-reference.com/boxes/SLN/SLN202505200.shtml,StLouisCardinalspitching,Team Totals,9.0,7,5,5,0,5,2,5.0,34,116,84,51,10,23,12,17,5,0,43.0,0.0,0.0,-0.304,0.8,-0.21%,0.93,-0.5

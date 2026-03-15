@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,J.P. Crawford SS,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.212,0.297,0.363,0.66,17.0,12.0,-0.043,1.71,0.086,-0.129,-0.03%,1.83,-0.3,0.0,2.0,2B
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Josh Rojas 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.28,0.348,0.415,0.763,14.0,10.0,-0.163,1.54,0.0,-0.163,-0.10%,1.65,-1.1,0.0,2.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Julio Rodríguez CF,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.27,0.317,0.351,0.668,18.0,11.0,0.105,1.04,0.128,-0.023,0.07%,1.12,1.0,5.0,0.0,HR
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Cal Raleigh C,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.205,0.28,0.405,0.686,20.0,13.0,-0.011,2.05,0.115,-0.126,-0.01%,2.19,-0.5,6.0,0.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Ty France 1B,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.249,0.32,0.395,0.715,18.0,10.0,-0.088,2.16,0.054,-0.142,-0.06%,2.31,-0.3,7.0,2.0,HBP
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Luke Raley LF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.268,0.316,0.444,0.759,9.0,8.0,-0.025,0.48,0.0,-0.025,-0.02%,0.52,-0.2,2.0,0.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Mitch Garver PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.166,0.27,0.302,0.572,6.0,3.0,-0.117,4.69,0.0,-0.117,-0.07%,5.01,-0.7,0.0,0.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Víctor Robles LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.115,0.273,0.115,0.388,2.0,2.0,-0.164,3.82,0.0,-0.164,-0.10%,4.08,-0.5,0.0,0.0,GDP
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Mitch Haniger DH,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.223,0.282,0.347,0.628,15.0,7.0,0.011,1.2,0.066,-0.055,0.01%,1.28,-0.1,0.0,0.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Dominic Canzone RF,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.171,0.247,0.395,0.642,9.0,7.0,0.07,1.38,0.107,-0.037,0.04%,1.48,0.3,1.0,0.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Dylan Moore 2B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.219,0.335,0.426,0.761,12.0,8.0,-0.121,1.6,0.0,-0.121,-0.08%,1.71,-0.8,1.0,3.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Logan Gilbert P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Mike Baumann P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+OAK202406050,SEA,https://www.baseball-reference.com/boxes/OAK/OAK202406050.shtml,SeattleMarinersbatting,Team Totals,30.0,1.0,4.0,1.0,2.0,7.0,33.0,0.133,0.212,0.267,0.479,140.0,91.0,-0.546,1.7,0.556,-1.102,-0.35%,1.81,-3.2,24.0,9.0,

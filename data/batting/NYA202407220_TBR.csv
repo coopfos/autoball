@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Amed Rosario DH,4.0,0.0,2.0,0.0,0.0,2.0,4.0,0.309,0.332,0.415,0.747,20.0,12.0,-0.012,0.44,0.021,-0.033,-0.00%,0.27,0.0,0.0,0.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Isaac Paredes 1B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.252,0.353,0.449,0.803,17.0,11.0,-0.066,0.66,0.0,-0.066,-0.02%,0.41,-0.9,6.0,0.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Curtis Mead 3B,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.229,0.275,0.292,0.566,12.0,7.0,-0.042,0.4,0.0,-0.042,-0.02%,0.25,-0.7,0.0,1.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Randy Arozarena LF,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.211,0.313,0.395,0.708,13.0,8.0,-0.049,0.49,0.0,-0.05,-0.02%,0.3,-0.3,1.0,0.0,HBP
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Brandon Lowe 2B,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.238,0.33,0.471,0.801,22.0,13.0,0.0,0.41,0.026,-0.026,0%,0.26,-0.7,1.0,5.0,GDP
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Jose Siri CF,2.0,1.0,1.0,1.0,1.0,1.0,3.0,0.207,0.281,0.411,0.692,13.0,7.0,0.031,0.62,0.06,-0.03,0.01%,0.38,0.8,2.0,0.0,HR
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,José Caballero SS,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.242,0.304,0.37,0.674,16.0,11.0,-0.05,0.62,0.0,-0.05,-0.02%,0.38,-0.6,1.0,2.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Jonny DeLuca RF,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.168,0.243,0.273,0.516,14.0,12.0,-0.04,0.53,0.0,-0.04,-0.01%,0.32,-0.6,2.0,0.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Alex Jackson C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.088,0.152,0.198,0.349,10.0,7.0,-0.036,0.48,0.0,-0.036,-0.01%,0.3,-0.6,10.0,0.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Zack Littell P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Tyler Zuber P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Kevin Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202407220,TBR,https://www.baseball-reference.com/boxes/NYA/NYA202407220.shtml,TampaBayRaysbatting,Team Totals,29.0,1.0,3.0,1.0,2.0,10.0,32.0,0.103,0.188,0.207,0.394,137.0,88.0,-0.264,0.51,0.107,-0.373,-0.10%,0.32,-3.5,24.0,9.0,

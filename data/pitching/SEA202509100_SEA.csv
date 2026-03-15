@@ -1,0 +1,9 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,Logan Gilbert,4.2,5,1,1,1,8,1,3.54,22,95,60,33,16,11,2,9,3,0,57.0,,,0.124,1.38,0.13%,2.35,1.1
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,Carlos Vargas,1.1,1,0,0,0,1,0,3.54,5,17,14,9,1,4,4,0,0,0,,1.0,0.0,0.103,1.69,0.10%,2.87,0.7
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,Gabe Speier,1.0,0,0,0,0,3,0,2.77,4,21,11,4,4,3,0,0,0,0,,0.0,0.0,0.084,1.54,0.08%,2.62,0.5
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,Caleb Ferguson,1.0,0,0,0,0,0,0,3.86,3,10,8,4,1,3,3,0,0,0,,0.0,0.0,0.101,1.38,0.10%,2.34,0.5
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,José Castillo,1.0,1,0,0,0,1,0,4.56,4,16,9,5,1,3,3,0,0,0,,0.0,0.0,0.128,1.86,0.13%,3.16,0.5
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,Luke Jackson,2.0,1,1,0,0,1,0,4.03,6,31,20,13,1,6,3,2,2,0,,0.0,0.0,0.23,3.32,0.24%,5.63,1.1
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,"Emerson Hancock, W (4-5)",2.0,0,0,0,0,0,0,5.29,6,18,13,11,2,0,3,3,1,0,,0.0,0.0,0.606,3.85,0.62%,6.54,2.1
+SEA202509100,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202509100.shtml,SeattleMarinerspitching,Team Totals,13.0,8,2,1,1,14,1,0.69,50,208,135,79,26,30,18,14,6,0,57.0,1.0,0.0,1.376,2.01,1.40%,3.41,6.3

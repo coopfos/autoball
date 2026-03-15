@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202504110,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504110.shtml,SanDiegoPadrespitching,"Nick Pivetta, W (2-1)",7,3,0,0,1,10,0,1.59,25,88,62,29,16,17,6,8,3,0,80.0,,,0.299,0.69,0.21%,0.78,3.5
+SDN202504110,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504110.shtml,SanDiegoPadrespitching,Yuki Matsui,1,0,0,0,0,3,0,1.5,3,14,11,3,5,3,0,0,0,0,,0.0,0.0,0.001,0.02,0.00%,0.02,0.5
+SDN202504110,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504110.shtml,SanDiegoPadrespitching,Alek Jacob,1,0,0,0,0,2,0,3.12,3,15,11,5,3,3,0,1,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+SDN202504110,SDP,https://www.baseball-reference.com/boxes/SDN/SDN202504110.shtml,SanDiegoPadrespitching,Team Totals,9,3,0,0,1,15,0,0.0,31,117,84,37,24,23,6,9,3,0,80.0,0.0,0.0,0.3,0.56,0.21%,0.64,4.6

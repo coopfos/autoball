@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Nick Kurtz 1B,3.0,1.0,3.0,1.0,2.0,0.0,5.0,0.313,0.399,0.645,1.044,11.0,5.0,0.159,0.58,0.159,0.0,0.00%,0.0,2.4,11.0,0.0,"2·2B,IW"
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Shea Langeliers C,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.269,0.316,0.549,0.865,24.0,19.0,0.113,0.76,0.217,-0.104,0.00%,0.01,-0.5,10.0,1.0,"HR,GDP"
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Brent Rooker DH,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.273,0.346,0.497,0.843,22.0,15.0,-0.062,0.57,0.0,-0.062,0%,0.0,-0.8,0.0,0.0,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Tyler Soderstrom LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.264,0.336,0.466,0.802,12.0,10.0,-0.012,0.66,0.036,-0.048,0%,0.01,-0.3,1.0,0.0,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Lawrence Butler CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.232,0.304,0.411,0.715,14.0,9.0,0.067,0.7,0.102,-0.035,0.00%,0.01,0.6,0.0,0.0,2B
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Darell Hernaiz SS,4.0,2.0,2.0,0.0,0.0,2.0,4.0,0.279,0.365,0.443,0.807,25.0,18.0,0.046,0.7,0.066,-0.021,0%,0.01,0.7,1.0,1.0,2B
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,JJ Bleday RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.214,0.304,0.391,0.695,13.0,9.0,-0.069,0.82,0.01,-0.08,0%,0.01,-0.4,3.0,0.0,2B
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Brett Harris 3B,3.0,0.0,1.0,2.0,0.0,0.0,4.0,0.286,0.353,0.357,0.71,21.0,12.0,0.028,1.16,0.055,-0.027,0%,0.01,0.1,0.0,2.0,SF
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Luis Urías 2B,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.234,0.316,0.344,0.66,17.0,9.0,0.035,0.91,0.08,-0.045,0%,0.01,0.2,1.0,1.0,GDP
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Carlos Cortes PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.268,0.295,0.341,0.637,7.0,4.0,-0.011,0.25,0.0,-0.011,0%,0.0,-0.6,0.0,0.0,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Max Schuemann 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.302,0.29,0.592,,,,,,,,,,0.0,0.0,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Jacob Lopez P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Justin Sterner P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Hogan Harris P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIN202508190,ATH,https://www.baseball-reference.com/boxes/MIN/MIN202508190.shtml,Athleticsbatting,Team Totals,35.0,6.0,11.0,6.0,2.0,9.0,38.0,0.314,0.342,0.543,0.885,166.0,110.0,0.294,0.74,0.725,-0.433,0.00%,0.01,1.4,27.0,8.0,

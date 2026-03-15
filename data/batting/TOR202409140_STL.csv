@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Masyn Winn SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.271,0.318,0.409,0.727,12.0,9.0,-0.064,0.6,0.0,-0.064,-0.00%,0.01,-0.7,3.0,3.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Alec Burleson DH,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.271,0.314,0.434,0.747,15.0,11.0,-0.072,0.78,0.004,-0.076,-0.00%,0.01,0.0,0.0,0.0,2B
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Paul Goldschmidt 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.247,0.303,0.414,0.718,12.0,8.0,-0.053,0.71,0.0,-0.053,-0.00%,0.01,-0.4,10.0,1.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Luken Baker PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,0.324,0.44,0.764,3.0,2.0,-0.004,0.14,0.0,-0.004,0%,0.0,-0.2,0.0,0.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Nolan Arenado 3B,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.265,0.319,0.394,0.712,18.0,9.0,-0.025,0.7,0.015,-0.04,0%,0.01,-0.2,0.0,2.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,José Fermín PH,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.143,0.239,0.19,0.43,5.0,3.0,-0.002,0.08,0.0,-0.002,0%,0.0,0.2,0.0,0.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Brendan Donovan LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.271,0.336,0.402,0.737,15.0,11.0,-0.007,0.56,0.024,-0.031,0%,0.01,-0.3,1.0,0.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Thomas Saggese 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.158,0.158,0.316,0.474,8.0,6.0,-0.072,0.93,0.0,-0.072,-0.00%,0.02,-0.7,1.0,2.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Lars Nootbaar CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.244,0.338,0.395,0.733,12.0,7.0,-0.059,0.78,0.0,-0.059,-0.00%,0.01,-0.6,2.0,0.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Pedro Pagés C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.244,0.283,0.384,0.666,6.0,5.0,-0.042,0.57,0.0,-0.042,0%,0.01,-0.5,4.0,0.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Jordan Walker RF,2.0,1.0,1.0,1.0,1.0,1.0,3.0,0.179,0.242,0.321,0.563,15.0,7.0,0.137,0.36,0.139,-0.002,0.00%,0.01,1.0,3.0,0.0,HR
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Kyle Gibson P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Ryan Fernandez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Riley O'Brien P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202409140,STL,https://www.baseball-reference.com/boxes/TOR/TOR202409140.shtml,StLouisCardinalsbatting,Team Totals,30.0,2.0,3.0,2.0,2.0,5.0,32.0,0.1,0.156,0.233,0.39,121.0,78.0,-0.263,0.63,0.182,-0.445,-0.00%,0.01,-2.4,24.0,10.0,

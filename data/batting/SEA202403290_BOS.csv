@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Jarren Duran LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.125,0.222,0.125,0.347,16.0,8.0,-0.047,1.49,0.082,-0.13,-0.03%,1.48,0.1,2.0,0.0,SB
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Tyler O'Neill RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.286,0.375,0.714,1.089,15.0,10.0,-0.109,1.45,0.014,-0.123,-0.07%,1.44,-0.6,0.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Masataka Yoshida DH,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.286,0.375,0.429,0.804,19.0,12.0,0.043,1.26,0.084,-0.041,0.03%,1.25,0.2,0.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Trevor Story SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.125,0.222,0.125,0.347,23.0,14.0,-0.255,2.31,0.0,-0.255,-0.15%,2.29,-1.6,0.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Triston Casas 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.111,0.111,0.111,0.222,17.0,11.0,-0.164,1.64,0.0,-0.164,-0.10%,1.62,-1.0,4.0,1.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.25,0.25,0.5,0.75,11.0,11.0,-0.059,1.05,0.024,-0.083,-0.03%,1.04,-0.3,1.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Enmanuel Valdez 2B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.25,0.25,0.25,0.5,8.0,7.0,-0.045,0.92,0.0,-0.045,-0.03%,0.91,-0.4,1.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Pablo Reyes PH-2B,2.0,0.0,1.0,0.0,0.0,1.0,2.0,0.25,0.25,0.25,0.5,6.0,4.0,0.006,1.47,0.039,-0.033,0.00%,1.46,0.1,0.0,1.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Bobby Dalbec 3B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,14.0,8.0,-0.114,1.53,0.0,-0.114,-0.07%,1.52,-0.6,1.0,1.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Reese McGuire C,2.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,0.333,0.0,0.333,12.0,5.0,0.05,1.22,0.089,-0.038,0.03%,1.22,0.1,14.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Nick Pivetta P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Josh Winckowski P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SEA202403290,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202403290.shtml,BostonRedSoxbatting,Team Totals,31.0,0.0,4.0,0.0,3.0,13.0,34.0,0.129,0.206,0.129,0.335,141.0,90.0,-0.694,1.47,0.332,-1.026,-0.41%,1.46,-4.0,24.0,3.0,

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Charlie Blackmon DH,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.243,0.314,0.373,0.687,19.0,9.0,0.031,0.87,0.053,-0.022,0.00%,0.09,0.3,0.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.289,0.322,0.465,0.787,13.0,7.0,-0.092,0.85,0.004,-0.096,-0.01%,0.09,-0.8,3.0,3.0,GDP
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.273,0.36,0.449,0.809,17.0,10.0,-0.08,0.78,0.0,-0.08,-0.01%,0.08,-1.0,1.0,1.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Elias Díaz C,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.302,0.35,0.444,0.794,16.0,11.0,-0.041,0.68,0.017,-0.057,-0.00%,0.07,-0.2,5.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Brendan Rodgers 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.273,0.307,0.389,0.696,13.0,11.0,-0.016,0.56,0.024,-0.04,-0.00%,0.06,0.2,0.0,1.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Brenton Doyle CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.265,0.339,0.408,0.747,10.0,7.0,0.073,1.01,0.108,-0.035,0.00%,0.1,0.4,4.0,0.0,2·SB
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Elehuris Montero 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.209,0.274,0.297,0.57,19.0,13.0,-0.106,0.98,0.0,-0.106,-0.01%,0.1,-1.5,7.0,1.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Greg Jones RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,0.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Jake Cave LF,2.0,2.0,0.0,0.0,2.0,1.0,4.0,0.241,0.302,0.31,0.612,25.0,16.0,0.084,0.88,0.118,-0.034,0.01%,0.09,0.6,6.0,0.0,SB
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Michael Toglia RF-1B,3.0,0.0,1.0,1.0,0.0,0.0,3.0,0.12,0.154,0.36,0.514,14.0,7.0,0.061,1.31,0.086,-0.025,0.00%,0.13,0.4,1.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Cal Quantrill P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Matt Carasiti P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SLN202406060,COL,https://www.baseball-reference.com/boxes/SLN/SLN202406060.shtml,ColoradoRockiesbatting,Team Totals,30.0,3.0,4.0,2.0,5.0,9.0,35.0,0.133,0.257,0.133,0.39,146.0,91.0,-0.086,0.88,0.41,-0.495,-0.01%,0.09,-1.5,27.0,7.0,

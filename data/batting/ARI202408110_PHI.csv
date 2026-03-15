@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Kyle Schwarber DH,3.0,0.0,0.0,1.0,1.0,0.0,5.0,0.257,0.388,0.494,0.881,17.0,11.0,-0.063,0.67,0.012,-0.075,-0.05%,0.84,-0.9,0.0,0.0,SF
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Trea Turner SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.301,0.347,0.468,0.815,15.0,10.0,-0.029,0.78,0.039,-0.068,-0.02%,0.98,-0.5,1.0,3.0,"SB,GDP"
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Bryce Harper 1B,2.0,1.0,0.0,0.0,2.0,1.0,4.0,0.279,0.371,0.541,0.912,20.0,8.0,0.02,0.49,0.032,-0.013,0.01%,0.61,0.3,7.0,1.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Alec Bohm 3B,4.0,0.0,1.0,2.0,0.0,1.0,4.0,0.297,0.35,0.481,0.831,9.0,7.0,0.117,0.83,0.163,-0.046,0.09%,1.05,0.6,2.0,3.0,"2B,GDP"
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Bryson Stott 2B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.235,0.312,0.347,0.659,15.0,10.0,-0.039,0.41,0.001,-0.04,-0.03%,0.51,-0.4,3.0,2.0,2B
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Nick Castellanos RF,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.245,0.301,0.412,0.713,21.0,14.0,-0.006,0.39,0.024,-0.03,-0.00%,0.49,-0.1,0.0,0.0,2B
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,J.T. Realmuto C,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.246,0.303,0.383,0.686,15.0,10.0,-0.035,0.52,0.016,-0.05,-0.03%,0.65,0.3,10.0,0.0,2B
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Brandon Marsh LF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.238,0.317,0.399,0.716,15.0,9.0,-0.016,0.48,0.022,-0.039,-0.01%,0.61,0.3,0.0,0.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Cal Stevenson CF,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.25,0.4,0.25,0.65,15.0,10.0,0.014,0.45,0.04,-0.026,0.01%,0.56,0.9,1.0,0.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Cristopher Sánchez P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Tanner Banks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Orion Kerkering P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,José Alvarado P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Max Lazar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202408110,PHI,https://www.baseball-reference.com/boxes/ARI/ARI202408110.shtml,PhiladelphiaPhilliesbatting,Team Totals,32.0,5.0,8.0,5.0,4.0,6.0,37.0,0.25,0.324,0.375,0.699,142.0,89.0,-0.037,0.57,0.349,-0.387,-0.03%,0.71,0.4,24.0,11.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Zach Neto SS,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.265,0.321,0.486,0.807,23.0,10.0,-0.095,0.71,0.0,-0.095,-0.00%,0.01,-1.1,0.0,5.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Yoán Moncada 3B,3.0,1.0,0.0,0.0,2.0,2.0,5.0,0.227,0.328,0.449,0.777,24.0,13.0,0.005,0.61,0.048,-0.043,0%,0.01,-0.0,1.0,2.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Mike Trout DH,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.231,0.361,0.427,0.789,21.0,15.0,0.095,0.7,0.141,-0.046,0.00%,0.01,1.0,0.0,0.0,2·2B
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Taylor Ward LF,1.0,0.0,0.0,0.0,3.0,0.0,4.0,0.228,0.318,0.476,0.794,18.0,6.0,0.006,0.82,0.034,-0.028,0%,0.01,0.4,0.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Christian Moore 2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.195,0.287,0.336,0.623,,,,,,,,,,0.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Jo Adell CF-RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.233,0.295,0.477,0.772,11.0,7.0,-0.066,1.04,0.021,-0.088,-0.00%,0.02,-1.0,2.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Luis Rengifo 2B-LF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.247,0.298,0.342,0.64,17.0,10.0,-0.018,1.08,0.067,-0.084,0%,0.02,0.5,3.0,4.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Travis d'Arnaud C,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.199,0.26,0.348,0.609,15.0,11.0,-0.066,0.84,0.005,-0.072,-0.00%,0.01,-0.2,9.0,1.0,HBP
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Matthew Lugo RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.22,0.235,0.48,0.715,16.0,10.0,-0.071,0.67,0.0,-0.071,-0.00%,0.01,-1.2,0.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Bryce Teodosio CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.209,0.26,0.284,0.544,,,,,,,,,,1.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Oswald Peraza 1B,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.16,0.216,0.254,0.471,14.0,11.0,0.132,0.76,0.177,-0.046,0.00%,0.02,0.2,11.0,0.0,"HR,SB"
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,José Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Kenley Jansen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelsbatting,Team Totals,33.0,3.0,6.0,2.0,5.0,9.0,39.0,0.182,0.308,0.333,0.641,159.0,93.0,-0.078,0.79,0.493,-0.573,-0.00%,0.02,-1.5,27.0,12.0,

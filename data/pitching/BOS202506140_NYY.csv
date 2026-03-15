@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202506140,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202506140.shtml,NewYorkYankeespitching,"Carlos Rodón, L (8-5)",5,7,4,3,2,4,0,3.01,24,92,59,36,14,9,6,11,5,0,41.0,,,-0.108,0.87,-0.08%,1.14,-1.1
+BOS202506140,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202506140.shtml,NewYorkYankeespitching,Yerry De los Santos,3,0,0,0,1,1,0,1.83,9,31,21,12,2,7,5,2,0,0,,1.0,1.0,0.03,0.29,0.02%,0.39,1.1
+BOS202506140,NYY,https://www.baseball-reference.com/boxes/BOS/BOS202506140.shtml,NewYorkYankeespitching,Team Totals,8,7,4,3,3,5,0,3.38,33,123,80,48,16,16,11,13,5,0,41.0,1.0,1.0,-0.078,0.71,-0.06%,0.94,0.0

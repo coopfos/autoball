@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Jacob Young CF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.267,0.325,0.315,0.64,14.0,11.0,-0.069,0.91,0.0,-0.069,-0.03%,0.59,-0.6,3.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Joey Gallo LF,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.147,0.272,0.31,0.582,7.0,3.0,0.061,1.56,0.061,0.0,0.02%,1.01,0.3,0.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Eddie Rosario LF-CF-RF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.174,0.232,0.355,0.587,12.0,10.0,-0.132,1.36,0.0,-0.132,-0.05%,0.88,-0.8,0.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Lane Thomas RF-CF,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.207,0.276,0.315,0.592,14.0,8.0,-0.006,1.0,0.061,-0.068,-0.00%,0.65,0.1,2.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.279,0.319,0.424,0.743,13.0,8.0,-0.003,1.7,0.122,-0.125,-0.00%,1.1,0.7,0.0,2.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Joey Meneses 1B,4.0,0.0,0.0,1.0,0.0,0.0,4.0,0.239,0.301,0.303,0.605,16.0,12.0,-0.149,1.78,0.0,-0.149,-0.06%,1.16,-0.8,10.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Jesse Winker DH,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.235,0.349,0.388,0.737,12.0,7.0,-0.032,1.26,0.092,-0.124,-0.01%,0.81,0.1,0.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Nick Senzel 3B,3.0,0.0,2.0,0.0,0.0,1.0,3.0,0.241,0.348,0.422,0.771,12.0,8.0,-0.03,0.96,0.025,-0.055,-0.01%,0.62,-0.3,2.0,3.0,2B
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Ildemaro Vargas SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.28,0.363,0.38,0.743,18.0,12.0,-0.092,1.16,0.0,-0.092,-0.04%,0.75,-0.6,1.0,3.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Riley Adams C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.215,0.281,0.354,0.635,12.0,10.0,-0.086,1.13,0.0,-0.086,-0.03%,0.73,-0.5,6.0,1.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Mitchell Parker P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Dylan Floro P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Derek Law P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202406010,WSN,https://www.baseball-reference.com/boxes/CLE/CLE202406010.shtml,WashingtonNationalsbatting,Team Totals,31.0,2.0,6.0,2.0,2.0,6.0,33.0,0.194,0.242,0.226,0.468,130.0,89.0,-0.538,1.28,0.361,-0.9,-0.21%,0.83,-2.4,24.0,10.0,

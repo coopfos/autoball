@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIA202408240,CHC,https://www.baseball-reference.com/boxes/MIA/MIA202408240.shtml,ChicagoCubspitching,"Shota Imanaga, W (10-3)",7,4,2,2,2,3,2,3.08,27,99,65,41,12,12,7,15,7,0,62.0,,,0.158,0.57,0.02%,0.13,1.8
+MIA202408240,CHC,https://www.baseball-reference.com/boxes/MIA/MIA202408240.shtml,ChicagoCubspitching,Ethan Roberts,1,0,0,0,0,1,0,0.75,3,13,9,4,3,2,1,1,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+MIA202408240,CHC,https://www.baseball-reference.com/boxes/MIA/MIA202408240.shtml,ChicagoCubspitching,Jack Neely,1,0,0,0,0,1,0,12.0,3,12,8,4,2,2,1,1,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+MIA202408240,CHC,https://www.baseball-reference.com/boxes/MIA/MIA202408240.shtml,ChicagoCubspitching,Team Totals,9,4,2,2,2,5,2,2.0,33,124,82,49,17,16,9,17,8,0,62.0,0.0,0.0,0.158,0.47,0.02%,0.11,2.9

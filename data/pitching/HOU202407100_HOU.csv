@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202407100,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202407100.shtml,HoustonAstrospitching,"Framber Valdez, W (8-5)",7,6,1,1,1,10,0,3.66,25,95,63,30,14,19,9,5,2,0,70.0,,,0.165,0.54,0.10%,0.52,2.4
+HOU202407100,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202407100.shtml,HoustonAstrospitching,Kaleb Ort,2,0,0,0,0,4,0,0.0,6,25,19,9,5,5,1,1,0,0,,0.0,0.0,0.002,0.01,0.00%,0.01,1.0
+HOU202407100,HOU,https://www.baseball-reference.com/boxes/HOU/HOU202407100.shtml,HoustonAstrospitching,Team Totals,9,6,1,1,1,14,0,1.0,31,120,82,39,19,24,10,6,2,0,70.0,0.0,0.0,0.167,0.43,0.10%,0.42,3.3

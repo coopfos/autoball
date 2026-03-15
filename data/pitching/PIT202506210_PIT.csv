@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PIT202506210,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506210.shtml,PittsburghPiratespitching,"Mitch Keller, L (1-10)",5.2,3,3,2,2,5,0,4.02,22,99,62,41,8,13,6,9,7,0,56.0,,,-0.119,1.06,-0.00%,0.04,-0.2
+PIT202506210,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506210.shtml,PittsburghPiratespitching,Carmen Mlodzinski,2.1,1,0,0,2,3,0,5.67,9,35,18,9,6,3,3,1,1,0,,1.0,0.0,0.068,0.83,0.00%,0.03,0.3
+PIT202506210,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506210.shtml,PittsburghPiratespitching,Dennis Santana,1.0,0,0,0,0,0,0,1.67,3,12,6,5,0,1,1,2,1,0,,2.0,0.0,0.099,1.27,0.00%,0.05,1.5
+PIT202506210,PIT,https://www.baseball-reference.com/boxes/PIT/PIT202506210.shtml,PittsburghPiratespitching,Team Totals,9.0,4,3,2,4,8,0,2.0,34,146,86,55,14,17,10,12,9,0,56.0,3.0,0.0,0.048,1.02,0.00%,0.04,1.6

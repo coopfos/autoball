@@ -1,0 +1,20 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Xander Bogaerts 2B,5.0,3.0,2.0,2.0,1.0,2.0,6.0,0.444,0.5,0.444,0.944,20.0,13.0,0.088,0.63,0.125,-0.037,0.05%,0.6,1.6,0.0,3.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,4.0,2.0,3.0,1.0,1.0,0.0,6.0,0.375,0.5,0.375,0.875,18.0,8.0,0.136,0.7,0.141,-0.005,0.08%,0.66,2.6,5.0,0.0,HBP
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Jake Cronenworth 1B,4.0,2.0,4.0,4.0,0.0,0.0,6.0,0.5,0.5,0.75,1.25,21.0,15.0,0.31,0.88,0.31,0.0,0.18%,0.82,4.6,7.0,4.0,"3B,HBP,SF"
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Manny Machado DH,4.0,2.0,1.0,3.0,2.0,1.0,6.0,0.143,0.4,0.571,0.971,23.0,11.0,0.047,0.67,0.101,-0.054,0.03%,0.63,0.9,0.0,0.0,"HR,GDP"
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Ha-Seong Kim SS,4.0,0.0,0.0,1.0,1.0,0.0,6.0,0.0,0.2,0.0,0.2,21.0,11.0,-0.051,0.68,0.03,-0.081,-0.03%,0.64,-1.5,0.0,0.0,"SB,SF"
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Jurickson Profar LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.2,0.429,0.2,0.629,18.0,10.0,-0.035,0.64,0.018,-0.053,-0.02%,0.6,-0.7,0.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,José Azocar PR-LF,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.5,0.5,0.5,1.0,5.0,3.0,0.059,0.68,0.059,0.0,0.03%,0.64,1.4,1.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Luis Campusano C,6.0,2.0,3.0,2.0,0.0,0.0,6.0,0.3,0.3,0.5,0.8,23.0,14.0,0.121,0.57,0.159,-0.038,0.07%,0.54,0.8,7.0,2.0,2·2B
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Tyler Wade 3B,3.0,1.0,2.0,1.0,0.0,0.0,3.0,0.6,0.667,0.6,1.267,11.0,7.0,0.049,0.66,0.069,-0.02,0.03%,0.62,1.0,0.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Eguy Rosario PH-3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,10.0,8.0,-0.026,0.31,0.0,-0.026,-0.01%,0.29,-0.8,2.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Jackson Merrill CF,5.0,2.0,2.0,0.0,0.0,3.0,5.0,0.25,0.25,0.375,0.625,24.0,19.0,0.036,0.54,0.067,-0.031,0.02%,0.51,0.6,2.0,0.0,2B
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Joe Musgrove P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Tom Cosgrove P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Michael King P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Yuki Matsui P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Stephen Kolek P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Robert Suarez P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+LAN202403210,SDP,https://www.baseball-reference.com/boxes/LAN/LAN202403210.shtml,SanDiegoPadresbatting,Team Totals,43.0,15.0,18.0,14.0,6.0,8.0,53.0,0.419,0.491,0.605,1.095,194.0,119.0,0.734,0.65,1.079,-0.345,0.42%,0.61,10.4,27.0,10.0,

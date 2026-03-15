@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Corbin Carroll CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.199,0.286,0.286,0.572,15.0,9.0,-0.056,0.55,0.0,-0.056,-0.03%,0.43,-0.9,3.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Jake McCarthy RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.268,0.354,0.37,0.724,16.0,9.0,-0.026,0.27,0.001,-0.027,-0.01%,0.22,-0.3,1.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Joc Pederson DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.284,0.383,0.5,0.883,16.0,13.0,-0.018,0.23,0.0,-0.018,-0.01%,0.18,-0.6,0.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Pavin Smith PH-DH-P,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.268,0.311,0.518,0.829,5.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.3,0.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Christian Walker 1B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.253,0.343,0.456,0.799,11.0,8.0,-0.017,0.27,0.007,-0.024,-0.01%,0.21,-0.1,10.0,0.0,2B
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.244,0.285,0.401,0.686,11.0,10.0,-0.004,0.19,0.012,-0.017,-0.00%,0.15,0.8,2.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Blaze Alexander 2B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.291,0.353,0.417,0.77,14.0,9.0,0.003,0.21,0.014,-0.011,0.00%,0.17,-0.2,2.0,4.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.2,0.266,0.32,0.586,18.0,9.0,0.012,0.34,0.029,-0.017,0.01%,0.27,0.7,0.0,1.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Kevin Newman SS,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.253,0.287,0.367,0.653,11.0,9.0,-0.037,0.37,0.0,-0.037,-0.02%,0.29,-1.5,2.0,3.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Tucker Barnhart C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.14,0.29,0.175,0.465,13.0,8.0,-0.027,0.37,0.0,-0.027,-0.01%,0.29,-1.2,4.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Ryne Nelson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Logan Allen P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Thyago Vieira P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Scott McGough P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202406080,ARI,https://www.baseball-reference.com/boxes/SDN/SDN202406080.shtml,ArizonaDiamondbacksbatting,Team Totals,32.0,1.0,5.0,1.0,3.0,7.0,35.0,0.156,0.229,0.188,0.416,130.0,87.0,-0.17,0.3,0.063,-0.234,-0.08%,0.24,-3.6,24.0,9.0,

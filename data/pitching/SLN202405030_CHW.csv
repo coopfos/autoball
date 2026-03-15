@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SLN202405030,CHW,https://www.baseball-reference.com/boxes/SLN/SLN202405030.shtml,ChicagoWhiteSoxpitching,"Brad Keller, L (0-1)",4.2,5,3,3,2,5,0,4.26,22,102,64,33,11,20,8,7,4,0,45.0,,,-0.113,0.78,-0.01%,0.07,-0.8
+SLN202405030,CHW,https://www.baseball-reference.com/boxes/SLN/SLN202405030.shtml,ChicagoWhiteSoxpitching,Jared Shuster,3.1,1,0,0,1,2,0,0.93,12,55,31,22,3,6,2,7,2,0,,1.0,0.0,0.052,0.2,0.00%,0.02,1.8
+SLN202405030,CHW,https://www.baseball-reference.com/boxes/SLN/SLN202405030.shtml,ChicagoWhiteSoxpitching,Team Totals,8.0,6,3,3,3,7,0,3.38,34,157,95,55,14,26,10,14,6,0,45.0,1.0,0.0,-0.061,0.57,-0.00%,0.05,1.0

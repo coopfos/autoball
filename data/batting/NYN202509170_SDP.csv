@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Fernando Tatis Jr. RF,3.0,2.0,2.0,0.0,2.0,0.0,5.0,0.265,0.368,0.436,0.804,21.0,9.0,0.038,0.8,0.082,-0.044,0.01%,0.3,0.4,4.0,0.0,CS
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Luis Arráez 1B,4.0,1.0,2.0,0.0,1.0,0.0,5.0,0.287,0.322,0.386,0.708,16.0,11.0,0.091,1.14,0.133,-0.042,0.02%,0.43,0.6,6.0,0.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Manny Machado 3B,5.0,1.0,3.0,4.0,0.0,0.0,5.0,0.279,0.34,0.469,0.809,12.0,9.0,0.286,1.15,0.298,-0.012,0.06%,0.43,3.0,3.0,1.0,"HR,SB"
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Gavin Sheets DH,4.0,0.0,0.0,1.0,0.0,2.0,5.0,0.259,0.323,0.45,0.772,14.0,11.0,-0.046,0.66,0.0,-0.046,-0.01%,0.25,-1.0,0.0,0.0,SF
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Ramón Laureano LF,4.0,1.0,2.0,1.0,1.0,0.0,5.0,0.288,0.35,0.529,0.878,17.0,9.0,0.012,0.56,0.064,-0.052,0.00%,0.21,1.0,1.0,0.0,HR
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Jackson Merrill CF,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.263,0.317,0.449,0.766,25.0,17.0,-0.001,0.53,0.04,-0.041,0%,0.2,-0.3,3.0,0.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Jose Iglesias SS,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.224,0.295,0.269,0.564,20.0,13.0,-0.039,0.66,0.004,-0.043,-0.01%,0.25,-0.6,0.0,1.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Jake Cronenworth 2B,3.0,1.0,1.0,1.0,0.0,0.0,4.0,0.251,0.373,0.391,0.764,15.0,11.0,0.102,0.97,0.137,-0.034,0.02%,0.36,0.3,1.0,1.0,HBP
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Elias Díaz C,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.206,0.273,0.331,0.604,12.0,7.0,-0.075,0.93,0.006,-0.081,-0.02%,0.35,-0.8,9.0,0.0,"HBP,SH,GDP"
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Nick Pivetta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Adrián Morejón P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Jeremiah Estrada P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Mason Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Robert Suarez P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+NYN202509170,SDP,https://www.baseball-reference.com/boxes/NYN/NYN202509170.shtml,SanDiegoPadresbatting,Team Totals,34.0,7.0,12.0,7.0,5.0,4.0,43.0,0.353,0.452,0.529,0.982,152.0,97.0,0.368,0.82,0.764,-0.395,0.08%,0.31,2.6,27.0,5.0,

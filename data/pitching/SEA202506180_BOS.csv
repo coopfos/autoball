@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202506180,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506180.shtml,BostonRedSoxpitching,"Garrett Crochet, W (7-4)",6,6,1,1,0,8,0,2.2,24,96,70,43,16,11,7,9,5,0,64.0,,,0.211,1.1,0.14%,1.17,1.6
+SEA202506180,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506180.shtml,BostonRedSoxpitching,"Garrett Whitlock, H (6)",1,0,0,0,0,1,0,2.89,3,9,6,3,1,2,2,0,0,0,,0.0,0.0,0.073,1.0,0.05%,1.06,0.4
+SEA202506180,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506180.shtml,BostonRedSoxpitching,"Aroldis Chapman, H (2)",1,0,0,0,0,1,0,1.45,3,14,10,6,3,1,2,0,0,0,,0.0,0.0,0.078,1.06,0.05%,1.13,0.4
+SEA202506180,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506180.shtml,BostonRedSoxpitching,"Greg Weissert, S (3)",1,0,0,0,1,0,0,2.65,3,12,6,4,1,1,2,0,0,0,,0.0,0.0,0.078,1.69,0.05%,1.79,0.4
+SEA202506180,BOS,https://www.baseball-reference.com/boxes/SEA/SEA202506180.shtml,BostonRedSoxpitching,Team Totals,9,6,1,1,1,10,0,1.0,33,131,92,56,21,15,13,9,5,0,64.0,0.0,0.0,0.44,1.14,0.28%,1.21,2.9

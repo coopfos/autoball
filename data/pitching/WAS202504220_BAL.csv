@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202504220,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,BaltimoreOriolespitching,"Dean Kremer, L (2-3)",5.1,11,6,5,0,4,2,6.84,26,101,67,45,7,15,10,12,6,0,28.0,,,-0.237,0.49,-0.11%,0.39,-3.7
+WAS202504220,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,BaltimoreOriolespitching,Matt Bowman,1.2,2,1,1,0,2,0,2.45,7,30,19,14,1,4,3,2,2,0,,1.0,0.0,0.001,0.04,0.00%,0.03,0.2
+WAS202504220,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,BaltimoreOriolespitching,Keegan Akin,1.0,1,0,0,0,1,0,3.27,4,10,9,8,0,1,3,0,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+WAS202504220,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,BaltimoreOriolespitching,Team Totals,8.0,14,7,6,0,7,2,6.75,37,141,95,67,8,20,16,14,8,0,28.0,1.0,0.0,-0.236,0.35,-0.11%,0.28,-3.1

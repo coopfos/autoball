@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202404270,PHI,https://www.baseball-reference.com/boxes/SDN/SDN202404270.shtml,PhiladelphiaPhilliespitching,"Ranger Suárez, W (5-0)",8,3,1,1,0,8,1,1.32,26,96,64,38,6,20,12,6,3,0,80.0,,,0.298,0.54,0.21%,0.62,3.0
+SDN202404270,PHI,https://www.baseball-reference.com/boxes/SDN/SDN202404270.shtml,PhiladelphiaPhilliespitching,Jeff Hoffman,1,0,0,0,0,3,0,1.46,3,15,12,4,6,2,0,0,0,0,,0.0,0.0,0.018,0.24,0.01%,0.28,0.5
+SDN202404270,PHI,https://www.baseball-reference.com/boxes/SDN/SDN202404270.shtml,PhiladelphiaPhilliespitching,Team Totals,9,3,1,1,0,11,1,1.0,29,111,76,42,12,22,12,6,3,0,80.0,0.0,0.0,0.316,0.51,0.22%,0.58,3.6

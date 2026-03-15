@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+KCA202509020,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509020.shtml,KansasCityRoyalspitching,"Michael Lorenzen, L (5-9)",6,4,2,2,1,5,1,4.54,23,95,58,34,9,15,7,9,3,0,60.0,,,0.011,1.17,0.01%,0.98,1.0
+KCA202509020,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509020.shtml,KansasCityRoyalspitching,John Schreiber,1,2,2,2,0,1,0,3.27,5,22,16,10,4,2,0,4,2,0,,0.0,0.0,-0.181,0.93,-0.09%,0.78,-1.5
+KCA202509020,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509020.shtml,KansasCityRoyalspitching,Luinder Avila,2,3,1,1,0,2,0,3.0,9,27,18,13,3,2,2,5,4,0,,0.0,0.0,0.0,0.21,0.00%,0.17,-0.0
+KCA202509020,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509020.shtml,KansasCityRoyalspitching,Team Totals,9,9,5,5,1,8,1,5.0,37,144,92,57,16,19,9,18,9,0,60.0,0.0,0.0,-0.17,0.9,-0.09%,0.76,-0.6

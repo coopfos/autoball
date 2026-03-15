@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Nicky Lopez SS,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.241,0.312,0.294,0.606,9.0,5.0,-0.074,1.01,0.0,-0.074,0%,0.0,-0.7,2.0,4.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Miguel Vargas PH,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.156,0.25,0.266,0.516,4.0,0.0,0.037,0.73,0.037,0.0,0%,0.0,0.4,0.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Zach DeLoach RF,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.217,0.288,0.35,0.638,9.0,9.0,0.091,0.88,0.151,-0.06,0%,0.0,0.8,1.0,0.0,"HR,2B"
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.226,0.288,0.387,0.675,10.0,8.0,-0.098,0.97,0.0,-0.098,0%,0.0,-0.9,1.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn DH,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.246,0.298,0.405,0.703,18.0,12.0,-0.11,1.05,0.0,-0.11,0%,0.0,-1.0,0.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.233,0.303,0.357,0.66,10.0,7.0,-0.067,0.89,0.0,-0.067,0%,0.0,-0.5,6.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.248,0.277,0.347,0.623,13.0,11.0,-0.067,0.88,0.0,-0.067,0%,0.0,-0.5,2.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Bryan Ramos 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.185,0.232,0.293,0.526,14.0,9.0,-0.054,0.72,0.0,-0.054,0%,0.0,-0.5,2.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Korey Lee C,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.21,0.244,0.349,0.594,9.0,7.0,-0.053,0.7,0.0,-0.053,0%,0.0,-0.5,9.0,1.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher CF,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.209,0.258,0.26,0.518,15.0,9.0,-0.009,0.73,0.028,-0.037,0%,0.0,-0.1,1.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Garrett Crochet P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Jared Shuster P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Fraser Ellard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Enyel De Los Santos P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Prelander Berroa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202409270,CHW,https://www.baseball-reference.com/boxes/DET/DET202409270.shtml,ChicagoWhiteSoxbatting,Team Totals,30.0,1.0,3.0,1.0,1.0,4.0,31.0,0.1,0.129,0.233,0.362,111.0,77.0,-0.404,0.88,0.216,-0.62,0.00%,0.0,-3.4,24.0,5.0,

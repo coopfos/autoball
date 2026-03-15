@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Jackson Chourio LF,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.275,0.319,0.445,0.764,19.0,17.0,0.087,0.45,0.115,-0.028,0.06%,0.53,1.6,1.0,0.0,2B
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Blake Perkins CF,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.26,0.331,0.367,0.698,26.0,16.0,-0.003,0.33,0.031,-0.034,-0.00%,0.39,0.8,2.0,0.0,2B
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.287,0.361,0.468,0.83,19.0,11.0,-0.021,0.24,0.006,-0.028,-0.01%,0.28,0.4,6.0,0.0,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Willy Adames SS,3.0,2.0,1.0,0.0,2.0,2.0,5.0,0.248,0.335,0.443,0.778,27.0,14.0,0.029,0.33,0.044,-0.015,0.02%,0.39,0.3,0.0,2.0,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Gary Sánchez DH,4.0,2.0,2.0,3.0,1.0,0.0,5.0,0.241,0.324,0.417,0.741,20.0,13.0,0.059,0.47,0.072,-0.013,0.04%,0.55,2.5,0.0,0.0,3B
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Rhys Hoskins 1B,4.0,1.0,1.0,4.0,0.0,2.0,5.0,0.217,0.302,0.425,0.728,18.0,14.0,0.198,0.59,0.216,-0.018,0.14%,0.7,1.2,5.0,1.0,"HR,SF"
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.249,0.345,0.408,0.754,21.0,14.0,0.076,0.24,0.087,-0.011,0.05%,0.29,0.9,2.0,1.0,HR
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Andruw Monasterio 2B,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.21,0.319,0.28,0.599,25.0,15.0,-0.001,0.27,0.02,-0.021,-0.00%,0.32,-0.8,1.0,0.0,GDP
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Sal Frelick RF,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.264,0.334,0.339,0.673,15.0,10.0,-0.013,0.29,0.01,-0.023,-0.01%,0.34,-0.2,9.0,1.0,2B
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Aaron Civale P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Bryan Hudson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Joel Payamps P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Trevor Megill P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Joe Ross P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+OAK202408230,MIL,https://www.baseball-reference.com/boxes/OAK/OAK202408230.shtml,MilwaukeeBrewersbatting,Team Totals,39.0,11.0,14.0,9.0,4.0,8.0,44.0,0.359,0.409,0.641,1.05,190.0,124.0,0.411,0.36,0.601,-0.191,0.29%,0.42,6.8,27.0,6.0,

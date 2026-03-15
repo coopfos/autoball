@@ -1,0 +1,13 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,4.0,1.0,0.0,0.0,1.0,1.0,5.0,0.242,0.351,0.343,0.694,19.0,10.0,-0.015,0.65,0.037,-0.051,-0.01%,0.73,-0.3,1.0,0.0,
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Ozzie Albies 2B,4.0,0.0,1.0,1.0,0.0,1.0,5.0,0.268,0.326,0.389,0.714,18.0,15.0,-0.003,0.6,0.024,-0.027,-0.00%,0.68,-0.6,0.0,2.0,SF
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Marcell Ozuna DH,4.0,1.0,1.0,3.0,1.0,1.0,5.0,0.324,0.405,0.641,1.046,24.0,17.0,0.067,0.4,0.095,-0.028,0.04%,0.45,2.3,0.0,0.0,HR
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Matt Olson 1B,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.228,0.325,0.415,0.74,18.0,14.0,-0.018,0.46,0.023,-0.041,-0.01%,0.52,0.6,10.0,2.0,HR
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Travis d'Arnaud C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.254,0.333,0.474,0.807,14.0,11.0,-0.061,0.6,0.0,-0.061,-0.04%,0.68,-0.8,9.0,1.0,
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Orlando Arcia SS,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.247,0.272,0.418,0.69,17.0,9.0,0.048,0.43,0.068,-0.02,0.03%,0.49,0.2,1.0,2.0,2B
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,2.0,2.0,0.0,0.0,0.0,4.0,0.255,0.294,0.386,0.68,14.0,8.0,0.018,0.61,0.043,-0.025,0.01%,0.68,1.2,3.0,0.0,2B
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Adam Duvall LF,3.0,2.0,1.0,2.0,0.0,0.0,4.0,0.208,0.31,0.361,0.671,6.0,5.0,0.179,0.95,0.192,-0.013,0.12%,1.07,1.4,1.0,0.0,"HR,HBP"
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Zack Short 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.159,0.302,0.205,0.506,16.0,10.0,0.047,0.77,0.073,-0.026,0.03%,0.87,0.6,0.0,4.0,
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Max Fried P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,
+CHN202405220,ATL,https://www.baseball-reference.com/boxes/CHN/CHN202405220.shtml,AtlantaBravesbatting,Team Totals,36.0,9.0,9.0,8.0,2.0,10.0,40.0,0.25,0.3,0.556,0.856,146.0,99.0,0.262,0.6,0.555,-0.292,0.18%,0.68,4.6,27.0,11.0,

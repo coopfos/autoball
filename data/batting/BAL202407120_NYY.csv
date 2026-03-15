@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,DJ LeMahieu 3B-1B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.193,0.285,0.219,0.504,19.0,14.0,-0.112,0.67,0.0,-0.112,-0.12%,1.18,-1.6,5.0,1.0,GDP
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Juan Soto RF,5.0,0.0,2.0,1.0,0.0,1.0,5.0,0.298,0.432,0.557,0.989,18.0,12.0,0.036,0.41,0.062,-0.026,0.04%,0.72,0.8,3.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Aaron Judge CF,1.0,1.0,1.0,1.0,4.0,0.0,5.0,0.306,0.429,0.674,1.102,20.0,4.0,0.17,0.57,0.17,0.0,0.18%,0.99,2.1,0.0,0.0,HR
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Ben Rice 1B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.243,0.329,0.5,0.829,13.0,7.0,-0.062,0.99,0.014,-0.076,-0.07%,1.73,-0.8,5.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Oswaldo Cabrera 3B,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.237,0.284,0.341,0.625,4.0,3.0,-0.006,0.22,0.0,-0.006,-0.01%,0.39,-0.4,0.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Gleyber Torres 2B,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.223,0.302,0.339,0.641,24.0,10.0,0.017,0.97,0.065,-0.048,0.02%,1.7,0.3,2.0,1.0,CS
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Alex Verdugo LF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.239,0.294,0.385,0.679,22.0,15.0,-0.128,1.33,0.0,-0.128,-0.14%,2.34,-1.7,3.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Anthony Volpe SS,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.247,0.303,0.369,0.672,10.0,7.0,0.052,0.72,0.101,-0.048,0.06%,1.26,0.1,0.0,4.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Jose Trevino C,4.0,2.0,2.0,1.0,0.0,2.0,4.0,0.244,0.303,0.411,0.713,15.0,10.0,0.07,0.56,0.089,-0.019,0.07%,0.98,1.1,7.0,0.0,2·2B
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Austin Wells C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.219,0.312,0.369,0.681,,,,,,,,,,2.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Jahmai Jones DH,4.0,0.0,1.0,1.0,0.0,3.0,4.0,0.263,0.333,0.421,0.754,16.0,10.0,0.035,0.59,0.069,-0.034,0.04%,1.03,0.0,0.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Gerrit Cole P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Tommy Kahnle P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Luke Weaver P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202407120,NYY,https://www.baseball-reference.com/boxes/BAL/BAL202407120.shtml,NewYorkYankeesbatting,Team Totals,32.0,4.0,7.0,4.0,8.0,10.0,40.0,0.219,0.375,0.375,0.75,161.0,92.0,0.072,0.73,0.57,-0.497,0.08%,1.28,-0.1,27.0,8.0,

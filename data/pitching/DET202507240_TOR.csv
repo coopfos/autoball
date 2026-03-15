@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202507240,TOR,https://www.baseball-reference.com/boxes/DET/DET202507240.shtml,TorontoBlueJayspitching,"Eric Lauer, W (6-2)",8,5,1,1,0,6,1,2.61,29,97,71,37,10,24,5,18,7,0,74.0,,,0.163,0.48,0.15%,0.76,3.0
+DET202507240,TOR,https://www.baseball-reference.com/boxes/DET/DET202507240.shtml,TorontoBlueJayspitching,Chad Green,1,4,3,3,0,1,1,4.29,7,20,13,9,1,3,2,4,1,0,,0.0,0.0,0.0,0.02,0.00%,0.03,-2.5
+DET202507240,TOR,https://www.baseball-reference.com/boxes/DET/DET202507240.shtml,TorontoBlueJayspitching,Team Totals,9,9,4,4,0,7,2,4.0,36,117,84,46,11,27,7,22,8,0,74.0,0.0,0.0,0.163,0.39,0.15%,0.61,0.4

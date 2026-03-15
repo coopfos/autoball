@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Alex Kirilloff LF,4.0,2.0,1.0,2.0,1.0,0.0,6.0,0.26,0.322,0.442,0.763,23.0,15.0,0.032,0.47,0.045,-0.013,0.02%,0.39,0.4,1.0,0.0,SF
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Edouard Julien 2B,5.0,2.0,3.0,3.0,1.0,1.0,6.0,0.244,0.343,0.547,0.89,28.0,13.0,0.152,0.5,0.164,-0.012,0.08%,0.42,2.9,0.0,5.0,2B
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,4.0,1.0,2.0,2.0,1.0,1.0,6.0,0.286,0.385,0.545,0.93,24.0,14.0,0.036,0.45,0.05,-0.014,0.02%,0.38,2.5,5.0,0.0,"HR,HBP"
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,5.0,1.0,2.0,1.0,1.0,1.0,6.0,0.379,0.441,0.655,1.096,23.0,14.0,-0.008,0.6,0.06,-0.068,-0.00%,0.51,-0.5,0.0,0.0,
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Max Kepler RF,4.0,2.0,2.0,2.0,1.0,0.0,5.0,0.231,0.286,0.359,0.645,25.0,17.0,0.111,0.8,0.127,-0.016,0.06%,0.67,1.6,2.0,0.0,HR
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Manuel Margot PH-RF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.18,0.268,0.26,0.528,3.0,2.0,0.0,0.0,0.0,0.0,0%,0.0,-0.3,0.0,0.0,
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Willi Castro SS,6.0,2.0,2.0,0.0,0.0,1.0,6.0,0.229,0.309,0.373,0.682,19.0,15.0,-0.079,0.65,0.052,-0.131,-0.04%,0.55,-1.6,1.0,2.0,GDP
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Carlos Santana 1B,4.0,3.0,2.0,4.0,0.0,0.0,5.0,0.181,0.269,0.325,0.594,22.0,13.0,0.282,0.75,0.283,-0.001,0.14%,0.63,4.4,12.0,0.0,"HR,2B,HBP"
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Kyle Farmer 3B,3.0,2.0,2.0,2.0,2.0,0.0,5.0,0.1,0.25,0.14,0.39,16.0,7.0,0.079,0.39,0.079,0.0,0.04%,0.34,1.9,2.0,1.0,2B
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Austin Martin CF,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.22,0.27,0.373,0.643,18.0,11.0,-0.016,0.45,0.003,-0.019,-0.01%,0.38,0.2,4.0,0.0,2B
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Chris Paddack P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Kody Funderburk P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Jay Jackson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202404270,MIN,https://www.baseball-reference.com/boxes/ANA/ANA202404270.shtml,MinnesotaTwinsbatting,Team Totals,41.0,16.0,17.0,16.0,7.0,5.0,51.0,0.415,0.51,0.732,1.242,201.0,121.0,0.589,0.55,0.863,-0.274,0.30%,0.47,11.6,27.0,9.0,

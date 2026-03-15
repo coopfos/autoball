@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Austin Martin LF-CF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.257,0.297,0.4,0.697,12.0,9.0,0.022,0.76,0.06,-0.037,0.00%,0.19,0.1,2.0,0.0,SB
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Byron Buxton CF,2.0,0.0,0.0,0.0,1.0,0.0,3.0,0.28,0.342,0.563,0.906,12.0,5.0,0.007,0.73,0.031,-0.024,0.00%,0.19,0.1,2.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Alan Roden LF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.195,0.269,0.305,0.574,6.0,3.0,0.0,0.01,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Ryan Jeffers DH,1.0,0.0,0.0,0.0,1.0,0.0,3.0,0.267,0.352,0.408,0.76,14.0,5.0,0.072,0.81,0.081,-0.009,0.01%,0.2,0.9,0.0,0.0,HBP
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Matt Wallner PH-DH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.217,0.324,0.494,0.817,4.0,3.0,0.0,0.0,0.0,0.0,0%,0.0,-0.2,0.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Luke Keaschall 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.354,0.436,0.604,1.041,14.0,10.0,-0.101,0.87,0.0,-0.101,-0.01%,0.22,-1.3,1.0,2.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Royce Lewis 3B,3.0,0.0,0.0,1.0,0.0,1.0,3.0,0.234,0.288,0.362,0.651,14.0,10.0,-0.027,1.24,0.002,-0.029,-0.00%,0.31,-0.5,0.0,2.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Kody Clemens RF,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.216,0.29,0.459,0.75,10.0,8.0,-0.061,0.76,0.0,-0.061,-0.01%,0.19,-0.8,1.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Mickey Gasper C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.13,0.266,0.148,0.414,10.0,7.0,-0.051,0.67,0.0,-0.051,-0.01%,0.17,-0.6,5.0,1.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Edouard Julien 1B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.186,0.273,0.292,0.565,12.0,9.0,-0.033,0.44,0.0,-0.033,-0.01%,0.11,-0.5,11.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Ryan Fitzgerald SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.167,0.167,0.417,0.583,8.0,7.0,-0.021,0.26,0.0,-0.021,-0.00%,0.07,-0.4,2.0,4.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Travis Adams P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Thomas Hatch P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Kody Funderburk P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202508120,MIN,https://www.baseball-reference.com/boxes/NYA/NYA202508120.shtml,MinnesotaTwinsbatting,Team Totals,28.0,1.0,1.0,1.0,2.0,8.0,31.0,0.036,0.129,0.036,0.165,116.0,76.0,-0.193,0.69,0.174,-0.366,-0.03%,0.17,-3.4,24.0,10.0,

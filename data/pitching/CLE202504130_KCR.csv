@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202504130,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202504130.shtml,KansasCityRoyalspitching,"Cole Ragans, W (1-0)",7.2,4,2,1,0,10,0,2.28,26,89,64,30,20,14,6,10,4,0,75.0,,,0.262,0.89,0.16%,0.9,1.8
+CLE202504130,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202504130.shtml,KansasCityRoyalspitching,"Lucas Erceg, H (6)",0.1,0,0,0,0,1,0,0.0,1,5,3,2,1,0,0,0,0,0,,0.0,0.0,0.016,0.62,0.01%,0.63,0.1
+CLE202504130,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202504130.shtml,KansasCityRoyalspitching,"Carlos Estévez, S (5)",1.0,1,0,0,0,3,0,1.29,4,21,14,5,4,5,0,1,1,0,,0.0,0.0,0.089,2.33,0.05%,2.36,0.5
+CLE202504130,KCR,https://www.baseball-reference.com/boxes/CLE/CLE202504130.shtml,KansasCityRoyalspitching,Team Totals,9.0,5,2,1,0,14,0,1.0,31,115,81,37,25,19,6,11,5,0,75.0,0.0,0.0,0.367,1.06,0.22%,1.08,2.4

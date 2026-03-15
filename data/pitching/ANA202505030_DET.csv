@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+ANA202505030,DET,https://www.baseball-reference.com/boxes/ANA/ANA202505030.shtml,DetroitTigerspitching,"Jack Flaherty, L (1-4)",5.2,8,5,4,1,8,0,3.79,26,91,62,32,13,17,7,10,6,0,42.0,,,-0.107,1.05,-0.08%,1.28,-2.3
+ANA202505030,DET,https://www.baseball-reference.com/boxes/ANA/ANA202505030.shtml,DetroitTigerspitching,Beau Brieske,0.1,1,0,0,0,0,0,8.22,2,6,4,3,1,0,0,2,2,0,,1.0,0.0,0.002,0.12,0.00%,0.14,0.2
+ANA202505030,DET,https://www.baseball-reference.com/boxes/ANA/ANA202505030.shtml,DetroitTigerspitching,Sean Guenther,1.0,1,0,0,0,0,0,0.0,3,11,8,4,2,2,1,2,0,0,,0.0,0.0,0.003,0.08,0.00%,0.1,0.5
+ANA202505030,DET,https://www.baseball-reference.com/boxes/ANA/ANA202505030.shtml,DetroitTigerspitching,Brant Hurter,1.0,0,0,0,0,2,0,2.5,3,10,8,4,2,2,0,1,0,0,,0.0,0.0,0.003,0.04,0.00%,0.04,0.5
+ANA202505030,DET,https://www.baseball-reference.com/boxes/ANA/ANA202505030.shtml,DetroitTigerspitching,Team Totals,8.0,10,5,4,1,10,0,4.5,34,118,82,43,18,21,8,15,8,0,42.0,1.0,0.0,-0.099,0.83,-0.07%,1.01,-1.0

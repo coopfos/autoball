@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Christian Koss 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.265,0.305,0.357,0.662,9.0,5.0,0.026,1.1,0.101,-0.074,0.02%,1.26,-0.2,0.0,2.0,2B
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Brett Wisely PR-3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.136,0.24,0.182,0.422,,,,,,,,,,0.0,0.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Rafael Devers DH,4.0,0.0,0.0,0.0,0.0,4.0,4.0,0.261,0.388,0.481,0.869,23.0,14.0,-0.147,1.36,0.0,-0.147,-0.10%,1.56,-0.9,0.0,0.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Heliot Ramos LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.275,0.352,0.453,0.805,17.0,13.0,-0.148,1.36,0.0,-0.148,-0.10%,1.56,-0.8,1.0,0.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Dominic Smith 1B,4.0,1.0,2.0,0.0,0.0,1.0,4.0,0.281,0.368,0.404,0.771,13.0,10.0,0.043,0.97,0.095,-0.052,0.03%,1.12,0.5,8.0,1.0,2B
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Willy Adames SS,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.21,0.297,0.339,0.636,15.0,9.0,-0.05,1.41,0.042,-0.092,-0.03%,1.61,-0.5,2.0,1.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.24,0.311,0.393,0.704,14.0,9.0,-0.161,1.44,0.0,-0.161,-0.11%,1.65,-1.3,1.0,0.0,GDP
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Tyler Fitzgerald 2B,3.0,0.0,2.0,2.0,0.0,1.0,3.0,0.238,0.294,0.337,0.631,12.0,10.0,0.302,1.35,0.328,-0.026,0.21%,1.55,1.9,1.0,2.0,2·2B
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Patrick Bailey C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.196,0.265,0.286,0.551,4.0,3.0,-0.08,1.51,0.028,-0.108,-0.06%,1.73,-0.4,8.0,0.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Daniel Johnson RF,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.154,0.214,0.308,0.522,9.0,6.0,-0.125,1.65,0.0,-0.125,-0.09%,1.89,-0.8,3.0,0.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Logan Webb P,,,,,,,,,,,,,,,,,,,,,0.0,3.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Randy Rodríguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202506300,SFG,https://www.baseball-reference.com/boxes/ARI/ARI202506300.shtml,SanFranciscoGiantsbatting,Team Totals,33.0,2.0,7.0,2.0,0.0,10.0,33.0,0.212,0.212,0.333,0.545,116.0,79.0,-0.34,1.33,0.594,-0.933,-0.23%,1.53,-2.6,24.0,9.0,

@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Mike Trout DH,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.229,0.357,0.415,0.772,13.0,9.0,-0.064,1.4,0.056,-0.12,0%,0.0,-0.1,0.0,0.0,2B
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Taylor Ward LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.228,0.315,0.47,0.785,10.0,8.0,-0.014,1.16,0.057,-0.071,0%,0.0,-0.2,1.0,0.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Jo Adell RF,3.0,0.0,1.0,1.0,1.0,1.0,4.0,0.237,0.297,0.49,0.787,18.0,11.0,0.056,1.47,0.13,-0.074,0%,0.0,0.4,3.0,0.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Nolan Schanuel 1B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.268,0.356,0.39,0.746,14.0,6.0,-0.051,1.59,0.111,-0.162,0%,0.0,0.1,3.0,0.0,GDP
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Logan O'Hoppe C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.219,0.262,0.383,0.645,19.0,13.0,-0.203,1.54,0.026,-0.229,0%,0.0,-1.8,9.0,1.0,GDP
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Christian Moore 2B,4.0,0.0,0.0,0.0,0.0,4.0,4.0,0.199,0.288,0.39,0.678,17.0,14.0,-0.151,1.34,0.0,-0.151,0%,0.0,-1.3,4.0,1.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Oswald Peraza 3B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.167,0.226,0.258,0.484,10.0,8.0,-0.069,0.88,0.0,-0.069,0%,0.0,-0.6,1.0,1.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Denzer Guzman SS,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.154,0.185,0.385,0.57,13.0,9.0,-0.072,0.9,0.0,-0.072,0%,0.0,-0.6,0.0,2.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Bryce Teodosio CF,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.21,0.248,0.298,0.547,10.0,6.0,-0.012,0.66,0.012,-0.024,0%,0.0,-0.0,3.0,0.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Yoán Moncada PH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.237,0.338,0.452,0.79,2.0,1.0,0.085,2.17,0.085,0.0,0%,0.0,0.4,0.0,0.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Chris Taylor PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.181,0.25,0.305,0.555,,,-0.104,3.36,0.0,-0.104,0%,0.0,-0.5,0.0,0.0,CS
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Caden Dana P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Connor Brogdon P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Sam Bachman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202509210,LAA,https://www.baseball-reference.com/boxes/COL/COL202509210.shtml,LosAngelesAngelsbatting,Team Totals,31.0,1.0,7.0,1.0,2.0,12.0,33.0,0.226,0.273,0.258,0.531,126.0,85.0,-0.599,1.3,0.477,-1.076,0.00%,0.0,-4.2,24.0,5.0,

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Tommy Pham DH,4.0,1.0,2.0,1.0,0.0,1.0,4.0,0.316,0.356,0.474,0.83,12.0,9.0,-0.015,0.27,0.008,-0.023,-0.00%,0.02,0.9,0.0,0.0,HR
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Nicky Lopez 2B,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.223,0.284,0.238,0.522,13.0,9.0,0.037,0.25,0.038,-0.001,0.00%,0.01,1.2,0.0,2.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,3.0,0.0,1.0,0.0,1.0,0.0,4.0,0.245,0.35,0.403,0.753,26.0,16.0,0.058,0.47,0.059,-0.001,0.00%,0.03,1.2,6.0,0.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Paul DeJong SS,3.0,0.0,0.0,1.0,0.0,0.0,4.0,0.243,0.293,0.449,0.741,12.0,8.0,-0.114,0.79,0.0,-0.114,-0.01%,0.06,-2.3,1.0,0.0,"SF,2·GDP"
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.186,0.213,0.269,0.482,19.0,14.0,-0.045,0.44,0.0,-0.045,-0.00%,0.03,-1.2,1.0,0.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher CF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.19,0.271,0.254,0.525,27.0,17.0,-0.023,0.23,0.0,-0.023,-0.00%,0.02,-0.8,3.0,0.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Zach Remillard 3B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.28,0.4,0.4,0.8,17.0,8.0,0.01,0.14,0.014,-0.004,0.00%,0.01,0.1,0.0,2.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Zach DeLoach RF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.0,0.25,0.0,0.25,14.0,7.0,-0.026,0.24,0.0,-0.026,-0.00%,0.02,-0.5,5.0,0.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Martín Maldonado C,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.089,0.143,0.139,0.282,10.0,8.0,-0.008,0.08,0.0,-0.008,0%,0.01,-0.9,8.0,1.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Nick Nastrini P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Tanner Banks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Michael Soroka P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202405220,CHW,https://www.baseball-reference.com/boxes/TOR/TOR202405220.shtml,ChicagoWhiteSoxbatting,Team Totals,32.0,2.0,6.0,2.0,3.0,6.0,36.0,0.188,0.25,0.281,0.531,150.0,96.0,-0.126,0.32,0.119,-0.245,-0.01%,0.02,-2.4,24.0,5.0,

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202405291,DET,https://www.baseball-reference.com/boxes/DET/DET202405291.shtml,DetroitTigerspitching,"Tarik Skubal, W (7-1)",7,3,0,0,1,8,0,2.01,25,93,66,30,15,21,8,8,3,0,78.0,,,0.233,0.63,0.09%,0.42,3.4
+DET202405291,DET,https://www.baseball-reference.com/boxes/DET/DET202405291.shtml,DetroitTigerspitching,Mason Englert,2,0,0,0,0,2,0,6.75,6,28,20,10,5,5,4,0,0,0,,0.0,0.0,0.002,0.01,0.00%,0.01,1.0
+DET202405291,DET,https://www.baseball-reference.com/boxes/DET/DET202405291.shtml,DetroitTigerspitching,Team Totals,9,3,0,0,1,10,0,0.0,31,121,86,40,20,26,12,8,3,0,78.0,0.0,0.0,0.235,0.51,0.09%,0.34,4.4

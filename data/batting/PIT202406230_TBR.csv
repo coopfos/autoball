@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Yandy Díaz 1B,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.271,0.331,0.384,0.715,13.0,10.0,0.159,1.14,0.189,-0.03,0.04%,0.47,1.4,7.0,0.0,HR
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,José Caballero PR-3B,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.237,0.3,0.347,0.647,2.0,1.0,-0.004,0.17,0.0,-0.004,-0.00%,0.07,-0.1,0.0,2.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Josh Lowe DH,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.242,0.305,0.474,0.778,17.0,12.0,0.266,1.37,0.288,-0.022,0.07%,0.57,2.0,0.0,0.0,"2B,SB"
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Randy Arozarena LF,3.0,0.0,1.0,1.0,0.0,1.0,4.0,0.19,0.304,0.35,0.654,18.0,13.0,0.002,1.43,0.056,-0.054,0%,0.6,-0.2,2.0,0.0,SF
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Isaac Paredes 3B-1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.28,0.365,0.459,0.824,17.0,9.0,-0.192,1.52,0.014,-0.206,-0.05%,0.64,-2.0,4.0,2.0,GDP
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Richie Palacios 2B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.238,0.335,0.333,0.668,10.0,4.0,0.084,1.2,0.138,-0.054,0.02%,0.5,0.9,2.0,5.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Jose Siri CF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.206,0.281,0.392,0.673,14.0,11.0,-0.096,0.99,0.0,-0.096,-0.02%,0.42,-1.2,7.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Jonny DeLuca RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.157,0.248,0.261,0.509,8.0,7.0,-0.044,1.07,0.035,-0.079,-0.01%,0.45,-0.5,0.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Taylor Walls SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.091,0.205,0.121,0.326,16.0,12.0,-0.091,0.95,0.0,-0.091,-0.02%,0.4,-1.0,0.0,3.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Alex Jackson C,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.081,0.159,0.161,0.321,17.0,10.0,-0.092,0.9,0.0,-0.092,-0.02%,0.38,-1.0,5.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Aaron Civale P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Garrett Cleavinger P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Kevin Kelly P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Jason Adam P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Pete Fairbanks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202406230,TBR,https://www.baseball-reference.com/boxes/PIT/PIT202406230.shtml,TampaBayRaysbatting,Team Totals,34.0,3.0,9.0,3.0,2.0,10.0,37.0,0.265,0.297,0.382,0.68,132.0,89.0,-0.008,1.15,0.72,-0.728,-0.00%,0.48,-1.6,27.0,12.0,

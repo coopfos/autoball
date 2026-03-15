@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetspitching,"Jose Quintana, L (6-8)",6.2,4,5,5,2,8,1,4.1,27,100,58,27,13,18,8,8,1,0,52.0,,,-0.096,0.61,-0.07%,0.76,-1.1
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetspitching,Adam Ottavino,0.1,1,1,1,2,0,0,4.43,4,19,10,4,1,5,1,1,1,0,,1.0,1.0,-0.02,0.09,-0.02%,0.11,-1.8
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetspitching,Alex Young,1.0,1,0,0,0,1,0,1.0,4,13,10,6,2,2,1,2,2,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.4
+SEA202408090,NYM,https://www.baseball-reference.com/boxes/SEA/SEA202408090.shtml,NewYorkMetspitching,Team Totals,8.0,6,6,6,4,9,1,6.75,35,132,78,37,16,25,10,11,4,0,52.0,1.0,1.0,-0.116,0.46,-0.09%,0.57,-2.4

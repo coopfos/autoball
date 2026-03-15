@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalspitching,Sonny Gray,7,1,1,1,1,8,1,4.21,23,90,60,30,11,19,7,7,0,0,78.0,,,0.321,0.91,0.08%,0.4,2.6
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalspitching,"Riley O'Brien, BS (1), W (1-0)",1,1,1,1,0,0,0,1.93,4,6,6,4,0,2,3,1,1,0,,0.0,0.0,-0.193,2.7,-0.05%,1.2,-0.5
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalspitching,"JoJo Romero, S (2)",1,1,0,0,1,1,0,2.15,5,19,11,7,2,2,0,3,2,0,,0.0,0.0,0.203,4.76,0.05%,2.11,0.5
+LAN202508040,STL,https://www.baseball-reference.com/boxes/LAN/LAN202508040.shtml,StLouisCardinalspitching,Team Totals,9,3,2,2,2,9,1,2.0,32,115,77,41,13,23,10,11,3,0,78.0,0.0,0.0,0.331,1.73,0.09%,0.77,2.6

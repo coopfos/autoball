@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Marcus Semien 2B,4.0,0.0,2.0,0.0,1.0,0.0,5.0,0.235,0.303,0.382,0.686,22.0,14.0,0.094,0.73,0.118,-0.024,0.03%,0.36,0.7,3.0,0.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Corey Seager SS,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.269,0.351,0.475,0.826,15.0,9.0,-0.044,1.07,0.041,-0.084,-0.01%,0.53,-0.5,2.0,3.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Josh Smith 3B,1.0,0.0,0.0,0.0,2.0,0.0,4.0,0.295,0.389,0.456,0.844,14.0,4.0,0.127,1.32,0.142,-0.015,0.04%,0.65,0.9,0.0,3.0,HBP
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Wyatt Langford LF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.266,0.329,0.402,0.731,15.0,12.0,-0.205,2.04,0.0,-0.205,-0.06%,1.01,-2.1,0.0,1.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Adolis García DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.215,0.279,0.415,0.694,17.0,12.0,-0.173,1.91,0.014,-0.187,-0.05%,0.94,-1.5,0.0,0.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Nathaniel Lowe 1B,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.27,0.353,0.385,0.738,19.0,9.0,-0.023,0.76,0.041,-0.064,-0.01%,0.38,-0.5,4.0,1.0,GDP
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Jonah Heim C,4.0,1.0,2.0,0.0,0.0,0.0,4.0,0.247,0.293,0.364,0.657,12.0,8.0,-0.059,0.77,0.033,-0.093,-0.02%,0.38,-0.4,8.0,1.0,GDP
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Leody Taveras CF,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.236,0.304,0.349,0.654,17.0,11.0,0.039,0.56,0.078,-0.039,0.01%,0.28,1.2,3.0,0.0,HR
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Travis Jankowski RF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.212,0.262,0.258,0.52,11.0,9.0,-0.002,0.66,0.042,-0.044,-0.00%,0.32,-0.3,3.0,0.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Michael Lorenzen P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Jacob Latz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Daniel Robert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Jonathan Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ANA202407100,TEX,https://www.baseball-reference.com/boxes/ANA/ANA202407100.shtml,TexasRangersbatting,Team Totals,33.0,2.0,8.0,2.0,4.0,7.0,38.0,0.242,0.342,0.333,0.675,142.0,88.0,-0.246,1.08,0.509,-0.755,-0.07%,0.53,-2.4,24.0,9.0,

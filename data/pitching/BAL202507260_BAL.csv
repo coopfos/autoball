@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202507260,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507260.shtml,BaltimoreOriolespitching,"Trevor Rogers, W (4-1)",7,1,0,0,1,5,0,1.49,22,96,65,40,13,12,5,11,5,0,79.0,,,0.215,0.48,0.01%,0.03,3.4
+BAL202507260,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507260.shtml,BaltimoreOriolespitching,Yaramil Hiraldo,1,0,0,0,0,0,0,0.0,3,11,9,6,1,2,2,1,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+BAL202507260,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507260.shtml,BaltimoreOriolespitching,Kade Strowd,1,1,0,0,1,2,0,3.38,5,17,10,2,5,3,2,0,0,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+BAL202507260,BAL,https://www.baseball-reference.com/boxes/BAL/BAL202507260.shtml,BaltimoreOriolespitching,Team Totals,9,2,0,0,2,7,0,0.0,30,124,84,48,19,17,9,12,5,0,79.0,0.0,0.0,0.215,0.35,0.01%,0.02,4.4

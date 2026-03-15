@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202404030,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,PittsburghPiratespitching,"Mitch Keller, L (0-1)",5.1,8,5,4,2,5,1,6.55,27,84,54,33,7,13,8,11,6,0,37.0,,,-0.36,1.0,-0.25%,1.15,-2.8
+WAS202404030,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,PittsburghPiratespitching,Hunter Stratton,1.0,1,0,0,0,1,0,0.0,3,9,6,4,1,1,1,1,1,0,,1.0,0.0,0.05,0.72,0.03%,0.83,0.9
+WAS202404030,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,PittsburghPiratespitching,Josh Fleming,1.2,1,0,0,0,2,0,1.8,5,26,15,7,6,2,1,2,1,0,,0.0,0.0,0.026,0.27,0.02%,0.31,0.7
+WAS202404030,PIT,https://www.baseball-reference.com/boxes/WAS/WAS202404030.shtml,PittsburghPiratespitching,Team Totals,8.0,10,5,4,2,8,1,4.5,35,119,75,44,14,16,10,14,8,0,37.0,1.0,0.0,-0.284,0.87,-0.20%,1.0,-1.1

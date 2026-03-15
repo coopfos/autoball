@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202403300,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403300.shtml,NewYorkYankeespitching,"Marcus Stroman, W (1-0)",6,4,3,0,2,4,0,0.0,25,101,58,31,13,14,10,8,5,0,60.0,,,-0.082,0.95,-0.05%,0.99,-0.1
+HOU202403300,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403300.shtml,NewYorkYankeespitching,"Ian Hamilton, H (2)",2,0,0,0,0,2,0,0.0,6,20,16,6,6,4,2,2,0,0,,0.0,0.0,0.191,1.27,0.12%,1.33,1.0
+HOU202403300,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403300.shtml,NewYorkYankeespitching,"Clay Holmes, S (2)",1,0,0,0,0,0,0,0.0,4,11,6,3,1,2,3,0,0,0,,0.0,0.0,0.087,1.31,0.05%,1.37,0.5
+HOU202403300,NYY,https://www.baseball-reference.com/boxes/HOU/HOU202403300.shtml,NewYorkYankeespitching,Team Totals,9,4,3,0,2,6,0,0.0,35,132,80,40,20,20,15,10,5,0,60.0,0.0,0.0,0.196,1.05,0.12%,1.1,1.3

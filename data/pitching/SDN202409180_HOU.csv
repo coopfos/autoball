@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202409180,HOU,https://www.baseball-reference.com/boxes/SDN/SDN202409180.shtml,HoustonAstrospitching,"Framber Valdez, L (14-7)",7,5,1,1,2,6,1,2.85,28,94,63,37,11,15,13,7,3,0,67.0,,,0.206,1.05,0.10%,0.82,2.5
+SDN202409180,HOU,https://www.baseball-reference.com/boxes/SDN/SDN202409180.shtml,HoustonAstrospitching,Kaleb Ort,0,3,3,3,0,0,3,2.82,3,9,6,4,1,1,0,3,1,0,,0.0,0.0,-0.12,0.29,-0.06%,0.23,-3.0
+SDN202409180,HOU,https://www.baseball-reference.com/boxes/SDN/SDN202409180.shtml,HoustonAstrospitching,Bryan King,1,1,0,0,0,2,0,1.82,4,9,8,5,0,3,0,2,1,0,,0.0,0.0,0.003,0.06,0.00%,0.04,0.5
+SDN202409180,HOU,https://www.baseball-reference.com/boxes/SDN/SDN202409180.shtml,HoustonAstrospitching,Team Totals,8,9,4,4,2,8,4,4.5,35,112,77,46,12,19,13,12,5,0,67.0,0.0,0.0,0.089,0.87,0.04%,0.68,0.0

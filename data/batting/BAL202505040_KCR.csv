@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Jonathan India LF,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.22,0.331,0.297,0.628,29.0,18.0,0.057,1.07,0.154,-0.097,0.04%,1.15,0.3,2.0,0.0,HR
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Kyle Isbel PR-CF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.241,0.244,0.361,0.606,,,0.0,,0.0,0.0,0%,,0.0,1.0,0.0,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Bobby Witt Jr. SS,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.306,0.379,0.493,0.872,25.0,16.0,0.192,0.84,0.26,-0.068,0.12%,0.9,1.5,2.0,1.0,"HR,2B"
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Vinnie Pasquantino 1B,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.197,0.252,0.386,0.638,22.0,12.0,0.15,0.57,0.181,-0.03,0.10%,0.62,0.9,7.0,1.0,"HR,2B"
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Salvador Perez DH,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.244,0.285,0.382,0.667,18.0,13.0,-0.041,0.81,0.052,-0.093,-0.03%,0.87,-0.2,0.0,0.0,GDP
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Cavan Biggio PR-DH-DH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.191,0.321,0.255,0.577,,,0.004,0.26,0.004,0.0,0.00%,0.28,0.2,0.0,0.0,SB
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Maikel Garcia 3B,5.0,2.0,3.0,2.0,0.0,0.0,5.0,0.319,0.379,0.496,0.875,16.0,9.0,0.25,0.93,0.294,-0.044,0.16%,1.0,1.6,0.0,0.0,2·HR
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Michael Massey 2B,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.204,0.217,0.265,0.482,15.0,12.0,-0.088,0.88,0.015,-0.103,-0.06%,0.95,0.4,2.0,4.0,HR
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Hunter Renfroe RF,5.0,1.0,1.0,0.0,0.0,0.0,5.0,0.16,0.229,0.2,0.429,20.0,12.0,0.0,0.6,0.048,-0.048,0%,0.65,-0.3,2.0,0.0,2B
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Drew Waters CF-LF,5.0,0.0,2.0,2.0,0.0,1.0,5.0,0.282,0.32,0.423,0.743,18.0,13.0,0.229,0.8,0.246,-0.017,0.15%,0.86,1.4,4.0,0.0,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Luke Maile C,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.333,0.5,1.333,1.833,18.0,8.0,0.055,0.82,0.111,-0.057,0.03%,0.89,0.9,6.0,1.0,HR
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Michael Lorenzen P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Steven Cruz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Angel Zerpa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Lucas Erceg P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Taylor Clarke P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+BAL202505040,KCR,https://www.baseball-reference.com/boxes/BAL/BAL202505040.shtml,KansasCityRoyalsbatting,Team Totals,43.0,11.0,17.0,11.0,1.0,6.0,44.0,0.395,0.409,0.953,1.363,181.0,113.0,0.808,0.8,1.365,-0.557,0.52%,0.86,6.9,27.0,8.0,

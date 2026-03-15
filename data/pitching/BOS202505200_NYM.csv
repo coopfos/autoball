@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetspitching,"Clay Holmes, L (5-3)",6,4,2,2,3,5,2,3.13,25,90,53,29,10,14,10,6,3,0,58.0,,,0.027,1.03,0.02%,1.24,1.0
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetspitching,Max Kranick,2,1,0,0,0,2,0,3.72,7,30,20,14,0,6,2,3,1,0,,0.0,0.0,0.038,0.27,0.03%,0.32,1.0
+BOS202505200,NYM,https://www.baseball-reference.com/boxes/BOS/BOS202505200.shtml,NewYorkMetspitching,Team Totals,8,5,2,2,3,7,2,2.25,32,120,73,43,10,20,12,9,4,0,58.0,0.0,0.0,0.065,0.87,0.05%,1.05,2.0

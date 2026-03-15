@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Dominic Fletcher RF,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.212,0.261,0.268,0.528,20.0,15.0,-0.354,2.23,0.0,-0.354,0%,0.0,-1.8,3.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Nicky Lopez SS,5.0,0.0,0.0,0.0,0.0,2.0,5.0,0.243,0.315,0.297,0.611,15.0,13.0,-0.203,1.47,0.0,-0.203,0%,0.0,-1.2,3.0,3.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.226,0.278,0.386,0.664,15.0,11.0,0.013,0.92,0.075,-0.063,0%,0.0,0.1,1.0,0.0,2B
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.226,0.289,0.393,0.682,17.0,11.0,-0.085,1.24,0.026,-0.111,0%,0.0,-0.5,0.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn DH,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.247,0.299,0.413,0.712,18.0,13.0,-0.097,1.26,0.027,-0.124,0%,0.0,-0.8,0.0,0.0,2B
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Gavin Sheets 1B,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.236,0.308,0.364,0.672,20.0,13.0,-0.073,1.08,0.026,-0.099,0%,0.0,-0.6,8.0,1.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.243,0.269,0.332,0.602,18.0,13.0,0.288,1.02,0.358,-0.07,0%,0.0,1.2,1.0,2.0,HR
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Bryan Ramos 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.184,0.232,0.303,0.534,17.0,11.0,-0.08,0.79,0.0,-0.08,0%,0.0,-0.5,0.0,2.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Korey Lee C,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.206,0.237,0.332,0.57,15.0,11.0,0.064,1.74,0.107,-0.043,0%,0.0,0.3,11.0,1.0,2B
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Garrett Crochet P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Prelander Berroa P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Gus Varland P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Chad Kuhl P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Jairo Iriarte P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Fraser Ellard P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Justin Anderson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SDN202409200,CHW,https://www.baseball-reference.com/boxes/SDN/SDN202409200.shtml,ChicagoWhiteSoxbatting,Team Totals,37.0,2.0,6.0,2.0,1.0,13.0,38.0,0.162,0.184,0.324,0.509,155.0,111.0,-0.527,1.33,0.619,-1.147,0.00%,0.0,-3.7,27.0,10.0,

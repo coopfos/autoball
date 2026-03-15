@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Kerry Carpenter RF,5.0,1.0,2.0,0.0,0.0,2.0,5.0,0.298,0.327,0.53,0.857,20.0,13.0,0.028,0.57,0.061,-0.033,0.02%,0.69,0.3,3.0,0.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Gleyber Torres 2B,5.0,0.0,2.0,0.0,0.0,0.0,5.0,0.294,0.359,0.452,0.812,25.0,15.0,-0.007,0.78,0.052,-0.059,-0.01%,0.95,-0.2,0.0,4.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Colt Keith DH,3.0,1.0,1.0,0.0,0.0,2.0,3.0,0.225,0.344,0.36,0.704,13.0,9.0,-0.034,1.02,0.026,-0.06,-0.03%,1.25,-0.3,0.0,0.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Justyn-Henry Malloy PH-DH-DH,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.213,0.365,0.307,0.671,10.0,6.0,-0.026,0.53,0.0,-0.026,-0.02%,0.65,-0.4,0.0,0.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Riley Greene LF,4.0,1.0,2.0,3.0,1.0,1.0,5.0,0.278,0.333,0.521,0.854,20.0,10.0,0.187,1.0,0.24,-0.053,0.14%,1.22,2.3,2.0,0.0,"HR,2B"
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Spencer Torkelson 1B,3.0,0.0,0.0,0.0,1.0,1.0,5.0,0.236,0.346,0.516,0.862,16.0,9.0,-0.029,0.76,0.041,-0.07,-0.02%,0.92,-0.5,10.0,0.0,HBP
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Zach McKinstry 3B,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.286,0.374,0.429,0.803,18.0,9.0,0.065,0.8,0.112,-0.046,0.05%,0.98,0.5,0.0,1.0,HR
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Dillon Dingler C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.27,0.299,0.434,0.734,17.0,9.0,0.003,0.81,0.042,-0.039,0.00%,0.98,0.3,8.0,1.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Trey Sweeney SS,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.259,0.323,0.378,0.7,16.0,11.0,-0.092,0.97,0.0,-0.092,-0.07%,1.19,-1.5,1.0,1.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Javier Báez CF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.307,0.343,0.512,0.855,12.0,10.0,0.081,0.65,0.135,-0.054,0.06%,0.79,0.2,3.0,1.0,HR
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Jack Flaherty P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Brenan Hanifee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Tommy Kahnle P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Beau Brieske P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+TOR202505160,DET,https://www.baseball-reference.com/boxes/TOR/TOR202505160.shtml,DetroitTigersbatting,Team Totals,36.0,5.0,10.0,5.0,4.0,10.0,41.0,0.278,0.366,0.556,0.921,167.0,101.0,0.176,0.79,0.709,-0.532,0.13%,0.97,0.6,27.0,10.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202405270,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202405270.shtml,ChicagoCubspitching,Justin Steele,7.0,3,0,0,1,8,0,4.45,25,93,63,29,12,22,7,8,1,0,78.0,,,0.448,0.99,0.32%,1.16,3.6
+MIL202405270,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202405270.shtml,ChicagoCubspitching,"Mark Leiter Jr., L (1-3)",0.1,1,3,2,1,1,0,3.43,4,14,7,3,1,3,1,1,1,0,,0.0,0.0,-0.299,1.99,-0.21%,2.34,-1.7
+MIL202405270,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202405270.shtml,ChicagoCubspitching,Hayden Wesneski,0.2,2,2,2,1,0,1,2.56,5,15,7,5,1,1,1,3,1,0,,2.0,2.0,-0.086,0.28,-0.06%,0.32,-2.8
+MIL202405270,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202405270.shtml,ChicagoCubspitching,Team Totals,8.0,6,5,3,3,9,1,3.38,34,122,77,37,14,26,9,12,3,0,78.0,2.0,2.0,0.063,1.0,0.04%,1.18,-0.9

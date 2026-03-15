@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.259,0.354,0.407,0.761,18.0,13.0,-0.051,0.47,0.005,-0.056,-0.02%,0.3,-0.3,2.0,1.0,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Ketel Marte 2B,5.0,2.0,3.0,1.0,0.0,0.0,5.0,0.289,0.406,0.538,0.943,13.0,9.0,0.032,0.35,0.047,-0.016,0.01%,0.22,1.7,5.0,5.0,2B
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Pavin Smith 1B,2.0,2.0,1.0,3.0,2.0,1.0,5.0,0.274,0.394,0.458,0.852,24.0,10.0,0.117,0.39,0.131,-0.014,0.04%,0.25,1.7,7.0,1.0,"HR,CS,SF"
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Josh Naylor DH,4.0,2.0,1.0,0.0,1.0,1.0,5.0,0.304,0.359,0.471,0.83,18.0,7.0,0.001,0.56,0.047,-0.046,0.00%,0.35,-0.4,0.0,0.0,SB
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Eugenio Suárez 3B,5.0,1.0,3.0,4.0,0.0,1.0,5.0,0.237,0.313,0.533,0.846,16.0,10.0,0.352,0.7,0.355,-0.002,0.13%,0.44,3.5,1.0,1.0,"HR,2B"
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.257,0.303,0.43,0.734,14.0,9.0,-0.034,0.46,0.005,-0.038,-0.01%,0.29,-0.4,1.0,0.0,HBP
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Randal Grichuk RF,2.0,0.0,0.0,1.0,1.0,0.0,4.0,0.24,0.3,0.42,0.72,17.0,8.0,0.01,0.38,0.023,-0.013,0.00%,0.24,-0.3,1.0,0.0,SF
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.254,0.296,0.368,0.664,12.0,8.0,-0.037,0.38,0.0,-0.037,-0.01%,0.24,-1.0,2.0,0.0,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,José Herrera C,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.165,0.283,0.235,0.518,13.0,8.0,-0.022,0.25,0.003,-0.025,-0.01%,0.16,-0.2,7.0,0.0,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Ryne Nelson P,,,,,,,,,,,,,,,,,,,,,1.0,2.0,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Juan Morillo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Anthony DeSclafani P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Shelby Miller P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TOR202506190,ARI,https://www.baseball-reference.com/boxes/TOR/TOR202506190.shtml,ArizonaDiamondbacksbatting,Team Totals,33.0,9.0,9.0,9.0,5.0,8.0,41.0,0.273,0.366,0.515,0.881,145.0,82.0,0.368,0.45,0.616,-0.247,0.14%,0.28,4.5,27.0,12.0,

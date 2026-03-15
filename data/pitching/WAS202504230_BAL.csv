@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202504230,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504230.shtml,BaltimoreOriolespitching,Tomoyuki Sugano,7,5,3,3,0,1,2,3.54,26,94,56,39,4,13,15,10,2,0,56.0,,,-0.054,0.49,-0.03%,0.39,0.3
+WAS202504230,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504230.shtml,BaltimoreOriolespitching,"Gregory Soto, L (0-1)",1,1,1,1,1,0,0,4.15,5,22,14,8,3,3,2,2,1,0,,0.0,0.0,-0.24,2.42,-0.11%,1.92,-0.5
+WAS202504230,BAL,https://www.baseball-reference.com/boxes/WAS/WAS202504230.shtml,BaltimoreOriolespitching,Team Totals,8,6,4,4,1,1,2,4.5,31,116,70,47,7,16,17,12,3,0,56.0,0.0,0.0,-0.294,0.8,-0.14%,0.64,-0.2

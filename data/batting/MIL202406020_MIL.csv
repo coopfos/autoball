@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Brice Turang 2B,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.299,0.367,0.412,0.778,16.0,9.0,0.024,0.7,0.054,-0.03,0.02%,0.82,0.2,2.0,4.0,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,William Contreras C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.316,0.388,0.489,0.878,20.0,10.0,-0.147,1.05,0.0,-0.147,-0.10%,1.24,-1.6,13.0,1.0,GDP
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Christian Yelich LF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.323,0.408,0.548,0.957,18.0,11.0,-0.013,0.46,0.02,-0.033,-0.01%,0.54,0.0,2.0,1.0,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Willy Adames SS,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.26,0.338,0.45,0.789,18.0,9.0,0.015,0.73,0.061,-0.047,0.01%,0.86,0.6,0.0,1.0,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Sal Frelick CF,4.0,1.0,0.0,0.0,0.0,0.0,4.0,0.257,0.34,0.339,0.679,12.0,9.0,-0.102,0.63,0.0,-0.102,-0.07%,0.74,-1.5,0.0,0.0,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Joey Ortiz 3B,3.0,1.0,2.0,0.0,1.0,0.0,4.0,0.293,0.391,0.503,0.894,16.0,8.0,0.012,0.72,0.057,-0.045,0.01%,0.84,0.4,2.0,1.0,CS
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Jake Bauers 1B,3.0,1.0,1.0,1.0,1.0,1.0,4.0,0.209,0.298,0.403,0.701,20.0,9.0,0.083,0.88,0.145,-0.062,0.06%,1.04,0.4,6.0,0.0,"2B,SB"
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Gary Sánchez DH,3.0,1.0,1.0,2.0,0.0,1.0,4.0,0.228,0.305,0.456,0.761,12.0,8.0,0.067,1.15,0.108,-0.041,0.05%,1.35,1.4,0.0,0.0,HBP
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Jackson Chourio RF,4.0,1.0,2.0,3.0,0.0,1.0,4.0,0.214,0.257,0.345,0.602,13.0,8.0,0.255,0.91,0.295,-0.04,0.18%,1.06,2.0,2.0,0.0,HR
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Freddy Peralta P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Kevin Herget P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Enoli Paredes P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202406020,MIL,https://www.baseball-reference.com/boxes/MIL/MIL202406020.shtml,MilwaukeeBrewersbatting,Team Totals,31.0,6.0,9.0,6.0,4.0,6.0,36.0,0.29,0.389,0.419,0.808,145.0,81.0,0.194,0.8,0.74,-0.547,0.14%,0.94,1.9,27.0,8.0,

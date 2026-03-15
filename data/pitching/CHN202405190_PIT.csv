@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202405190,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202405190.shtml,PittsburghPiratespitching,"Mitch Keller, W (5-3)",6,2,2,2,3,3,0,3.84,24,83,50,26,9,15,6,10,3,0,60.0,,,0.107,1.33,0.05%,1.0,0.9
+CHN202405190,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202405190.shtml,PittsburghPiratespitching,"Colin Holderman, H (5)",1,0,0,0,0,2,0,0.68,3,18,11,7,2,2,1,0,0,0,,0.0,0.0,0.107,1.41,0.05%,1.06,0.5
+CHN202405190,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202405190.shtml,PittsburghPiratespitching,"Aroldis Chapman, H (10)",1,0,0,0,0,2,0,4.02,3,10,7,2,4,1,0,1,0,0,,0.0,0.0,0.14,1.85,0.06%,1.39,0.5
+CHN202405190,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202405190.shtml,PittsburghPiratespitching,"David Bednar, S (10)",1,0,0,0,1,0,0,7.85,4,22,14,8,3,3,0,3,0,0,,0.0,0.0,0.197,3.26,0.09%,2.45,0.5
+CHN202405190,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202405190.shtml,PittsburghPiratespitching,Team Totals,9,2,2,2,4,7,0,2.0,34,133,82,43,18,21,7,14,3,0,60.0,0.0,0.0,0.551,1.66,0.25%,1.25,2.4

@@ -1,0 +1,15 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Ian Happ LF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.254,0.341,0.364,0.705,13.0,11.0,-0.048,0.48,0.0,-0.048,-0.04%,0.61,-0.7,1.0,0.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Kyle Tucker DH,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.282,0.391,0.517,0.908,16.0,12.0,-0.044,0.45,0.0,-0.044,-0.03%,0.57,-0.7,0.0,0.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Seiya Suzuki RF,4.0,2.0,2.0,2.0,0.0,1.0,4.0,0.269,0.332,0.563,0.895,13.0,9.0,0.09,0.47,0.124,-0.034,0.07%,0.6,1.6,4.0,0.0,2·HR
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Dansby Swanson SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.236,0.289,0.415,0.704,14.0,9.0,-0.034,0.34,0.0,-0.034,-0.03%,0.44,-0.5,3.0,1.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Pete Crow-Armstrong CF,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.278,0.313,0.563,0.877,15.0,12.0,0.044,0.46,0.076,-0.032,0.03%,0.59,0.6,4.0,0.0,HR
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Nico Hoerner 2B,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.288,0.333,0.36,0.694,10.0,10.0,0.014,0.46,0.037,-0.023,0.01%,0.59,-0.2,1.0,1.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Michael Busch 1B,3.0,1.0,1.0,2.0,1.0,1.0,4.0,0.276,0.377,0.521,0.898,16.0,7.0,0.169,0.54,0.176,-0.007,0.13%,0.69,1.4,5.0,1.0,HR
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Matt Shaw 3B,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.258,0.336,0.375,0.711,13.0,9.0,0.019,0.39,0.051,-0.033,0.01%,0.51,0.5,1.0,0.0,HR
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Reese McGuire C,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.227,0.227,0.5,0.727,11.0,6.0,-0.027,0.42,0.003,-0.03,-0.02%,0.54,-0.3,7.0,1.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Jameson Taillon P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Caleb Thielbar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Daniel Palencia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+DET202506070,CHC,https://www.baseball-reference.com/boxes/DET/DET202506070.shtml,ChicagoCubsbatting,Team Totals,34.0,6.0,7.0,6.0,1.0,8.0,35.0,0.206,0.229,0.647,0.876,121.0,85.0,0.183,0.45,0.467,-0.285,0.14%,0.57,1.7,27.0,5.0,

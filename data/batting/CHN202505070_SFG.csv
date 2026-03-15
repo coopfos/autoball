@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Mike Yastrzemski RF,4.0,1.0,1.0,0.0,1.0,3.0,5.0,0.278,0.385,0.47,0.855,20.0,13.0,-0.04,0.94,0.05,-0.09,-0.03%,1.1,-0.4,3.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Willy Adames SS,4.0,0.0,2.0,0.0,1.0,1.0,5.0,0.23,0.314,0.358,0.672,22.0,13.0,0.085,0.71,0.11,-0.025,0.06%,0.84,0.9,0.0,6.0,2B
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Jung Hoo Lee CF,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.301,0.353,0.49,0.842,15.0,13.0,-0.113,0.94,0.0,-0.113,-0.08%,1.11,-1.6,0.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Matt Chapman 3B,3.0,1.0,0.0,0.0,1.0,2.0,4.0,0.22,0.36,0.417,0.777,27.0,17.0,-0.055,1.15,0.036,-0.09,-0.04%,1.36,-0.7,0.0,5.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Wilmer Flores DH,4.0,1.0,3.0,1.0,0.0,0.0,4.0,0.256,0.308,0.429,0.736,23.0,16.0,0.157,1.19,0.185,-0.028,0.11%,1.4,1.7,0.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Heliot Ramos LF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.252,0.321,0.42,0.74,18.0,7.0,-0.071,1.23,0.037,-0.108,-0.05%,1.44,-0.7,2.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,LaMonte Wade Jr. 1B,4.0,0.0,2.0,1.0,0.0,0.0,4.0,0.158,0.259,0.267,0.526,20.0,12.0,0.156,1.09,0.185,-0.03,0.11%,1.29,2.0,14.0,0.0,2B
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Sam Huff C,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.206,0.263,0.324,0.587,18.0,10.0,-0.184,0.81,0.0,-0.184,-0.13%,0.95,-2.8,6.0,1.0,GDP
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Christian Koss 2B,3.0,0.0,1.0,1.0,1.0,0.0,4.0,0.2,0.273,0.2,0.473,16.0,9.0,0.041,0.92,0.059,-0.017,0.03%,1.08,0.2,2.0,3.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Robbie Ray P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Camilo Doval P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Tyler Rogers P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Ryan Walker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202505070,SFG,https://www.baseball-reference.com/boxes/CHN/CHN202505070.shtml,SanFranciscoGiantsbatting,Team Totals,34.0,3.0,9.0,3.0,5.0,11.0,39.0,0.265,0.359,0.324,0.683,179.0,110.0,-0.024,0.99,0.662,-0.685,-0.02%,1.16,-1.4,27.0,15.0,

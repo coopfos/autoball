@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa 3B,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.269,0.306,0.376,0.683,16.0,14.0,-0.046,0.37,0.0,-0.046,0%,0.0,-0.8,0.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Bryan Reynolds DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.276,0.344,0.449,0.793,17.0,11.0,0.004,0.36,0.024,-0.021,0%,0.0,-0.2,0.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Oneil Cruz CF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.26,0.323,0.452,0.775,16.0,11.0,-0.066,0.66,0.0,-0.066,0%,0.0,-0.9,3.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Nick Gonzales SS,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.273,0.312,0.403,0.715,15.0,9.0,0.08,0.48,0.113,-0.034,0%,0.0,0.5,3.0,1.0,HR
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Joshua Palacios RF,2.0,2.0,0.0,0.0,2.0,0.0,4.0,0.219,0.324,0.328,0.652,16.0,5.0,-0.009,0.48,0.028,-0.036,0%,0.0,0.4,1.0,1.0,SB
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Jared Triolo 1B,4.0,1.0,1.0,2.0,0.0,2.0,4.0,0.217,0.299,0.317,0.616,15.0,11.0,0.054,0.44,0.094,-0.039,0%,0.0,1.2,7.0,1.0,HR
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Yasmani Grandal C,4.0,3.0,3.0,2.0,0.0,1.0,4.0,0.228,0.304,0.4,0.704,16.0,10.0,0.169,0.4,0.171,-0.002,0%,0.0,2.1,11.0,1.0,HR
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Nick Yorke 2B,4.0,1.0,1.0,2.0,0.0,2.0,4.0,0.229,0.263,0.4,0.663,16.0,11.0,-0.015,0.47,0.026,-0.04,0%,0.0,1.0,0.0,2.0,HR
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Billy Cook LF,4.0,1.0,1.0,2.0,0.0,1.0,4.0,0.222,0.222,0.444,0.667,14.0,10.0,0.11,0.48,0.135,-0.026,0%,0.0,1.2,1.0,0.0,HR
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Paul Skenes P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Mike Burrows P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,David Bednar P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Ryan Borucki P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Dennis Santana P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Aroldis Chapman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYA202409280,PIT,https://www.baseball-reference.com/boxes/NYA/NYA202409280.shtml,PittsburghPiratesbatting,Team Totals,35.0,9.0,8.0,9.0,2.0,12.0,37.0,0.229,0.27,0.657,0.927,141.0,92.0,0.281,0.46,0.591,-0.31,0.00%,0.0,4.6,27.0,8.0,

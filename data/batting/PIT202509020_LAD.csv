@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,5.0,1.0,3.0,2.0,0.0,0.0,5.0,0.279,0.388,0.61,0.998,16.0,10.0,0.255,1.04,0.29,-0.036,0.21%,1.41,3.0,0.0,0.0,"HR,2·2B"
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Mookie Betts SS,5.0,0.0,2.0,1.0,0.0,0.0,5.0,0.252,0.323,0.376,0.699,19.0,15.0,-0.043,1.5,0.075,-0.117,-0.03%,2.02,-0.0,1.0,3.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,5.0,2.0,0.0,0.0,0.0,0.0,5.0,0.297,0.37,0.495,0.865,15.0,13.0,-0.278,1.51,0.0,-0.278,-0.22%,2.04,-2.2,7.0,1.0,GDP
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Will Smith C,5.0,1.0,3.0,1.0,0.0,0.0,5.0,0.297,0.406,0.499,0.905,28.0,20.0,0.099,0.98,0.152,-0.053,0.08%,1.32,1.1,7.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,4.0,0.0,2.0,1.0,0.0,1.0,4.0,0.247,0.282,0.452,0.734,20.0,16.0,0.073,1.48,0.154,-0.08,0.06%,1.99,1.2,1.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.189,0.297,0.328,0.624,22.0,11.0,-0.051,1.55,0.068,-0.12,-0.04%,2.08,-0.1,1.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Andy Pages CF,4.0,1.0,1.0,1.0,0.0,0.0,4.0,0.275,0.317,0.467,0.784,13.0,9.0,0.023,1.26,0.142,-0.118,0.02%,1.7,-0.0,4.0,0.0,"HR,GDP"
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Alex Freeland 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.198,0.301,0.321,0.622,22.0,15.0,-0.107,0.98,0.0,-0.107,-0.09%,1.33,-1.0,0.0,2.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Miguel Rojas 2B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.257,0.317,0.389,0.706,10.0,5.0,0.04,0.83,0.081,-0.041,0.03%,1.13,0.4,2.0,2.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Hyeseong Kim PR,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.304,0.338,0.406,0.744,,,0.0,,0.0,0.0,0%,,0.0,0.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Clayton Kershaw P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Edgardo Henriquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Blake Treinen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Anthony Banda P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Kirby Yates P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PIT202509020,LAD,https://www.baseball-reference.com/boxes/PIT/PIT202509020.shtml,LosAngelesDodgersbatting,Team Totals,38.0,7.0,12.0,6.0,2.0,6.0,40.0,0.316,0.35,0.526,0.876,165.0,114.0,0.011,1.24,0.962,-0.95,0.01%,1.67,2.3,24.0,8.0,

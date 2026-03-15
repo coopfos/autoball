@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Ketel Marte DH,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.289,0.391,0.525,0.916,20.0,7.0,0.03,0.56,0.052,-0.022,0.00%,0.12,0.5,0.0,0.0,SB
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Geraldo Perdomo SS,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.288,0.39,0.45,0.84,15.0,8.0,-0.031,0.83,0.038,-0.07,-0.00%,0.18,-0.5,1.0,2.0,SB
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Corbin Carroll RF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.254,0.33,0.545,0.875,13.0,8.0,-0.023,0.86,0.047,-0.07,-0.00%,0.18,-0.2,2.0,0.0,2B
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Lourdes Gurriel Jr. LF,4.0,1.0,1.0,0.0,0.0,0.0,4.0,0.249,0.297,0.42,0.717,17.0,11.0,-0.044,0.8,0.03,-0.074,-0.01%,0.17,-0.8,2.0,0.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Gabriel Moreno C,4.0,0.0,1.0,1.0,0.0,3.0,4.0,0.281,0.332,0.442,0.774,19.0,15.0,0.006,0.87,0.069,-0.063,0.00%,0.19,0.1,9.0,1.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Blaze Alexander 2B,3.0,1.0,1.0,2.0,1.0,0.0,4.0,0.234,0.331,0.441,0.773,16.0,8.0,0.229,0.59,0.249,-0.02,0.03%,0.12,2.0,2.0,2.0,HR
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Tyler Locklear 1B,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.169,0.256,0.247,0.503,15.0,11.0,-0.044,0.45,0.0,-0.044,-0.01%,0.1,-0.9,7.0,0.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Alek Thomas CF,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.253,0.292,0.376,0.669,17.0,12.0,-0.067,0.65,0.0,-0.067,-0.01%,0.14,-1.1,3.0,0.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Jordan Lawlar 3B,4.0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.115,0.0,0.115,24.0,17.0,-0.042,0.42,0.0,-0.042,-0.01%,0.09,-0.7,1.0,2.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,,,,,,,,,,,,,,,,,,,,,,,,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Zac Gallen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Kyle Backhus P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Jake Woodford P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+LAN202508290,ARI,https://www.baseball-reference.com/boxes/LAN/LAN202508290.shtml,ArizonaDiamondbacksbatting,Team Totals,31.0,3.0,4.0,3.0,5.0,14.0,36.0,0.129,0.25,0.258,0.508,156.0,97.0,0.014,0.67,0.485,-0.472,0.00%,0.14,-1.6,27.0,7.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+TEX202505040,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202505040.shtml,SeattleMarinerspitching,"Logan Evans, L (1-1)",5,10,6,1,2,5,0,2.7,26,92,59,34,8,17,6,13,9,0,36.0,,,-0.4,0.94,-0.32%,1.25,-3.7
+TEX202505040,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202505040.shtml,SeattleMarinerspitching,Casey Legumina,1,0,0,0,1,0,0,3.12,5,18,10,7,1,2,0,3,1,0,,0.0,0.0,0.004,0.12,0.00%,0.16,0.5
+TEX202505040,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202505040.shtml,SeattleMarinerspitching,Eduard Bazardo,2,1,2,2,1,2,0,5.09,8,27,18,9,5,4,3,2,0,0,,0.0,0.0,-0.001,0.02,-0.00%,0.03,-1.1
+TEX202505040,SEA,https://www.baseball-reference.com/boxes/TEX/TEX202505040.shtml,SeattleMarinerspitching,Team Totals,8,11,8,3,4,7,0,3.38,39,137,87,50,14,23,9,18,10,0,36.0,0.0,0.0,-0.397,0.66,-0.32%,0.88,-4.3

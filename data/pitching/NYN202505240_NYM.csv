@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+NYN202505240,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,NewYorkMetspitching,"David Peterson, W (3-2)",7.2,5,2,2,2,7,0,2.79,28,99,59,31,11,17,12,6,4,0,66.0,,,0.189,1.11,0.00%,0.0,1.5
+NYN202505240,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,NewYorkMetspitching,"Edwin Díaz, S (11)",1.1,0,0,0,0,3,0,2.53,4,16,13,3,4,6,1,0,0,0,,1.0,0.0,0.063,0.77,0.00%,0.0,0.7
+NYN202505240,NYM,https://www.baseball-reference.com/boxes/NYN/NYN202505240.shtml,NewYorkMetspitching,Team Totals,9.0,5,2,2,2,10,0,2.0,32,115,72,34,15,23,13,6,4,0,66.0,1.0,0.0,0.252,1.06,0.00%,0.0,2.2

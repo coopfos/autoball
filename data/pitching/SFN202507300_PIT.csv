@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202507300,PIT,https://www.baseball-reference.com/boxes/SFN/SFN202507300.shtml,PittsburghPiratespitching,Mike Burrows,6,3,1,1,1,7,0,3.88,22,91,61,34,10,17,6,8,4,0,68.0,,,0.199,1.1,0.00%,0.01,1.8
+SFN202507300,PIT,https://www.baseball-reference.com/boxes/SFN/SFN202507300.shtml,PittsburghPiratespitching,Carmen Mlodzinski,2,1,0,0,0,0,0,4.34,7,19,12,9,1,2,4,3,0,0,,0.0,0.0,0.188,1.99,0.00%,0.02,0.9
+SFN202507300,PIT,https://www.baseball-reference.com/boxes/SFN/SFN202507300.shtml,PittsburghPiratespitching,"Isaac Mattson, W (3-1)",2,2,0,0,0,3,0,2.13,8,26,18,13,1,4,1,4,2,0,,0.0,0.0,0.564,4.03,0.00%,0.04,1.6
+SFN202507300,PIT,https://www.baseball-reference.com/boxes/SFN/SFN202507300.shtml,PittsburghPiratespitching,Team Totals,10,6,1,1,1,10,0,0.9,37,136,91,56,12,23,11,15,6,0,68.0,0.0,0.0,0.951,1.9,0.01%,0.02,4.3

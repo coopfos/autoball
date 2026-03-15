@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+WAS202504220,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,WashingtonNationalspitching,"Mitchell Parker, W (3-1)",8.0,1,0,0,2,4,0,1.39,27,99,69,42,9,18,5,16,2,0,82.0,,,0.263,0.65,0.10%,0.42,3.9
+WAS202504220,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,WashingtonNationalspitching,Colin Poche,0.1,0,0,0,2,0,0,15.0,3,19,9,5,1,3,1,0,0,0,,0.0,0.0,-0.001,0.09,0.00%,0.06,-0.7
+WAS202504220,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,WashingtonNationalspitching,Cole Henry,0.2,0,0,0,0,2,0,0.0,2,10,6,3,3,0,0,0,0,0,,2.0,0.0,0.002,0.04,0.00%,0.03,1.2
+WAS202504220,WSN,https://www.baseball-reference.com/boxes/WAS/WAS202504220.shtml,WashingtonNationalspitching,Team Totals,9.0,1,0,0,4,6,0,0.0,32,128,84,50,13,21,6,16,2,0,82.0,2.0,0.0,0.264,0.56,0.10%,0.36,4.4

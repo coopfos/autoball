@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202508300,BAL,https://www.baseball-reference.com/boxes/SFN/SFN202508300.shtml,BaltimoreOriolespitching,"Trevor Rogers, W (8-2)",7,5,1,1,0,5,1,1.39,26,92,66,36,10,20,10,11,4,0,68.0,,,0.081,0.55,0.00%,0.0,2.4
+SFN202508300,BAL,https://www.baseball-reference.com/boxes/SFN/SFN202508300.shtml,BaltimoreOriolespitching,Shawn Dubin,2,0,0,0,1,2,0,5.02,8,26,17,8,2,7,3,1,0,0,,0.0,0.0,0.0,0.01,0.00%,0.0,1.0
+SFN202508300,BAL,https://www.baseball-reference.com/boxes/SFN/SFN202508300.shtml,BaltimoreOriolespitching,Team Totals,9,5,1,1,1,7,1,1.0,34,118,83,44,12,27,13,12,4,0,68.0,0.0,0.0,0.081,0.42,0.00%,0.0,3.3

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202509240,STL,https://www.baseball-reference.com/boxes/SFN/SFN202509240.shtml,StLouisCardinalspitching,Sonny Gray,6,7,3,2,2,7,1,4.28,28,99,63,30,16,17,10,9,3,0,53.0,,,-0.085,1.03,-0.00%,0.01,-0.1
+SFN202509240,STL,https://www.baseball-reference.com/boxes/SFN/SFN202509240.shtml,StLouisCardinalspitching,Kyle Leahy,1,2,0,0,0,2,0,3.18,5,13,9,6,0,3,1,2,2,0,,0.0,0.0,0.041,0.75,0.00%,0.01,0.5
+SFN202509240,STL,https://www.baseball-reference.com/boxes/SFN/SFN202509240.shtml,StLouisCardinalspitching,"Riley O'Brien, L (3-1)",1,2,1,1,1,0,0,2.11,6,16,11,8,2,1,4,1,1,0,,0.0,0.0,-0.238,1.67,-0.00%,0.01,-0.5
+SFN202509240,STL,https://www.baseball-reference.com/boxes/SFN/SFN202509240.shtml,StLouisCardinalspitching,Team Totals,8,11,4,3,3,9,1,3.38,39,128,83,44,18,21,15,12,6,0,53.0,0.0,0.0,-0.282,1.09,-0.00%,0.01,-0.2

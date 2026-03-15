@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+DET202404160,TEX,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,TexasRangerspitching,Jon Gray,6.0,3,2,1,3,7,0,3.44,24,97,62,32,16,14,5,9,2,0,64.0,,,0.034,1.14,0.02%,1.14,0.9
+DET202404160,TEX,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,TexasRangerspitching,"José Ureña, L (0-2)",1.2,0,1,1,1,3,0,4.38,6,27,17,5,8,4,2,0,0,0,,0.0,0.0,0.142,1.5,0.09%,1.5,0.8
+DET202404160,TEX,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,TexasRangerspitching,Jacob Latz,0.1,2,1,1,0,0,0,1.0,3,11,7,5,1,1,1,2,1,0,,1.0,1.0,-0.378,1.77,-0.23%,1.78,-1.8
+DET202404160,TEX,https://www.baseball-reference.com/boxes/DET/DET202404160.shtml,TexasRangerspitching,Team Totals,8.0,5,4,3,4,10,0,3.38,33,135,86,42,25,19,8,11,3,0,64.0,1.0,1.0,-0.202,1.28,-0.12%,1.28,-0.1

@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Trevor Larnach DH,5.0,1.0,1.0,2.0,0.0,1.0,5.0,0.268,0.327,0.443,0.77,20.0,15.0,0.094,0.82,0.187,-0.094,0.06%,0.86,0.4,0.0,0.0,HR
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Carlos Correa SS,4.0,0.0,1.0,1.0,0.0,0.0,4.0,0.259,0.337,0.448,0.785,12.0,11.0,0.1,0.8,0.126,-0.026,0.06%,0.84,0.8,1.0,2.0,2B
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Alex Kirilloff 1B,1.0,0.0,0.0,1.0,0.0,1.0,2.0,0.217,0.284,0.413,0.697,5.0,5.0,-0.003,0.94,0.007,-0.01,-0.00%,0.99,-0.2,5.0,0.0,SF
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Carlos Santana PH-1B,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0.211,0.297,0.378,0.675,9.0,5.0,0.011,0.17,0.017,-0.006,0.01%,0.18,0.9,3.0,0.0,HR
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Max Kepler RF,3.0,1.0,0.0,0.0,0.0,2.0,4.0,0.279,0.343,0.473,0.816,22.0,14.0,-0.035,0.58,0.016,-0.051,-0.02%,0.61,-0.4,6.0,0.0,HBP
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Ryan Jeffers C,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.256,0.345,0.547,0.892,21.0,11.0,0.053,0.5,0.072,-0.018,0.03%,0.53,1.0,7.0,0.0,2B
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Edouard Julien 2B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.205,0.305,0.367,0.673,9.0,5.0,-0.041,0.86,0.0,-0.041,-0.03%,0.91,-0.4,1.0,2.0,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Manuel Margot PH-LF,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.204,0.269,0.259,0.528,7.0,5.0,-0.003,0.29,0.0,-0.003,-0.00%,0.3,-0.4,1.0,0.0,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Byron Buxton CF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.244,0.296,0.405,0.7,19.0,11.0,-0.041,0.38,0.001,-0.042,-0.03%,0.4,-0.3,2.0,0.0,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Willi Castro LF-2B-3B,2.0,2.0,1.0,0.0,2.0,0.0,4.0,0.266,0.343,0.432,0.775,21.0,9.0,0.134,0.58,0.144,-0.01,0.08%,0.61,1.6,1.0,1.0,3B
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,José Miranda 3B,2.0,1.0,0.0,0.0,1.0,0.0,3.0,0.274,0.308,0.444,0.752,18.0,11.0,-0.001,0.98,0.038,-0.039,-0.00%,1.03,-0.2,0.0,2.0,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Kyle Farmer 2B,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.165,0.269,0.242,0.511,3.0,2.0,-0.002,0.09,0.0,-0.002,-0.00%,0.09,-1.1,0.0,0.0,GDP
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Pablo López P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Steven Okert P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Cole Sands P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+HOU202405310,MIN,https://www.baseball-reference.com/boxes/HOU/HOU202405310.shtml,MinnesotaTwinsbatting,Team Totals,31.0,6.0,6.0,6.0,4.0,8.0,37.0,0.194,0.297,0.516,0.813,166.0,104.0,0.266,0.62,0.608,-0.342,0.17%,0.65,1.7,27.0,8.0,

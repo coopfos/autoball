@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Francisco Lindor SS,4.0,1.0,1.0,3.0,0.0,0.0,5.0,0.289,0.358,0.472,0.83,14.0,10.0,0.024,1.14,0.175,-0.152,0.02%,1.48,0.6,4.0,3.0,"HR,HBP"
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Juan Soto RF,3.0,1.0,1.0,0.0,2.0,0.0,5.0,0.258,0.381,0.439,0.821,24.0,9.0,-0.007,0.87,0.081,-0.088,-0.01%,1.13,0.2,0.0,0.0,"2B,GDP"
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Pete Alonso 1B,4.0,1.0,2.0,2.0,0.0,0.0,4.0,0.349,0.469,0.674,1.143,14.0,11.0,0.137,1.07,0.212,-0.075,0.11%,1.39,1.3,6.0,0.0,"HR,GDP"
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Starling Marte DH,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.183,0.296,0.317,0.612,21.0,11.0,-0.049,0.76,0.027,-0.076,-0.04%,0.98,-1.4,0.0,0.0,GDP
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Brandon Nimmo LF,2.0,0.0,0.0,0.0,2.0,1.0,4.0,0.217,0.28,0.419,0.698,21.0,11.0,0.017,0.69,0.052,-0.035,0.01%,0.9,-0.0,3.0,0.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Mark Vientos 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.22,0.302,0.374,0.676,24.0,17.0,0.006,0.88,0.066,-0.06,0.01%,1.14,-0.0,0.0,1.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Francisco Alvarez C,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.281,0.361,0.406,0.767,11.0,7.0,-0.057,0.95,0.037,-0.094,-0.04%,1.23,-0.6,11.0,1.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Jeff McNeil 2B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.241,0.303,0.414,0.717,17.0,11.0,-0.113,1.46,0.0,-0.113,-0.09%,1.89,-1.1,1.0,6.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Luisangel Acuña PH-2B,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.298,0.362,0.369,0.731,3.0,2.0,0.025,0.67,0.025,0.0,0.02%,0.87,0.4,0.0,0.0,HBP
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Tyrone Taylor CF,3.0,1.0,2.0,0.0,0.0,0.0,4.0,0.258,0.303,0.398,0.701,8.0,6.0,0.136,1.0,0.169,-0.033,0.11%,1.29,1.1,2.0,0.0,"3B,2B,SH"
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Griffin Canning P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Huascar Brazobán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Dedniel Núñez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ARI202505050,NYM,https://www.baseball-reference.com/boxes/ARI/ARI202505050.shtml,NewYorkMetsbatting,Team Totals,30.0,5.0,8.0,5.0,5.0,4.0,38.0,0.267,0.405,0.6,1.005,157.0,95.0,0.119,0.96,0.844,-0.726,0.09%,1.25,0.4,27.0,11.0,

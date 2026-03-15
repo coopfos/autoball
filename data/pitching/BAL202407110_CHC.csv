@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+BAL202407110,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407110.shtml,ChicagoCubspitching,"Justin Steele, W (2-3)",7,3,0,0,0,4,0,2.71,24,70,52,34,5,13,6,14,4,0,75.0,,,0.274,0.56,0.08%,0.27,3.2
+BAL202407110,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407110.shtml,ChicagoCubspitching,Drew Smyly,1,1,0,0,0,0,0,3.38,4,13,10,8,0,2,2,2,0,0,,0.0,0.0,0.001,0.02,0.00%,0.01,0.5
+BAL202407110,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407110.shtml,ChicagoCubspitching,Jorge López,1,1,0,0,1,2,0,3.38,5,18,13,10,0,3,1,1,1,0,,0.0,0.0,0.0,0.0,0.00%,0.0,0.5
+BAL202407110,CHC,https://www.baseball-reference.com/boxes/BAL/BAL202407110.shtml,ChicagoCubspitching,Team Totals,9,5,0,0,1,6,0,0.0,33,101,75,52,5,18,9,17,5,0,75.0,0.0,0.0,0.275,0.41,0.08%,0.2,4.1

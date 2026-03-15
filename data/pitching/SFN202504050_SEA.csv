@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SFN202504050,SEA,https://www.baseball-reference.com/boxes/SFN/SFN202504050.shtml,SeattleMarinerspitching,"Bryce Miller, L (0-2)",5.1,7,4,4,3,4,0,5.73,24,93,53,30,10,13,6,11,4,0,39.0,,,-0.155,0.87,-0.07%,0.71,-1.3
+SFN202504050,SEA,https://www.baseball-reference.com/boxes/SFN/SFN202504050.shtml,SeattleMarinerspitching,Trent Thornton,0.2,1,0,0,0,0,0,4.15,3,6,5,3,1,1,1,2,1,0,,2.0,1.0,-0.011,0.73,-0.01%,0.59,0.2
+SFN202504050,SEA,https://www.baseball-reference.com/boxes/SFN/SFN202504050.shtml,SeattleMarinerspitching,Jesse Hahn,2.0,2,0,0,1,1,0,0.0,8,30,15,9,3,3,6,0,0,0,,0.0,0.0,0.017,0.18,0.01%,0.15,0.9
+SFN202504050,SEA,https://www.baseball-reference.com/boxes/SFN/SFN202504050.shtml,SeattleMarinerspitching,Team Totals,8.0,10,4,4,4,5,0,4.5,35,129,73,42,14,17,13,13,5,0,39.0,2.0,1.0,-0.149,0.71,-0.07%,0.58,-0.2

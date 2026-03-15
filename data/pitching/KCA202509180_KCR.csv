@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+KCA202509180,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509180.shtml,KansasCityRoyalspitching,"Stephen Kolek, L (5-6)",7.1,2,2,1,1,8,0,3.54,25,99,74,44,8,21,11,5,3,0,75.0,,,0.245,0.78,0.00%,0.0,2.4
+KCA202509180,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509180.shtml,KansasCityRoyalspitching,Daniel Lynch IV,0.2,1,0,0,0,0,0,3.17,3,9,6,3,0,3,1,2,0,0,,1.0,1.0,-0.089,0.92,0.00%,0.0,-0.5
+KCA202509180,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509180.shtml,KansasCityRoyalspitching,Taylor Clarke,1.0,2,0,0,0,0,0,3.46,4,14,9,5,2,2,2,2,1,0,,0.0,0.0,0.017,0.28,0.00%,0.0,0.5
+KCA202509180,KCR,https://www.baseball-reference.com/boxes/KCA/KCA202509180.shtml,KansasCityRoyalspitching,Team Totals,9.0,5,2,1,1,8,0,1.0,32,122,89,52,10,26,14,9,4,0,75.0,1.0,1.0,0.173,0.73,0.00%,0.0,2.4

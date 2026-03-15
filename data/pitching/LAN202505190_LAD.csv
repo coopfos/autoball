@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+LAN202505190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505190.shtml,LosAngelesDodgerspitching,"Jack Dreyer, L (2-2)",2,3,3,3,1,1,0,3.38,10,38,26,14,4,8,3,5,3,0,38.0,,,-0.207,1.08,-0.17%,1.44,-2.0
+LAN202505190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505190.shtml,LosAngelesDodgerspitching,Landon Knack,5,6,4,4,2,3,2,6.17,23,106,68,46,6,16,7,11,4,0,,0.0,0.0,-0.13,0.18,-0.10%,0.24,-1.6
+LAN202505190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505190.shtml,LosAngelesDodgerspitching,Matt Sauer,2,2,2,2,0,1,1,3.06,8,27,19,13,3,3,3,4,1,0,,0.0,0.0,-0.024,0.06,-0.02%,0.07,-1.0
+LAN202505190,LAD,https://www.baseball-reference.com/boxes/LAN/LAN202505190.shtml,LosAngelesDodgerspitching,Team Totals,9,11,9,9,3,5,3,9.0,41,171,113,73,13,27,13,20,8,0,38.0,0.0,0.0,-0.361,0.39,-0.29%,0.53,-4.6

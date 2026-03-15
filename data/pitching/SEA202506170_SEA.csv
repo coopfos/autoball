@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SEA202506170,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506170.shtml,SeattleMarinerspitching,"Bryan Woo, W (6-4)",7,1,0,0,2,6,0,3.12,24,86,57,30,14,13,8,7,1,0,79.0,,,0.145,0.34,0.09%,0.36,3.1
+SEA202506170,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506170.shtml,SeattleMarinerspitching,Casey Legumina,1,0,0,0,0,2,0,4.05,3,12,8,4,3,1,1,0,0,0,,0.0,0.0,0.001,0.01,0.00%,0.01,0.4
+SEA202506170,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506170.shtml,SeattleMarinerspitching,Andrés Muñoz,1,1,0,0,0,2,0,1.26,4,18,14,6,4,4,1,1,0,0,,0.0,0.0,0.0,0.01,0.00%,0.01,0.4
+SEA202506170,SEA,https://www.baseball-reference.com/boxes/SEA/SEA202506170.shtml,SeattleMarinerspitching,Team Totals,9,2,0,0,2,10,0,0.0,31,116,79,40,21,18,10,8,1,0,79.0,0.0,0.0,0.146,0.27,0.09%,0.28,4.0

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubspitching,"Shota Imanaga, W (7-1)",7,4,1,1,0,6,0,1.89,26,103,69,45,13,11,3,16,8,0,71.0,,,0.318,1.4,0.14%,1.02,2.4
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubspitching,Tyson Miller,2,0,0,0,0,2,0,1.82,6,31,20,13,3,4,3,1,1,0,,0.0,0.0,0.036,0.23,0.02%,0.17,1.0
+CHN202406150,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202406150.shtml,ChicagoCubspitching,Team Totals,9,4,1,1,0,8,0,1.0,32,134,89,58,16,15,6,17,9,0,71.0,0.0,0.0,0.354,1.18,0.15%,0.86,3.4

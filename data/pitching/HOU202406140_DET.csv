@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202406140,DET,https://www.baseball-reference.com/boxes/HOU/HOU202406140.shtml,DetroitTigerspitching,"Tarik Skubal, L (8-2)",6.1,6,4,4,1,2,1,2.2,27,84,57,40,10,7,12,11,5,0,46.0,,,-0.098,0.89,-0.03%,0.51,-1.1
+HOU202406140,DET,https://www.baseball-reference.com/boxes/HOU/HOU202406140.shtml,DetroitTigerspitching,Beau Brieske,1.2,0,0,0,0,2,0,3.38,4,15,13,7,2,4,1,1,1,0,,1.0,0.0,0.009,0.06,0.00%,0.03,1.0
+HOU202406140,DET,https://www.baseball-reference.com/boxes/HOU/HOU202406140.shtml,DetroitTigerspitching,Team Totals,8.0,6,4,4,1,4,1,4.5,31,99,70,47,12,11,13,12,6,0,46.0,1.0,0.0,-0.089,0.76,-0.03%,0.43,-0.2

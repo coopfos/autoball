@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+KCA202505070,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202505070.shtml,ChicagoWhiteSoxpitching,"Jonathan Cannon, L (2-4)",6.0,9,2,2,0,1,1,4.09,26,90,59,41,5,13,12,13,4,0,47.0,,,0.028,0.96,0.00%,0.18,1.0
+KCA202505070,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202505070.shtml,ChicagoWhiteSoxpitching,Caleb Freeman,0.2,1,0,0,0,1,0,5.4,3,12,10,8,0,2,2,0,0,0,,0.0,0.0,0.007,0.53,0.00%,0.1,0.2
+KCA202505070,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202505070.shtml,ChicagoWhiteSoxpitching,Tyler Gilbert,1.1,0,0,0,0,1,0,4.91,4,13,10,4,3,3,0,3,0,0,,1.0,0.0,0.031,0.29,0.00%,0.05,0.8
+KCA202505070,CHW,https://www.baseball-reference.com/boxes/KCA/KCA202505070.shtml,ChicagoWhiteSoxpitching,Team Totals,8.0,10,2,2,0,3,1,2.25,33,115,79,53,8,18,14,16,4,0,47.0,1.0,0.0,0.066,0.84,0.01%,0.16,2.0

@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardianspitching,"Slade Cecconi, W (5-4)",8.1,8,6,6,0,2,2,3.84,33,107,74,52,4,18,15,16,7,0,45.0,,,0.163,0.37,0.06%,0.23,-1.1
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardianspitching,"Emmanuel Clase, S (21)",0.2,1,0,0,0,2,0,2.86,3,16,11,6,4,1,0,1,1,0,,1.0,1.0,0.041,1.47,0.01%,0.9,-0.3
+CLE202507180,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202507180.shtml,ClevelandGuardianspitching,Team Totals,9.0,9,6,6,0,4,2,6.0,36,123,85,58,8,19,15,17,8,0,45.0,1.0,1.0,0.204,0.46,0.07%,0.28,-1.4

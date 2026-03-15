@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelspitching,"José Soriano, W (10-9)",7,1,0,0,3,8,0,3.68,24,93,54,18,16,20,11,2,1,0,80.0,,,0.485,1.13,0.01%,0.02,3.5
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelspitching,"Luis García, H (9)",1,1,0,0,0,2,0,3.35,4,14,10,4,2,4,0,2,1,0,,0.0,0.0,0.052,1.01,0.00%,0.02,0.5
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelspitching,"Kenley Jansen, S (25)",1,0,0,0,0,0,0,2.94,3,11,8,5,0,3,1,2,0,0,,0.0,0.0,0.041,0.53,0.00%,0.01,0.5
+HOU202508310,LAA,https://www.baseball-reference.com/boxes/HOU/HOU202508310.shtml,LosAngelesAngelspitching,Team Totals,9,2,0,0,3,10,0,0.0,31,118,72,27,18,27,12,6,2,0,80.0,0.0,0.0,0.578,1.06,0.01%,0.02,4.5

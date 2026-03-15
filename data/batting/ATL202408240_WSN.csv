@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,CJ Abrams SS,5.0,0.0,2.0,0.0,0.0,1.0,5.0,0.247,0.32,0.442,0.762,22.0,14.0,0.01,0.85,0.075,-0.066,0%,0.0,0.5,3.0,2.0,SB
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,James Wood LF,3.0,0.0,1.0,0.0,1.0,1.0,4.0,0.289,0.379,0.451,0.83,17.0,8.0,0.024,0.86,0.06,-0.037,0%,0.0,0.7,1.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Juan Yepez DH,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.283,0.331,0.434,0.765,15.0,12.0,-0.042,1.31,0.087,-0.129,0%,0.01,-1.5,0.0,0.0,GDP
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Drew Millas PR-DH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.167,0.219,0.3,0.519,,,,,,,,,,0.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Luis García Jr. 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.293,0.328,0.46,0.788,16.0,12.0,-0.166,1.72,0.0,-0.166,-0.00%,0.01,-1.4,3.0,3.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Keibert Ruiz C,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.228,0.261,0.368,0.629,15.0,8.0,-0.103,1.46,0.026,-0.129,0%,0.01,-0.7,7.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,José Tena 3B,4.0,1.0,3.0,2.0,0.0,1.0,4.0,0.359,0.39,0.462,0.852,15.0,10.0,0.241,1.21,0.259,-0.018,0.00%,0.01,2.0,1.0,1.0,HR
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Andrés Chaparro 1B,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.297,0.35,0.459,0.809,11.0,8.0,-0.072,1.6,0.052,-0.125,0%,0.01,0.0,8.0,0.0,2B
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Joey Gallo RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.168,0.286,0.316,0.602,12.0,9.0,-0.129,1.25,0.0,-0.129,0%,0.01,-1.2,1.0,1.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Jacob Young CF,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.251,0.312,0.323,0.634,12.0,9.0,-0.118,1.17,0.021,-0.139,0%,0.01,-1.0,0.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Jake Irvin P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Robert Garcia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Tanner Rainey P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Jose A. Ferrer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Joe La Sorsa P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202408240,WSN,https://www.baseball-reference.com/boxes/ATL/ATL202408240.shtml,WashingtonNationalsbatting,Team Totals,35.0,2.0,10.0,2.0,2.0,7.0,37.0,0.286,0.324,0.4,0.724,135.0,90.0,-0.355,1.25,0.58,-0.938,0.00%,0.01,-2.6,24.0,9.0,

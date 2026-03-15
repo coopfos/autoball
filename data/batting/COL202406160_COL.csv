@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Charlie Blackmon RF,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.266,0.335,0.41,0.745,14.0,9.0,-0.007,0.44,0.026,-0.033,0%,0.03,-0.5,1.0,0.0,2B
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Ezequiel Tovar SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.29,0.318,0.491,0.81,11.0,8.0,-0.062,0.55,0.0,-0.062,-0.00%,0.04,-0.8,0.0,1.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Ryan McMahon 3B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.265,0.344,0.458,0.803,16.0,9.0,-0.023,0.43,0.012,-0.035,-0.00%,0.03,-0.5,2.0,2.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Jacob Stallings C,4.0,2.0,2.0,0.0,0.0,1.0,4.0,0.304,0.379,0.461,0.84,14.0,8.0,-0.039,0.44,0.006,-0.045,-0.00%,0.03,0.5,10.0,2.0,2B
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Michael Toglia 1B,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.185,0.239,0.395,0.634,12.0,9.0,-0.045,0.35,0.001,-0.046,-0.00%,0.02,-0.3,10.0,1.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Nolan Jones LF,4.0,0.0,3.0,1.0,0.0,0.0,4.0,0.196,0.293,0.294,0.587,15.0,10.0,0.044,0.57,0.062,-0.018,0.00%,0.04,1.7,1.0,0.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Jake Cave CF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.254,0.312,0.342,0.654,13.0,12.0,0.058,0.75,0.079,-0.021,0.00%,0.05,0.0,1.0,0.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Hunter Goodman DH,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.192,0.234,0.425,0.658,23.0,17.0,-0.185,0.97,0.0,-0.185,-0.01%,0.07,-2.3,0.0,0.0,GDP
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Adael Amador 2B,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.115,0.115,0.115,0.231,7.0,6.0,-0.079,0.96,0.0,-0.079,-0.00%,0.07,-0.8,1.0,4.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Dakota Hudson P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Victor Vodnik P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Nick Mears P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Tyler Kinley P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Angel Chivilli P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+COL202406160,COL,https://www.baseball-reference.com/boxes/COL/COL202406160.shtml,ColoradoRockiesbatting,Team Totals,35.0,2.0,9.0,2.0,0.0,7.0,35.0,0.257,0.257,0.314,0.571,125.0,88.0,-0.338,0.59,0.186,-0.524,-0.01%,0.04,-2.9,27.0,10.0,

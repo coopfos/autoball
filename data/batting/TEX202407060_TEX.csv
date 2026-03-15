@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Marcus Semien 2B,3.0,2.0,1.0,2.0,1.0,0.0,4.0,0.232,0.296,0.383,0.679,9.0,4.0,0.507,1.13,0.543,-0.036,0.09%,0.35,2.3,2.0,1.0,HR
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Corey Seager SS,4.0,0.0,2.0,0.0,0.0,1.0,4.0,0.267,0.35,0.458,0.808,18.0,11.0,0.033,0.68,0.058,-0.025,0.01%,0.21,0.4,1.0,2.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Nathaniel Lowe 1B,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.269,0.349,0.391,0.74,18.0,11.0,0.023,0.65,0.059,-0.037,0.00%,0.2,0.4,9.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Adolis García RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.215,0.28,0.413,0.694,12.0,8.0,-0.086,0.71,0.0,-0.086,-0.02%,0.22,-1.3,2.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Wyatt Langford LF,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.259,0.328,0.385,0.713,15.0,8.0,-0.115,0.67,0.014,-0.128,-0.02%,0.21,-1.6,0.0,0.0,"CS,GDP"
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Travis Jankowski LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.205,0.254,0.254,0.508,,,,,,,,,,1.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Jonah Heim DH,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.237,0.285,0.344,0.63,14.0,9.0,-0.015,0.39,0.013,-0.028,-0.00%,0.12,-0.3,0.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Leody Taveras CF,2.0,1.0,2.0,0.0,1.0,0.0,3.0,0.232,0.302,0.341,0.642,13.0,5.0,0.114,1.06,0.114,0.0,0.02%,0.32,0.8,3.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Andrew Knizner C,3.0,0.0,1.0,1.0,0.0,1.0,3.0,0.149,0.169,0.203,0.372,7.0,5.0,0.027,1.89,0.116,-0.09,0.01%,0.57,0.4,9.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Jonathan Ornelas 3B,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.25,0.308,0.417,0.724,11.0,8.0,-0.12,1.58,0.0,-0.12,-0.02%,0.48,-1.0,0.0,5.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Andrew Heaney P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Josh Sborz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Jacob Latz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Jonathan Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,David Robertson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Kirby Yates P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+TEX202407060,TEX,https://www.baseball-reference.com/boxes/TEX/TEX202407060.shtml,TexasRangersbatting,Team Totals,30.0,4.0,8.0,4.0,3.0,9.0,33.0,0.267,0.333,0.367,0.7,117.0,69.0,0.368,0.92,0.917,-0.55,0.07%,0.28,0.2,27.0,9.0,

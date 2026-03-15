@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,5.0,1.0,2.0,1.0,0.0,0.0,5.0,0.264,0.296,0.391,0.687,13.0,9.0,0.166,1.06,0.211,-0.045,0%,0.0,1.6,3.0,3.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Bryan Reynolds LF,4.0,1.0,1.0,3.0,1.0,0.0,5.0,0.282,0.349,0.462,0.812,15.0,8.0,0.247,1.36,0.343,-0.096,0%,0.0,1.2,0.0,0.0,HR
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Oneil Cruz CF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.271,0.327,0.466,0.793,16.0,10.0,-0.108,1.15,0.0,-0.108,0%,0.0,-0.8,3.0,0.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.238,0.338,0.421,0.758,10.0,9.0,0.205,1.02,0.275,-0.071,0%,0.0,0.3,0.0,0.0,HR
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Rowdy Tellez 1B,4.0,0.0,1.0,0.0,0.0,1.0,4.0,0.257,0.305,0.41,0.715,15.0,10.0,-0.004,0.69,0.042,-0.046,0%,0.0,-0.0,12.0,0.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Bryan De La Cruz RF,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.237,0.277,0.39,0.667,15.0,11.0,-0.082,0.96,0.0,-0.082,0%,0.0,-0.6,2.0,0.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Jared Triolo 3B,3.0,1.0,1.0,0.0,1.0,0.0,4.0,0.205,0.295,0.297,0.591,17.0,10.0,0.01,0.95,0.064,-0.055,0%,0.0,0.3,0.0,5.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Henry Davis C,3.0,0.0,1.0,0.0,0.0,1.0,4.0,0.149,0.248,0.218,0.466,10.0,7.0,-0.056,1.05,0.018,-0.074,0%,0.0,-0.8,6.0,1.0,SH
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Alika Williams SS,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.208,0.238,0.286,0.523,11.0,7.0,-0.064,1.25,0.0,-0.064,0%,0.0,-0.5,1.0,3.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa PH-SS,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.272,0.317,0.391,0.707,7.0,3.0,0.016,0.88,0.041,-0.025,0%,0.0,0.0,0.0,1.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Jared Jones P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Jalen Beeks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Aroldis Chapman P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Dennis Santana P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHN202409020,PIT,https://www.baseball-reference.com/boxes/CHN/CHN202409020.shtml,PittsburghPiratesbatting,Team Totals,35.0,5.0,8.0,5.0,2.0,5.0,38.0,0.229,0.27,0.4,0.67,129.0,84.0,0.33,1.04,0.994,-0.666,0.00%,0.0,0.6,27.0,14.0,

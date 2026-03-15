@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Chase Meidroth SS,2.0,1.0,0.0,0.0,2.0,0.0,4.0,0.275,0.408,0.3,0.708,20.0,10.0,0.047,1.73,0.13,-0.083,0.01%,0.37,0.2,2.0,3.0,SB
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Miguel Vargas 1B,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.22,0.313,0.322,0.635,20.0,13.0,-0.135,1.81,0.024,-0.16,-0.02%,0.39,-1.1,5.0,1.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Andrew Benintendi LF,3.0,1.0,0.0,0.0,0.0,1.0,3.0,0.224,0.298,0.4,0.698,10.0,6.0,-0.023,0.89,0.031,-0.053,-0.00%,0.19,-0.1,2.0,0.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Brooks Baldwin PH-LF,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.232,0.267,0.379,0.646,4.0,2.0,-0.062,2.25,0.0,-0.062,-0.01%,0.48,-0.3,1.0,0.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Luis Robert Jr. CF,3.0,2.0,2.0,1.0,1.0,1.0,4.0,0.195,0.313,0.354,0.667,20.0,10.0,0.238,1.28,0.256,-0.018,0.03%,0.28,1.4,2.0,0.0,2·SB
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Edgar Quero C,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.34,0.446,0.404,0.851,17.0,9.0,0.175,1.38,0.244,-0.069,0.02%,0.3,1.0,4.0,0.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Andrew Vaughn DH,4.0,0.0,1.0,0.0,0.0,0.0,4.0,0.176,0.218,0.28,0.498,19.0,11.0,-0.05,1.53,0.077,-0.127,-0.01%,0.33,-0.7,0.0,0.0,2B
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Josh Rojas 3B,2.0,0.0,0.0,1.0,1.0,1.0,3.0,0.0,0.333,0.0,0.333,11.0,5.0,0.036,1.65,0.075,-0.039,0.01%,0.35,0.7,1.0,2.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Lenyn Sosa 2B,2.0,0.0,1.0,2.0,1.0,1.0,3.0,0.256,0.281,0.342,0.623,14.0,6.0,0.126,1.86,0.196,-0.07,0.02%,0.4,1.2,1.0,0.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Joshua Palacios RF,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.182,0.333,0.25,0.583,11.0,6.0,0.04,1.23,0.04,0.0,0.01%,0.26,0.3,2.0,0.0,HBP
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Michael A. Taylor PH-RF,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.197,0.243,0.348,0.591,4.0,3.0,-0.065,2.59,0.0,-0.065,-0.01%,0.56,-0.4,1.0,0.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Bryse Wilson P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Mike Vasil P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CHA202505040,CHW,https://www.baseball-reference.com/boxes/CHA/CHA202505040.shtml,ChicagoWhiteSoxbatting,Team Totals,26.0,5.0,7.0,5.0,6.0,5.0,33.0,0.269,0.424,0.308,0.732,150.0,81.0,0.327,1.54,1.073,-0.746,0.04%,0.33,2.1,21.0,7.0,

@@ -1,0 +1,19 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,5.0,3.0,3.0,1.0,1.0,1.0,6.0,0.282,0.395,0.612,1.008,15.0,9.0,0.087,0.57,0.123,-0.036,0.03%,0.33,1.2,0.0,0.0,"HR,IW"
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Mookie Betts SS,5.0,2.0,2.0,1.0,1.0,0.0,6.0,0.259,0.328,0.406,0.734,25.0,15.0,0.113,0.73,0.133,-0.021,0.04%,0.42,1.1,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Freddie Freeman 1B,6.0,1.0,3.0,2.0,0.0,1.0,6.0,0.293,0.364,0.494,0.858,14.0,12.0,0.086,0.92,0.134,-0.049,0.03%,0.53,1.2,5.0,0.0,2B
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Max Muncy 3B,2.0,1.0,0.0,0.0,1.0,1.0,4.0,0.252,0.388,0.476,0.864,22.0,10.0,0.092,1.27,0.132,-0.04,0.03%,0.74,0.8,0.0,2.0,HBP
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Enrique Hernández 3B,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.193,0.252,0.337,0.589,8.0,7.0,-0.002,0.04,0.0,-0.002,-0.00%,0.02,-0.4,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,5.0,2.0,3.0,3.0,0.0,0.0,5.0,0.245,0.281,0.458,0.739,16.0,12.0,0.369,1.28,0.395,-0.025,0.13%,0.74,3.4,2.0,0.0,2·2B
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Michael Conforto LF,2.0,1.0,1.0,1.0,2.0,1.0,5.0,0.194,0.301,0.332,0.632,35.0,20.0,0.033,1.0,0.082,-0.049,0.01%,0.58,0.6,3.0,0.0,SF
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Andy Pages CF,5.0,1.0,2.0,0.0,0.0,0.0,5.0,0.272,0.314,0.454,0.768,11.0,9.0,0.068,1.1,0.121,-0.053,0.02%,0.64,0.7,3.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Miguel Rojas 2B,4.0,1.0,1.0,2.0,1.0,1.0,5.0,0.262,0.321,0.393,0.714,27.0,15.0,-0.03,1.11,0.063,-0.093,-0.01%,0.65,0.4,2.0,3.0,"2B,SB"
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Ben Rortvedt C,5.0,1.0,2.0,2.0,0.0,1.0,5.0,0.153,0.234,0.188,0.422,16.0,12.0,0.003,1.0,0.148,-0.145,0.00%,0.58,-0.2,12.0,0.0,"2B,GDP"
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Clayton Kershaw P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Edgardo Henriquez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Kirby Yates P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Justin Wrobleski P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Michael Kopech P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Tanner Scott P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+SFN202509130,LAD,https://www.baseball-reference.com/boxes/SFN/SFN202509130.shtml,LosAngelesDodgersbatting,Team Totals,41.0,13.0,17.0,12.0,6.0,7.0,49.0,0.415,0.49,0.61,1.1,189.0,121.0,0.819,0.95,1.331,-0.513,0.28%,0.55,8.7,27.0,5.0,

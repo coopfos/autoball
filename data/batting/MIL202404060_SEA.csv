@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,J.P. Crawford SS,5.0,1.0,1.0,0.0,0.0,2.0,5.0,0.143,0.231,0.229,0.459,19.0,12.0,0.015,0.69,0.071,-0.056,0.01%,0.55,-0.2,0.0,6.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Julio Rodríguez CF,5.0,0.0,2.0,1.0,0.0,2.0,5.0,0.194,0.256,0.222,0.479,18.0,12.0,0.095,0.64,0.117,-0.022,0.04%,0.5,0.8,3.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Jorge Polanco 2B,4.0,2.0,1.0,2.0,0.0,0.0,4.0,0.176,0.243,0.265,0.508,13.0,12.0,-0.02,0.8,0.035,-0.055,-0.01%,0.63,0.2,3.0,1.0,HR
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Mitch Haniger RF,3.0,0.0,2.0,0.0,1.0,0.0,4.0,0.29,0.371,0.452,0.823,18.0,9.0,0.04,0.53,0.063,-0.023,0.02%,0.42,0.9,1.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Mitch Garver DH,4.0,0.0,1.0,1.0,0.0,2.0,4.0,0.2,0.292,0.35,0.642,17.0,10.0,0.028,0.76,0.07,-0.042,0.01%,0.6,0.2,0.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Cal Raleigh C,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.2,0.259,0.2,0.459,15.0,12.0,-0.103,0.59,0.0,-0.103,-0.05%,0.47,-1.9,9.0,0.0,GDP
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Dylan Moore 1B,2.0,0.0,1.0,0.0,2.0,1.0,4.0,0.25,0.438,0.5,0.938,14.0,5.0,0.031,0.45,0.055,-0.024,0.01%,0.35,0.3,8.0,1.0,"SB,CS"
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Luis Urías 3B,4.0,1.0,1.0,1.0,0.0,2.0,4.0,0.176,0.3,0.471,0.771,15.0,11.0,0.041,0.64,0.09,-0.049,0.02%,0.51,0.3,0.0,1.0,HR
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Samad Taylor LF,2.0,1.0,1.0,0.0,0.0,1.0,2.0,0.5,0.5,0.5,1.0,4.0,4.0,0.047,1.1,0.067,-0.02,0.02%,0.87,0.3,0.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Luke Raley PH-LF,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.188,0.188,0.25,0.438,6.0,5.0,-0.017,0.33,0.0,-0.017,-0.01%,0.27,-0.5,2.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Bryce Miller P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Austin Voth P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Gabe Speier P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Trent Thornton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Andrés Muñoz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+MIL202404060,SEA,https://www.baseball-reference.com/boxes/MIL/MIL202404060.shtml,SeattleMarinersbatting,Team Totals,35.0,5.0,10.0,5.0,3.0,11.0,38.0,0.286,0.342,0.457,0.799,139.0,92.0,0.157,0.65,0.568,-0.411,0.07%,0.51,0.4,27.0,9.0,

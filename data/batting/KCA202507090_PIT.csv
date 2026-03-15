@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Tommy Pham LF,4.0,1.0,3.0,0.0,0.0,0.0,4.0,0.25,0.323,0.335,0.658,13.0,10.0,0.104,0.99,0.126,-0.022,0.00%,0.01,0.8,2.0,0.0,2B
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Andrew McCutchen DH,3.0,1.0,1.0,0.0,1.0,1.0,4.0,0.259,0.339,0.39,0.729,20.0,12.0,-0.021,1.7,0.093,-0.115,0%,0.03,0.1,0.0,0.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Bryan Reynolds RF,4.0,1.0,1.0,0.0,0.0,2.0,4.0,0.227,0.29,0.372,0.662,12.0,8.0,-0.015,1.85,0.1,-0.114,0%,0.03,-0.0,4.0,0.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Nick Gonzales 2B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.273,0.326,0.446,0.772,8.0,6.0,-0.184,1.77,0.0,-0.184,-0.00%,0.03,-1.5,1.0,2.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Oneil Cruz CF,4.0,0.0,1.0,1.0,0.0,1.0,4.0,0.204,0.313,0.411,0.725,18.0,11.0,-0.059,1.49,0.064,-0.123,-0.00%,0.02,-0.2,4.0,0.0,"2B,CS"
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Ke'Bryan Hayes 3B,4.0,0.0,1.0,2.0,0.0,2.0,4.0,0.241,0.288,0.297,0.585,17.0,11.0,0.098,1.87,0.228,-0.13,0.00%,0.03,0.9,0.0,1.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Joey Bart C,3.0,0.0,0.0,0.0,0.0,2.0,3.0,0.23,0.33,0.283,0.614,12.0,8.0,-0.069,0.86,0.0,-0.069,-0.00%,0.01,-0.6,7.0,0.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Adam Frazier PH,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.258,0.32,0.339,0.66,2.0,2.0,0.082,2.1,0.082,0.0,0.00%,0.03,0.3,0.0,0.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Jared Triolo 1B,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.158,0.253,0.266,0.519,5.0,1.0,0.028,0.81,0.043,-0.015,0%,0.01,0.2,4.0,1.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Spencer Horwitz PH-1B,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.237,0.299,0.342,0.642,7.0,4.0,-0.13,2.7,0.0,-0.13,-0.00%,0.04,-0.5,0.0,0.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Isiah Kiner-Falefa SS,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.267,0.312,0.331,0.643,17.0,10.0,-0.155,1.5,0.0,-0.155,-0.00%,0.03,-0.8,2.0,1.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Bailey Falter P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Braxton Ashcraft P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Isaac Mattson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202507090,PIT,https://www.baseball-reference.com/boxes/KCA/KCA202507090.shtml,PittsburghPiratesbatting,Team Totals,34.0,3.0,8.0,3.0,2.0,9.0,36.0,0.235,0.278,0.294,0.572,131.0,83.0,-0.321,1.56,0.736,-1.057,-0.00%,0.02,-1.4,24.0,6.0,

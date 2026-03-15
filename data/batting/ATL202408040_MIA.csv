@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Xavier Edwards SS,5.0,1.0,2.0,1.0,0.0,1.0,5.0,0.382,0.458,0.473,0.931,19.0,12.0,-0.008,0.82,0.054,-0.062,0%,0.0,0.5,1.0,5.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Jake Burger DH,3.0,0.0,0.0,1.0,1.0,3.0,5.0,0.24,0.287,0.43,0.717,21.0,13.0,-0.001,0.62,0.041,-0.042,0%,0.0,-0.6,0.0,0.0,SF
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Jonah Bride 1B,4.0,1.0,1.0,3.0,1.0,1.0,5.0,0.246,0.313,0.439,0.751,13.0,8.0,0.094,0.72,0.146,-0.052,0%,0.0,1.8,6.0,0.0,HR
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Jesús Sánchez RF,5.0,0.0,0.0,0.0,0.0,3.0,5.0,0.241,0.289,0.407,0.696,23.0,15.0,-0.074,0.56,0.0,-0.074,0%,0.0,-1.3,4.0,0.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Emmanuel Rivera 3B,4.0,1.0,2.0,0.0,1.0,1.0,5.0,0.217,0.301,0.278,0.579,19.0,11.0,0.142,0.73,0.143,-0.001,0%,0.0,1.3,0.0,1.0,SB
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Otto Lopez 2B,4.0,1.0,1.0,0.0,1.0,1.0,5.0,0.227,0.259,0.306,0.564,18.0,11.0,0.064,0.92,0.123,-0.058,0%,0.0,0.1,2.0,3.0,SB
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Cristian Pache CF,4.0,1.0,1.0,1.0,0.0,1.0,4.0,0.209,0.296,0.273,0.569,10.0,7.0,0.043,1.05,0.103,-0.06,0%,0.0,-0.0,0.0,1.0,SB
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,David Hensley LF,3.0,1.0,1.0,0.0,1.0,2.0,4.0,0.167,0.375,0.167,0.542,22.0,13.0,-0.092,0.73,0.004,-0.096,0%,0.0,-0.6,1.0,0.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Ali Sánchez C,3.0,1.0,1.0,1.0,1.0,0.0,4.0,0.174,0.255,0.174,0.429,12.0,8.0,0.107,0.69,0.113,-0.006,0%,0.0,1.1,12.0,0.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,,,,,,,,,,,,,,,,,,,,,,,,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Edward Cabrera P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Emmanuel Ramirez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Jesús Tinoco P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,George Soriano P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+ATL202408040,MIA,https://www.baseball-reference.com/boxes/ATL/ATL202408040.shtml,MiamiMarlinsbatting,Team Totals,35.0,7.0,9.0,7.0,6.0,13.0,42.0,0.257,0.357,0.343,0.7,157.0,98.0,0.275,0.75,0.727,-0.451,0.00%,0.0,2.4,27.0,10.0,

@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+SDN202507110,PHI,https://www.baseball-reference.com/boxes/SDN/SDN202507110.shtml,PhiladelphiaPhilliespitching,"Ranger Suárez, L (7-3)",6.2,7,3,3,3,5,0,2.15,28,96,67,37,11,19,8,12,8,0,50.0,,,-0.031,0.99,-0.03%,1.53,0.1
+SDN202507110,PHI,https://www.baseball-reference.com/boxes/SDN/SDN202507110.shtml,PhiladelphiaPhilliespitching,Tanner Banks,0.1,0,0,0,0,0,0,3.1,1,2,2,1,0,1,1,0,0,0,,2.0,0.0,0.044,1.58,0.04%,2.44,0.5
+SDN202507110,PHI,https://www.baseball-reference.com/boxes/SDN/SDN202507110.shtml,PhiladelphiaPhilliespitching,Max Lazar,1.0,1,1,1,0,0,1,3.54,4,16,11,8,1,2,1,3,1,0,,0.0,0.0,-0.058,0.27,-0.05%,0.42,-0.5
+SDN202507110,PHI,https://www.baseball-reference.com/boxes/SDN/SDN202507110.shtml,PhiladelphiaPhilliespitching,Team Totals,8.0,8,4,4,3,5,1,4.5,33,114,80,46,12,22,10,15,9,0,50.0,2.0,0.0,-0.045,0.92,-0.04%,1.42,0.1

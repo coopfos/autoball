@@ -1,0 +1,16 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Jarren Duran LF,6.0,0.0,4.0,1.0,0.0,0.0,6.0,0.276,0.331,0.409,0.74,21.0,15.0,0.04,0.37,0.055,-0.015,0.03%,0.4,1.1,4.0,0.0,"2B,CS"
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Rafael Devers DH,6.0,2.0,2.0,1.0,0.0,2.0,6.0,0.216,0.35,0.396,0.747,27.0,18.0,-0.034,0.55,0.021,-0.056,-0.02%,0.6,-0.0,0.0,0.0,HR
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Alex Bregman 3B,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.319,0.394,0.543,0.937,24.0,17.0,-0.021,0.53,0.027,-0.048,-0.01%,0.57,-0.4,2.0,0.0,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Trevor Story SS,4.0,1.0,0.0,0.0,1.0,2.0,5.0,0.272,0.314,0.421,0.735,21.0,12.0,-0.015,0.54,0.033,-0.048,-0.01%,0.58,0.0,0.0,0.0,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Rob Refsnyder RF,4.0,1.0,2.0,2.0,0.0,1.0,5.0,0.333,0.361,0.606,0.967,20.0,11.0,0.12,0.43,0.121,0.0,0.08%,0.47,0.8,2.0,0.0,"HR,SF"
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Romy Gonzalez 1B,4.0,2.0,0.0,0.0,1.0,0.0,5.0,0.282,0.349,0.41,0.759,19.0,11.0,-0.017,0.36,0.022,-0.039,-0.01%,0.39,1.1,7.0,2.0,SB
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Kristian Campbell 2B,2.0,4.0,2.0,2.0,3.0,0.0,5.0,0.305,0.412,0.474,0.886,29.0,14.0,0.114,0.42,0.114,0.0,0.07%,0.46,3.1,1.0,2.0,"2B,SB"
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Carlos Narváez C,5.0,1.0,2.0,0.0,0.0,1.0,5.0,0.214,0.276,0.357,0.633,18.0,12.0,0.048,0.39,0.061,-0.014,0.03%,0.42,0.2,9.0,3.0,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Ceddanne Rafaela CF,4.0,1.0,2.0,5.0,0.0,0.0,5.0,0.233,0.295,0.349,0.644,15.0,8.0,0.062,0.61,0.062,0.0,0.04%,0.66,2.7,1.0,0.0,"HR,2B,SF"
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Brayan Bello P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Garrett Whitlock P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Sean Newcomb P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Liam Hendriks P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202504270,BOS,https://www.baseball-reference.com/boxes/CLE/CLE202504270.shtml,BostonRedSoxbatting,Team Totals,40.0,13.0,15.0,11.0,5.0,7.0,47.0,0.375,0.426,0.675,1.101,194.0,118.0,0.297,0.46,0.516,-0.22,0.19%,0.5,8.6,27.0,8.0,

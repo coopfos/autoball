@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Jarred Kelenic CF,3.0,0.0,0.0,0.0,1.0,3.0,4.0,0.242,0.294,0.407,0.701,23.0,14.0,-0.003,0.46,0.027,-0.03,-0.00%,0.6,-0.2,2.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Ramón Laureano PH,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.183,0.258,0.304,0.562,3.0,3.0,-0.01,0.39,0.0,-0.01,-0.01%,0.51,-0.3,0.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Austin Riley 3B,5.0,0.0,0.0,0.0,0.0,1.0,5.0,0.254,0.323,0.448,0.77,19.0,15.0,-0.043,0.48,0.0,-0.043,-0.03%,0.62,-1.1,0.0,1.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Marcell Ozuna DH,3.0,1.0,2.0,1.0,0.0,1.0,4.0,0.308,0.386,0.592,0.978,16.0,12.0,0.007,0.41,0.034,-0.027,0.01%,0.53,1.0,0.0,0.0,"HR,HBP"
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Matt Olson 1B,3.0,0.0,1.0,0.0,1.0,2.0,4.0,0.226,0.304,0.389,0.694,25.0,16.0,-0.024,0.56,0.024,-0.048,-0.02%,0.74,0.1,8.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Travis d'Arnaud C,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.257,0.317,0.46,0.777,12.0,10.0,-0.001,0.64,0.038,-0.039,-0.00%,0.84,-0.6,8.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Eddie Rosario LF,4.0,1.0,0.0,0.0,0.0,0.0,4.0,0.179,0.22,0.325,0.544,14.0,9.0,-0.06,0.62,0.0,-0.06,-0.05%,0.81,-1.2,1.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Adam Duvall RF,4.0,2.0,2.0,3.0,0.0,1.0,4.0,0.188,0.251,0.338,0.589,9.0,8.0,0.182,0.44,0.195,-0.013,0.14%,0.58,2.4,2.0,0.0,2·HR
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Nacho Alvarez Jr. 2B,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.063,0.118,0.063,0.18,13.0,8.0,-0.018,0.35,0.009,-0.027,-0.01%,0.46,-0.4,2.0,2.0,HBP
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Orlando Arcia SS,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.218,0.253,0.332,0.585,13.0,9.0,-0.014,0.26,0.009,-0.023,-0.01%,0.34,-0.2,1.0,6.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Charlie Morton P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Daysbel Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Aaron Bummer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,A.J. Minter P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Jesse Chavez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+NYN202407260,ATL,https://www.baseball-reference.com/boxes/NYN/NYN202407260.shtml,AtlantaBravesbatting,Team Totals,34.0,4.0,7.0,4.0,2.0,14.0,38.0,0.206,0.289,0.471,0.76,147.0,104.0,0.016,0.46,0.336,-0.32,0.01%,0.6,-0.3,24.0,9.0,

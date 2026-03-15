@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+HOU202503280,NYM,https://www.baseball-reference.com/boxes/HOU/HOU202503280.shtml,NewYorkMetspitching,"Tylor Megill, W (1-0)",5,3,1,1,1,6,0,1.8,19,77,49,25,10,14,6,6,3,0,62.0,,,0.025,1.09,0.01%,0.94,0.4
+HOU202503280,NYM,https://www.baseball-reference.com/boxes/HOU/HOU202503280.shtml,NewYorkMetspitching,"Reed Garrett, H (1)",1,0,0,0,1,2,0,0.0,4,18,11,5,2,4,0,1,0,0,,2.0,0.0,0.225,3.9,0.12%,3.34,1.5
+HOU202503280,NYM,https://www.baseball-reference.com/boxes/HOU/HOU202503280.shtml,NewYorkMetspitching,"A.J. Minter, H (1)",1,0,0,0,1,1,0,0.0,4,19,10,5,1,4,2,0,0,0,,0.0,0.0,0.08,1.59,0.04%,1.36,0.5
+HOU202503280,NYM,https://www.baseball-reference.com/boxes/HOU/HOU202503280.shtml,NewYorkMetspitching,"Ryne Stanek, H (1)",1,0,0,0,1,0,0,0.0,4,17,11,8,1,2,1,2,1,0,,0.0,0.0,0.086,2.21,0.04%,1.89,0.5
+HOU202503280,NYM,https://www.baseball-reference.com/boxes/HOU/HOU202503280.shtml,NewYorkMetspitching,"Edwin Díaz, S (1)",1,0,0,0,0,1,0,0.0,3,15,12,7,2,3,0,2,0,0,,0.0,0.0,0.088,1.17,0.04%,1.0,0.5
+HOU202503280,NYM,https://www.baseball-reference.com/boxes/HOU/HOU202503280.shtml,NewYorkMetspitching,Team Totals,9,3,1,1,4,10,0,1.0,34,146,93,50,16,27,9,11,4,0,62.0,2.0,0.0,0.504,1.62,0.26%,1.39,3.4

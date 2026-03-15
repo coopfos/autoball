@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Shohei Ohtani DH,4.0,1.0,0.0,0.0,1.0,3.0,5.0,0.268,0.4,0.512,0.912,22.0,13.0,-0.049,1.55,0.093,-0.142,-0.03%,1.77,-0.4,0.0,0.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Mookie Betts SS,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.313,0.371,0.625,0.996,22.0,14.0,0.175,1.45,0.26,-0.085,0.12%,1.65,1.2,2.0,0.0,2B
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Tommy Edman 2B,5.0,2.0,1.0,0.0,0.0,0.0,5.0,0.25,0.261,0.591,0.852,12.0,11.0,-0.164,1.21,0.012,-0.176,-0.11%,1.38,-1.0,2.0,1.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Teoscar Hernández RF,3.0,2.0,3.0,5.0,0.0,0.0,4.0,0.268,0.311,0.634,0.945,15.0,9.0,0.331,1.27,0.331,0.0,0.23%,1.45,3.9,3.0,0.0,"2·HR,2B,SF"
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Will Smith C,4.0,0.0,2.0,1.0,0.0,2.0,4.0,0.423,0.583,0.615,1.199,13.0,10.0,0.135,1.27,0.197,-0.062,0.09%,1.45,0.5,9.0,0.0,2B
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Michael Conforto LF,3.0,0.0,0.0,0.0,0.0,1.0,4.0,0.276,0.4,0.621,1.021,12.0,7.0,-0.067,0.97,0.025,-0.092,-0.05%,1.11,-0.6,2.0,0.0,HBP
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Max Muncy 3B,4.0,0.0,0.0,0.0,0.0,1.0,4.0,0.176,0.243,0.265,0.508,15.0,11.0,-0.126,1.23,0.0,-0.126,-0.09%,1.4,-1.0,1.0,1.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Enrique Hernández 1B,3.0,0.0,0.0,0.0,1.0,0.0,4.0,0.103,0.129,0.414,0.543,18.0,9.0,-0.048,0.84,0.02,-0.068,-0.03%,0.96,-0.2,4.0,2.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Andy Pages CF,4.0,1.0,1.0,0.0,0.0,1.0,4.0,0.118,0.268,0.147,0.415,14.0,12.0,-0.019,1.08,0.059,-0.079,-0.01%,1.24,-0.3,0.0,0.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,,,,,,,,,,,,,,,,,,,,,,,,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Tyler Glasnow P,,,,,,,,,,,,,,,,,,,,,1.0,1.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Alex Vesia P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Jack Dreyer P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Kirby Yates P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Blake Treinen P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Luis García P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+PHI202504060,LAD,https://www.baseball-reference.com/boxes/PHI/PHI202504060.shtml,LosAngelesDodgersbatting,Team Totals,35.0,7.0,9.0,7.0,2.0,10.0,39.0,0.257,0.308,0.514,0.822,143.0,96.0,0.168,1.22,0.997,-0.83,0.12%,1.4,2.1,24.0,5.0,

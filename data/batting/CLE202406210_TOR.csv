@@ -1,0 +1,17 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Davis Schneider LF,4.0,0.0,1.0,0.0,0.0,2.0,4.0,0.226,0.32,0.425,0.744,13.0,8.0,0.008,0.49,0.036,-0.028,0.00%,0.19,-0.7,4.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Justin Turner DH,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.235,0.327,0.366,0.693,19.0,13.0,-0.09,0.74,0.0,-0.09,-0.02%,0.29,-1.4,0.0,0.0,GDP
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Spencer Horwitz PH-DH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.343,0.439,0.4,0.839,6.0,5.0,-0.002,0.06,0.0,-0.002,0%,0.02,-0.2,0.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Vladimir Guerrero Jr. 1B,4.0,1.0,2.0,1.0,0.0,0.0,4.0,0.281,0.367,0.406,0.773,10.0,7.0,-0.004,0.21,0.017,-0.02,0%,0.08,1.2,6.0,1.0,HR
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Daulton Varsho CF,3.0,0.0,0.0,0.0,1.0,1.0,4.0,0.21,0.293,0.433,0.726,16.0,9.0,-0.028,0.33,0.003,-0.031,-0.01%,0.12,-0.2,1.0,1.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Danny Jansen C,3.0,0.0,0.0,0.0,1.0,2.0,4.0,0.236,0.327,0.419,0.746,20.0,11.0,-0.022,0.3,0.005,-0.026,-0.01%,0.12,-0.4,7.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,George Springer RF,4.0,0.0,0.0,0.0,0.0,2.0,4.0,0.194,0.284,0.286,0.57,17.0,13.0,-0.029,0.27,0.0,-0.029,-0.01%,0.1,-1.9,2.0,0.0,GDP
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Addison Barger 3B,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.2,0.222,0.229,0.451,8.0,5.0,-0.012,0.15,0.0,-0.012,-0.00%,0.06,-0.6,0.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Orelvis Martinez 2B,3.0,0.0,1.0,0.0,0.0,1.0,3.0,0.333,0.333,0.333,0.667,11.0,8.0,0.006,0.15,0.011,-0.005,0.00%,0.06,0.1,1.0,4.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Isiah Kiner-Falefa SS,3.0,0.0,2.0,0.0,0.0,0.0,3.0,0.276,0.318,0.378,0.696,5.0,3.0,0.021,0.2,0.023,-0.002,0.01%,0.08,0.6,2.0,3.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,,,,,,,,,,,,,,,,,,,,,,,,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Yariel Rodríguez P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Bowden Francis P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Tim Mayza P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Trevor Richards P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+CLE202406210,TOR,https://www.baseball-reference.com/boxes/CLE/CLE202406210.shtml,TorontoBlueJaysbatting,Team Totals,31.0,1.0,6.0,1.0,2.0,10.0,33.0,0.194,0.242,0.29,0.533,125.0,82.0,-0.152,0.3,0.095,-0.245,-0.04%,0.12,-3.4,24.0,9.0,

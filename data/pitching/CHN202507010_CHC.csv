@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CHN202507010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202507010.shtml,ChicagoCubspitching,"Matthew Boyd, W (8-3)",7,5,2,2,1,5,0,2.65,26,88,60,38,7,15,7,13,6,0,63.0,,,0.213,1.06,0.18%,1.5,1.2
+CHN202507010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202507010.shtml,ChicagoCubspitching,"Brad Keller, H (13)",1,0,0,0,1,1,0,1.86,4,14,7,4,1,2,0,2,1,0,,0.0,0.0,0.069,1.35,0.06%,1.91,0.5
+CHN202507010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202507010.shtml,ChicagoCubspitching,"Daniel Palencia, S (9)",1,0,0,0,0,2,0,1.8,3,10,8,2,5,1,0,1,0,0,,0.0,0.0,0.03,0.4,0.03%,0.56,0.5
+CHN202507010,CHC,https://www.baseball-reference.com/boxes/CHN/CHN202507010.shtml,ChicagoCubspitching,Team Totals,9,5,2,2,2,8,0,2.0,33,112,75,44,13,18,7,16,7,0,63.0,0.0,0.0,0.312,1.04,0.26%,1.46,2.2

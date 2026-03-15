@@ -1,0 +1,7 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202404070,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404070.shtml,NewYorkMetspitching,"Sean Manaea, W (1-0)",5,3,1,1,2,6,0,0.82,21,92,59,35,9,15,4,7,3,0,61.0,,,0.202,1.38,0.10%,1.1,1.7
+CIN202404070,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404070.shtml,NewYorkMetspitching,"Jorge López, H (1)",1,0,0,0,1,2,0,1.93,4,20,12,4,3,5,0,1,0,0,,0.0,0.0,0.077,1.29,0.04%,1.03,0.5
+CIN202404070,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404070.shtml,NewYorkMetspitching,"Brooks Raley, H (3)",1,0,0,0,2,0,0,0.0,5,20,10,6,0,4,1,2,0,0,,0.0,0.0,0.086,2.12,0.04%,1.69,0.5
+CIN202404070,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404070.shtml,NewYorkMetspitching,"Adam Ottavino, H (2)",1,0,0,0,0,2,0,4.5,3,12,9,3,2,4,1,0,0,0,,0.0,0.0,0.095,1.22,0.04%,0.97,0.5
+CIN202404070,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404070.shtml,NewYorkMetspitching,"Edwin Díaz, S (2)",1,0,0,0,0,2,0,0.0,3,12,9,3,3,3,0,1,0,0,,0.0,0.0,0.099,1.27,0.05%,1.01,0.5
+CIN202404070,NYM,https://www.baseball-reference.com/boxes/CIN/CIN202404070.shtml,NewYorkMetspitching,Team Totals,9,3,1,1,5,12,0,1.0,36,156,99,51,17,31,6,11,3,0,61.0,0.0,0.0,0.559,1.44,0.27%,1.15,3.8

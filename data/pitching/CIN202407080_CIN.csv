@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CIN202407080,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202407080.shtml,CincinnatiRedspitching,"Andrew Abbott, W (9-6)",7,3,0,0,2,8,0,3.06,25,106,75,44,18,13,5,10,4,0,77.0,,,0.424,1.02,0.10%,0.4,3.8
+CIN202407080,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202407080.shtml,CincinnatiRedspitching,"Fernando Cruz, H (18)",1,0,0,0,0,1,0,4.46,3,7,6,4,1,1,2,0,0,0,,0.0,0.0,0.079,1.01,0.02%,0.39,0.5
+CIN202407080,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202407080.shtml,CincinnatiRedspitching,Yosver Zulueta,1,1,0,0,0,0,0,2.25,3,9,5,3,0,2,2,1,0,0,,0.0,0.0,0.003,0.07,0.00%,0.03,0.5
+CIN202407080,CIN,https://www.baseball-reference.com/boxes/CIN/CIN202407080.shtml,CincinnatiRedspitching,Team Totals,9,4,0,0,2,9,0,0.0,31,122,86,51,19,16,9,11,4,0,77.0,0.0,0.0,0.506,0.93,0.12%,0.36,4.8

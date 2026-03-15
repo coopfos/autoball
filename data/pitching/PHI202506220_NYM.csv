@@ -1,0 +1,6 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+PHI202506220,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202506220.shtml,NewYorkMetspitching,"David Peterson, L (5-3)",4,6,5,5,3,4,2,2.98,20,72,39,21,8,10,5,8,5,0,31.0,,,-0.219,0.88,-0.22%,1.49,-2.9
+PHI202506220,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202506220.shtml,NewYorkMetspitching,Chris Devenski,1,0,0,0,0,1,0,3.6,3,14,9,5,2,2,2,0,0,0,,0.0,0.0,0.008,0.11,0.01%,0.19,0.5
+PHI202506220,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202506220.shtml,NewYorkMetspitching,Dedniel Núñez,1,1,0,0,0,0,0,5.79,4,17,12,11,0,1,2,2,1,0,,0.0,0.0,0.006,0.12,0.01%,0.21,0.5
+PHI202506220,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202506220.shtml,NewYorkMetspitching,Tyler Zuber,2,3,2,2,0,3,0,9.0,9,34,24,12,4,8,1,5,3,0,,0.0,0.0,-0.01,0.03,-0.01%,0.06,-1.0
+PHI202506220,NYM,https://www.baseball-reference.com/boxes/PHI/PHI202506220.shtml,NewYorkMetspitching,Team Totals,8,10,7,7,3,8,2,7.88,36,137,84,49,14,21,10,15,9,0,31.0,0.0,0.0,-0.215,0.54,-0.22%,0.92,-2.8

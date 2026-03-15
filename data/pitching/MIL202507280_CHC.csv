@@ -1,0 +1,5 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+MIL202507280,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202507280.shtml,ChicagoCubspitching,"Matthew Boyd, L (11-4)",5,6,5,5,5,2,1,2.47,25,90,52,31,6,15,8,10,4,0,32.0,,,-0.322,1.13,-0.36%,2.08,-2.5
+MIL202507280,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202507280.shtml,ChicagoCubspitching,Ryan Pressly,1,1,1,1,0,0,1,3.79,4,11,6,5,0,1,1,3,0,0,,0.0,0.0,-0.048,0.33,-0.05%,0.61,-0.5
+MIL202507280,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202507280.shtml,ChicagoCubspitching,Chris Flexen,2,3,2,2,0,1,1,3.09,9,25,15,11,0,4,2,6,2,0,,0.0,0.0,-0.074,0.18,-0.08%,0.33,-1.0
+MIL202507280,CHC,https://www.baseball-reference.com/boxes/MIL/MIL202507280.shtml,ChicagoCubspitching,Team Totals,8,10,8,8,5,3,3,9.0,38,126,73,47,6,20,11,19,6,0,32.0,0.0,0.0,-0.444,0.82,-0.49%,1.51,-3.9

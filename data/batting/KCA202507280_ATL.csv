@@ -1,0 +1,18 @@
+game_id,team_code,source_url,table_id,Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Jurickson Profar LF,5.0,1.0,2.0,1.0,1.0,1.0,6.0,0.245,0.319,0.392,0.711,24.0,16.0,-0.016,0.69,0.055,-0.071,0%,0.01,0.9,5.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Matt Olson 1B,5.0,2.0,1.0,1.0,1.0,1.0,6.0,0.262,0.368,0.463,0.831,21.0,12.0,0.0,0.67,0.065,-0.064,0%,0.01,0.2,6.0,0.0,2B
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Ronald Acuña Jr. RF,4.0,2.0,2.0,2.0,2.0,0.0,6.0,0.309,0.43,0.582,1.012,17.0,10.0,0.165,0.52,0.215,-0.05,0.00%,0.01,1.8,4.0,0.0,"HR,CS,IW"
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Austin Riley 3B,6.0,1.0,2.0,4.0,0.0,0.0,6.0,0.268,0.319,0.437,0.755,21.0,13.0,0.076,0.48,0.124,-0.048,0.00%,0.01,2.2,0.0,0.0,"HR,2B"
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Sean Murphy C,3.0,0.0,0.0,0.0,2.0,1.0,5.0,0.23,0.322,0.491,0.813,22.0,10.0,0.023,0.45,0.048,-0.026,0%,0.0,-0.1,5.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Ozzie Albies 2B,2.0,1.0,0.0,0.0,3.0,0.0,5.0,0.218,0.297,0.322,0.619,24.0,11.0,-0.037,0.63,0.021,-0.057,0%,0.01,-0.1,1.0,1.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Marcell Ozuna DH,3.0,1.0,1.0,2.0,2.0,0.0,5.0,0.233,0.361,0.393,0.754,20.0,9.0,0.234,0.69,0.253,-0.019,0.00%,0.01,1.3,0.0,0.0,HR
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Michael Harris II CF,4.0,0.0,0.0,0.0,1.0,0.0,5.0,0.226,0.252,0.361,0.613,13.0,7.0,-0.043,0.71,0.025,-0.068,0%,0.01,-0.7,5.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Nick Allen SS,3.0,2.0,1.0,0.0,2.0,1.0,5.0,0.228,0.297,0.26,0.557,18.0,10.0,-0.032,0.61,0.024,-0.056,0%,0.01,0.1,0.0,4.0,2B
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,,,,,,,,,,,,,,,,,,,,,,,,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Spencer Strider P,,,,,,,,,,,,,,,,,,,,,1.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Pierce Johnson P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Daysbel Hernández P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Dylan Lee P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Rafael Montero P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Raisel Iglesias P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,
+KCA202507280,ATL,https://www.baseball-reference.com/boxes/KCA/KCA202507280.shtml,AtlantaBravesbatting,Team Totals,35.0,10.0,9.0,10.0,14.0,4.0,49.0,0.257,0.469,0.6,1.069,180.0,98.0,0.37,0.6,0.83,-0.459,0.00%,0.01,5.6,27.0,5.0,

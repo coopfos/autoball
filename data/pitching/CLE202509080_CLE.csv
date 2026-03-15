@@ -1,0 +1,4 @@
+game_id,team_code,source_url,table_id,Pitching,IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24
+CLE202509080,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,ClevelandGuardianspitching,"Slade Cecconi, W (6-6)",8,1,0,0,3,3,0,4.45,27,100,58,33,3,22,14,7,5,0,80.0,,,0.223,0.47,0.12%,0.42,4.0
+CLE202509080,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,ClevelandGuardianspitching,Zak Kent,1,2,2,2,1,2,0,5.91,7,39,22,14,1,7,0,3,3,0,,0.0,0.0,0.0,0.0,0.00%,0.0,-1.5
+CLE202509080,CLE,https://www.baseball-reference.com/boxes/CLE/CLE202509080.shtml,ClevelandGuardianspitching,Team Totals,9,3,2,2,4,5,0,2.0,34,139,80,47,4,29,14,10,8,0,80.0,0.0,0.0,0.223,0.36,0.12%,0.32,2.5
