@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-03-15_baseline_logreg_v1",
+  "accepted": true,
+  "became_champion": true,
+  "model_name": "baseline_logreg",
+  "feature_set": "lagged_team_total_means_v1",
+  "hypothesis": "Lagged season-to-date batting and pitching team-total averages can provide a stable first benchmark for home-team win probabilities.",
+  "train_split": "2024 regular season",
+  "validation_split": "2025 regular season",
+  "metrics": {
+    "train": {
+      "games": 2429,
+      "home_win_rate": 0.521613832853026,
+      "accuracy": 0.5755454919720049,
+      "log_loss": 0.681174655430036,
+      "brier_score": 0.24380436963995067,
+      "roc_auc": 0.5943240772312386
+    },
+    "validation": {
+      "games": 2430,
+      "home_win_rate": 0.5427983539094651,
+      "accuracy": 0.5427983539094651,
+      "log_loss": 0.6877751339093194,
+      "brier_score": 0.24705059992463188,
+      "roc_auc": 0.5518268278685337
+    }
+  },
+  "artifacts": {
+    "metrics": "data/training sets/baseline_logreg_metrics.json",
+    "validation_predictions": "data/training sets/validation_2025_predictions.csv",
+    "validation_features": "data/training sets/validation_2025_logreg_features.parquet",
+    "train_features": "data/training sets/train_2024_logreg_features.parquet",
+    "coefficients": "data/training sets/baseline_logreg_coefficients.csv",
+    "model": "data/training sets/baseline_logreg_model.joblib"
+  },
+  "notes": [
+    "Primary metric is validation log loss.",
+    "This run is intended as the initial champion and evaluation contract anchor.",
+    "Next likely improvements are rolling-window features, home-away splits, and pitcher/bullpen context."
+  ]
+}
